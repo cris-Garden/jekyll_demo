@@ -1,1 +1,37 @@
-{"id": 10002, "level": "N2", "title": "\u306b\u3057\u308d", "means": [{"id": 10002100, "format": "5pmu6YCa5b2iKOODiiBBIOOBp+OBguOCi++8j04g44Gn44GC44KLKe+8i+OBq+OBl+OCjeaIlk4v44OKQeWOu+OBoO+8i+OBq+OBl+OCjQ==", "mean": ["44Go5Luu5a6a44GX44Gm44KCwqDCoOWwseeul+aYr++9nuS5n+KApiA="], "type": ["\u9006\u63a5\u6761\u4ef6"], "examples": [{"id": 18658, "ruby": "\u305f\u3068\u3048<ruby><rb>\u91d1</rb><rt>\u304b\u306d</rt></ruby>\u304c\u306a\u3044\u306b\u3057\u308d\u3001<ruby><rb>\u98df\u4e8b</rb><rt>\u3057\u3087\u304f\u3058</rt></ruby>\u3060\u3051\u306f\u304d\u3061\u3093\u3068<ruby><rb>\u53d6</rb><rt>\u3068</rt></ruby>\u308b\u3079\u304d\u3060\u3002", "explain": "\u5c31\u7b97\u6ca1\u94b1\u4e5f\u8be5\u597d\u597d\u5403\u996d\u3002", "other": ""}, {"id": 18659, "ruby": "<ruby><rb>\u52e4</rb><rt>\u3064\u3068</rt></ruby>\u3081<ruby><rb>\u5148</rb><rt>\u3055\u304d</rt></ruby>\u304c<ruby><rb>\u5c0f</rb><rt>\u3061</rt></ruby>\u3055\u3044<ruby><rb>\u4f1a\u793e</rb><rt>\u304b\u3044\u3057\u3083</rt></ruby>\u3067\u3042\u308b\u306b\u3057\u308d\u3001<ruby><rb>\u793e\u54e1</rb><rt>\u3057\u3083\u3044\u3093</rt></ruby>\u306f<ruby><rb>\u5c31\u696d</rb><rt>\u3057\u3085\u3046\u304e\u3087\u3046</rt></ruby><ruby><rb>\u898f\u5247</rb><rt>\u304d\u305d\u304f</rt></ruby>\u3092<ruby><rb>\u5b88</rb><rt>\u307e\u3082</rt></ruby>\u3089\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002", "explain": "\u5c31\u7b97\u5728\u5c0f\u516c\u53f8\u5de5\u4f5c\uff0c\u4e5f\u5fc5\u987b\u9075\u5b88\u4e0a\u73ed\u89c4\u5219\u3002", "other": ""}, {"id": 18660, "ruby": "\u3082\u3057<ruby><rb>\u5c11\u5e74</rb><rt>\u3057\u3087\u3046\u306d\u3093</rt></ruby>\u304c<ruby><rb>\u5bb6\u51fa</rb><rt>\u3044\u3048\u3067</rt></ruby>\u3092\u3057\u305f\u306b\u3057\u308d\u3001\u307e\u3060\u305d\u3093\u306a\u306b<ruby><rb>\u9060</rb><rt>\u3068\u304a</rt></ruby>\u304f\u3078\u306f<ruby><rb>\u884c</rb><rt>\u304a\u3053\u306a</rt></ruby>\u3063\u3066\u3044\u306a\u3044\u3060\u308d\u3046\u3002", "explain": "\u5c31\u7b97\u5c11\u5e74\u79bb\u5bb6\u51fa\u8d70\u4e86\uff0c\u5e94\u8be5\u8fd8\u6ca1\u8d70\u8fdc\u5427\u3002", "other": ""}]}]}
+{
+    "id": 10002,
+    "level": "N2",
+    "title": "にしろ",
+    "means": [
+        {
+            "id": 10002100,
+            "format": "5pmu6YCa5b2iKOODiiBBIOOBp+OBguOCi++8j04g44Gn44GC44KLKe+8i+OBq+OBl+OCjeaIlk4v44OKQeWOu+OBoO+8i+OBq+OBl+OCjQ==",
+            "mean": [
+                "44Go5Luu5a6a44GX44Gm44KCwqDCoOWwseeul+aYr++9nuS5n+KApiA="
+            ],
+            "type": [
+                "逆接条件"
+            ],
+            "examples": [
+                {
+                    "id": 18658,
+                    "ruby": "たとえ<ruby><rb>金</rb><rt>かね</rt></ruby>がないにしろ、<ruby><rb>食事</rb><rt>しょくじ</rt></ruby>だけはきちんと<ruby><rb>取</rb><rt>と</rt></ruby>るべきだ。",
+                    "explain": "就算没钱也该好好吃饭。",
+                    "other": ""
+                },
+                {
+                    "id": 18659,
+                    "ruby": "<ruby><rb>勤</rb><rt>つと</rt></ruby>め<ruby><rb>先</rb><rt>さき</rt></ruby>が<ruby><rb>小</rb><rt>ち</rt></ruby>さい<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>であるにしろ、<ruby><rb>社員</rb><rt>しゃいん</rt></ruby>は<ruby><rb>就業</rb><rt>しゅうぎょう</rt></ruby><ruby><rb>規則</rb><rt>きそく</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>らなければならない。",
+                    "explain": "就算在小公司工作，也必须遵守上班规则。",
+                    "other": ""
+                },
+                {
+                    "id": 18660,
+                    "ruby": "もし<ruby><rb>少年</rb><rt>しょうねん</rt></ruby>が<ruby><rb>家出</rb><rt>いえで</rt></ruby>をしたにしろ、まだそんなに<ruby><rb>遠</rb><rt>とお</rt></ruby>くへは<ruby><rb>行</rb><rt>おこな</rt></ruby>っていないだろう。",
+                    "explain": "就算少年离家出走了，应该还没走远吧。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}
