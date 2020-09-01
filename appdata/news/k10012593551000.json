@@ -1,0 +1,35 @@
+{
+    "id": "k10012593551000",
+    "title": "災害のときにドローンを使って携帯電話を使えるようにする",
+    "ruby": "<ruby>災害<rt>さいがい</rt></ruby>のときにドローンを<ruby>使<rt>つか</rt></ruby>って<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>えるようにする",
+    "time": "2020-09-01",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012593551000/k10012593551000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>台風<rt>たいふう</rt></ruby>や<ruby>地震<rt>じしん</rt></ruby>などの<ruby>災害<rt>さいがい</rt></ruby>で<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことができなくなることがあります。<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>う<ruby>電波<rt>でんぱ</rt></ruby>のアンテナなどが<ruby>倒<rt>たお</rt></ruby>れたり<ruby>壊<rt>こわ</rt></ruby>れたりするためです。",
+            "origin": "台風や地震などの災害で携帯電話を使うことができなくなることがあります。携帯電話に使う電波のアンテナなどが倒れたり壊れたりするためです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "このためソフトバンクは、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>のアンテナの<ruby>代<rt>か</rt></ruby>わりになるドローンをつくりました。",
+            "origin": "このためソフトバンクは、携帯電話のアンテナの代わりになるドローンをつくりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>千葉県<rt>ちばけん</rt></ruby><ruby>市原市<rt>いちはらし</rt></ruby>で８<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>、このドローンのテストがありました。ドローンは５０<ruby>秒<rt>びょう</rt></ruby>ぐらいで<ruby>高<rt>たか</rt></ruby>さ１００mまで<ruby>上<rt>あ</rt></ruby>がりました。このドローンは<ruby>続<rt>つづ</rt></ruby>けて５０<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>飛<rt>と</rt></ruby>ぶことができます。そして、<ruby>半径<rt>はんけい</rt></ruby>１０ｋｍの<ruby>中<rt>なか</rt></ruby>にいる２０００<ruby>人<rt>にん</rt></ruby>ぐらいの<ruby>人<rt>ひと</rt></ruby>が<ruby>同時<rt>どうじ</rt></ruby>に<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことができるようになります。",
+            "origin": "千葉県市原市で８月３１日、このドローンのテストがありました。ドローンは５０秒ぐらいで高さ１００mまで上がりました。このドローンは続けて５０時間以上飛ぶことができます。そして、半径１０ｋｍの中にいる２０００人ぐらいの人が同時に携帯電話を使うことができるようになります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ほかの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>災害<rt>さいがい</rt></ruby>のときに<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことができるように<ruby>準備<rt>じゅんび</rt></ruby>しています。ＮＴＴドコモは１つのアンテナで<ruby>広<rt>ひろ</rt></ruby>い<ruby>範囲<rt>はんい</rt></ruby>に<ruby>使<rt>つか</rt></ruby>うことができるようにしています。ＫＤＤＩは<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>のアンテナがある<ruby>船<rt>ふね</rt></ruby>を<ruby>用意<rt>ようい</rt></ruby>しています。",
+            "origin": "ほかの会社も災害のときに携帯電話を使うことができるように準備しています。ＮＴＴドコモは１つのアンテナで広い範囲に使うことができるようにしています。ＫＤＤＩは携帯電話のアンテナがある船を用意しています。"
+        }
+    ],
+    "voiceurl": "k10012593551000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200831/../20200831/K10012593551_2008311948_2008312014_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012593551000.json"
+}

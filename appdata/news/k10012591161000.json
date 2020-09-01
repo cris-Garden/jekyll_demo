@@ -1,0 +1,30 @@
+{
+    "id": "k10012591161000",
+    "title": "ウイルスが心配　画面を触らない機械やインターネットを利用",
+    "ruby": "ウイルスが<ruby>心配<rt>しんぱい</rt></ruby>　<ruby>画面<rt>がめん</rt></ruby>を<ruby>触<rt>さわ</rt></ruby>らない<ruby>機械<rt>きかい</rt></ruby>やインターネットを<ruby>利用<rt>りよう</rt></ruby>",
+    "time": "2020-08-31",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012591161000/k10012591161000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>航空<rt>こうくう</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がらないように、<ruby>新<rt>あたら</rt></ruby>しいサービスを<ruby>始<rt>はじ</rt></ruby>めました。",
+            "origin": "航空会社は、新しいコロナウイルスが広がらないように、新しいサービスを始めました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本航空<rt>にほんこうくう</rt></ruby>は、<ruby>飛行機<rt>ひこうき</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>のチェックインが、<ruby>画面<rt>がめん</rt></ruby>を<ruby>触<rt>さわ</rt></ruby>らなくてもできる<ruby>機械<rt>きかい</rt></ruby>を<ruby>羽田空港<rt>はねだくうこう</rt></ruby>に２<ruby>台<rt>だい</rt></ruby><ruby>置<rt>お</rt></ruby>きました。この<ruby>機械<rt>きかい</rt></ruby>は<ruby>画面<rt>がめん</rt></ruby>の<ruby>横<rt>よこ</rt></ruby>にセンサーがあって、<ruby>画面<rt>がめん</rt></ruby>から３ｃｍぐらい<ruby>上<rt>うえ</rt></ruby>で<ruby>指<rt>ゆび</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かして<ruby>使<rt>つか</rt></ruby>います。このため、ほかの<ruby>人<rt>ひと</rt></ruby>が<ruby>触<rt>さわ</rt></ruby>った<ruby>画面<rt>がめん</rt></ruby>を<ruby>触<rt>さわ</rt></ruby>ることはありません。９<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>までみんなに<ruby>使<rt>つか</rt></ruby>ってもらって、そのあとこの<ruby>機械<rt>きかい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うかどうか<ruby>決<rt>き</rt></ruby>めることにしています。",
+            "origin": "日本航空は、飛行機に乗る前のチェックインが、画面を触らなくてもできる機械を羽田空港に２台置きました。この機械は画面の横にセンサーがあって、画面から３ｃｍぐらい上で指を動かして使います。このため、ほかの人が触った画面を触ることはありません。９月１５日までみんなに使ってもらって、そのあとこの機械を使うかどうか決めることにしています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>全日空<rt>ぜんにっくう</rt></ruby>では、<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>連<rt>つ</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>や、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>来<rt>き</rt></ruby>て<ruby>飛行機<rt>ひこうき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>換<rt>か</rt></ruby>える<ruby>人<rt>ひと</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>まで<ruby>空港<rt>くうこう</rt></ruby>のカウンターに<ruby>行<rt>い</rt></ruby>かなければなりませんでした。しかし、インターネットでできるようにして、<ruby>人<rt>ひと</rt></ruby>と<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>さなくてもいいようにしました。",
+            "origin": "全日空では、赤ちゃんを連れた人や、外国から来て飛行機を乗り換える人は、今まで空港のカウンターに行かなければなりませんでした。しかし、インターネットでできるようにして、人と人が話さなくてもいいようにしました。"
+        }
+    ],
+    "voiceurl": "k10012591161000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200830/../20200830/K10012591161_2008301103_2008301107_01_03.jpg",
+    "newsmovie": "k10012591161_202008301103_202008301103.mp4",
+    "path": "appdata/news/k10012591161000.json"
+}
