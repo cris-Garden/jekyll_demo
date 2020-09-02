@@ -1,0 +1,30 @@
+{
+    "id": "k10012593651000",
+    "title": "ウイルスに負けないようにする眠り方",
+    "ruby": "ウイルスに<ruby>負<rt>ま</rt></ruby>けないようにする<ruby>眠<rt>ねむ</rt></ruby>り<ruby>方<rt>かた</rt></ruby>",
+    "time": "2020-09-02",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012593651000/k10012593651000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>暑<rt>あつ</rt></ruby>い<ruby>夏<rt>なつ</rt></ruby>は、よく<ruby>眠<rt>ねむ</rt></ruby>ることができなくなります。<ruby>眠<rt>ねむ</rt></ruby>ることと<ruby>体<rt>からだ</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>について<ruby>研究<rt>けんきゅう</rt></ruby>している<ruby>西野<rt>にしの</rt></ruby><ruby>精治<rt>せいじ</rt></ruby>さんに<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。",
+            "origin": "暑い夏は、よく眠ることができなくなります。眠ることと体の関係について研究している西野精治さんに話を聞きました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>西野<rt>にしの</rt></ruby>さんによると、よく<ruby>眠<rt>ねむ</rt></ruby>ることができないと、<ruby>体<rt>からだ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でウイルスが<ruby>増<rt>ふ</rt></ruby>えないようにする<ruby>働<rt>はたら</rt></ruby>きが<ruby>弱<rt>よわ</rt></ruby>くなって、<ruby>病気<rt>びょうき</rt></ruby>になりやすくなります。よく<ruby>眠<rt>ねむ</rt></ruby>ると、<ruby>脳<rt>のう</rt></ruby>もしっかり<ruby>休<rt>やす</rt></ruby>むことができて、<ruby>体<rt>からだ</rt></ruby>も<ruby>元気<rt>げんき</rt></ruby>になります。<ruby>西野<rt>にしの</rt></ruby>さんは、<ruby>眠<rt>ねむ</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めてから９０<ruby>分<rt>ぷん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にいちばんよく<ruby>眠<rt>ねむ</rt></ruby>ることができるので、この<ruby>時間<rt>じかん</rt></ruby>がとても<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "西野さんによると、よく眠ることができないと、体の中でウイルスが増えないようにする働きが弱くなって、病気になりやすくなります。よく眠ると、脳もしっかり休むことができて、体も元気になります。西野さんは、眠り始めてから９０分の間にいちばんよく眠ることができるので、この時間がとても大切だと言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>西野<rt>にしの</rt></ruby>さんは「<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<ruby>体<rt>からだ</rt></ruby>を<ruby>温<rt>あたた</rt></ruby>かくしてから<ruby>寝<rt>ね</rt></ruby>ると、よく<ruby>眠<rt>ねむ</rt></ruby>ることができます。<ruby>眠<rt>ねむ</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>にスマートフォンを<ruby>使<rt>つか</rt></ruby>うと、<ruby>脳<rt>のう</rt></ruby>が<ruby>昼間<rt>ひるま</rt></ruby>のように<ruby>働<rt>はたら</rt></ruby>いてしまうので、よく<ruby>眠<rt>ねむ</rt></ruby>ることができなくなります」と<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "西野さんは「風呂に入って体を温かくしてから寝ると、よく眠ることができます。眠る前にスマートフォンを使うと、脳が昼間のように働いてしまうので、よく眠ることができなくなります」と言っています。"
+        }
+    ],
+    "voiceurl": "k10012593651000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200901/../20200901/K10012593651_2008312101_2009010431_01_02.jpg?utm_int=nsearch_contents_search-items_001",
+    "newsmovie": "",
+    "path": "appdata/news/k10012593651000.json"
+}
