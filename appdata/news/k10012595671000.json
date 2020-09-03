@@ -1,0 +1,35 @@
+{
+    "id": "k10012595671000",
+    "title": "コロナウイルス　病院などで使う特別なマスクを日本で作る",
+    "ruby": "コロナウイルス　<ruby>病院<rt>びょういん</rt></ruby>などで<ruby>使<rt>つか</rt></ruby>う<ruby>特別<rt>とくべつ</rt></ruby>なマスクを<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>る",
+    "time": "2020-09-03",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012595671000/k10012595671000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>病院<rt>びょういん</rt></ruby>などで<ruby>使<rt>つか</rt></ruby>う<ruby>特別<rt>とくべつ</rt></ruby>なマスクは、フィルターでウイルスが<ruby>入<rt>はい</rt></ruby>らないようにしてあります。<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がって、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>うようになりました。<ruby>日本<rt>にっぽん</rt></ruby>は、このマスクのほとんどを<ruby>中国<rt>ちゅうごく</rt></ruby>などから<ruby>輸入<rt>ゆにゅう</rt></ruby>しているため、<ruby>足<rt>た</rt></ruby>りなくなるかもしれません。",
+            "origin": "病院などで使う特別なマスクは、フィルターでウイルスが入らないようにしてあります。新しいコロナウイルスが広がって、世界中で使うようになりました。日本は、このマスクのほとんどを中国などから輸入しているため、足りなくなるかもしれません。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "このため、<ruby>大阪<rt>おおさか</rt></ruby>にある「<ruby>国立<rt>こくりつ</rt></ruby><ruby>循環器病<rt>じゅんかんきびょう</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>センター」と２つの<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のチームが、<ruby>病院<rt>びょういん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>特別<rt>とくべつ</rt></ruby>なマスクを<ruby>作<rt>つく</rt></ruby>りました。",
+            "origin": "このため、大阪にある「国立循環器病研究センター」と２つの日本の会社のチームが、病院で使う特別なマスクを作りました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "このマスクは<ruby>一部<rt>いちぶ</rt></ruby>がプラスチックでできていて、フィルターを<ruby>取<rt>と</rt></ruby>り<ruby>替<rt>か</rt></ruby>えると<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby>も<ruby>使<rt>つか</rt></ruby>うことができます。",
+            "origin": "このマスクは一部がプラスチックでできていて、フィルターを取り替えると何回も使うことができます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "アメリカや<ruby>日本<rt>にっぽん</rt></ruby>には<ruby>病院<rt>びょういん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>特別<rt>とくべつ</rt></ruby>なマスクの<ruby>基準<rt>きじゅん</rt></ruby>があります。チームは、このマスクが<ruby>基準<rt>きじゅん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>っていることを<ruby>確<rt>たし</rt></ruby>かめたあと、<ruby>来年<rt>らいねん</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>でたくさん<ruby>作<rt>つく</rt></ruby>りたいと<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "アメリカや日本には病院で使う特別なマスクの基準があります。チームは、このマスクが基準に合っていることを確かめたあと、来年から日本の工場でたくさん作りたいと言っています。"
+        }
+    ],
+    "voiceurl": "k10012595671000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200902/../20200902/K10012595671_2009020556_2009020601_01_03.jpg",
+    "newsmovie": "k10012595671_202009020556_202009020559.mp4",
+    "path": "appdata/news/k10012595671000.json"
+}

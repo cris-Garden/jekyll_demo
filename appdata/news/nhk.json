@@ -1,6 +1,48 @@
 {
     "news": [
         {
+            "id": "k10012595671000",
+            "title": "コロナウイルス　病院などで使う特別なマスクを日本で作る",
+            "ruby": "コロナウイルス　<ruby>病院<rt>びょういん</rt></ruby>などで<ruby>使<rt>つか</rt></ruby>う<ruby>特別<rt>とくべつ</rt></ruby>なマスクを<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>る",
+            "time": "2020-09-03",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012595671000/k10012595671000.html",
+            "body": [],
+            "voiceurl": "k10012595671000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200902/../20200902/K10012595671_2009020556_2009020601_01_03.jpg",
+            "newsmovie": "k10012595671_202009020556_202009020559.mp4",
+            "path": "appdata/news/k10012595671000.json"
+        },
+        {
+            "id": "k10012597441000",
+            "title": "レジ袋が有料になって代わりに使う風呂敷が人気",
+            "ruby": "レジ<ruby>袋<rt>ぶくろ</rt></ruby>が<ruby>有料<rt>ゆうりょう</rt></ruby>になって<ruby>代<rt>か</rt></ruby>わりに<ruby>使<rt>つか</rt></ruby>う<ruby>風呂敷<rt>ふろしき</rt></ruby>が<ruby>人気<rt>にんき</rt></ruby>",
+            "time": "2020-09-03",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012597441000/k10012597441000.html",
+            "body": [],
+            "voiceurl": "k10012597441000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200903/../20200903/K10012597441_2009022201_2009030635_01_03.jpg",
+            "newsmovie": "k10012597441_202009022119_202009022119.mp4",
+            "path": "appdata/news/k10012597441000.json"
+        },
+        {
+            "id": "k10012597111000",
+            "title": "台風１０号が６日から九州の近くに来る「強い風と雨に注意」",
+            "ruby": "<ruby>台風<rt>たいふう</rt></ruby>１０<ruby>号<rt>ごう</rt></ruby>が<ruby>６日<rt>むいか</rt></ruby>から<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>く</rt></ruby>る「<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>と<ruby>雨<rt>あめ</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>」",
+            "time": "2020-09-03",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012597111000/k10012597111000.html",
+            "body": [],
+            "voiceurl": "k10012597111000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200902/../20200902/K10012597111_2009021825_2009021828_01_02.jpg",
+            "newsmovie": "",
+            "path": "appdata/news/k10012597111000.json"
+        },
+        {
             "id": "k10012595431000",
             "title": "津波などのとき避難したことを知らせる「安否札」",
             "ruby": "<ruby>津波<rt>つなみ</rt></ruby>などのとき<ruby>避難<rt>ひなん</rt></ruby>したことを<ruby>知<rt>し</rt></ruby>らせる「<ruby>安否札<rt>あんぴふだ</rt></ruby>」",
