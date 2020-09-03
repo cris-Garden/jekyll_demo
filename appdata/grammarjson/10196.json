@@ -1,1 +1,29 @@
-{"id": 10196, "level": "N3", "title": "\u3070\u3044\u3044", "means": [{"id": 10196100, "format": "VuOBsO+8i+OBhOOBhA==", "mean": ["wqDCoOivt+S9oOWBmu+9niA="], "type": ["\u52e7\u8a98"], "examples": [{"id": 19540, "ruby": "\u305d\u3093\u306a\u306b<ruby><rb>\u6b32</rb><rt>\u307b</rt></ruby>\u3057\u3044\u306e\u306a\u3089\u3001<ruby><rb>\u81ea\u5206</rb><rt>\u3058\u3076\u3093</rt></ruby>\u3067<ruby><rb>\u8cb7</rb><rt>\u304b</rt></ruby>\u3048\u3070\u3044\u3044\u3058\u3083\u306a\u3044\u304b\u3002", "explain": "\u90a3\u4e48\u60f3\u8981\u7684\u8bdd\uff0c\u81ea\u5df1\u4e70\u4e0d\u597d\u5417\uff1f", "other": ""}, {"id": 19541, "ruby": "<ruby><rb>\u82e5</rb><rt>\u308f\u304b</rt></ruby>\u3044\u3068\u304d\u306f<ruby><rb>\u4f55</rb><rt>\u306a\u306b</rt></ruby>\u3067\u3082<ruby><rb>\u81ea\u5206</rb><rt>\u3058\u3076\u3093</rt></ruby>\u306e\u3084\u308a\u305f\u3044\u3053\u3068\u3092\u3084\u3063\u3066\u307f\u308c\u3070\u3044\u3044\u3002", "explain": "\u5e74\u8f7b\u7684\u65f6\u5019\u4e0d\u7ba1\u4ec0\u4e48\u5c1d\u8bd5\u7740\u505a\u81ea\u5df1\u60f3\u505a\u7684\u5c31\u53ef\u4ee5\u4e86\u3002", "other": ""}]}]}
+{
+    "id": 10196,
+    "level": "N3",
+    "title": "ばいい",
+    "means": [
+        {
+            "id": 10196100,
+            "format": "Vば＋いい",
+            "mean": "  请你做～ ",
+            "type": [
+                "勧誘"
+            ],
+            "examples": [
+                {
+                    "id": 19540,
+                    "ruby": "そんなに<ruby>欲<rt>ほ</rt></ruby>しいのなら、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>買<rt>か</rt></ruby>えばいいじゃないか。",
+                    "explain": "那么想要的话，自己买不好吗？",
+                    "other": ""
+                },
+                {
+                    "id": 19541,
+                    "ruby": "<ruby>若<rt>わか</rt></ruby>いときは<ruby>何<rt>なに</rt></ruby>でも<ruby>自分<rt>じぶん</rt></ruby>のやりたいことをやってみればいい。",
+                    "explain": "年轻的时候不管什么尝试着做自己想做的就可以了。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

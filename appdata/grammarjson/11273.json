@@ -1,1 +1,119 @@
-{"id": 11273, "level": "N4", "title": "\u3057\uff08\u63a5\u7eed\u52a9\u8bcd\uff09", "means": [{"id": 11273100, "format": "5Y+l5a2Q5pmu6YCa5L2TK+OBl+OAge+8iOOBneOCjOOBq++8iQ==", "mean": ["wqDCoOaXouKApuKApuWPiOKApuKApiA="], "type": ["\u5176\u5b83"], "examples": [{"id": 23317, "ruby": "A:\u3042\u306e<ruby><rb>\u4eba</rb><rt>\u3072\u3068</rt></ruby>\u306f\u3069\u3093\u306a<ruby><rb>\u4eba</rb><rt>\u3072\u3068</rt></ruby>\u3067\u3059\u304b\u3002\u4ed6\u662f\u4e2a\u600e\u6837\u7684\u4eba\uff1f\rB\uff1a\u982d\u3082\u3044\u3044\u3057\u3001\u4f53\u3082\u4e08\u592b\u3067\u3059\u3002", "explain": "\u4ed6\u662f\u4e2a\u600e\u6837\u7684\u4eba\uff1f\rB\uff1a\u982d\u3082\u3044\u3044<span style=\"text-decoration: underline;\">\u3057</span>\u3001\u4f53\u3082\u4e08\u592b\u3067\u3059\u53c8\u806a\u660e\uff0c\u8eab\u4f53\u53c8\u68d2\u3002", "other": ""}, {"id": 23318, "ruby": "A\uff1a<ruby><rb>\u9234\u6728</rb><rt>\u3059\u305a\u304d</rt></ruby>\u3055\u3093\u306f<ruby><rb>\u4f55</rb><rt>\u306a\u306b</rt></ruby>\u304c\u3067\u304d\u307e\u3059\u304b\u3002\u94c3\u6728\u5c0f\u59d0\u5979\u4f1a\u4e9b\u4ec0\u4e48\uff1f\rB\uff1a\u30d4\u30a2\u30ce\u3082\u5f3e\u3051\u308b\u3057\u3001\u30c0\u30f3\u30b9\u3082\u3067\u304d\u308b\u3057\u3001\u305d\u308c\u306b\u6b4c\u3082\u4e0a\u624b\u306b\u6b4c\u3048\u307e\u3059\u3002", "explain": "\u94c3\u6728\u5c0f\u59d0\u5979\u4f1a\u4e9b\u4ec0\u4e48\uff1f\rB\uff1a\u30d4\u30a2\u30ce\u3082\u5f3e\u3051\u308b<span style=\"text-decoration: underline;\">\u3057</span>\u3001\u30c0\u30f3\u30b9\u3082\u3067\u304d\u308b<span style=\"text-decoration: underline;\">\u3057</span>\u3001\u305d\u308c\u306b\u6b4c\u3082\u4e0a\u624b\u306b\u6b4c\u3048\u307e\u3059\u4e0d \u4ec5\u4f1a\u94a2\u7434\uff0c\u800c\u4e14\u4f1a\u8df3\u821e\u3002\u8fd8\u6709\u5462\uff0c\u5979\u6b4c\u4e5f\u5531\u5f97\u5f88\u597d\u542c\u3002", "other": ""}, {"id": 23319, "ruby": "A\uff1a\u3042\u306a\u305f\u306f\u3069\u3053\u3078<ruby><rb>\u884c</rb><rt>\u3044</rt></ruby>\u304d\u305f\u3044\u3067\u3059\u304b\u3002\u4f60\u60f3\u53bb\u54ea\u513f\uff1f\rB\uff1a\u79c1\u306f\u30a2\u30e1\u30ea\u30ab\u3078\u884c\u304d\u305f\u3044\u3057\u3001\u30a4\u30ae\u30ea\u30b9\u3078\u3082\u884c\u304d\u305f\u3044\u3067\u3059\u3002", "explain": "\u4f60\u60f3\u53bb\u54ea\u513f\uff1f\rB\uff1a\u79c1\u306f\u30a2\u30e1\u30ea\u30ab\u3078\u884c\u304d\u305f\u3044<span style=\"text-decoration: underline;\">\u3057</span>\u3001\u30a4\u30ae\u30ea\u30b9\u3078\u3082\u884c\u304d\u305f\u3044\u3067\u3059\u65e2\u60f3\u53bb\u7f8e\u56fd\uff0c\u53c8\u60f3\u53bb\u82f1\u56fd\u3002", "other": ""}]}, {"id": 11273101, "format": "5Y+l5a2Q5pmu6YCaK+OBlw0K56S86LKM5L2TKOOBp+OBmS/jgb7jgZnvvIkr44GX44CB77yI44Gd44KM44Gr77yJDQo=", "mean": ["wqDCoOWPiOaYryjlm6DkuLop4oCm4oCmIA=="], "type": ["\u5176\u5b83"], "examples": [{"id": 23320, "ruby": "A:\u3069\u3046\u3057\u3066<ruby><rb>\u6b62</rb><rt>\u3068</rt></ruby>\u307e\u3063\u3066\u3044\u308b\u306e\uff1f/<ruby><rb>\u4e3a\u4ec0</rb><rt>\uff1f</rt></ruby><ruby><rb>\u4e48\u505c</rb><rt>\uff1f</rt></ruby><ruby><rb>\u4e0b</rb><rt>\u304b</rt></ruby><ruby><rb>\u4e0d</rb><rt>\u3075</rt></ruby><ruby><rb>\u8d70</rb><rt>\u306f\u3057</rt></ruby><ruby><rb>\u4e86</rb><rt>\u308a\u3087\u3046</rt></ruby><ruby><rb>\u5462</rb><rt>\u308a\u3087\u3046</rt></ruby>\uff1f\rB\uff1a<ruby><rb>\u96e8</rb><rt>\u3042\u3081</rt></ruby>\u3082<ruby><rb>\u964d</rb><rt>\u3075</rt></ruby>\u308a<ruby><rb>\u51fa</rb><rt>\u3060</rt></ruby>\u3057\u307e\u3057\u305f\u3057\u3001\u3069\u3053\u304b\u3067\u3061\u3087\u3063\u3068<ruby><rb>\u4f11</rb><rt>\u3084\u3059</rt></ruby>\u307f\u307e\u3057\u3087\u3046\u3002", "explain": "\u53c8\u4e0b\u7740\u96e8\uff0c\u6240\u4ee5\r\u4eec\u627e\u4e2a\u5730\u65b9\u4f11\u606f\u4f1a\u513f\u5427\u3002\t\r", "other": ""}, {"id": 23321, "ruby": "<ruby><rb>\u7d66\u6599</rb><rt>\u304d\u3085\u3046\u308a\u3087\u3046</rt></ruby>\u306f<ruby><rb>\u5c11</rb><rt>\u3059\u304f</rt></ruby>\u306a\u3044\u3057\u3001<ruby><rb>\u4ed5\u4e8b</rb><rt>\u3057\u3054\u3068</rt></ruby>\u306f\u304a\u3082\u3057\u308d\u304f\u306a\u3044\u3057\u3001<ruby><rb>\u79c1</rb><rt>\u308f\u305f\u3057</rt></ruby>\u306f\u3053\u306e<ruby><rb>\u4f1a\u793e</rb><rt>\u304b\u3044\u3057\u3083</rt></ruby>\u306b<ruby><rb>\u4e0d\u6e80</rb><rt>\u3075\u307e\u3093</rt></ruby>\u304c\u305f\u304f\u3055\u3093\u3042\u308b\u3002", "explain": "\u5de5\u8d44\u53c8\u5c11\uff0c\u52a0\u4e0a\u5de5\u4f5c\u53c8\u6ca1\u610f\u601d\uff0c\u6211\u5bf9\u8fd9\u5bb6\u516c\u53f8\u6709\u5f88\u591a\u4e0d\u6ee1\u610f\u7684\u5730\u65b9\u3002", "other": ""}, {"id": 23322, "ruby": "A\uff1a\u3069\u3046\u3057\u3066\u305d\u3068\u306b<ruby><rb>\u51fa</rb><rt>\u3067</rt></ruby>\u3066<ruby><rb>\u50cd</rb><rt>\u306f\u305f\u3089</rt></ruby>\u304d\u305f\u3044\u3068<ruby><rb>\u8a00</rb><rt>\u3044</rt></ruby>\u3063\u3066\u3044\u308b\u306e\uff1f/<ruby><rb>\u4e3a\u4ec0</rb><rt>\uff1f</rt></ruby><ruby><rb>\u4e48\u4f60</rb><rt>\uff1f</rt></ruby><ruby><rb>\u8bf4\u60f3</rb><rt>\uff1f</rt></ruby><ruby><rb>\u51fa</rb><rt>\u3067</rt></ruby><ruby><rb>\u53bb</rb><rt>\u3055</rt></ruby><ruby><rb>\u5de5\u4f5c</rb><rt>\u3053\u3046\u3055\u304f</rt></ruby><ruby><rb>\u5462</rb><rt>\u3053\u3046\u3055\u304f</rt></ruby>\uff1f\rB\uff1a<ruby><rb>\u592b</rb><rt>\u304a\u3063\u3068</rt></ruby>\u306f<ruby><rb>\u4ed5\u4e8b</rb><rt>\u3057\u3054\u3068</rt></ruby>\u3092\u306a\u304f\u3057\u305f\u3057\u2026\u2026\u3002", "explain": "\u6211\u8001\u516c\u4ed6\u5931\u4e1a\u4e86\uff0c\u800c\u4e14\u2026\u2026", "other": ""}]}, {"id": 11273102, "format": "5Y+l5a2Q5pmu6YCa5L2TK+OBl37jgYvjgokNCuWPpeWtkOekvOiyjOS9kyjjgafjgZkv44G+44GZKSvjgZfjgIF+44GL44KJ", "mean": ["wqDCoOWPiOKApuKApuWPiO+8iOWboOS4uu+8ieKApuKApuaJgOS7peKApuKApiA="], "type": ["\u539f\u56e0\u30fb\u7406\u7531"], "examples": [{"id": 23323, "ruby": "\u3053\u306e\u30de\u30f3\u30b7\u30e7\u30f3\u306f<ruby><rb>\u7ba1\u7406</rb><rt>\u304b\u3093\u308a</rt></ruby><ruby><rb>\u4eba</rb><rt>\u3058\u3093</rt></ruby>\u3082\u3044\u306a\u3044\u3057\u3001<ruby><rb>\u99d0\u8eca</rb><rt>\u3061\u3085\u3046\u3057\u3083</rt></ruby><ruby><rb>\u5834</rb><rt>\u3058\u3087\u3046</rt></ruby>\u3082\u306a\u3044\u306e\u3067\u3001<ruby><rb>\u4e0d\u4fbf</rb><rt>\u3075\u3079\u3093</rt></ruby>\u3067\u3059\u3002", "explain": "\u56e0\u4e3a \u8fd9\u4e2a\u516c\u5bd3\u697c\u91cc\u65e2\u6ca1\u6709\u7269\u4e1a\u4eba\u5458\uff0c\u53c8\u6ca1\u6709\u505c\u8f66\u573a\uff0c\u5f88\u4e0d\u65b9\u4fbf\u3002", "other": ""}, {"id": 23324, "ruby": "A:\u3069\u3046\u3057\u3066\u305d\u308c\u3092<ruby><rb>\u8cb7</rb><rt>\u304b</rt></ruby>\u3063\u305f\u3093\u3067\u3059\u304b\u3002\u4f60\u4e3a\u4ec0\u4e48\u8981\u4e70\u5b83\uff1f\rB\uff1a\u30c7\u30b6\u30a4\u30f3\u3082\u3044\u3044\u3057\u3001\u30b5\u30a4\u30ba\u3082\u3061\u3087\u3046\u3069\u3044\u3044\u304b\u3089\u3002", "explain": "\u4f60\u4e3a\u4ec0\u4e48\u8981\u4e70\u5b83\uff1f\rB\uff1a\u30c7\u30b6\u30a4\u30f3\u3082\u3044\u3044<span style=\"text-decoration: underline;\">\u3057</span>\u3001\u30b5\u30a4\u30ba\u3082\u3061\u3087\u3046\u3069\u3044\u3044\u304b\u3089\u56e0\u4e3a\u6b3e\u5f0f\u65b0\u9896\uff0c\u800c\u4e14\u5c3a \u5bf8\u53c8\u521a\u597d\u3002", "other": ""}, {"id": 23325, "ruby": "A\uff1a\u3069\u3046\u3057\u3066\u3042\u306e\u30d1\u30f3<ruby><rb>\u5c4b</rb><rt>\u3084</rt></ruby>\u306e\u30d1\u30f3\u306f\u3088\u304f<ruby><rb>\u58f2</rb><rt>\u3046</rt></ruby>\u308c\u308b\u3093\u3060\u3044\u3002\u4e3a\u4ec0\u4e48\u90a3\u5bb6\u9762\u5305\u623f\u751f \u610f\u90a3\u4e48\u597d\uff1f\rB\uff1a\u304a\u3044\u3057\u3044\u3057\u3001\u5024\u6bb5\u3082\u5b89\u3044\u306e\u3067\u2026\u2026\u3002", "explain": "\u4e3a\u4ec0\u4e48\u90a3\u5bb6\u9762\u5305\u623f\u751f \u610f\u90a3\u4e48\u597d\uff1f\rB\uff1a\u304a\u3044\u3057\u3044<span style=\"text-decoration: underline;\">\u3057</span>\u3001\u5024\u6bb5\u3082\u5b89\u3044\u306e\u3067\u2026\u2026\u56e0\u4e3a\u53c8\u597d\u5403\uff0c\u4ef7\u94b1\u53c8\u4fbf\u5b9c\uff0c\u6240\u4ee5\u2026\u2026", "other": ""}]}, {"id": 11273103, "format": "5Y+l5a2Q5pmu6YCa5L2TK+OBl+OAnOOBl+OBpw==", "mean": ["wqDCoOWPiOKApuKApuWPiOKApuKApu+8jOaJgOS7peKApuKApiA="], "type": ["\u539f\u56e0\u30fb\u7406\u7531"], "examples": [{"id": 23326, "ruby": "\u305d\u306e\u3053\u308d\u3001<ruby><rb>\u4f4f</rb><rt>\u3059</rt></ruby>\u3080<ruby><rb>\u6240</rb><rt>\u3068\u3053\u308d</rt></ruby>\u306f<ruby><rb>\u4e0d\u5b89\u5b9a</rb><rt>\u3075\u3042\u3093\u3066\u3044</rt></ruby>\u3060\u3057\u3001<ruby><rb>\u91d1</rb><rt>\u304d\u3093</rt></ruby>\u306f\u306a\u3044\u3057\u3067\u3001<ruby><rb>\u5927\u5909</rb><rt>\u305f\u3044\u3078\u3093</rt></ruby>\u3060\u3063\u305f\u3002", "explain": "\u5f53\u65f6\u65e2\u6ca1\u6709\u56fa\u5b9a\u7684\u4f4f\u5904\u53c8\u6ca1\u6709\u94b1\uff0c\u6240\u4ee5\u65e5\u5b50\u8fc7\u5f97\u5f88\u8270\u96be\u3002", "other": ""}, {"id": 23327, "ruby": "<ruby><rb>\u5bb6\u4e8b</rb><rt>\u304b\u3058</rt></ruby>\u306f\u3059\u308b\u3057\u3001<ruby><rb>\u5b50\u4f9b</rb><rt>\u3053\u3069\u3082</rt></ruby>\u306e<ruby><rb>\u4e16\u8a71</rb><rt>\u305b\u308f</rt></ruby>\u306f\u3059\u308b\u3057\u3067\u3001<ruby><rb>\u75b2</rb><rt>\u3064\u304b</rt></ruby>\u308c\u305f\u3002", "explain": "\u53c8\u8981\u505a\u5bb6\u52a1\uff0c\u53c8\u8981\u5e26\u5b69\u5b50\uff0c\u6240\u4ee5\u5f88\u7d2f\u3002", "other": ""}, {"id": 23328, "ruby": "<ruby><rb>\u982d</rb><rt>\u3042\u305f\u307e</rt></ruby>\u304c<ruby><rb>\u75db</rb><rt>\u3044\u305f</rt></ruby>\u3044\u3057\u3001<ruby><rb>\u71b1</rb><rt>\u306d\u3064</rt></ruby>\u3082\u3042\u308b\u3057\u3067\u3001<ruby><rb>\u5b66\u6821</rb><rt>\u304c\u3063\u3053\u3046</rt></ruby>\u3092<ruby><rb>\u4f11</rb><rt>\u3084\u3059</rt></ruby>\u3093\u3060\u306e\u3067\u3059\u3002", "explain": "\u56e0\u4e3a\u5934\u4e5f\u75bc\uff0c\u800c\u4e14\u8fd8\u53d1\u70e7\uff0c\u6240\u4ee5\u624d\u6ca1\u53bb\u4e0a\u8bfe\u3002", "other": ""}]}]}
+{
+    "id": 11273,
+    "level": "N4",
+    "title": "し（接续助词）",
+    "means": [
+        {
+            "id": 11273100,
+            "format": "句子普通体+し、（それに）",
+            "mean": "  既……又…… ",
+            "type": [
+                "其它"
+            ],
+            "examples": [
+                {
+                    "id": 23317,
+                    "ruby": "A:あの<ruby>人<rt>ひと</rt></ruby>はどんな<ruby>人<rt>ひと</rt></ruby>ですか。他是个怎样的人？\rB：頭もいいし、体も丈夫です。",
+                    "explain": "他是个怎样的人？\rB：頭もいいし、体も丈夫です又聪明，身体又棒。",
+                    "other": ""
+                },
+                {
+                    "id": 23318,
+                    "ruby": "A：<ruby>鈴木<rt>すずき</rt></ruby>さんは<ruby>何<rt>なに</rt></ruby>ができますか。铃木小姐她会些什么？\rB：ピアノも弾けるし、ダンスもできるし、それに歌も上手に歌えます。",
+                    "explain": "铃木小姐她会些什么？\rB：ピアノも弾けるし、ダンスもできるし、それに歌も上手に歌えます不 仅会钢琴，而且会跳舞。还有呢，她歌也唱得很好听。",
+                    "other": ""
+                },
+                {
+                    "id": 23319,
+                    "ruby": "A：あなたはどこへ<ruby>行<rt>い</rt></ruby>きたいですか。你想去哪儿？\rB：私はアメリカへ行きたいし、イギリスへも行きたいです。",
+                    "explain": "你想去哪儿？\rB：私はアメリカへ行きたいし、イギリスへも行きたいです既想去美国，又想去英国。",
+                    "other": ""
+                }
+            ]
+        },
+        {
+            "id": 11273101,
+            "format": "句子普通+し\r\n礼貌体(です/ます）+し、（それに）\r\n",
+            "mean": "  又是(因为)…… ",
+            "type": [
+                "其它"
+            ],
+            "examples": [
+                {
+                    "id": 23320,
+                    "ruby": "A:どうして<ruby>止<rt>と</rt></ruby>まっているの？/<ruby>为什<rt>？</rt></ruby><ruby>么停<rt>？</rt></ruby><ruby>下<rt>か</rt></ruby><ruby>不<rt>ふ</rt></ruby><ruby>走<rt>はし</rt></ruby><ruby>了<rt>りょう</rt></ruby><ruby>呢<rt>りょう</rt></ruby>？\rB：<ruby>雨<rt>あめ</rt></ruby>も<ruby>降<rt>ふ</rt></ruby>り<ruby>出<rt>だ</rt></ruby>しましたし、どこかでちょっと<ruby>休<rt>やす</rt></ruby>みましょう。",
+                    "explain": "又下着雨，所以\r们找个地方休息会儿吧。\t\r",
+                    "other": ""
+                },
+                {
+                    "id": 23321,
+                    "ruby": "<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>少<rt>すく</rt></ruby>ないし、<ruby>仕事<rt>しごと</rt></ruby>はおもしろくないし、<ruby>私<rt>わたし</rt></ruby>はこの<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>不満<rt>ふまん</rt></ruby>がたくさんある。",
+                    "explain": "工资又少，加上工作又没意思，我对这家公司有很多不满意的地方。",
+                    "other": ""
+                },
+                {
+                    "id": 23322,
+                    "ruby": "A：どうしてそとに<ruby>出<rt>で</rt></ruby>て<ruby>働<rt>はたら</rt></ruby>きたいと<ruby>言<rt>い</rt></ruby>っているの？/<ruby>为什<rt>？</rt></ruby><ruby>么你<rt>？</rt></ruby><ruby>说想<rt>？</rt></ruby><ruby>出<rt>で</rt></ruby><ruby>去<rt>さ</rt></ruby><ruby>工作<rt>こうさく</rt></ruby><ruby>呢<rt>こうさく</rt></ruby>？\rB：<ruby>夫<rt>おっと</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>をなくしたし……。",
+                    "explain": "我老公他失业了，而且……",
+                    "other": ""
+                }
+            ]
+        },
+        {
+            "id": 11273102,
+            "format": "句子普通体+し~から\r\n句子礼貌体(です/ます)+し、~から",
+            "mean": "  又……又（因为）……所以…… ",
+            "type": [
+                "原因・理由"
+            ],
+            "examples": [
+                {
+                    "id": 23323,
+                    "ruby": "このマンションは<ruby>管理<rt>かんり</rt></ruby><ruby>人<rt>じん</rt></ruby>もいないし、<ruby>駐車<rt>ちゅうしゃ</rt></ruby><ruby>場<rt>じょう</rt></ruby>もないので、<ruby>不便<rt>ふべん</rt></ruby>です。",
+                    "explain": "因为 这个公寓楼里既没有物业人员，又没有停车场，很不方便。",
+                    "other": ""
+                },
+                {
+                    "id": 23324,
+                    "ruby": "A:どうしてそれを<ruby>買<rt>か</rt></ruby>ったんですか。你为什么要买它？\rB：デザインもいいし、サイズもちょうどいいから。",
+                    "explain": "你为什么要买它？\rB：デザインもいいし、サイズもちょうどいいから因为款式新颖，而且尺 寸又刚好。",
+                    "other": ""
+                },
+                {
+                    "id": 23325,
+                    "ruby": "A：どうしてあのパン<ruby>屋<rt>や</rt></ruby>のパンはよく<ruby>売<rt>う</rt></ruby>れるんだい。为什么那家面包房生 意那么好？\rB：おいしいし、値段も安いので……。",
+                    "explain": "为什么那家面包房生 意那么好？\rB：おいしいし、値段も安いので……因为又好吃，价钱又便宜，所以……",
+                    "other": ""
+                }
+            ]
+        },
+        {
+            "id": 11273103,
+            "format": "句子普通体+し〜しで",
+            "mean": "  又……又……，所以…… ",
+            "type": [
+                "原因・理由"
+            ],
+            "examples": [
+                {
+                    "id": 23326,
+                    "ruby": "そのころ、<ruby>住<rt>す</rt></ruby>む<ruby>所<rt>ところ</rt></ruby>は<ruby>不安定<rt>ふあんてい</rt></ruby>だし、<ruby>金<rt>きん</rt></ruby>はないしで、<ruby>大変<rt>たいへん</rt></ruby>だった。",
+                    "explain": "当时既没有固定的住处又没有钱，所以日子过得很艰难。",
+                    "other": ""
+                },
+                {
+                    "id": 23327,
+                    "ruby": "<ruby>家事<rt>かじ</rt></ruby>はするし、<ruby>子供<rt>こども</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby>はするしで、<ruby>疲<rt>つか</rt></ruby>れた。",
+                    "explain": "又要做家务，又要带孩子，所以很累。",
+                    "other": ""
+                },
+                {
+                    "id": 23328,
+                    "ruby": "<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いし、<ruby>熱<rt>ねつ</rt></ruby>もあるしで、<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んだのです。",
+                    "explain": "因为头也疼，而且还发烧，所以才没去上课。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

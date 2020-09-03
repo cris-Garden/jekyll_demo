@@ -1,1 +1,35 @@
-{"id": 10953, "level": "N3", "title": "\u3066\u3059\u3080/\u3067\u3059\u3080", "means": [{"id": 10953100, "format": "77y244GmK+OBmeOCgOOAgO+8ruOBp++8i+OBmeOCgA==", "mean": ["wqDCoOKApuKApuWwseino+WGs+S6hu+8jOKApuKApuWwseWKnuWlveS6hiA="], "type": ["\u5176\u5b83"], "examples": [{"id": 22225, "ruby": "<ruby><rb>\u7528\u4e8b</rb><rt>\u3088\u3046\u3058</rt></ruby>\u306f<ruby><rb>\u96fb\u8a71</rb><rt>\u3067\u3093\u308f</rt></ruby>\u3067<ruby><rb>\u6e08</rb><rt>\u3059</rt></ruby>\u3093\u3060\u3002", "explain": "\u6253\u4e2a\u7535\u8bdd\u5c31\u5b8c\u4e8b\u4e86\u3002", "other": ""}, {"id": 22226, "ruby": "\u30ac\u30e9\u30b9\u3092<ruby><rb>\u5272</rb><rt>\u308f</rt></ruby>\u3063\u3066\u3057\u307e\u3063\u305f\u304c\u3001<ruby><rb>\u8b1d</rb><rt>\u3042\u3084\u307e</rt></ruby>\u3063\u3066\u3059\u3093\u3060\u3002", "explain": "\u6211\u628a\u73bb\u7483\u7a97\u6253\u788e\u4e86\uff0c\u9053\u4e86\u4e2a\u6b49\u5f97\u4ee5\u89e3\u51b3\u3002", "other": ""}, {"id": 22227, "ruby": "<ruby><rb>\u98f2</rb><rt>\u306e</rt></ruby>\u3093\u3067<ruby><rb>\u98df</rb><rt>\u305f</rt></ruby>\u3079\u30663000<ruby><rb>\u5186</rb><rt>\u3048\u3093</rt></ruby>\u3067<ruby><rb>\u6e08</rb><rt>\u3059</rt></ruby>\u3093\u3060\u3002", "explain": "\u53c8\u5403\u53c8\u559d\uff0c3000\u65e5\u5143\u5c31\u591f\u4e86\u3002", "other": ""}]}]}
+{
+    "id": 10953,
+    "level": "N3",
+    "title": "てすむ/ですむ",
+    "means": [
+        {
+            "id": 10953100,
+            "format": "Ｖて+すむ　Ｎで＋すむ",
+            "mean": "  ……就解决了，……就办好了 ",
+            "type": [
+                "其它"
+            ],
+            "examples": [
+                {
+                    "id": 22225,
+                    "ruby": "<ruby>用事<rt>ようじ</rt></ruby>は<ruby>電話<rt>でんわ</rt></ruby>で<ruby>済<rt>す</rt></ruby>んだ。",
+                    "explain": "打个电话就完事了。",
+                    "other": ""
+                },
+                {
+                    "id": 22226,
+                    "ruby": "ガラスを<ruby>割<rt>わ</rt></ruby>ってしまったが、<ruby>謝<rt>あやま</rt></ruby>ってすんだ。",
+                    "explain": "我把玻璃窗打碎了，道了个歉得以解决。",
+                    "other": ""
+                },
+                {
+                    "id": 22227,
+                    "ruby": "<ruby>飲<rt>の</rt></ruby>んで<ruby>食<rt>た</rt></ruby>べて3000<ruby>円<rt>えん</rt></ruby>で<ruby>済<rt>す</rt></ruby>んだ。",
+                    "explain": "又吃又喝，3000日元就够了。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

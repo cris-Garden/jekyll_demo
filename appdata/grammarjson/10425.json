@@ -1,1 +1,35 @@
-{"id": 10425, "level": "N2", "title": "\u3068\u3057\u305f\u3089", "means": [{"id": 10425100, "format": "5pmu6YCa5b2i77yL44Go44GX44Gf44KJ", "mean": ["4oi844Go5Luu5a6a44GX44Gf44KJwqDCoOWBh+iuvu+9niA="], "type": ["\u6761\u4ef6"], "examples": [{"id": 20559, "ruby": "\u3082\u3057\u3001\u3053\u3053\u306b100<ruby><rb>\u4e07</rb><rt>\u307e\u3093</rt></ruby><ruby><rb>\u5186</rb><rt>\u3048\u3093</rt></ruby>\u3042\u3063\u305f\u3068\u3057\u305f\u3089\u3001<ruby><rb>\u4f55</rb><rt>\u306a\u306b</rt></ruby>\u306b<ruby><rb>\u4f7f</rb><rt>\u3064\u304b</rt></ruby>\u3044\u307e\u3059\u304b\u3002", "explain": "\u5982\u679c\u4f60\u670910\u4e07\u65e5\u5143\u7684\u8bdd\uff0c\u4f60\u4f1a\u5e72\u4ec0\u4e48\u7528\uff1f", "other": ""}, {"id": 20560, "ruby": "\u3053\u306e<ruby><rb>\u540d\u7c3f</rb><rt>\u3081\u3044\u307c</rt></ruby>\u304c<ruby><rb>\u6b63</rb><rt>\u305f\u3060</rt></ruby>\u3057\u3044\u3068\u3057\u305f\u3089\u3001\u307e\u3060<ruby><rb>\u6765</rb><rt>\u304d</rt></ruby>\u3066\u3044\u306a\u3044<ruby><rb>\u4eba</rb><rt>\u3072\u3068</rt></ruby>\u304c<ruby><rb>\u4e8c</rb><rt>\u306b</rt></ruby><ruby><rb>\u4eba</rb><rt>\u306b\u3093</rt></ruby>\u3044\u308b\u3002", "explain": "\u5982\u679c\u8fd9\u4e2a\u540d\u5355\u662f\u6b63\u786e\u7684\u8bdd\uff0c\u90a3\u4e48\u8fd8\u6ca1\u6765\u7684\u4eba\u67092\u540d\u3002", "other": ""}, {"id": 20561, "ruby": "\u308f\u305f\u3057\u306e<ruby><rb>\u8a00\u8449</rb><rt>\u3053\u3068\u3070</rt></ruby>\u304c<ruby><rb>\u5f7c</rb><rt>\u304b\u308c</rt></ruby>\u3092<ruby><rb>\u50b7</rb><rt>\u304d\u305a</rt></ruby>\u3064\u3051\u305f\u306e\u3060\u3068\u3057\u305f\u3089\u3001<ruby><rb>\u672c\u5f53</rb><rt>\u307b\u3093\u3068\u3046</rt></ruby>\u306b<ruby><rb>\u7533</rb><rt>\u3082\u3046</rt></ruby>\u3057<ruby><rb>\u8a33</rb><rt>\u308f\u3051</rt></ruby>\u306a\u3044\u3053\u3068\u3092\u3057\u305f\u3068<ruby><rb>\u601d</rb><rt>\u304a\u3082</rt></ruby>\u3046\u3002", "explain": "\u5982\u679c\u6211\u8bf4\u7684\u8bdd\u4f24\u5bb3\u4e86\u4ed6\u7684\u8bdd\uff0c\u6211\u60f3\u7ed9\u4ed6\u9053\u6b49\u3002", "other": ""}]}]}
+{
+    "id": 10425,
+    "level": "N2",
+    "title": "としたら",
+    "means": [
+        {
+            "id": 10425100,
+            "format": "普通形＋としたら",
+            "mean": "∼と仮定したら  假设～ ",
+            "type": [
+                "条件"
+            ],
+            "examples": [
+                {
+                    "id": 20559,
+                    "ruby": "もし、ここに100<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>あったとしたら、<ruby>何<rt>なに</rt></ruby>に<ruby>使<rt>つか</rt></ruby>いますか。",
+                    "explain": "如果你有10万日元的话，你会干什么用？",
+                    "other": ""
+                },
+                {
+                    "id": 20560,
+                    "ruby": "この<ruby>名簿<rt>めいぼ</rt></ruby>が<ruby>正<rt>ただ</rt></ruby>しいとしたら、まだ<ruby>来<rt>き</rt></ruby>ていない<ruby>人<rt>ひと</rt></ruby>が<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>いる。",
+                    "explain": "如果这个名单是正确的话，那么还没来的人有2名。",
+                    "other": ""
+                },
+                {
+                    "id": 20561,
+                    "ruby": "わたしの<ruby>言葉<rt>ことば</rt></ruby>が<ruby>彼<rt>かれ</rt></ruby>を<ruby>傷<rt>きず</rt></ruby>つけたのだとしたら、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ないことをしたと<ruby>思<rt>おも</rt></ruby>う。",
+                    "explain": "如果我说的话伤害了他的话，我想给他道歉。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,41 @@
-{"id": 10073, "level": "N3", "title": "\u304a\u223c\u3060", "means": [{"id": 10073100, "format": "44GK77yI44GU77yJ772e44Gn44GZL+OBiu+8i++8tuOBvuOBme+8i+OBoC/jgZTvvIvjgrXlj5hW6K+N5bmyK+OBoA==", "mean": ["wqDCoO+8iOaVrOaEj+eahO+8ieWBmuKApiA="], "type": ["\u656c\u610f"], "examples": [{"id": 18964, "ruby": "\uff08<ruby><rb>\u6539\u672d</rb><rt>\u304b\u3044\u3055\u3064</rt></ruby><ruby><rb>\u53e3</rb><rt>\u3050\u3061</rt></ruby>\u3067\uff09<ruby><rb>\u7279\u6025</rb><rt>\u3068\u3063\u304d\u3085\u3046</rt></ruby><ruby><rb>\u5238</rb><rt>\u3051\u3093</rt></ruby>\u3092\u304a<ruby><rb>\u6301</rb><rt>\u3082</rt></ruby>\u3061\u3067\u3059\u304b\u3002", "explain": "(\u68c0\u7968\u53e3)\u8bf7\u95ee\u60a8\u6709\u7279\u5feb\u8f66\u7684\u7968\u5417\uff1f", "other": ""}, {"id": 18965, "ruby": "<ruby><rb>\u4f1a\u9577</rb><rt>\u304b\u3044\u3061\u3087\u3046</rt></ruby>\u3001<ruby><rb>\u5148</rb><rt>\u3055\u304d</rt></ruby>\u307b\u3069\u304b\u3089\u3001<ruby><rb>\u7530\u4e2d</rb><rt>\u305f\u306a\u304b</rt></ruby><ruby><rb>\u69d8</rb><rt>\u3055\u307e</rt></ruby>\u304c\u304a<ruby><rb>\u5f85</rb><rt>\u307e</rt></ruby>\u3061\u3067\u3059\u3002", "explain": "\u4f1a\u957f\uff0c\u7530\u4e2d\u5148\u751f\u521a\u624d\u5728\u7b49\u60a8\u5462\u3002", "other": ""}, {"id": 18966, "ruby": "<ruby><rb>\u793e\u9577</rb><rt>\u3057\u3083\u3061\u3087\u3046</rt></ruby>\u3001<ruby><rb>\u4f55</rb><rt>\u306a\u306b</rt></ruby>\u3092\u304a<ruby><rb>\u63a2</rb><rt>\u3055\u304c</rt></ruby>\u3057\u3067\u3059\u304b\u3002", "explain": "\u603b\u7ecf\u7406\uff0c\u4f60\u5728\u627e\u4ec0\u4e48?", "other": ""}, {"id": 18967, "ruby": "<ruby><rb>\u660e\u65e5</rb><rt>\u3042\u3057\u305f</rt></ruby>\u3001<ruby><rb>\u4f55</rb><rt>\u306a\u3093</rt></ruby><ruby><rb>\u6642</rb><rt>\u3058</rt></ruby>\u3054\u308d\u3054<ruby><rb>\u51fa\u767a</rb><rt>\u3057\u3085\u3063\u3071\u3064</rt></ruby>\u3067\u3059\u304b\u3002", "explain": "\u660e\u5929\u60a8\u51e0\u70b9\u51fa\u53d1\uff1f", "other": ""}]}]}
+{
+    "id": 10073,
+    "level": "N3",
+    "title": "お∼だ",
+    "means": [
+        {
+            "id": 10073100,
+            "format": "お（ご）～です/お＋Ｖます＋だ/ご＋サ变V词干+だ",
+            "mean": "  （敬意的）做… ",
+            "type": [
+                "敬意"
+            ],
+            "examples": [
+                {
+                    "id": 18964,
+                    "ruby": "（<ruby>改札<rt>かいさつ</rt></ruby><ruby>口<rt>ぐち</rt></ruby>で）<ruby>特急<rt>とっきゅう</rt></ruby><ruby>券<rt>けん</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちですか。",
+                    "explain": "(检票口)请问您有特快车的票吗？",
+                    "other": ""
+                },
+                {
+                    "id": 18965,
+                    "ruby": "<ruby>会長<rt>かいちょう</rt></ruby>、<ruby>先<rt>さき</rt></ruby>ほどから、<ruby>田中<rt>たなか</rt></ruby><ruby>様<rt>さま</rt></ruby>がお<ruby>待<rt>ま</rt></ruby>ちです。",
+                    "explain": "会长，田中先生刚才在等您呢。",
+                    "other": ""
+                },
+                {
+                    "id": 18966,
+                    "ruby": "<ruby>社長<rt>しゃちょう</rt></ruby>、<ruby>何<rt>なに</rt></ruby>をお<ruby>探<rt>さが</rt></ruby>しですか。",
+                    "explain": "总经理，你在找什么?",
+                    "other": ""
+                },
+                {
+                    "id": 18967,
+                    "ruby": "<ruby>明日<rt>あした</rt></ruby>、<ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>ごろご<ruby>出発<rt>しゅっぱつ</rt></ruby>ですか。",
+                    "explain": "明天您几点出发？",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

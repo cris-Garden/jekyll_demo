@@ -1,1 +1,29 @@
-{"id": 10854, "level": "N1", "title": "\u305b\u3081\u3066\u3082\u306e", "means": [{"id": 10854100, "format": "44Gb44KB44Gm44KC44GuK04=", "mean": ["5oKq44GE54q25rOB44Gu5Lit44Gn5ZSv5LiA44GuwqDCoOiHs+WwkeKApuKApu+8jOKApuKApuWwseihjOS6huOAgiA="], "type": ["\u9006\u63a5\u6761\u4ef6"], "examples": [{"id": 21990, "ruby": "<ruby><rb>\u706b\u4e8b</rb><rt>\u304b\u3058</rt></ruby>\u3067<ruby><rb>\u5bb6</rb><rt>\u3044\u3048</rt></ruby>\u3092<ruby><rb>\u5931</rb><rt>\u3046\u3057\u306a</rt></ruby>\u3063\u305f\u304c\u3001<ruby><rb>\u91d1\u5eab</rb><rt>\u304d\u3093\u3053</rt></ruby>\u304c<ruby><rb>\u6b8b</rb><rt>\u306e\u3053</rt></ruby>\u3063\u305f\u3053\u3068\u3060\u3051\u304c\u305b\u3081\u3066\u3082\u306e<ruby><rb>\u6551</rb><rt>\u3059\u304f</rt></ruby>\u3044\u3060\u3063\u305f\u3002", "explain": "\u5bb6\u91cc\u5931\u706b\uff0c\u623f\u5b50\u6ca1\u4e86\uff0c\u4e0d\u8fc7\u4fdd\u9669\u7bb1\u5e78\u514d\u4e8e\u96be\uff0c\u81f3\u5c11\u8fd8\u6709\u70b9\u5b89\u6170\u3002", "other": ""}, {"id": 21991, "ruby": "<ruby><rb>\u4eba</rb><rt>\u306b\u3093</rt></ruby>\u304c<ruby><rb>\u51fa</rb><rt>\u3067</rt></ruby>\u306a\u304b\u3063\u305f\u306e\u304c\u305b\u3081\u3066\u3082\u306e<ruby><rb>\u6551</rb><rt>\u3059\u304f</rt></ruby>\u3044\u3060\u3002", "explain": "\u552f\u4e00\u5e78\u514d\u7684\u662f\u6ca1\u6709\u53d7\u4f24\u7684\u4eba\u3002", "other": ""}]}]}
+{
+    "id": 10854,
+    "level": "N1",
+    "title": "せめてもの",
+    "means": [
+        {
+            "id": 10854100,
+            "format": "せめてもの+N",
+            "mean": "悪い状況の中で唯一の  至少……，……就行了。 ",
+            "type": [
+                "逆接条件"
+            ],
+            "examples": [
+                {
+                    "id": 21990,
+                    "ruby": "<ruby>火事<rt>かじ</rt></ruby>で<ruby>家<rt>いえ</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>ったが、<ruby>金庫<rt>きんこ</rt></ruby>が<ruby>残<rt>のこ</rt></ruby>ったことだけがせめてもの<ruby>救<rt>すく</rt></ruby>いだった。",
+                    "explain": "家里失火，房子没了，不过保险箱幸免于难，至少还有点安慰。",
+                    "other": ""
+                },
+                {
+                    "id": 21991,
+                    "ruby": "<ruby>人<rt>にん</rt></ruby>が<ruby>出<rt>で</rt></ruby>なかったのがせめてもの<ruby>救<rt>すく</rt></ruby>いだ。",
+                    "explain": "唯一幸免的是没有受伤的人。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,29 @@
-{"id": 11125, "level": "N4", "title": "\u301c\u304b\u3082\u3057\u308c\u306a\u3044/\u304b\u3082\u3057\u308c\u307e\u305b\u3093", "means": [{"id": 11125100, "format": "TivjgYvjgoLnn6XjgozjgarjgYQNCuODikEr44GL44KC55+l44KM44Gq44GEIA0K44KjQeOBhCvjgYvjgoLnn6XjgozjgarjgYQNCiBW44KLK+OBi+OCguefpeOCjOOBquOBhA0K5ZCE6K+N57G744CM44Gf5b2i44CNK+OBi+OCguefpeOCjOOBquOBhA==", "mean": ["wqDCoOaIluiuuOKApuKApuOAgeS5n+iuuOKApuKApiA="], "type": ["\u63a8\u91cf"], "examples": [{"id": 22626, "ruby": "<ruby><rb>\u99c5</rb><rt>\u3048\u304d</rt></ruby>\u306f\u3042\u3063\u3061\u304b\u3082<ruby><rb>\u77e5</rb><rt>\u3057</rt></ruby>\u308c\u306a\u3044spanstyle\u306d\u3002", "explain": "\u8f66\u7ad9\u4e5f\u8bb8\u5728\u90a3\u8fb9\u3002", "other": ""}, {"id": 22627, "ruby": "<ruby><rb>\u5f7c</rb><rt>\u304b\u308c</rt></ruby>\u306f<ruby><rb>\u6765\u5e74</rb><rt>\u3089\u3044\u306d\u3093</rt></ruby><ruby><rb>\u65e5\u672c</rb><rt>\u306b\u3063\u307d\u3093</rt></ruby>\u3078<ruby><rb>\u6765</rb><rt>\u304f</rt></ruby>\u308b\u304b\u3082<ruby><rb>\u77e5</rb><rt>\u3057</rt></ruby>\u308c\u306a\u3044\u3002", "explain": "\u4ed6\u660e\u5e74\u53ef\u80fd\u6765\u65e5\u672c\u3002", "other": ""}]}]}
+{
+    "id": 11125,
+    "level": "N4",
+    "title": "〜かもしれない/かもしれません",
+    "means": [
+        {
+            "id": 11125100,
+            "format": "N+かも知れない\r\nナA+かも知れない \r\nィAい+かも知れない\r\n Vる+かも知れない\r\n各词类「た形」+かも知れない",
+            "mean": "  或许……、也许…… ",
+            "type": [
+                "推量"
+            ],
+            "examples": [
+                {
+                    "id": 22626,
+                    "ruby": "<ruby>駅<rt>えき</rt></ruby>はあっちかも<ruby>知<rt>し</rt></ruby>れないね。",
+                    "explain": "车站也许在那边。",
+                    "other": ""
+                },
+                {
+                    "id": 22627,
+                    "ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>来<rt>く</rt></ruby>るかも<ruby>知<rt>し</rt></ruby>れない。",
+                    "explain": "他明年可能来日本。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

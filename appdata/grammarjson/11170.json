@@ -1,1 +1,35 @@
-{"id": 11170, "level": "N4", "title": "\u307f\u3048\u308b", "means": [{"id": 11170100, "format": "5Lq654mpTivjgYzopovjgYjjgos=", "mean": ["wqDCoOadpeKApuKApiA="], "type": ["\u6642\u70b9\u30fb\u5834\u9762"], "examples": [{"id": 22750, "ruby": "ABC<ruby><rb>\u4f1a\u793e</rb><rt>\u304b\u3044\u3057\u3083</rt></ruby>\u306e<ruby><rb>\u90e8\u9577</rb><rt>\u3076\u3061\u3087\u3046</rt></ruby>\u306f\u3001<ruby><rb>\u898b</rb><rt>\u307f</rt></ruby>\u3048\u3066\u3044\u307e\u3059\u304b\u3002", "explain": "ABC\u516c\u53f8\u7684\u90e8\u957f\u6765\u4e86\u5417\uff1f", "other": ""}, {"id": 22751, "ruby": "A\uff1a<ruby><rb>\u5148\u751f</rb><rt>\u305b\u3093\u305b\u3044</rt></ruby>\u306f\u3044\u3064<ruby><rb>\u898b</rb><rt>\u307f</rt></ruby>\u3048\u307e\u3059\u304b\u3002\u8001\u5e08\u4ed6\u4ec0\u4e48\u65f6\u5019\u6765\uff1f\rB\uff1a\u3055\u3063\u304d\u96fb\u8a71\u304c\u304b\u304b\u308a\u307e\u3057\u305f\u304c\u300110\u6642\u3054\u308d\u7740\u304f\u3068\u304a\u3063\u3057\u3083\u3044\u307e\u3057\u305f\u3002", "explain": "\u8001\u5e08\u4ed6\u4ec0\u4e48\u65f6\u5019\u6765\uff1f\rB\uff1a\u3055\u3063\u304d\u96fb\u8a71\u304c\u304b\u304b\u308a\u307e\u3057\u305f\u304c\u300110\u6642\u3054\u308d\u7740\u304f\u3068\u304a\u3063\u3057\u3083\u3044\u307e\u3057\u305f\u521a\u624d\u6765\u8fc7\u7535\u8bdd\uff0c\u8bf410\u70b9\u949f\u5de6\u53f3\u5230\u3002", "other": ""}, {"id": 22752, "ruby": "<ruby><rb>\u793e\u9577</rb><rt>\u3057\u3083\u3061\u3087\u3046</rt></ruby>\u3001<ruby><rb>\u5ba2\u69d8</rb><rt>\u304d\u3083\u304f\u3055\u307e</rt></ruby>\u304c<ruby><rb>\u898b</rb><rt>\u307f</rt></ruby>\u3048\u307e\u3057\u305f\u3088\u3002", "explain": "\u793e\u957f\uff0c\u5ba2\u4eba\u6765\u5566\u3002", "other": ""}]}]}
+{
+    "id": 11170,
+    "level": "N4",
+    "title": "みえる",
+    "means": [
+        {
+            "id": 11170100,
+            "format": "人物N+が見える",
+            "mean": "  来…… ",
+            "type": [
+                "時点・場面"
+            ],
+            "examples": [
+                {
+                    "id": 22750,
+                    "ruby": "ABC<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>部長<rt>ぶちょう</rt></ruby>は、<ruby>見<rt>み</rt></ruby>えていますか。",
+                    "explain": "ABC公司的部长来了吗？",
+                    "other": ""
+                },
+                {
+                    "id": 22751,
+                    "ruby": "A：<ruby>先生<rt>せんせい</rt></ruby>はいつ<ruby>見<rt>み</rt></ruby>えますか。老师他什么时候来？\rB：さっき電話がかかりましたが、10時ごろ着くとおっしゃいました。",
+                    "explain": "老师他什么时候来？\rB：さっき電話がかかりましたが、10時ごろ着くとおっしゃいました刚才来过电话，说10点钟左右到。",
+                    "other": ""
+                },
+                {
+                    "id": 22752,
+                    "ruby": "<ruby>社長<rt>しゃちょう</rt></ruby>、<ruby>客様<rt>きゃくさま</rt></ruby>が<ruby>見<rt>み</rt></ruby>えましたよ。",
+                    "explain": "社长，客人来啦。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

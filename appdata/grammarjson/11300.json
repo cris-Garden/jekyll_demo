@@ -1,1 +1,91 @@
-{"id": 11300, "level": "N4", "title": "\u308f\uff08\u8bed\u6c14\u52a9\u8bcd\uff09", "means": [{"id": 11300100, "format": "5Y+l5a2Q5pmu6YCa5L2T5oiW56S86LKM5L2TK+OCjw==", "mean": ["wqDCoO+9nuWViiA="], "type": ["\u5176\u5b83"], "examples": [{"id": 23514, "ruby": "\u3059\u3070\u3089\u3057\u3044\u308f\u3001\u3053\u3053\u306e<ruby><rb>\u666f\u8272\u3002</rb><rt>\u3051\u3057\u304d</rt></ruby>", "explain": "\u771f\u597d\u770b\u554a\uff0c\u8fd9\u91cc\u7684\u666f\u8272\u3002", "other": ""}, {"id": 23515, "ruby": "\u3053\u308c\u3001<ruby><rb>\u9ad8</rb><rt>\u305f\u304b</rt></ruby>\u3044\u308f\u3002<ruby><rb>\u8cb7</rb><rt>\u304b</rt></ruby>\u3046\u306e\u3092\u3084\u3081\u307e\u3057\u3087\u3046\u304b\u3002", "explain": "\u8fd9\u4e2a\u4e1c\u897f\u597d\u8d35\u554a\u3002\u6211\u4eec\u522b\u4e70\u4e86\u5427\u3002", "other": ""}, {"id": 23516, "ruby": "\u308f\u305f\u3057\u306f\u305d\u306e\u307b\u3046\u304c\u3044\u3044\u3068<ruby><rb>\u601d</rb><rt>\u304a\u3082</rt></ruby>\u3044\u307e\u3059\u308f\u3002", "explain": "\u6211\u8ba4\u4e3a\u8fd8\u662f\u90a3\u4e2a\u6bd4\u8f83\u597d\u3002", "other": ""}]}, {"id": 11300101, "format": "5Y+l5a2Q5pmu6YCa5L2T5oiW56S86LKM5L2TK+OCj+OCiCA=", "mean": [""], "type": ["\u5176\u5b83"], "examples": [{"id": 23517, "ruby": "A:\u305d\u306e<ruby><rb>\u8fba</rb><rt>\u3042\u305f\u308a</rt></ruby>\u306f\u3069\u3046\u3067\u3059\u304b\u3002\u90a3\u4e00\u5e26\u600e\u4e48\u6837\uff1f\rB\uff1a\u3068\u3066\u3082\u304d\u308c\u3044\u3067\u3001\u305d\u3057\u3066\u9759\u304b\u3067\u3059\u308f\u3088\u3002", "explain": "\u90a3\u4e00\u5e26\u600e\u4e48\u6837\uff1f\rB\uff1a\u3068\u3066\u3082\u304d\u308c\u3044\u3067\u3001\u305d\u3057\u3066\u9759\u304b\u3067\u3059<span style=\"text-decoration: underline;\">\u308f</span>\u3088\u98ce\u666f\u53c8\u597d\uff0c\u53c8\u5f88\u5b89\u9759\u3002", "other": ""}, {"id": 23518, "ruby": "A\uff1a\u305d\u306e<ruby><rb>\u65b0</rb><rt>\u3042\u305f\u3089</rt></ruby>\u3057\u3044\u30b9\u30fc\u30d1\u30fc\u306f\u3069\u3046\u3067\u3059\u304b\u3002\u90a3\u5bb6\u65b0\u5f00\u7684\u8d85\u5e02\u600e\u4e48\u6837\uff1f\rB\uff1a\u7269\u304c\u591a\u3044\u308f\u3088\u3002\u305d\u3057\u3066\u5024\u6bb5\u3082\u307e\u3042\u307e\u3042\u3060\u3068\u601d\u3046\u3088\u3002", "explain": "\u90a3\u5bb6\u65b0\u5f00\u7684\u8d85\u5e02\u600e\u4e48\u6837\uff1f\rB\uff1a\u7269\u304c\u591a\u3044<span style=\"text-decoration: underline;\">\u308f</span>\u3088\u3002\u305d\u3057\u3066\u5024\u6bb5\u3082\u307e\u3042\u307e\u3042\u3060\u3068\u601d\u3046\u3088\u4e1c\u897f\u53ef\u591a\u5462\u3002\u800c\u4e14\u6211 \u8ba4\u4e3a\u4ef7\u94b1\u4e5f\u8fd8\u53ef\u4ee5\u3002", "other": ""}, {"id": 23519, "ruby": "A\uff1a<ruby><rb>\u660e\u65e5</rb><rt>\u3042\u3057\u305f</rt></ruby>\u306f<ruby><rb>\u6388\u696d</rb><rt>\u3058\u3085\u304e\u3087\u3046</rt></ruby>\u304c\u3042\u308a\u307e\u3059\u304b\u3002\u660e\u5929\u4f1a\u4e0a\u8bfe\u5417\uff1f\rB\uff1a\u660e\u65e5\u306f\u4f11\u307f\u3068\u5148\u751f\u304c\u304a\u3063\u3057\u3083\u3063\u305f\u308f\u3088\u3002", "explain": "\u660e\u5929\u4f1a\u4e0a\u8bfe\u5417\uff1f\rB\uff1a\u660e\u65e5\u306f\u4f11\u307f\u3068\u5148\u751f\u304c\u304a\u3063\u3057\u3083\u3063\u305f<span style=\"text-decoration: underline;\">\u308f</span>\u3088\u8001\u5e08\u53ef\u8bf4\u8fc7\u7684\u554a\uff0c\u660e\u5929\u4f11\u606f\u3002", "other": ""}]}, {"id": 11300102, "format": "5Y+l5a2Q5pmu6YCa5L2T5oiW56S86LKM5L2TK+OCj+OBre+8iOOBiO+8iQ==", "mean": ["wqDCoO+9nuWViiA="], "type": ["\u5176\u5b83"], "examples": [{"id": 23520, "ruby": "A:<ruby><rb>\u4eca\u65e5</rb><rt>\u304d\u3087\u3046</rt></ruby>\u306f<ruby><rb>\u672c\u5f53</rb><rt>\u307b\u3093\u3068\u3046</rt></ruby>\u306b<ruby><rb>\u5bd2</rb><rt>\u3055\u3080</rt></ruby>\u3044\u308f\u306d\u3002\u4eca\u5929\u771f\u7684\u597d\u51b7\u554a\u3002\rB\uff1a\u305d\u3046\u306d\u3048\u3001\u5bd2\u3044\u308f\u306d\u3002", "explain": "\u4eca\u5929\u771f\u7684\u597d\u51b7\u554a\u3002\rB\uff1a\u305d\u3046\u306d\u3048\u3001\u5bd2\u3044<span style=\"text-decoration: underline;\">\u308f</span>\u306d\u662f\u554a\uff0c\u597d\u51b7\u554a\u3002", "other": ""}, {"id": 23521, "ruby": "A\uff1a\u3042\u306e<ruby><rb>\u5b50</rb><rt>\u3053</rt></ruby>\u306f\u3001<ruby><rb>\u6bce\u65e5</rb><rt>\u307e\u3044\u306b\u3061</rt></ruby><ruby><rb>\u56f3\u66f8\u9928</rb><rt>\u3068\u3057\u3087\u304b\u3093</rt></ruby>\u3067<ruby><rb>\u52c9\u5f37</rb><rt>\u3079\u3093\u304d\u3087\u3046</rt></ruby>\u3057\u3066\u3044\u3066\u3001<ruby><rb>\u672c\u5f53</rb><rt>\u307b\u3093\u3068\u3046</rt></ruby>\u306b<ruby><rb>\u611f\u5fc3</rb><rt>\u304b\u3093\u3057\u3093</rt></ruby>\u3060\u308f\u306d\u3002\u90a3\u4e2a\u5b69\u5b50\u6bcf\u5929\u90fd\u5230\u56fe\u4e66\u9986\u53bb\u5b66\u4e60\uff0c\u771f\u7684\u597d\u4f69\u670d\u554a\u3002\rB\uff1a\u3048\u3048\u3001\u307e\u3058\u3081\u306a\u5b50\u3067\u3059\u308f\u306d\u3002", "explain": "\u90a3\u4e2a\u5b69\u5b50\u6bcf\u5929\u90fd\u5230\u56fe\u4e66\u9986\u53bb\u5b66\u4e60\uff0c\u771f\u7684\u597d\u4f69\u670d\u554a\u3002\rB\uff1a\u3048\u3048\u3001\u307e\u3058\u3081\u306a\u5b50\u3067\u3059<span style=\"text-decoration: underline;\">\u308f</span>\u306d\u662f\u554a\uff0c\u771f\u662f\u4e2a\u80af\u7528\u529f\u7684\u5b69\u5b50\u554a\u3002", "other": ""}, {"id": 23522, "ruby": "\u3046\u3061\u306e<ruby><rb>\u5b50</rb><rt>\u3053</rt></ruby>\u306f<ruby><rb>\u52c9\u5f37</rb><rt>\u3079\u3093\u304d\u3087\u3046</rt></ruby>\u304c<ruby><rb>\u5acc</rb><rt>\u304d\u3089</rt></ruby>\u3044\u3067\u3001<ruby><rb>\u904a</rb><rt>\u3042\u305d</rt></ruby>\u3073\u3060\u3051<ruby><rb>\u597d</rb><rt>\u3059</rt></ruby>\u304d\u306a\u306e\u3088\u3002<ruby><rb>\u5fc3\u914d</rb><rt>\u3057\u3093\u3071\u3044</rt></ruby>\u3060\u308f\u306d\u3002", "explain": "\u6211\u4eec\u5bb6\u7684\u5b69\u5b50\u4e0d\u559c\u6b22\u8bfb\u4e66\uff0c\u53ea\u5bf9\u73a9\u611f\u5174\u8da3\u3002\u597d\u62c5\u5fc3\u554a\u3002", "other": ""}]}]}
+{
+    "id": 11300,
+    "level": "N4",
+    "title": "わ（语气助词）",
+    "means": [
+        {
+            "id": 11300100,
+            "format": "句子普通体或礼貌体+わ",
+            "mean": "  ～啊 ",
+            "type": [
+                "其它"
+            ],
+            "examples": [
+                {
+                    "id": 23514,
+                    "ruby": "すばらしいわ、ここの<ruby>景色。<rt>けしき</rt></ruby>",
+                    "explain": "真好看啊，这里的景色。",
+                    "other": ""
+                },
+                {
+                    "id": 23515,
+                    "ruby": "これ、<ruby>高<rt>たか</rt></ruby>いわ。<ruby>買<rt>か</rt></ruby>うのをやめましょうか。",
+                    "explain": "这个东西好贵啊。我们别买了吧。",
+                    "other": ""
+                },
+                {
+                    "id": 23516,
+                    "ruby": "わたしはそのほうがいいと<ruby>思<rt>おも</rt></ruby>いますわ。",
+                    "explain": "我认为还是那个比较好。",
+                    "other": ""
+                }
+            ]
+        },
+        {
+            "id": 11300101,
+            "format": "句子普通体或礼貌体+わよ ",
+            "mean": "",
+            "type": [
+                "其它"
+            ],
+            "examples": [
+                {
+                    "id": 23517,
+                    "ruby": "A:その<ruby>辺<rt>あたり</rt></ruby>はどうですか。那一带怎么样？\rB：とてもきれいで、そして静かですわよ。",
+                    "explain": "那一带怎么样？\rB：とてもきれいで、そして静かですわよ风景又好，又很安静。",
+                    "other": ""
+                },
+                {
+                    "id": 23518,
+                    "ruby": "A：その<ruby>新<rt>あたら</rt></ruby>しいスーパーはどうですか。那家新开的超市怎么样？\rB：物が多いわよ。そして値段もまあまあだと思うよ。",
+                    "explain": "那家新开的超市怎么样？\rB：物が多いわよ。そして値段もまあまあだと思うよ东西可多呢。而且我 认为价钱也还可以。",
+                    "other": ""
+                },
+                {
+                    "id": 23519,
+                    "ruby": "A：<ruby>明日<rt>あした</rt></ruby>は<ruby>授業<rt>じゅぎょう</rt></ruby>がありますか。明天会上课吗？\rB：明日は休みと先生がおっしゃったわよ。",
+                    "explain": "明天会上课吗？\rB：明日は休みと先生がおっしゃったわよ老师可说过的啊，明天休息。",
+                    "other": ""
+                }
+            ]
+        },
+        {
+            "id": 11300102,
+            "format": "句子普通体或礼貌体+わね（え）",
+            "mean": "  ～啊 ",
+            "type": [
+                "其它"
+            ],
+            "examples": [
+                {
+                    "id": 23520,
+                    "ruby": "A:<ruby>今日<rt>きょう</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>寒<rt>さむ</rt></ruby>いわね。今天真的好冷啊。\rB：そうねえ、寒いわね。",
+                    "explain": "今天真的好冷啊。\rB：そうねえ、寒いわね是啊，好冷啊。",
+                    "other": ""
+                },
+                {
+                    "id": 23521,
+                    "ruby": "A：あの<ruby>子<rt>こ</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>していて、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>感心<rt>かんしん</rt></ruby>だわね。那个孩子每天都到图书馆去学习，真的好佩服啊。\rB：ええ、まじめな子ですわね。",
+                    "explain": "那个孩子每天都到图书馆去学习，真的好佩服啊。\rB：ええ、まじめな子ですわね是啊，真是个肯用功的孩子啊。",
+                    "other": ""
+                },
+                {
+                    "id": 23522,
+                    "ruby": "うちの<ruby>子<rt>こ</rt></ruby>は<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いで、<ruby>遊<rt>あそ</rt></ruby>びだけ<ruby>好<rt>す</rt></ruby>きなのよ。<ruby>心配<rt>しんぱい</rt></ruby>だわね。",
+                    "explain": "我们家的孩子不喜欢读书，只对玩感兴趣。好担心啊。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

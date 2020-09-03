@@ -1,1 +1,35 @@
-{"id": 10719, "level": "N1", "title": "\u3092\u3078\u3066", "means": [{"id": 10719100, "format": "5ZCN77yL44KS57WM44Gm", "mean": ["wqDCoOe7j+i/h8K3wrfCt8K3wrfCt++8jOmAmui/h8K3wrfCt8K3wrfCtyA="], "type": ["\u6761\u4ef6"], "examples": [{"id": 21700, "ruby": "<ruby><rb>\u65b0</rb><rt>\u3042\u305f\u3089</rt></ruby>\u3057\u3044<ruby><rb>\u6761\u7d04</rb><rt>\u3058\u3087\u3046\u3084\u304f</rt></ruby>\u306f\u3001<ruby><rb>\u8b70\u4f1a</rb><rt>\u304e\u304b\u3044</rt></ruby>\u306e<ruby><rb>\u627f\u8a8d</rb><rt>\u3057\u3087\u3046\u306b\u3093</rt></ruby>\u3092<ruby><rb>\u7d4c</rb><rt>\u3078</rt></ruby>\u3066<ruby><rb>\u8a8d</rb><rt>\u307f\u3068</rt></ruby>\u3081\u3089\u308c\u305f\u3002", "explain": "\u65b0\u6761\u7ea6\u7ecf\u8fc7\u8bae\u4f1a\u6279\u51c6\u88ab\u8ba4\u53ef\u3002", "other": ""}, {"id": 21701, "ruby": "<ruby><rb>\u9999\u6e2f</rb><rt>\u307b\u3093\u3053\u3093</rt></ruby>\u3092<ruby><rb>\u7d4c</rb><rt>\u3078</rt></ruby>\u3066<ruby><rb>\u65e5\u672c</rb><rt>\u306b\u3063\u307d\u3093</rt></ruby>\u306b<ruby><rb>\u884c</rb><rt>\u3044</rt></ruby>\u304f\u3002", "explain": "\u9014\u5f84\u9999\u6e2f\u53bb\u65e5\u672c\u3002", "other": ""}, {"id": 21702, "ruby": "<ruby><rb>\u6b63\u5f0f</rb><rt>\u305b\u3044\u3057\u304d</rt></ruby>\u306e<ruby><rb>\u624b\u7d9a</rb><rt>\u3066\u3064\u3065</rt></ruby>\u304d\u3092<ruby><rb>\u7d4c</rb><rt>\u3078</rt></ruby>\u3066\u3001\u3053\u306e<ruby><rb>\u5927\u5b66</rb><rt>\u3060\u3044\u304c\u304f</rt></ruby>\u306b<ruby><rb>\u5165</rb><rt>\u306f\u3044</rt></ruby>\u308a\u307e\u3057\u305f\u3002", "explain": "\u901a\u8fc7\u6b63\u5f0f\u7684\u624b\u7eed\u8fdb\u5165\u4e86\u8fd9\u6240\u5927\u5b66\u3002", "other": ""}]}]}
+{
+    "id": 10719,
+    "level": "N1",
+    "title": "をへて",
+    "means": [
+        {
+            "id": 10719100,
+            "format": "名＋を経て",
+            "mean": "  经过······，通过······ ",
+            "type": [
+                "条件"
+            ],
+            "examples": [
+                {
+                    "id": 21700,
+                    "ruby": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>条約<rt>じょうやく</rt></ruby>は、<ruby>議会<rt>ぎかい</rt></ruby>の<ruby>承認<rt>しょうにん</rt></ruby>を<ruby>経<rt>へ</rt></ruby>て<ruby>認<rt>みと</rt></ruby>められた。",
+                    "explain": "新条约经过议会批准被认可。",
+                    "other": ""
+                },
+                {
+                    "id": 21701,
+                    "ruby": "<ruby>香港<rt>ほんこん</rt></ruby>を<ruby>経<rt>へ</rt></ruby>て<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>行<rt>い</rt></ruby>く。",
+                    "explain": "途径香港去日本。",
+                    "other": ""
+                },
+                {
+                    "id": 21702,
+                    "ruby": "<ruby>正式<rt>せいしき</rt></ruby>の<ruby>手続<rt>てつづ</rt></ruby>きを<ruby>経<rt>へ</rt></ruby>て、この<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りました。",
+                    "explain": "通过正式的手续进入了这所大学。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

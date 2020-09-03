@@ -1,1 +1,47 @@
-{"id": 10618, "level": "N2", "title": "\u306b\u304d\u307e\u3063\u3066\u3044\u308b/\u304d\u307e\u3063\u3066\u3044\u308b", "means": [{"id": 10618100, "format": "5pmu6YCa5b2i77yI44OK77yh44O744OK77yh44Gn44GC44KL77yPTuODu07jgafjgYLjgovvvInvvIvjgavmsbrjgb7jgaPjgabjgYTjgos=", "mean": ["44GN44Gj44Go4oi844Gg77yP5b+F44Ga4oi844GgwqDCoOS4gOWumu+9niA="], "type": ["\u4e3b\u5f35\u30fb\u65ad\u5b9a"], "examples": [{"id": 21401, "ruby": "\u305d\u3093\u306a<ruby><rb>\u6697</rb><rt>\u304f\u3089</rt></ruby>\u3044\u3068\u3053\u308d\u3067<ruby><rb>\u672c</rb><rt>\u307b\u3093</rt></ruby>\u3092<ruby><rb>\u8aad</rb><rt>\u3088</rt></ruby>\u3093\u3060\u3089<ruby><rb>\u76ee</rb><rt>\u3081</rt></ruby>\u306b<ruby><rb>\u60aa</rb><rt>\u308f\u308b</rt></ruby>\u3044\u306b<ruby><rb>\u6c7a</rb><rt>\u304d</rt></ruby>\u307e\u3063\u3066\u3044\u308b\u3002", "explain": "\u5728\u90a3\u6837\u7684\u660f\u6697\u7684\u5730\u65b9\u770b\u4e66\uff0c\u773c\u775b\u4e00\u5b9a\u4f1a\u574f\u7684\u3002", "other": ""}, {"id": 21402, "ruby": "<ruby><rb>\u4eca\u9031</rb><rt>\u3053\u3093\u3057\u3085\u3046</rt></ruby><ruby><rb>\u4e2d</rb><rt>\u3061\u3085\u3046</rt></ruby>\u306b30<ruby><rb>\u679a</rb><rt>\u307e\u3044</rt></ruby>\u306e\u30ec\u30dd\u30fc\u30c8\u3092<ruby><rb>\u66f8</rb><rt>\u304b</rt></ruby>\u304f\u306a\u3093\u3066<ruby><rb>\u7121\u7406</rb><rt>\u3080\u308a</rt></ruby>\u306b<ruby><rb>\u6c7a</rb><rt>\u304d</rt></ruby>\u307e\u3063\u3066\u3044\u307e\u3059\u3002", "explain": "\u672c\u5468\u5185\u519930\u9875\u7684\u62a5\u544a\uff0c\u4e00\u5b9a\u662f\u4e0d\u53ef\u80fd\u7684\u3002", "other": ""}, {"id": 21403, "ruby": "\u30c7\u30d1\u30fc\u30c8\u3088\u308a\u30b9\u30fc\u30d1\u30fc\u306e<ruby><rb>\u65b9</rb><rt>\u307b\u3046</rt></ruby>\u304c<ruby><rb>\u54c1\u7269</rb><rt>\u3057\u306a\u3082\u306e</rt></ruby>\u304c<ruby><rb>\u5b89</rb><rt>\u3084\u3059</rt></ruby>\u3044\u306b<ruby><rb>\u6c7a</rb><rt>\u304d</rt></ruby>\u307e\u3063\u3066\u3044\u308b\u3088\u3002\u30b9\u30fc\u30d1\u30fc\u3078<ruby><rb>\u884c</rb><rt>\u3044</rt></ruby>\u3053\u3046\u3002", "explain": "\u6bd4\u8d77\u767e\u8d27\u5546\u5e97\u4e00\u5b9a\u662f\u8d85\u5e02\u91cc\u7684\u4e1c\u897f\u4fbf\u5b9c\u54e6\u3002\u53bb\u8d85\u5e02\u5427\u3002", "other": ""}, {"id": 21404, "ruby": "<ruby><rb>\u9078\u6319</rb><rt>\u305b\u3093\u304d\u3087</rt></ruby>\u3067\u306f<ruby><rb>\u6797</rb><rt>\u306f\u3084\u3057</rt></ruby><ruby><rb>\u6c0f</rb><rt>\u3057</rt></ruby>\u304c<ruby><rb>\u5f53\u9078</rb><rt>\u3068\u3046\u305b\u3093</rt></ruby>\u3059\u308b\u306b<ruby><rb>\u6c7a</rb><rt>\u304d</rt></ruby>\u307e\u3063\u3066\u3044\u308b\u3002<ruby><rb>\u5f7c</rb><rt>\u304b\u308c</rt></ruby>\u306f\u3053\u306e<ruby><rb>\u571f\u5730</rb><rt>\u3068\u3061</rt></ruby>\u306e<ruby><rb>\u6709\u529b</rb><rt>\u3086\u3046\u308a\u3087\u304f</rt></ruby><ruby><rb>\u8005</rb><rt>\u3057\u3083</rt></ruby>\u306a\u3093\u3060\u304b\u3089\u3002", "explain": "\u9009\u4e3e\uff0c\u4e00\u5b9a\u662f\u6797\u5148\u751f\u5f53\u9009\u3002\u56e0\u4e3a\u4ed6\u662f\u5f53\u5730\u6709\u52bf\u529b\u7684\u4eba\u3002", "other": ""}, {"id": 21405, "ruby": "\u3042\u306e\u30c1\u30fc\u30e0\u304c<ruby><rb>\u52dd</rb><rt>\u304b</rt></ruby>\u3064\u306b\u304d\u307e\u3063\u3066\u3044\u308b\u3002", "explain": "\u4e00\u5b9a\u662f\u90a3\u53ea\u961f\u4f0d\u8d62\u3002", "other": ""}]}]}
+{
+    "id": 10618,
+    "level": "N2",
+    "title": "にきまっている/きまっている",
+    "means": [
+        {
+            "id": 10618100,
+            "format": "普通形（ナＡ・ナＡである／N・Nである）＋に決まっている",
+            "mean": "きっと∼だ／必ず∼だ  一定～ ",
+            "type": [
+                "主張・断定"
+            ],
+            "examples": [
+                {
+                    "id": 21401,
+                    "ruby": "そんな<ruby>暗<rt>くら</rt></ruby>いところで<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んだら<ruby>目<rt>め</rt></ruby>に<ruby>悪<rt>わる</rt></ruby>いに<ruby>決<rt>き</rt></ruby>まっている。",
+                    "explain": "在那样的昏暗的地方看书，眼睛一定会坏的。",
+                    "other": ""
+                },
+                {
+                    "id": 21402,
+                    "ruby": "<ruby>今週<rt>こんしゅう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に30<ruby>枚<rt>まい</rt></ruby>のレポートを<ruby>書<rt>か</rt></ruby>くなんて<ruby>無理<rt>むり</rt></ruby>に<ruby>決<rt>き</rt></ruby>まっています。",
+                    "explain": "本周内写30页的报告，一定是不可能的。",
+                    "other": ""
+                },
+                {
+                    "id": 21403,
+                    "ruby": "デパートよりスーパーの<ruby>方<rt>ほう</rt></ruby>が<ruby>品物<rt>しなもの</rt></ruby>が<ruby>安<rt>やす</rt></ruby>いに<ruby>決<rt>き</rt></ruby>まっているよ。スーパーへ<ruby>行<rt>い</rt></ruby>こう。",
+                    "explain": "比起百货商店一定是超市里的东西便宜哦。去超市吧。",
+                    "other": ""
+                },
+                {
+                    "id": 21404,
+                    "ruby": "<ruby>選挙<rt>せんきょ</rt></ruby>では<ruby>林<rt>はやし</rt></ruby><ruby>氏<rt>し</rt></ruby>が<ruby>当選<rt>とうせん</rt></ruby>するに<ruby>決<rt>き</rt></ruby>まっている。<ruby>彼<rt>かれ</rt></ruby>はこの<ruby>土地<rt>とち</rt></ruby>の<ruby>有力<rt>ゆうりょく</rt></ruby><ruby>者<rt>しゃ</rt></ruby>なんだから。",
+                    "explain": "选举，一定是林先生当选。因为他是当地有势力的人。",
+                    "other": ""
+                },
+                {
+                    "id": 21405,
+                    "ruby": "あのチームが<ruby>勝<rt>か</rt></ruby>つにきまっている。",
+                    "explain": "一定是那只队伍赢。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

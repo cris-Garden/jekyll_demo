@@ -1,1 +1,41 @@
-{"id": 10307, "level": "N1", "title": "\u307e\u307f\u308c", "means": [{"id": 10307100, "format": "77yu77yL44G+44G/44KM", "mean": ["44Gf44GP44GV44KT44Gk44GE44Gm44GE44KLwqDCoOWIsOWkhOmDveaYr++9niA="], "type": ["\u69d8\u5b50\u30fb\u72b6\u614b"], "examples": [{"id": 20021, "ruby": "<ruby><rb>\u4e8c</rb><rt>\u306b</rt></ruby><ruby><rb>\u4eba</rb><rt>\u306b\u3093</rt></ruby>\u3068\u3082\u3001<ruby><rb>\u8840</rb><rt>\u3061</rt></ruby>\u307e\u307f\u308c\u306b\u306a\u308b\u307e\u3067<ruby><rb>\u6226</rb><rt>\u305f\u305f\u304b</rt></ruby>\u3063\u305f\u3002", "explain": "\u4e24\u4e2a\u4eba\u6218\u6597\u5230\u6ee1\u8eab\u662f\u8840\u3002", "other": ""}, {"id": 20022, "ruby": "<ruby><rb>\u5409\u7530</rb><rt>\u3088\u3057\u3060</rt></ruby>\u3055\u3093\u306f<ruby><rb>\u5de5\u4e8b</rb><rt>\u3053\u3046\u3058</rt></ruby><ruby><rb>\u73fe\u5834</rb><rt>\u3052\u3093\u3070</rt></ruby>\u3067<ruby><rb>\u6bce\u65e5</rb><rt>\u307e\u3044\u306b\u3061</rt></ruby>\u307b\u3053\u308a\u307e\u307f\u308c\u306b\u306a\u3063\u3066<ruby><rb>\u50cd</rb><rt>\u306f\u305f\u3089</rt></ruby>\u3044\u3066\u3044\u308b\u3002", "explain": "\u5409\u7530\u5728\u5de5\u4e8b\u73b0\u573a\uff0c\u6bcf\u5929\u90fd\u6ee1\u8eab\u7070\u5c18\u7684\u5de5\u4f5c\u7740\u3002", "other": ""}, {"id": 20023, "ruby": "<ruby><rb>\u8db3\u8de1</rb><rt>\u3042\u3057\u3042\u3068</rt></ruby>\u304b\u3089\u3001<ruby><rb>\u72af\u4eba</rb><rt>\u306f\u3093\u306b\u3093</rt></ruby>\u306f<ruby><rb>\u6ce5</rb><rt>\u3069\u308d</rt></ruby>\u307e\u307f\u308c\u306e<ruby><rb>\u9774</rb><rt>\u304f\u3064</rt></ruby>\u3092\u306f\u3044\u3066\u3044\u305f\u3068<ruby><rb>\u601d</rb><rt>\u304a\u3082</rt></ruby>\u308f\u308c\u308b\u3002", "explain": "\u4ece\u8db3\u8ff9\u4e0a\u770b\uff0c\u72af\u4eba\u5e94\u8be5\u7a7f\u7740\u6ee1\u662f\u6ce5\u571f\u7684\u978b\u5b50\u3002", "other": ""}, {"id": 20024, "ruby": "<ruby><rb>\u6c57</rb><rt>\u3042\u305b</rt></ruby>\u307e\u307f\u308c\u306b\u306a\u3063\u3066<ruby><rb>\u8fb2\u4f5c\u696d</rb><rt>\u306e\u3046\u3055\u304e\u3087\u3046</rt></ruby>\u3092\u3059\u308b\u306e\u306f<ruby><rb>\u697d</rb><rt>\u305f\u306e</rt></ruby>\u3057\u3044\u3053\u3068\u3060\u3002", "explain": "\u6ee1\u5934\u5927\u6c57\u7684\u5e72\u519c\u6d3b\u4e5f\u662f\u5f88\u5feb\u4e50\u7684\u4e8b\u60c5\u3002", "other": ""}]}]}
+{
+    "id": 10307,
+    "level": "N1",
+    "title": "まみれ",
+    "means": [
+        {
+            "id": 10307100,
+            "format": "Ｎ＋まみれ",
+            "mean": "たくさんついている  到处都是～ ",
+            "type": [
+                "様子・状態"
+            ],
+            "examples": [
+                {
+                    "id": 20021,
+                    "ruby": "<ruby>二<rt>に</rt></ruby><ruby>人<rt>にん</rt></ruby>とも、<ruby>血<rt>ち</rt></ruby>まみれになるまで<ruby>戦<rt>たたか</rt></ruby>った。",
+                    "explain": "两个人战斗到满身是血。",
+                    "other": ""
+                },
+                {
+                    "id": 20022,
+                    "ruby": "<ruby>吉田<rt>よしだ</rt></ruby>さんは<ruby>工事<rt>こうじ</rt></ruby><ruby>現場<rt>げんば</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby>ほこりまみれになって<ruby>働<rt>はたら</rt></ruby>いている。",
+                    "explain": "吉田在工事现场，每天都满身灰尘的工作着。",
+                    "other": ""
+                },
+                {
+                    "id": 20023,
+                    "ruby": "<ruby>足跡<rt>あしあと</rt></ruby>から、<ruby>犯人<rt>はんにん</rt></ruby>は<ruby>泥<rt>どろ</rt></ruby>まみれの<ruby>靴<rt>くつ</rt></ruby>をはいていたと<ruby>思<rt>おも</rt></ruby>われる。",
+                    "explain": "从足迹上看，犯人应该穿着满是泥土的鞋子。",
+                    "other": ""
+                },
+                {
+                    "id": 20024,
+                    "ruby": "<ruby>汗<rt>あせ</rt></ruby>まみれになって<ruby>農作業<rt>のうさぎょう</rt></ruby>をするのは<ruby>楽<rt>たの</rt></ruby>しいことだ。",
+                    "explain": "满头大汗的干农活也是很快乐的事情。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,29 @@
-{"id": 11042, "level": "N1", "title": "\u3053\u3068\u304c\u306a\u3044", "means": [{"id": 11042100, "format": "", "mean": ["4oCm44KS57WM6aiT44GX44Gf44GT44Go44GM44Gq44GEwqDCoOS7juadpeayoeacieKApui/hyA="], "type": ["\u5426\u5b9a"], "examples": [{"id": 22407, "ruby": "<ruby><rb>\u96ea\u5c71</rb><rt>\u3086\u304d\u3084\u307e</rt></ruby>\u306b<ruby><rb>\u767b</rb><rt>\u306e\u307c</rt></ruby>\u3063\u305f\u3053\u3068\u304c\u306a\u3044\u3002", "explain": "\u6211\u6ca1\u6709\u767b\u8fc7\u96ea\u5c71\u3002", "other": ""}, {"id": 22408, "ruby": "<ruby><rb>\u65e5\u672c</rb><rt>\u306b\u3063\u307d\u3093</rt></ruby><ruby><rb>\u6599\u7406</rb><rt>\u308a\u3087\u3046\u308a</rt></ruby>\u3092<ruby><rb>\u98df</rb><rt>\u305f</rt></ruby>\u3079\u305f\u3053\u3068\u304c\u306a\u3044\u3002", "explain": "\u6211\u6ca1\u6709\u5403\u8fc7\u65e5\u672c\u6599\u7406\u3002", "other": ""}]}]}
+{
+    "id": 11042,
+    "level": "N1",
+    "title": "ことがない",
+    "means": [
+        {
+            "id": 11042100,
+            "format": "",
+            "mean": "…を経験したことがない  从来没有…过 ",
+            "type": [
+                "否定"
+            ],
+            "examples": [
+                {
+                    "id": 22407,
+                    "ruby": "<ruby>雪山<rt>ゆきやま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ったことがない。",
+                    "explain": "我没有登过雪山。",
+                    "other": ""
+                },
+                {
+                    "id": 22408,
+                    "ruby": "<ruby>日本<rt>にっぽん</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>を<ruby>食<rt>た</rt></ruby>べたことがない。",
+                    "explain": "我没有吃过日本料理。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

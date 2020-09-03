@@ -1,1 +1,35 @@
-{"id": 11507, "level": "N5", "title": "\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093", "means": [{"id": 11507100, "format": "ViDjgarjgYTlvaLvvIvjgarjgZHjgozjgbDjgarjgorjgb7jgZvjgpM=", "mean": ["wqDCoOW/hemhu+KApiDvvIzpnZ7igKbkuI3lj6/jgIIg"], "type": ["\u610f\u5fd7"], "examples": [{"id": 24437, "ruby": "<ruby><rb>\u85ac</rb><rt>\u3084\u304f</rt></ruby>\u3092<ruby><rb>\u98f2</rb><rt>\u306e</rt></ruby>\u307e\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002", "explain": "\u5fc5\u987b\u5403\u836f\u3002", "other": ""}, {"id": 24438, "ruby": "<ruby><rb>\u4eca\u65e5</rb><rt>\u304d\u3087\u3046</rt></ruby><ruby><rb>\u65e9</rb><rt>\u306f\u3084</rt></ruby>\u304f<ruby><rb>\u5e30</rb><rt>\u304d</rt></ruby>\u3089\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002", "explain": "\u4eca\u5929\u5fc5\u987b\u65e9\u70b9\u56de\u53bb\u3002", "other": ""}, {"id": 24439, "ruby": "<ruby><rb>\u90e8\u5c4b</rb><rt>\u3078\u3084</rt></ruby>\u3092\u304d\u308c\u3044\u306b\u3057\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002", "explain": "\u5fc5\u987b\u628a\u5c4b\u5b50\u6253\u626b\u5e72\u51c0\u3002", "other": ""}]}]}
+{
+    "id": 11507,
+    "level": "N5",
+    "title": "なければなりません",
+    "means": [
+        {
+            "id": 11507100,
+            "format": "V ない形＋なければなりません",
+            "mean": "  必须… ，非…不可。 ",
+            "type": [
+                "意志"
+            ],
+            "examples": [
+                {
+                    "id": 24437,
+                    "ruby": "<ruby>薬<rt>やく</rt></ruby>を<ruby>飲<rt>の</rt></ruby>まなければなりません。",
+                    "explain": "必须吃药。",
+                    "other": ""
+                },
+                {
+                    "id": 24438,
+                    "ruby": "<ruby>今日<rt>きょう</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>き</rt></ruby>らなければなりません。",
+                    "explain": "今天必须早点回去。",
+                    "other": ""
+                },
+                {
+                    "id": 24439,
+                    "ruby": "<ruby>部屋<rt>へや</rt></ruby>をきれいにしなければなりません。",
+                    "explain": "必须把屋子打扫干净。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,29 @@
-{"id": 10738, "level": "N1", "title": "\u306b\u3057\u3066\u306f\u3058\u3081\u3066", "means": [{"id": 10738100, "format": "5ZCN77yL44Gr44GX44Gm44Gv44GY44KB44Gm", "mean": ["wqDCoOWPquacicK3wrfCt8K3wrfCt+aJjcK3wrfCt8K3wrfCtyA="], "type": ["\u9650\u5b9a"], "examples": [{"id": 21762, "ruby": "\u3053\u306e<ruby><rb>\u5473</rb><rt>\u3042\u3058</rt></ruby>\u306f<ruby><rb>\u6bcd</rb><rt>\u306f\u306f</rt></ruby>\u306b\u3057\u3066<ruby><rb>\u521d</rb><rt>\u306f\u3058</rt></ruby>\u3081\u3066<ruby><rb>\u51fa</rb><rt>\u3060</rt></ruby>\u305b\u308b<ruby><rb>\u5473</rb><rt>\u3042\u3058</rt></ruby>\u3060\u3002", "explain": "\u8fd9\u4e2a\u5473\u9053\u53ea\u6709\u5988\u5988\u624d\u505a\u7684\u51fa\u6765\u3002", "other": ""}, {"id": 21763, "ruby": "\u305d\u3093\u306a<ruby><rb>\u9a5a\u7570</rb><rt>\u304d\u3087\u3046\u3044</rt></ruby><ruby><rb>\u7684</rb><rt>\u3066\u304d</rt></ruby>\u306a<ruby><rb>\u767a\u660e</rb><rt>\u306f\u3064\u3081\u3044</rt></ruby>\u306f<ruby><rb>\u5f7c</rb><rt>\u304b\u308c</rt></ruby>\u306e\u3088\u3046\u306a<ruby><rb>\u5929\u624d</rb><rt>\u3066\u3093\u3055\u3044</rt></ruby>\u306b\u3057\u3066<ruby><rb>\u521d</rb><rt>\u306f\u3058</rt></ruby>\u3081\u3066\u3067\u304d\u308b\u3053\u3068\u3060\u3002", "explain": "\u90a3\u6837\u60ca\u4eba\u7684\u53d1\u660e\u53ea\u6709\u4ed6\u90a3\u6837\u7684\u5929\u624d\u624d\u505a\u7684\u51fa\u6765\u3002", "other": ""}]}]}
+{
+    "id": 10738,
+    "level": "N1",
+    "title": "にしてはじめて",
+    "means": [
+        {
+            "id": 10738100,
+            "format": "名＋にしてはじめて",
+            "mean": "  只有······才······ ",
+            "type": [
+                "限定"
+            ],
+            "examples": [
+                {
+                    "id": 21762,
+                    "ruby": "この<ruby>味<rt>あじ</rt></ruby>は<ruby>母<rt>はは</rt></ruby>にして<ruby>初<rt>はじ</rt></ruby>めて<ruby>出<rt>だ</rt></ruby>せる<ruby>味<rt>あじ</rt></ruby>だ。",
+                    "explain": "这个味道只有妈妈才做的出来。",
+                    "other": ""
+                },
+                {
+                    "id": 21763,
+                    "ruby": "そんな<ruby>驚異<rt>きょうい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>発明<rt>はつめい</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>のような<ruby>天才<rt>てんさい</rt></ruby>にして<ruby>初<rt>はじ</rt></ruby>めてできることだ。",
+                    "explain": "那样惊人的发明只有他那样的天才才做的出来。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

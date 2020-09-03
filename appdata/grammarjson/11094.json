@@ -1,1 +1,23 @@
-{"id": 11094, "level": "N1", "title": "\u3068\u3084\u3089(\u8fde\u8bed) ", "means": [{"id": 11094100, "format": "TivjgajjgoTjgokvVuOCiyvjgajjgoTjgok=", "mean": ["44Gv44Gj44GN44KK44Go56S644GV44Ga44G844GL44GX44Gm6KiA44GG44Go44GN44Gr55So44GE44KL6K+t44CC44Go44GL44CCwqDCoOKAnO+9nuS7gOS5iOeahOKAneKAnO+9nuS5i+exu+KAneKAnO+9nuS5i+a1geKAnSA="], "type": ["\u8aac\u660e"], "examples": [{"id": 22558, "ruby": "<ruby><rb>\u534f\u4f1a</rb><rt>*</rt></ruby>\u3068\u3084\u3089\u306e<ruby><rb>\u8a00</rb><rt></rt></ruby>\u3044<ruby><rb>\u5206</rb><rt></rt></ruby>\u306f\u3001\u305d\u3093\u306a\u3053\u3068<ruby><rb>\u95ee\u9898</rb><rt>\u3053\u3068</rt></ruby>\u306b\u306f\u306a\u3089\u306a\u3044\u3002", "explain": "\u6309\u534f\u4f1a\u90a3\u5e2e\u4eba\u8bf4\u90a3\u79cd\u4e8b\u7b97\u4e0d\u4e0a\u95ee\u9898\u3002", "other": ""}]}]}
+{
+    "id": 11094,
+    "level": "N1",
+    "title": "とやら(连语) ",
+    "means": [
+        {
+            "id": 11094100,
+            "format": "N+とやら/Vる+とやら",
+            "mean": "はっきりと示さずぼかして言うときに用いる语。とか。  “～什么的”“～之类”“～之流” ",
+            "type": [
+                "説明"
+            ],
+            "examples": [
+                {
+                    "id": 22558,
+                    "ruby": "<ruby>协会<rt>*</rt></ruby>とやらの<ruby>言<rt></rt></ruby>い<ruby>分<rt></rt></ruby>は、そんなこと<ruby>问题<rt>こと</rt></ruby>にはならない。",
+                    "explain": "按协会那帮人说那种事算不上问题。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

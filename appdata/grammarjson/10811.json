@@ -1,1 +1,23 @@
-{"id": 10811, "level": "N2", "title": "\u306d\u3070\u306a\u3089\u306c/\u306d\u3070\u306a\u3089\u306a\u3044", "means": [{"id": 10811100, "format": "77y277yI44Gq44GE77yJ77yL44Gt44Gw44Gq44KJ44Gs44CA44GX44Gq44GE4oaS44Gb44Gt44Gw44Gq44KJ44Gs", "mean": ["wqDCoOW/hemhuyA="], "type": ["\u7fa9\u52d9"], "examples": [{"id": 21912, "ruby": "\u30d3\u30b6\u304c<ruby><rb>\u5207</rb><rt>\u304d</rt></ruby>\u308c\u305f\u306e\u3067\u3001<ruby><rb>\u56fd</rb><rt>\u304f\u306b</rt></ruby>\u306b<ruby><rb>\u5e30</rb><rt>\u304b\u3048</rt></ruby>\u3089\u306d\u3070\u306a\u3089\u306a\u3044\u3002", "explain": "\u56e0\u4e3a\u7b7e\u8bc1\u5230\u671f,\u5fc5\u987b\u56de\u56fd\u3002", "other": ""}]}]}
+{
+    "id": 10811,
+    "level": "N2",
+    "title": "ねばならぬ/ねばならない",
+    "means": [
+        {
+            "id": 10811100,
+            "format": "Ｖ（ない）＋ねばならぬ　しない→せねばならぬ",
+            "mean": "  必须 ",
+            "type": [
+                "義務"
+            ],
+            "examples": [
+                {
+                    "id": 21912,
+                    "ruby": "ビザが<ruby>切<rt>き</rt></ruby>れたので、<ruby>国<rt>くに</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>らねばならない。",
+                    "explain": "因为签证到期,必须回国。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

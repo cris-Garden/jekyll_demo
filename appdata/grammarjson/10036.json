@@ -1,1 +1,35 @@
-{"id": 10036, "level": "N2", "title": "\u306b\u3068\u3082\u306a\u3046/\u3068\u3082\u306a\u3044/\u3068\u3082\u306a\u3063\u3066", "means": [{"id": 10036100, "format": "ViDovp7kuablvaLvvI9O77yL44Gr5Ly044GGL+S8tOOBo+OBpi/kvLTjgYQ=", "mean": ["4oi844GZ44KL44Go44CB44Gd44KM44Gr5b+c44GY44Gm44Gg44KT44Gg44KTwqDCoOmaj+edgO+9numAkOa4kOKApiA="], "type": ["\u76f8\u95a2\u95a2\u4fc2"], "examples": [{"id": 18799, "ruby": "<ruby><rb>\u5f7c</rb><rt>\u304b\u308c</rt></ruby>\u306f<ruby><rb>\u6210\u9577</rb><rt>\u305b\u3044\u3061\u3087\u3046</rt></ruby>\u3059\u308b\u306b<ruby><rb>\u4f34</rb><rt>\u3068\u3082\u306a</rt></ruby>\u3063\u3066\u3001\u3060\u3093\u3060\u3093<ruby><rb>\u7121\u53e3</rb><rt>\u3080\u304f\u3061</rt></ruby>\u306b\u306a\u3063\u3066\u304d\u305f\u3002", "explain": "\u968f\u7740\u4ed6\u7684\u6210\u957f\uff0c\u6e10\u6e10\u53d8\u5f97\u6c89\u9ed8\u5be1\u8a00\u8d77\u6765\u4e86\u3002", "other": ""}, {"id": 18800, "ruby": "<ruby><rb>\u75c5\u6c17</rb><rt>\u3073\u3087\u3046\u304d</rt></ruby>\u306e<ruby><rb>\u56de\u5fa9</rb><rt>\u304b\u3044\u3075\u304f</rt></ruby>\u306b<ruby><rb>\u4f34</rb><rt>\u3068\u3082\u306a</rt></ruby>\u3063\u3066\u3001<ruby><rb>\u50cd</rb><rt>\u306f\u305f\u3089</rt></ruby>\u304f<ruby><rb>\u6642\u9593</rb><rt>\u3058\u304b\u3093</rt></ruby>\u3092<ruby><rb>\u5c11</rb><rt>\u3059\u3053</rt></ruby>\u3057\u305a\u3064<ruby><rb>\u5ef6</rb><rt>\u306e</rt></ruby>\u3070\u3057\u3066\u3044\u304f\u3064\u3082\u308a\u3060\u3002", "explain": "\u968f\u7740\u5e76\u4e14\u7684\u53cd\u590d\uff0c\u6253\u7b97\u4e00\u70b9\u70b9\u5ef6\u957f\u52b3\u52a8\u7684\u65f6\u95f4\u3002", "other": ""}, {"id": 18801, "ruby": "<ruby><rb>\u793e\u4f1a</rb><rt>\u3057\u3083\u304b\u3044</rt></ruby>\u306e<ruby><rb>\u60c5\u5831</rb><rt>\u3058\u3087\u3046\u307b\u3046</rt></ruby><ruby><rb>\u5316</rb><rt>\u304b</rt></ruby>\u306b<ruby><rb>\u4f34</rb><rt>\u3068\u3082\u306a</rt></ruby>\u3044\u3001<ruby><rb>\u6570\u5b66</rb><rt>\u3059\u3046\u304c\u304f</rt></ruby><ruby><rb>\u7684</rb><rt>\u3066\u304d</rt></ruby>\u306a<ruby><rb>\u8003</rb><rt>\u304b\u3093\u304c</rt></ruby>\u3048<ruby><rb>\u65b9</rb><rt>\u304b\u305f</rt></ruby>\u304c<ruby><rb>\u91cd\u8981</rb><rt>\u3058\u3085\u3046\u3088\u3046</rt></ruby><ruby><rb>\u6027</rb><rt>\u305b\u3044</rt></ruby>\u3092<ruby><rb>\u5897</rb><rt>\u307e</rt></ruby>\u3057\u3066\u304d\u305f\u3002", "explain": "\u968f\u7740\u793e\u4f1a\u7684\u60c5\u62a5\u5316\uff0c\u6570\u5b66\u5f0f\u601d\u8003\u65b9\u5f0f\u7684\u91cd\u8981\u6027\u589e\u52a0\u8d77\u6765\u4e86\u3002", "other": ""}]}]}
+{
+    "id": 10036,
+    "level": "N2",
+    "title": "にともなう/ともない/ともなって",
+    "means": [
+        {
+            "id": 10036100,
+            "format": "V 辞书形／N＋に伴う/伴って/伴い",
+            "mean": "∼すると、それに応じてだんだん  随着～逐渐… ",
+            "type": [
+                "相関関係"
+            ],
+            "examples": [
+                {
+                    "id": 18799,
+                    "ruby": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>成長<rt>せいちょう</rt></ruby>するに<ruby>伴<rt>ともな</rt></ruby>って、だんだん<ruby>無口<rt>むくち</rt></ruby>になってきた。",
+                    "explain": "随着他的成长，渐渐变得沉默寡言起来了。",
+                    "other": ""
+                },
+                {
+                    "id": 18800,
+                    "ruby": "<ruby>病気<rt>びょうき</rt></ruby>の<ruby>回復<rt>かいふく</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>って、<ruby>働<rt>はたら</rt></ruby>く<ruby>時間<rt>じかん</rt></ruby>を<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>延<rt>の</rt></ruby>ばしていくつもりだ。",
+                    "explain": "随着并且的反复，打算一点点延长劳动的时间。",
+                    "other": ""
+                },
+                {
+                    "id": 18801,
+                    "ruby": "<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby><ruby>化<rt>か</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>い、<ruby>数学<rt>すうがく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>重要<rt>じゅうよう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>増<rt>ま</rt></ruby>してきた。",
+                    "explain": "随着社会的情报化，数学式思考方式的重要性增加起来了。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,35 @@
-{"id": 11268, "level": "N4", "title": "\u3068\uff08\u683c\u52a9\u8bcd\uff09", "means": [{"id": 11268100, "format": "Tivjgag=", "mean": ["wqDCoOWSjOKApuKApiA="], "type": ["\u5176\u5b83"], "examples": [{"id": 23282, "ruby": "\u308f\u305f\u3057\u3082\u3042\u306a\u305f\u3068<ruby><rb>\u540c</rb><rt>\u304a\u306a</rt></ruby>\u3058<ruby><rb>\u610f\u898b</rb><rt>\u3044\u3051\u3093</rt></ruby>\u3067\u3059\u3002", "explain": "\u6211\u7684\u610f\u89c1\u8ddf\u4f60\u76f8\u540c\u3002", "other": ""}, {"id": 23283, "ruby": "\u304a<ruby><rb>\u7236</rb><rt>\u3068\u3046</rt></ruby>\u3055\u3093\u306e<ruby><rb>\u8003</rb><rt>\u304b\u3093\u304c</rt></ruby>\u3048\u306f<ruby><rb>\u541b</rb><rt>\u304d\u307f</rt></ruby>\u3068\u306f<ruby><rb>\u53cd\u5bfe</rb><rt>\u306f\u3093\u305f\u3044</rt></ruby>\u3067\u3059\u306d\u3002", "explain": "\u4e5f\u5c31\u662f\u8bf4\u4f60\u7238\u7238\u7684\u60f3\u6cd5\u8ddf\u4f60\u76f8\u53cd\uff0c\u5bf9\u5427\u3002", "other": ""}, {"id": 23284, "ruby": "\u3042\u306e<ruby><rb>\u4eba</rb><rt>\u3072\u3068</rt></ruby>\u306f\u3046\u308f\u3055\u3068<ruby><rb>\u9055</rb><rt>\u3061\u304c</rt></ruby>\u3063\u3066\u3001\u306a\u304b\u306a\u304b\u3044\u3044<ruby><rb>\u4eba</rb><rt>\u3058\u3093</rt></ruby>\u3060\u3088\u3002", "explain": "\u8ddf\u5916\u9762\u7684\u4f20\u8a00\u4e0d\u4e00\u6837\uff0c\u5176\u5b9e\u4ed6\u4eba\u633a\u597d\u7684\u3002", "other": ""}]}]}
+{
+    "id": 11268,
+    "level": "N4",
+    "title": "と（格助词）",
+    "means": [
+        {
+            "id": 11268100,
+            "format": "N+と",
+            "mean": "  和…… ",
+            "type": [
+                "其它"
+            ],
+            "examples": [
+                {
+                    "id": 23282,
+                    "ruby": "わたしもあなたと<ruby>同<rt>おな</rt></ruby>じ<ruby>意見<rt>いけん</rt></ruby>です。",
+                    "explain": "我的意见跟你相同。",
+                    "other": ""
+                },
+                {
+                    "id": 23283,
+                    "ruby": "お<ruby>父<rt>とう</rt></ruby>さんの<ruby>考<rt>かんが</rt></ruby>えは<ruby>君<rt>きみ</rt></ruby>とは<ruby>反対<rt>はんたい</rt></ruby>ですね。",
+                    "explain": "也就是说你爸爸的想法跟你相反，对吧。",
+                    "other": ""
+                },
+                {
+                    "id": 23284,
+                    "ruby": "あの<ruby>人<rt>ひと</rt></ruby>はうわさと<ruby>違<rt>ちが</rt></ruby>って、なかなかいい<ruby>人<rt>じん</rt></ruby>だよ。",
+                    "explain": "跟外面的传言不一样，其实他人挺好的。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

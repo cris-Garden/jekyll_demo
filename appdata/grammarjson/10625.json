@@ -1,1 +1,59 @@
-{"id": 10625, "level": "N2", "title": "\u306b\u3055\u304d\u3060\u3061/\u3055\u304d\u3060\u3063\u3066/\u306b\u3055\u304d\u3060\u3064", "means": [{"id": 10625100, "format": "VuOCi++8j07vvIvjgavlhYjnq4vjgaEv5YWI56uL44Gj44GmL+WFiOeri+OBpA==", "mean": ["4oi844Gu5YmN44Gr5b+F6KaB44Gq44GT44Go44Go44GX44GmwqDCoOWcqOKApuS5i+WJjSA="], "type": ["\u6642\u9593\u7684\u524d\u5f8c"], "examples": [{"id": 21432, "ruby": "<ruby><rb>\u51fa\u767a</rb><rt>\u3057\u3085\u3063\u3071\u3064</rt></ruby>\u306b<ruby><rb>\u5148\u7acb</rb><rt>\u3055\u304d\u3060</rt></ruby>\u3063\u3066\u3001<ruby><rb>\u5927</rb><rt>\u304a\u304a</rt></ruby>\u304d\u3044<ruby><rb>\u8377\u7269</rb><rt>\u306b\u3082\u3064</rt></ruby>\u306f<ruby><rb>\u5168\u90e8</rb><rt>\u305c\u3093\u3076</rt></ruby><ruby><rb>\u9001</rb><rt>\u304a\u304f</rt></ruby>\u3063\u3066\u304a\u304d\u307e\u3057\u305f\u3002", "explain": "\u51fa\u53d1\u4e4b\u524d\uff0c\u5927\u7684\u884c\u674e\u5168\u90e8\u90fd\u4e8b\u5148\u90ae\u5bc4\u4e86\u3002", "other": ""}, {"id": 21433, "ruby": "<ruby><rb>\u8a08\u753b</rb><rt>\u3051\u3044\u304b\u304f</rt></ruby><ruby><rb>\u5b9f\u884c</rb><rt>\u3058\u3063\u3053\u3046</rt></ruby>\u306b<ruby><rb>\u5148\u7acb</rb><rt>\u3055\u304d\u3060</rt></ruby>\u3063\u3066\u3001<ruby><rb>\u5468</rb><rt>\u307e\u308f</rt></ruby>\u308a\u306e<ruby><rb>\u4eba</rb><rt>\u3072\u3068</rt></ruby>\u305f\u3061\u306e<ruby><rb>\u8a31\u53ef</rb><rt>\u304d\u3087\u304b</rt></ruby>\u3092<ruby><rb>\u6c42</rb><rt>\u3082\u3068</rt></ruby>\u3081\u308b<ruby><rb>\u5fc5\u8981</rb><rt>\u3072\u3064\u3088\u3046</rt></ruby>\u304c\u3042\u308b\u3002", "explain": "\u8ba1\u5212\u5b9e\u884c\u4e4b\u524d\uff0c\u6709\u5fc5\u8981\u5f97\u5230\u5468\u56f4\u4eba\u4eec\u7684\u8bb8\u53ef\u3002", "other": ""}, {"id": 21434, "ruby": "<ruby><rb>\u9996\u76f8</rb><rt>\u3057\u3085\u3057\u3087\u3046</rt></ruby>\u304c\uff21<ruby><rb>\u56fd</rb><rt>\u3053\u304f</rt></ruby>\u3092<ruby><rb>\u8a2a\u554f</rb><rt>\u307b\u3046\u3082\u3093</rt></ruby>\u3059\u308b\u306b<ruby><rb>\u5148\u7acb</rb><rt>\u3055\u304d\u3060</rt></ruby>\u3063\u3066<ruby><rb>\u4e21\u56fd</rb><rt>\u308a\u3087\u3046\u3053\u304f</rt></ruby>\u306e<ruby><rb>\u653f\u5e9c</rb><rt>\u305b\u3044\u3075</rt></ruby><ruby><rb>\u95a2\u4fc2</rb><rt>\u304b\u3093\u3051\u3044</rt></ruby><ruby><rb>\u8005</rb><rt>\u3057\u3083</rt></ruby>\u304c<ruby><rb>\u6253</rb><rt>\u3046</rt></ruby>\u3061<ruby><rb>\u5408</rb><rt>\u3042</rt></ruby>\u308f\u305b\u3092<ruby><rb>\u884c</rb><rt>\u304a\u3053\u306a</rt></ruby>\u3063\u305f\u3002", "explain": "\u5728\u9996\u76f8\u8bbf\u95eeA\u56fd\u4e4b\u524d\uff0c\u4e24\u56fd\u7684\u653f\u5e9c\u76f8\u5173\u4eba\u5458\u8fdb\u884c\u4e86\u4f1a\u8c08\u3002", "other": ""}, {"id": 21435, "ruby": "<ruby><rb>\u7559\u5b66</rb><rt>\u308a\u3085\u3046\u304c\u304f</rt></ruby>\u306b<ruby><rb>\u5148\u7acb</rb><rt>\u3055\u304d\u3060</rt></ruby>\u3064<ruby><rb>\u66f8\u985e</rb><rt>\u3057\u3087\u308b\u3044</rt></ruby>\u306e<ruby><rb>\u6e96\u5099</rb><rt>\u3058\u3085\u3093\u3073</rt></ruby>\u306b\u3001<ruby><rb>\u6642\u9593</rb><rt>\u3058\u304b\u3093</rt></ruby>\u3082<ruby><rb>\u91d1</rb><rt>\u304b\u306d</rt></ruby>\u3082\u304b\u304b\u3063\u3066\u3057\u307e\u3063\u305f\u3002", "explain": "\u7559\u5b66\u4e4b\u524d\u7684\u6587\u4ef6\u51c6\u5907\uff0c\u65e2\u82b1\u65f6\u95f4\u53c8\u82b1\u4e86\u91d1\u94b1\u3002", "other": ""}, {"id": 21436, "ruby": "<ruby><rb>\u958b\u5712</rb><rt>\u304b\u3044\u3048\u3093</rt></ruby>\u306b<ruby><rb>\u5148\u7acb</rb><rt>\u3055\u304d\u3060</rt></ruby>\u3061\u3001<ruby><rb>\u4e3b\u50ac</rb><rt>\u3057\u3085\u3055\u3044</rt></ruby><ruby><rb>\u8005</rb><rt>\u3057\u3083</rt></ruby>\u3092<ruby><rb>\u4ee3\u8868</rb><rt>\u3060\u3044\u3072\u3087\u3046</rt></ruby>\u3057\u3066\u3054<ruby><rb>\u6328\u62f6</rb><rt>\u3042\u3044\u3055\u3064</rt></ruby><ruby><rb>\u7533</rb><rt>\u3082\u3046</rt></ruby>\u3057<ruby><rb>\u4e0a</rb><rt>\u3042</rt></ruby>\u3052\u307e\u3059\u3002", "explain": "\u5f00\u56ed\u4e4b\u524d\uff0c\u4ee3\u8868\u4e3b\u529e\u65b9\u8bb2\u51e0\u53e5\u8bdd\u3002", "other": ""}, {"id": 21437, "ruby": "<ruby><rb>\u5b9f\u65bd</rb><rt>\u3058\u3063\u3057</rt></ruby>\u306b<ruby><rb>\u5148\u7acb</rb><rt>\u3055\u304d\u3060</rt></ruby>\u3064<ruby><rb>\u7528\u610f</rb><rt>\u3088\u3046\u3044</rt></ruby><ruby><rb>\u5468\u5230</rb><rt>\u3057\u3085\u3046\u3068\u3046</rt></ruby>\u306a<ruby><rb>\u8a08\u753b\u3002</rb><rt>\u3051\u3044\u304b\u304f</rt></ruby>", "explain": "\u5b9e\u65bd\u4e4b\u524d\u51c6\u5907\u5468\u5168\u7684\u8ba1\u5212\u3002", "other": ""}, {"id": 21438, "ruby": "\u2466<ruby><rb>\u65b0\u4f5c</rb><rt>\u3057\u3093\u3055\u304f</rt></ruby><ruby><rb>\u6620\u753b</rb><rt>\u3048\u3044\u304c</rt></ruby>\u306e<ruby><rb>\u4e0a\u6620</rb><rt>\u3058\u3087\u3046\u3048\u3044</rt></ruby>\u306b\u3055\u304d\u3060\u3061<ruby><rb>\u8a18\u8005</rb><rt>\u304d\u3057\u3083</rt></ruby><ruby><rb>\u4f1a\u898b</rb><rt>\u304b\u3044\u3051\u3093</rt></ruby>\u304c<ruby><rb>\u958b</rb><rt>\u3072\u3089</rt></ruby>\u304b\u308c\u305f\u3002", "explain": "\u5728\u65b0\u7535\u5f71\u4e0a\u6620\u4e4b\u524d\u53ec\u5f00\u4e86\u8bb0\u8005\u62db\u5f85\u4f1a\u3002", "other": ""}]}]}
+{
+    "id": 10625,
+    "level": "N2",
+    "title": "にさきだち/さきだって/にさきだつ",
+    "means": [
+        {
+            "id": 10625100,
+            "format": "Vる／N＋に先立ち/先立って/先立つ",
+            "mean": "∼の前に必要なこととして  在…之前 ",
+            "type": [
+                "時間的前後"
+            ],
+            "examples": [
+                {
+                    "id": 21432,
+                    "ruby": "<ruby>出発<rt>しゅっぱつ</rt></ruby>に<ruby>先立<rt>さきだ</rt></ruby>って、<ruby>大<rt>おお</rt></ruby>きい<ruby>荷物<rt>にもつ</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>送<rt>おく</rt></ruby>っておきました。",
+                    "explain": "出发之前，大的行李全部都事先邮寄了。",
+                    "other": ""
+                },
+                {
+                    "id": 21433,
+                    "ruby": "<ruby>計画<rt>けいかく</rt></ruby><ruby>実行<rt>じっこう</rt></ruby>に<ruby>先立<rt>さきだ</rt></ruby>って、<ruby>周<rt>まわ</rt></ruby>りの<ruby>人<rt>ひと</rt></ruby>たちの<ruby>許可<rt>きょか</rt></ruby>を<ruby>求<rt>もと</rt></ruby>める<ruby>必要<rt>ひつよう</rt></ruby>がある。",
+                    "explain": "计划实行之前，有必要得到周围人们的许可。",
+                    "other": ""
+                },
+                {
+                    "id": 21434,
+                    "ruby": "<ruby>首相<rt>しゅしょう</rt></ruby>がＡ<ruby>国<rt>こく</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>するに<ruby>先立<rt>さきだ</rt></ruby>って<ruby>両国<rt>りょうこく</rt></ruby>の<ruby>政府<rt>せいふ</rt></ruby><ruby>関係<rt>かんけい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせを<ruby>行<rt>おこな</rt></ruby>った。",
+                    "explain": "在首相访问A国之前，两国的政府相关人员进行了会谈。",
+                    "other": ""
+                },
+                {
+                    "id": 21435,
+                    "ruby": "<ruby>留学<rt>りゅうがく</rt></ruby>に<ruby>先立<rt>さきだ</rt></ruby>つ<ruby>書類<rt>しょるい</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>に、<ruby>時間<rt>じかん</rt></ruby>も<ruby>金<rt>かね</rt></ruby>もかかってしまった。",
+                    "explain": "留学之前的文件准备，既花时间又花了金钱。",
+                    "other": ""
+                },
+                {
+                    "id": 21436,
+                    "ruby": "<ruby>開園<rt>かいえん</rt></ruby>に<ruby>先立<rt>さきだ</rt></ruby>ち、<ruby>主催<rt>しゅさい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>を<ruby>代表<rt>だいひょう</rt></ruby>してご<ruby>挨拶<rt>あいさつ</rt></ruby><ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。",
+                    "explain": "开园之前，代表主办方讲几句话。",
+                    "other": ""
+                },
+                {
+                    "id": 21437,
+                    "ruby": "<ruby>実施<rt>じっし</rt></ruby>に<ruby>先立<rt>さきだ</rt></ruby>つ<ruby>用意<rt>ようい</rt></ruby><ruby>周到<rt>しゅうとう</rt></ruby>な<ruby>計画。<rt>けいかく</rt></ruby>",
+                    "explain": "实施之前准备周全的计划。",
+                    "other": ""
+                },
+                {
+                    "id": 21438,
+                    "ruby": "⑦<ruby>新作<rt>しんさく</rt></ruby><ruby>映画<rt>えいが</rt></ruby>の<ruby>上映<rt>じょうえい</rt></ruby>にさきだち<ruby>記者<rt>きしゃ</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>かれた。",
+                    "explain": "在新电影上映之前召开了记者招待会。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

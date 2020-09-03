@@ -1,1 +1,35 @@
-{"id": 11072, "level": "N3", "title": "\u3067\u3054\u3056\u3044\u307e\u3059", "means": [{"id": 11072100, "format": "44OK77yhL07ljYHjgafjgZTjgZbjgYTjgb7jgZk=", "mean": ["wqDCoOOAjOOAnOOBp+OBlOOBluOBhOOBvuOBmeOAjeaYr+OAjOOBp+OBmeOAjeeahOekvOiyjOivreOAgiA="], "type": ["\u656c\u610f"], "examples": [{"id": 22501, "ruby": "\u306f\u3044\u3001IBM\u3067\u3054\u3056\u3044\u307e\u3059\u3002", "explain": "\u4f60\u597d\uff0c\u8fd9\u91cc\u662fIBM\u516c\u53f8\u3002", "other": ""}, {"id": 22502, "ruby": "\u3053\u306e<ruby><rb>\u8fba</rb><rt>\u3042\u305f</rt></ruby>\u308a\u306f<ruby><rb>\u4ea4\u901a</rb><rt>\u3053\u3046\u3064\u3046</rt></ruby>\u304c\u3068\u3066\u3082<ruby><rb>\u4e0d\u4fbf</rb><rt>\u3075\u3079\u3093</rt></ruby>\u3067\u3054\u3056\u3044\u307e\u3059\u3002", "explain": "\u8fd9\u30fc\u5e26\u7684\u4ea4\u901a\u5b9e\u5728\u4e0d\u65b9\u4fbf\u3002", "other": ""}, {"id": 22503, "ruby": "\u3053\u3061\u3089\u306f<ruby><rb>\u90e8\u9577</rb><rt>\u3076\u3061\u3087\u3046</rt></ruby>\u306e<ruby><rb>\u6e21\u8fba</rb><rt>\u308f\u305f\u306a\u3079</rt></ruby>\u3067\u3054\u3056\u3044\u307e\u3059\u3002", "explain": "\u8fd9\u4f4d\u662f\u6e21\u8fb9\u90e8\u957f\u3002", "other": ""}]}]}
+{
+    "id": 11072,
+    "level": "N3",
+    "title": "でございます",
+    "means": [
+        {
+            "id": 11072100,
+            "format": "ナＡ/N十でございます",
+            "mean": "  「〜でございます」是「です」的礼貌语。 ",
+            "type": [
+                "敬意"
+            ],
+            "examples": [
+                {
+                    "id": 22501,
+                    "ruby": "はい、IBMでございます。",
+                    "explain": "你好，这里是IBM公司。",
+                    "other": ""
+                },
+                {
+                    "id": 22502,
+                    "ruby": "この<ruby>辺<rt>あた</rt></ruby>りは<ruby>交通<rt>こうつう</rt></ruby>がとても<ruby>不便<rt>ふべん</rt></ruby>でございます。",
+                    "explain": "这ー带的交通实在不方便。",
+                    "other": ""
+                },
+                {
+                    "id": 22503,
+                    "ruby": "こちらは<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>渡辺<rt>わたなべ</rt></ruby>でございます。",
+                    "explain": "这位是渡边部长。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

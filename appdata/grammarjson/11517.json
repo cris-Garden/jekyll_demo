@@ -1,1 +1,16 @@
-{"id": 11517, "level": "N4", "title": "\u306a\u3044\u3068", "means": [{"id": 11517100, "format": "77y244Gq44GE5b2i77yL44Go", "mean": ["wqDCoOWQq+S5ieWSjOOAjOOBquOBhOOBqOOBhOOBkeOBvuOBm+OCk+OAjeebuOWQjO+8jOW5tuS4lOecgeeVpeS6huOAjOOBhOOBkeOBvuOBm+OCk+OAje+8jOOAjO+9nuOBquOBhOOBqOOAjeaYr+avlOi+g+WPo+ivreeahOihqOi+vuaWueW8j+OAguaYr+KAnOS4jeW+l+S4jS/lv4XpobvigJ3nmoTmhI/mgJ3jgIIg"], "type": ["\u7fa9\u52d9"], "examples": []}]}
+{
+    "id": 11517,
+    "level": "N4",
+    "title": "ないと",
+    "means": [
+        {
+            "id": 11517100,
+            "format": "Ｖない形＋と",
+            "mean": "  含义和「ないといけません」相同，并且省略了「いけません」，「～ないと」是比较口语的表达方式。是“不得不/必须”的意思。 ",
+            "type": [
+                "義務"
+            ],
+            "examples": []
+        }
+    ]
+}

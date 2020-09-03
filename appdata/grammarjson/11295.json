@@ -1,1 +1,35 @@
-{"id": 11295, "level": "N4", "title": "\u306a", "means": [{"id": 11295100, "format": "VuOCiyvjgao=", "mean": ["wqDCoOemgeatouKApuKApuOAgeS4jeWFgSDorrjigKbigKYg"], "type": ["\u7981\u6b62"], "examples": [{"id": 23494, "ruby": "\u3042\u306e<ruby><rb>\u90e8\u5c4b</rb><rt>\u3078\u3084</rt></ruby>\u306b\u306f<ruby><rb>\u5165</rb><rt>\u306f\u3044</rt></ruby>\u308b\u306a\u3002", "explain": "\u4e0d\u8981\u8fdb\u90a3\u4e2a\u623f\u95f4\u3002", "other": ""}, {"id": 23495, "ruby": "\u305d\u306e<ruby><rb>\u6a5f\u68b0</rb><rt>\u304d\u304b\u3044</rt></ruby>\u306b<ruby><rb>\u89e6</rb><rt>\u3055\u308f</rt></ruby>\u308b\u306a\u3088\u3002", "explain": "\u4e0d\u80fd\u78b0\u90a3\u53f0\u673a\u5668\u3002", "other": ""}, {"id": 23496, "ruby": "\u3053\u3053\u306b<ruby><rb>\u8eca</rb><rt>\u304f\u308b\u307e</rt></ruby>\u3092<ruby><rb>\u6b62</rb><rt>\u3068</rt></ruby>\u3081\u308b\u306a\u3002", "explain": "\u4e0d\u8981\u5728\u6b64\u505c\u8f66\u3002", "other": ""}]}]}
+{
+    "id": 11295,
+    "level": "N4",
+    "title": "な",
+    "means": [
+        {
+            "id": 11295100,
+            "format": "Vる+な",
+            "mean": "  禁止……、不允 许…… ",
+            "type": [
+                "禁止"
+            ],
+            "examples": [
+                {
+                    "id": 23494,
+                    "ruby": "あの<ruby>部屋<rt>へや</rt></ruby>には<ruby>入<rt>はい</rt></ruby>るな。",
+                    "explain": "不要进那个房间。",
+                    "other": ""
+                },
+                {
+                    "id": 23495,
+                    "ruby": "その<ruby>機械<rt>きかい</rt></ruby>に<ruby>触<rt>さわ</rt></ruby>るなよ。",
+                    "explain": "不能碰那台机器。",
+                    "other": ""
+                },
+                {
+                    "id": 23496,
+                    "ruby": "ここに<ruby>車<rt>くるま</rt></ruby>を<ruby>止<rt>と</rt></ruby>めるな。",
+                    "explain": "不要在此停车。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,29 @@
-{"id": 11467, "level": "N5", "title": "\u306f", "means": [{"id": 11467100, "format": "44GrL+OBpy/jgbgv44GL44KJL+OBvuOBpy/jgajjgIDvvIvjga8NCg==", "mean": [""], "type": ["\u69d8\u5b50\u30fb\u72b6\u614b"], "examples": [{"id": 24352, "ruby": "\u308f\u305f\u3057\u306e<ruby><rb>\u90e8\u5c4b</rb><rt>\u3078\u3084</rt></ruby>\u306b\u306f<ruby><rb>\u96fb\u8a71</rb><rt>\u3067\u3093\u308f</rt></ruby>\u304c\u3042\u308a\u307e\u305b\u3093\u3002", "explain": "\u6211\u7684\u623f\u95f4\u6ca1\u6709\u7535\u8bdd\u3002", "other": ""}, {"id": 24353, "ruby": "<ruby><rb>\u97d3</rb><rt>\u304b\u3093</rt></ruby><ruby><rb>\u570b</rb><rt>\u304f\u306b</rt></ruby>\u3078\u306f<ruby><rb>\u884c</rb><rt>\u3044</rt></ruby>\u304d\u307e\u3057\u305f\u3002<ruby><rb>\u4e2d\u56fd</rb><rt>\u3061\u3085\u3046\u3054\u304f</rt></ruby>\u3078\u306f<ruby><rb>\u884c</rb><rt>\u3044</rt></ruby>\u304d\u307e\u305b\u3093\u3067\u3057\u305f\u3002", "explain": "\u6211\u53bb\u4e86\u97e9\u56fd\u3002\u6ca1\u6709\u53bb\u4e2d\u56fd\u3002", "other": ""}]}]}
+{
+    "id": 11467,
+    "level": "N5",
+    "title": "は",
+    "means": [
+        {
+            "id": 11467100,
+            "format": "に/で/へ/から/まで/と　＋は\r\n",
+            "mean": "",
+            "type": [
+                "様子・状態"
+            ],
+            "examples": [
+                {
+                    "id": 24352,
+                    "ruby": "わたしの<ruby>部屋<rt>へや</rt></ruby>には<ruby>電話<rt>でんわ</rt></ruby>がありません。",
+                    "explain": "我的房间没有电话。",
+                    "other": ""
+                },
+                {
+                    "id": 24353,
+                    "ruby": "<ruby>韓<rt>かん</rt></ruby><ruby>國<rt>くに</rt></ruby>へは<ruby>行<rt>い</rt></ruby>きました。<ruby>中国<rt>ちゅうごく</rt></ruby>へは<ruby>行<rt>い</rt></ruby>きませんでした。",
+                    "explain": "我去了韩国。没有去中国。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

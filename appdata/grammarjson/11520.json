@@ -1,1 +1,35 @@
-{"id": 11520, "level": "N4", "title": "\u3070\u304b\u308a\u3067\u3059", "means": [{"id": 11520100, "format": "VuOBnyvjgbDjgYvjgoo=", "mean": ["wqDCoOWImuKApuKApiA="], "type": ["\u6642\u70b9\u30fb\u5834\u9762"], "examples": [{"id": 24463, "ruby": "A\uff1a<ruby><rb>\u98ef</rb><rt>\u306f\u3093</rt></ruby>\u3092<ruby><rb>\u98df</rb><rt>\u305f</rt></ruby>\u3079\u307e\u3057\u305f\u304b\u3002\u5403\u8fc7\u996d\u4e86\u5417\uff1f B\uff1a\u306f\u3044\u3001\u305f\u3063\u305f\u4eca\u98df\u3079\u305f\u3070\u304b\u308a\u3067\u3059\u3002", "explain": "\u5403\u8fc7\u996d\u4e86\u5417\uff1f B\uff1a\u306f\u3044\u3001\u305f\u3063\u305f\u4eca\u98df\u3079\u305f<span style=\"text-decoration: underline;\">\u3070\u304b\u308a</span>\u3067\u3059\u662f\u7684\uff0c\u521a\u5403\u8fc7\u3002", "other": ""}, {"id": 24464, "ruby": "\u3053\u306e\u30ab\u30e1\u30e9\u306f<ruby><rb>\u5148\u9031</rb><rt>\u305b\u3093\u3057\u3085\u3046</rt></ruby><ruby><rb>\u8cb7</rb><rt>\u304b</rt></ruby>\u3063\u305f\u3070\u304b\u308a\u306a\u306e\u306b\u3001\u3082\u3046<ruby><rb>\u58ca</rb><rt>\u3053\u308f</rt></ruby>\u308c\u3066\u3057\u307e\u3063\u305f\u3002", "explain": "\u8fd9\u90e8\u76f8\u673a\u4e0a \u5468\u521a\u4e70\u7684\uff0c\u5374\u5df2\u7ecf\u574f\u4e86\u3002", "other": ""}, {"id": 24465, "ruby": "<ruby><rb>\u79c1</rb><rt>\u308f\u305f\u3057</rt></ruby>\u306f<ruby><rb>\u5148\u9031</rb><rt>\u305b\u3093\u3057\u3085\u3046</rt></ruby><ruby><rb>\u4f1a\u793e</rb><rt>\u304b\u3044\u3057\u3083</rt></ruby>\u306b<ruby><rb>\u5165</rb><rt>\u306f\u3044</rt></ruby>\u3063\u305f\u3070\u304b\u308a\u3067\u3059\u304b\u3089\u3001<ruby><rb>\u4f55</rb><rt>\u306a\u306b</rt></ruby>\u3082<ruby><rb>\u5206</rb><rt>\u308f</rt></ruby>\u304b\u308a\u307e\u305b\u3093\u3002", "explain": "\u6211\u4e0a\u4e2a\u661f\u671f \u521a\u8fdb\u516c\u53f8\uff0c\u6240\u4ee5\u4ec0\u4e48\u90fd\u4e0d\u61c2\u3002", "other": ""}]}]}
+{
+    "id": 11520,
+    "level": "N4",
+    "title": "ばかりです",
+    "means": [
+        {
+            "id": 11520100,
+            "format": "Vた+ばかり",
+            "mean": "  刚…… ",
+            "type": [
+                "時点・場面"
+            ],
+            "examples": [
+                {
+                    "id": 24463,
+                    "ruby": "A：<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましたか。吃过饭了吗？ B：はい、たった今食べたばかりです。",
+                    "explain": "吃过饭了吗？ B：はい、たった今食べたばかりです是的，刚吃过。",
+                    "other": ""
+                },
+                {
+                    "id": 24464,
+                    "ruby": "このカメラは<ruby>先週<rt>せんしゅう</rt></ruby><ruby>買<rt>か</rt></ruby>ったばかりなのに、もう<ruby>壊<rt>こわ</rt></ruby>れてしまった。",
+                    "explain": "这部相机上 周刚买的，却已经坏了。",
+                    "other": ""
+                },
+                {
+                    "id": 24465,
+                    "ruby": "<ruby>私<rt>わたし</rt></ruby>は<ruby>先週<rt>せんしゅう</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったばかりですから、<ruby>何<rt>なに</rt></ruby>も<ruby>分<rt>わ</rt></ruby>かりません。",
+                    "explain": "我上个星期 刚进公司，所以什么都不懂。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

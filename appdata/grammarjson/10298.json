@@ -1,1 +1,53 @@
-{"id": 10298, "level": "N2", "title": "\u3056\u308b\u3092\u3048\u306a\u3044", "means": [{"id": 10298100, "format": "VuOBquOBhCvjgZbjgovjgpLvvIvjgYjjgarjgYTigIPigIMNCuS+i+WkluKAg+OBl+OBquOBhOKGkuOBm+OBluOCi+OCkuOBiOOBquOBhA==", "mean": ["44Gp44GG44GX44Gm44KC4oi844GZ44KL5b+F6KaB44GM44GC44KL77yP4oi844GX44Gq44GR44KM44Gw44Gq44KJ44Gq44GEwqDCoOS4jeW+l+S4je+9nu+8jOaXoOiuuuWmguS9leS5n+i6suS4jei/h++9niA="], "type": ["\u5f37\u5236"], "examples": [{"id": 19978, "ruby": "<ruby><rb>\u4f1a\u793e</rb><rt>\u304b\u3044\u3057\u3083</rt></ruby>\u306e<ruby><rb>\u4e0a</rb><rt>\u3046\u3048</rt></ruby>\u306e<ruby><rb>\u4eba</rb><rt>\u3072\u3068</rt></ruby>\u306b<ruby><rb>\u547d\u4ee4</rb><rt>\u3081\u3044\u308c\u3044</rt></ruby>\u3055\u308c\u305f<ruby><rb>\u4ed5\u4e8b</rb><rt>\u3057\u3054\u3068</rt></ruby>\u306a\u3089\u3001<ruby><rb>\u793e\u54e1</rb><rt>\u3057\u3083\u3044\u3093</rt></ruby>\u306f<ruby><rb>\u5acc</rb><rt>\u3044\u3084</rt></ruby>\u3067\u3082\u3084\u3089\u3056\u308b\u3092\u3048\u306a\u3044\u3002", "explain": "\u5982\u679c\u662f\u516c\u53f8\u4e0a\u53f8\u6307\u6d3e\u7684\u5de5\u4f5c\uff0c\u804c\u5458\u5373\u4f7f\u4e0d\u613f\u610f\uff0c\u4e5f\u4e0d\u5f97\u4e0d\u505a\u3002", "other": ""}, {"id": 19979, "ruby": "<ruby><rb>\u4f1a\u793e</rb><rt>\u304b\u3044\u3057\u3083</rt></ruby>\u304c<ruby><rb>\u5012\u7523</rb><rt>\u3068\u3046\u3055\u3093</rt></ruby>\u3057\u305f\u306e\u306f<ruby><rb>\u793e\u9577</rb><rt>\u3057\u3083\u3061\u3087\u3046</rt></ruby>\u306b<ruby><rb>\u8cac\u4efb</rb><rt>\u305b\u304d\u306b\u3093</rt></ruby>\u304c\u3042\u308b\u3068<ruby><rb>\u8a00</rb><rt>\u3044</rt></ruby>\u308f\u3056\u308b\u3092\u3048\u306a\u3044\u3002", "explain": "\u4e0d\u5f97\u4e0d\u8bf4\uff0c\u516c\u53f8\u5012\u95ed\u8fd9\u4ef6\u4e8b\u513f\uff0c\u793e\u957f\u662f\u6709\u8d23\u4efb\u7684\u3002", "other": ""}, {"id": 19980, "ruby": "<ruby><rb>\u5316\u5b66</rb><rt>\u304b\u304c\u304f</rt></ruby>\u306f<ruby><rb>\u597d</rb><rt>\u3059</rt></ruby>\u304d\u3067\u306f\u306a\u3044\u304c\u3001<ruby><rb>\u5fc5\u4fee</rb><rt>\u3072\u3063\u3057\u3085\u3046</rt></ruby>\u3060\u304b\u3089<ruby><rb>\u53d6</rb><rt>\u3068</rt></ruby>\u3089\u3056\u308b\u3092\u3048\u306a\u3044\u3002", "explain": "\u867d\u7136\u4e0d\u559c\u6b22\u5316\u5b66\uff0c\u4f46\u662f\u56e0\u4e3a\u662f\u5fc5\u4fee\u8bfe\uff0c\u4e0d\u5f97\u4e0d\u4e0a\u3002", "other": ""}, {"id": 19981, "ruby": "<ruby><rb>\u4f53\u8abf</rb><rt>\u305f\u3044\u3061\u3087\u3046</rt></ruby>\u306f\u3042\u307e\u308a\u3088\u304f\u306a\u3044\u304c\u3001<ruby><rb>\u4eca\u65e5</rb><rt>\u304d\u3087\u3046</rt></ruby>\u306f<ruby><rb>\u4eba\u624b</rb><rt>\u3072\u3068\u3067</rt></ruby>\u304c<ruby><rb>\u8db3</rb><rt>\u305f</rt></ruby>\u308a\u306a\u3044\u306e\u3067<ruby><rb>\u50cd</rb><rt>\u306f\u305f\u3089</rt></ruby>\u304b\u3056\u308b\u3092\u3048\u306a\u3044\u3002", "explain": "\u867d\u7136\u8eab\u4f53\u72b6\u51b5\u4e0d\u592a\u597d\uff0c\u4f46\u662f\u56e0\u4e3a\u4eca\u5929\u4eba\u624b\u4e0d\u591f\uff0c\u4e0d\u5f97\u4e0d\u5de5\u4f5c\u3002", "other": ""}, {"id": 19982, "ruby": "<ruby><rb>\u9593\u9055</rb><rt>\u307e\u3061\u304c</rt></ruby>\u3063\u3066\u3044\u308b\u3068<ruby><rb>\u8a00</rb><rt>\u3044</rt></ruby>\u308f\u3056\u308b\u3092<ruby><rb>\u5f97</rb><rt>\u3048</rt></ruby>\u306a\u3044\u3002", "explain": "\u4e0d\u5f97\u4e0d\u8bf4\u9519\u4e86\u3002", "other": ""}, {"id": 19983, "ruby": "<ruby><rb>\u5de5\u4e8b</rb><rt>\u3053\u3046\u3058</rt></ruby>\u304c<ruby><rb>\u9593</rb><rt>\u307e</rt></ruby>\u306b<ruby><rb>\u5408</rb><rt>\u3042</rt></ruby>\u308f\u306a\u3044\u305f\u3081\u3001\u30b9\u30dd\u30fc\u30c4<ruby><rb>\u5927\u4f1a</rb><rt>\u305f\u3044\u304b\u3044</rt></ruby>\u306e<ruby><rb>\u958b\u50ac</rb><rt>\u304b\u3044\u3055\u3044</rt></ruby>\u306f\u3001<ruby><rb>\u5ef6\u671f</rb><rt>\u3048\u3093\u304d</rt></ruby>\u305b\u3056\u308b\u3092<ruby><rb>\u5f97</rb><rt>\u3048</rt></ruby>\u306a\u3044\u3060\u308d\u3046\u3002", "explain": "\u7531\u4e8e\u65bd\u5de5\u8d76\u4e0d\u53ca\uff0c\u8fd0\u52a8\u4f1a\u4e0d\u5f97\u4e0d\u5ef6\u671f\u53ec\u5f00\u4e86\u5427\u3002", "other": ""}]}]}
+{
+    "id": 10298,
+    "level": "N2",
+    "title": "ざるをえない",
+    "means": [
+        {
+            "id": 10298100,
+            "format": "Vない+ざるを＋えない  \r\n例外 しない→せざるをえない",
+            "mean": "どうしても∼する必要がある／∼しなければならない  不得不～，无论如何也躲不过～ ",
+            "type": [
+                "強制"
+            ],
+            "examples": [
+                {
+                    "id": 19978,
+                    "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>命令<rt>めいれい</rt></ruby>された<ruby>仕事<rt>しごと</rt></ruby>なら、<ruby>社員<rt>しゃいん</rt></ruby>は<ruby>嫌<rt>いや</rt></ruby>でもやらざるをえない。",
+                    "explain": "如果是公司上司指派的工作，职员即使不愿意，也不得不做。",
+                    "other": ""
+                },
+                {
+                    "id": 19979,
+                    "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>倒産<rt>とうさん</rt></ruby>したのは<ruby>社長<rt>しゃちょう</rt></ruby>に<ruby>責任<rt>せきにん</rt></ruby>があると<ruby>言<rt>い</rt></ruby>わざるをえない。",
+                    "explain": "不得不说，公司倒闭这件事儿，社长是有责任的。",
+                    "other": ""
+                },
+                {
+                    "id": 19980,
+                    "ruby": "<ruby>化学<rt>かがく</rt></ruby>は<ruby>好<rt>す</rt></ruby>きではないが、<ruby>必修<rt>ひっしゅう</rt></ruby>だから<ruby>取<rt>と</rt></ruby>らざるをえない。",
+                    "explain": "虽然不喜欢化学，但是因为是必修课，不得不上。",
+                    "other": ""
+                },
+                {
+                    "id": 19981,
+                    "ruby": "<ruby>体調<rt>たいちょう</rt></ruby>はあまりよくないが、<ruby>今日<rt>きょう</rt></ruby>は<ruby>人手<rt>ひとで</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないので<ruby>働<rt>はたら</rt></ruby>かざるをえない。",
+                    "explain": "虽然身体状况不太好，但是因为今天人手不够，不得不工作。",
+                    "other": ""
+                },
+                {
+                    "id": 19982,
+                    "ruby": "<ruby>間違<rt>まちが</rt></ruby>っていると<ruby>言<rt>い</rt></ruby>わざるを<ruby>得<rt>え</rt></ruby>ない。",
+                    "explain": "不得不说错了。",
+                    "other": ""
+                },
+                {
+                    "id": 19983,
+                    "ruby": "<ruby>工事<rt>こうじ</rt></ruby>が<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないため、スポーツ<ruby>大会<rt>たいかい</rt></ruby>の<ruby>開催<rt>かいさい</rt></ruby>は、<ruby>延期<rt>えんき</rt></ruby>せざるを<ruby>得<rt>え</rt></ruby>ないだろう。",
+                    "explain": "由于施工赶不及，运动会不得不延期召开了吧。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}

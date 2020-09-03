@@ -1,1 +1,16 @@
-{"id": 11449, "level": "", "title": "\uff5e\u306f\uff5e\u3067\u3059\u304b", "means": [{"id": 11449100, "format": "", "mean": [""], "type": ["\u8a71\u984c"], "examples": []}]}
+{
+    "id": 11449,
+    "level": "",
+    "title": "～は～ですか",
+    "means": [
+        {
+            "id": 11449100,
+            "format": "",
+            "mean": "",
+            "type": [
+                "話題"
+            ],
+            "examples": []
+        }
+    ]
+}

@@ -1,1 +1,35 @@
-{"id": 11224, "level": "N4", "title": "\u3060\u3059", "means": [{"id": 11224100, "format": "Vu+8iOOBvuOBme+8iSvlh7rjgZk=", "mean": ["wqDCoOW8gOWni+KApuKApiA="], "type": ["\u5176\u5b83"], "examples": [{"id": 23026, "ruby": "<ruby><rb>\u5916</rb><rt>\u304c\u3044</rt></ruby>\u306f<ruby><rb>\u4eca</rb><rt>\u3044\u307e</rt></ruby>\u306b\u3082<ruby><rb>\u96e8</rb><rt>\u3042\u3081</rt></ruby>\u304c<ruby><rb>\u964d</rb><rt>\u304a</rt></ruby>\u308a<ruby><rb>\u51fa</rb><rt>\u3060</rt></ruby>\u3057\u305d\u3046\u306a<ruby><rb>\u5929\u6c17</rb><rt>\u3066\u3093\u304d</rt></ruby>\u3067\u3059\u3002", "explain": "\u770b\u770b\u5929\u7a7a\u7684\u6837\u5b50\uff0c\u773c\u770b\u5c31\u8981\u4e0b\u96e8\u4e86\u3002", "other": ""}, {"id": 23027, "ruby": "<ruby><rb>\u592a\u90ce</rb><rt>\u305f\u308d\u3046</rt></ruby>\u304c\u3042\u306e<ruby><rb>\u5c0f\u8aac</rb><rt>\u3057\u3087\u3046\u305b\u3064</rt></ruby>\u3092<ruby><rb>\u8aad</rb><rt>\u3088</rt></ruby>\u307f<ruby><rb>\u51fa</rb><rt>\u3060</rt></ruby>\u3057\u305f\u3089\u3001<ruby><rb>\u6669</rb><rt>\u3070\u3093</rt></ruby><ruby><rb>\u98ef</rb><rt>\u306f\u3093</rt></ruby>\u307e\u3067<ruby><rb>\u6b62</rb><rt>\u3068</rt></ruby>\u3081\u305d\u3046\u3082\u306a\u3044\u3002", "explain": "\u592a\u90ce\u4e00\u770b\u8d77\u90a3\u672c\u5c0f\u8bf4\u6765\uff0c\u5230\u5403\u665a\u996d\u65f6\u95f4\u65f6\u597d\u50cf\u4e5f\u4e0d\u80af\u505c\u4e0b\u6765\u3002", "other": ""}, {"id": 23028, "ruby": "<ruby><rb>\u4eca</rb><rt>\u3044\u307e</rt></ruby>\u307e\u3067<ruby><rb>\u5bdd</rb><rt>\u306d</rt></ruby>\u3066\u3044\u305f<ruby><rb>\u8d64</rb><rt>\u3042\u304b</rt></ruby>\u3061\u3083\u3093\u304c<ruby><rb>\u6025</rb><rt>\u304d\u3085\u3046</rt></ruby>\u306b<ruby><rb>\u6ce3</rb><rt>\u306a</rt></ruby>\u304d<ruby><rb>\u51fa</rb><rt>\u3060</rt></ruby>\u3057\u305f\u3002", "explain": "\u521a\u624d\u8fd8\u5728\u7761\u89c9\u7684\u5b9d\u5b9d\u7a81\u7136\u54ed\u4e86\u8d77\u6765\u3002", "other": ""}]}]}
+{
+    "id": 11224,
+    "level": "N4",
+    "title": "だす",
+    "means": [
+        {
+            "id": 11224100,
+            "format": "V（ます）+出す",
+            "mean": "  开始…… ",
+            "type": [
+                "其它"
+            ],
+            "examples": [
+                {
+                    "id": 23026,
+                    "ruby": "<ruby>外<rt>がい</rt></ruby>は<ruby>今<rt>いま</rt></ruby>にも<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>り<ruby>出<rt>だ</rt></ruby>しそうな<ruby>天気<rt>てんき</rt></ruby>です。",
+                    "explain": "看看天空的样子，眼看就要下雨了。",
+                    "other": ""
+                },
+                {
+                    "id": 23027,
+                    "ruby": "<ruby>太郎<rt>たろう</rt></ruby>があの<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>み<ruby>出<rt>だ</rt></ruby>したら、<ruby>晩<rt>ばん</rt></ruby><ruby>飯<rt>はん</rt></ruby>まで<ruby>止<rt>と</rt></ruby>めそうもない。",
+                    "explain": "太郎一看起那本小说来，到吃晚饭时间时好像也不肯停下来。",
+                    "other": ""
+                },
+                {
+                    "id": 23028,
+                    "ruby": "<ruby>今<rt>いま</rt></ruby>まで<ruby>寝<rt>ね</rt></ruby>ていた<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>急<rt>きゅう</rt></ruby>に<ruby>泣<rt>な</rt></ruby>き<ruby>出<rt>だ</rt></ruby>した。",
+                    "explain": "刚才还在睡觉的宝宝突然哭了起来。",
+                    "other": ""
+                }
+            ]
+        }
+    ]
+}
