@@ -1,6 +1,48 @@
 {
     "news": [
         {
+            "id": "k10012597841000",
+            "title": "「子どもが幸せな国」ランキング　日本は２０番",
+            "ruby": "「<ruby>子<rt>こ</rt></ruby>どもが<ruby>幸<rt>しあわ</rt></ruby>せな<ruby>国<rt>くに</rt></ruby>」ランキング　<ruby>日本<rt>にっぽん</rt></ruby>は２０<ruby>番<rt>ばん</rt></ruby>",
+            "time": "2020-09-04",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012597841000/k10012597841000.html",
+            "body": [],
+            "voiceurl": "k10012597841000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200903/../20200903/K10012597841_2009030851_2009030907_01_02.jpg",
+            "newsmovie": "k10012597841_202009031222_202009031240.mp4",
+            "path": "appdata/news/k10012597841000.json"
+        },
+        {
+            "id": "k10012598541000",
+            "title": "ＪＲ東日本　来年の春から電車が終わる時間を早くする",
+            "ruby": "ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>　<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わる<ruby>時間<rt>じかん</rt></ruby>を<ruby>早<rt>はや</rt></ruby>くする",
+            "time": "2020-09-04",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012598541000/k10012598541000.html",
+            "body": [],
+            "voiceurl": "k10012598541000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200903/../20200903/K10012598541_2009031634_2009031641_01_02.jpg",
+            "newsmovie": "k10012598541_202009031933_202009031938.mp4",
+            "path": "appdata/news/k10012598541000.json"
+        },
+        {
+            "id": "k10012598031000",
+            "title": "とても強い台風１０号　近くに来る前に準備してください",
+            "ruby": "とても<ruby>強<rt>つよ</rt></ruby>い<ruby>台風<rt>たいふう</rt></ruby>１０<ruby>号<rt>ごう</rt></ruby>　<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>く</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>準備<rt>じゅんび</rt></ruby>してください",
+            "time": "2020-09-04",
+            "imgurl": "k10012598031000.jpg",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012598031000/k10012598031000.html",
+            "body": [],
+            "voiceurl": "k10012598031000.mp4",
+            "movieurl": "''",
+            "newimage": "",
+            "newsmovie": "",
+            "path": "appdata/news/k10012598031000.json"
+        },
+        {
             "id": "k10012595671000",
             "title": "コロナウイルス　病院などで使う特別なマスクを日本で作る",
             "ruby": "コロナウイルス　<ruby>病院<rt>びょういん</rt></ruby>などで<ruby>使<rt>つか</rt></ruby>う<ruby>特別<rt>とくべつ</rt></ruby>なマスクを<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>る",
