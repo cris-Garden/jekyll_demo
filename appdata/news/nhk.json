@@ -771,20 +771,6 @@
             "path": "appdata/news/k10012560621000.json"
         },
         {
-            "id": "k10012561511000",
-            "title": "「香港で民主的な活動をしていた周庭さんを警察が逮捕」",
-            "ruby": "「<ruby>香港<rt>ほんこん</rt></ruby>で<ruby>民主的<rt>みんしゅてき</rt></ruby>な<ruby>活動<rt>かつどう</rt></ruby>をしていた<ruby>周<rt>しゅう</rt></ruby><ruby>庭<rt>てい</rt></ruby>さんを<ruby>警察<rt>けいさつ</rt></ruby>が<ruby>逮捕<rt>たいほ</rt></ruby>」",
-            "time": "2020-08-11",
-            "imgurl": "''",
-            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012561511000/k10012561511000.html",
-            "body": [],
-            "voiceurl": "k10012561511000.mp4",
-            "movieurl": "''",
-            "newimage": "https://www3.nhk.or.jp/news/html/20200810/../20200810/K10012561511_2008110442_2008110443_01_03.jpg",
-            "newsmovie": "k10012561511_202008110443_202008110443.mp4",
-            "path": "appdata/news/k10012561511000.json"
-        },
-        {
             "id": "k10012559371000",
             "title": "長崎に原爆が落とされてから７５年　平和を祈る式",
             "ruby": "<ruby>長崎<rt>ながさき</rt></ruby>に<ruby>原爆<rt>げんばく</rt></ruby>が<ruby>落<rt>お</rt></ruby>とされてから７５<ruby>年<rt>ねん</rt></ruby>　<ruby>平和<rt>へいわ</rt></ruby>を<ruby>祈<rt>いの</rt></ruby>る<ruby>式<rt>しき</rt></ruby>",
