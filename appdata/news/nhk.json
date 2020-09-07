@@ -1,6 +1,34 @@
 {
     "news": [
         {
+            "id": "k10012600631000",
+            "title": "都道府県の「幸せのランキング」　１番は４回続けて福井県",
+            "ruby": "<ruby>都道府県<rt>とどうふけん</rt></ruby>の「<ruby>幸<rt>しあわ</rt></ruby>せのランキング」　１<ruby>番<rt>ばん</rt></ruby>は４<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>福井県<rt>ふくいけん</rt></ruby>",
+            "time": "2020-09-07",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012600631000/k10012600631000.html",
+            "body": [],
+            "voiceurl": "k10012600631000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200904/../20200904/K10012600631_2009041648_2009041650_01_02.jpg",
+            "newsmovie": "",
+            "path": "appdata/news/k10012600631000.json"
+        },
+        {
+            "id": "k10012604711000",
+            "title": "台風１０号　強い風や雨で大きな被害",
+            "ruby": "<ruby>台風<rt>たいふう</rt></ruby>１０<ruby>号<rt>ごう</rt></ruby>　<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>や<ruby>雨<rt>あめ</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>被害<rt>ひがい</rt></ruby>",
+            "time": "2020-09-07",
+            "imgurl": "k10012604711000.jpg",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012604711000/k10012604711000.html",
+            "body": [],
+            "voiceurl": "k10012604711000.mp4",
+            "movieurl": "''",
+            "newimage": "",
+            "newsmovie": "",
+            "path": "appdata/news/k10012604711000.json"
+        },
+        {
             "id": "k10012597841000",
             "title": "「子どもが幸せな国」ランキング　日本は２０番",
             "ruby": "「<ruby>子<rt>こ</rt></ruby>どもが<ruby>幸<rt>しあわ</rt></ruby>せな<ruby>国<rt>くに</rt></ruby>」ランキング　<ruby>日本<rt>にっぽん</rt></ruby>は２０<ruby>番<rt>ばん</rt></ruby>",

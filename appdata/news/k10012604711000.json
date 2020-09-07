@@ -1,0 +1,45 @@
+{
+    "id": "k10012604711000",
+    "title": "台風１０号　強い風や雨で大きな被害",
+    "ruby": "<ruby>台風<rt>たいふう</rt></ruby>１０<ruby>号<rt>ごう</rt></ruby>　<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>や<ruby>雨<rt>あめ</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>被害<rt>ひがい</rt></ruby>",
+    "time": "2020-09-07",
+    "imgurl": "k10012604711000.jpg",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012604711000/k10012604711000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>台風<rt>たいふう</rt></ruby>１０<ruby>号<rt>ごう</rt></ruby>で、<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いたり、<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>ったりして、<ruby>九州<rt>きゅうしゅう</rt></ruby>などでは<ruby>大<rt>おお</rt></ruby>きな<ruby>被害<rt>ひがい</rt></ruby>がありました。",
+            "origin": "台風１０号で、強い風が吹いたり、雨がたくさん降ったりして、九州などでは大きな被害がありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>宮崎県<rt>みやざきけん</rt></ruby><ruby>椎葉村<rt>しいばそん</rt></ruby>では、<ruby>山<rt>やま</rt></ruby>が<ruby>崩<rt>くず</rt></ruby>れて<ruby>建物<rt>たてもの</rt></ruby>が<ruby>川<rt>かわ</rt></ruby>に<ruby>流<rt>なが</rt></ruby>されて、<ruby>中<rt>なか</rt></ruby>にいた４<ruby>人<rt>にん</rt></ruby>が<ruby>行方不明<rt>ゆくえふめい</rt></ruby>になっています。",
+            "origin": "宮崎県椎葉村では、山が崩れて建物が川に流されて、中にいた４人が行方不明になっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>雨<rt>あめ</rt></ruby>や<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>くなる<ruby>前<rt>まえ</rt></ruby>に<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>避難所<rt>ひなんじょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>がたくさんいました。<ruby>長崎県<rt>ながさきけん</rt></ruby><ruby>五島市<rt>ごとうし</rt></ruby>の<ruby>避難所<rt>ひなんじょ</rt></ruby>では、<ruby>窓<rt>まど</rt></ruby>ガラスが<ruby>割<rt>わ</rt></ruby>れて、４<ruby>人<rt>にん</rt></ruby>がけがをしました。<ruby>避難所<rt>ひなんじょ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で<ruby>入<rt>はい</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくした<ruby>所<rt>ところ</rt></ruby>があります。このため、<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>避難所<rt>ひなんじょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることができない<ruby>人<rt>ひと</rt></ruby>もいました。",
+            "origin": "雨や風が強くなる前に安全な避難所に行った人がたくさんいました。長崎県五島市の避難所では、窓ガラスが割れて、４人がけがをしました。避難所の中には、新しいコロナウイルスの問題で入る人を少なくした所があります。このため、家の近くの避難所に入ることができない人もいました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>７日<rt>なのか</rt></ruby>、<ruby>九州<rt>きゅうしゅう</rt></ruby>ではいちばん<ruby>多<rt>おお</rt></ruby>いときで<ruby>約<rt>やく</rt></ruby>４７<ruby>万<rt>まん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>が<ruby>停電<rt>ていでん</rt></ruby>しました。",
+            "origin": "７日、九州ではいちばん多いときで約４７万の家が停電しました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>台風<rt>たいふう</rt></ruby>１０<ruby>号<rt>ごう</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>から<ruby>北<rt>きた</rt></ruby>に<ruby>向<rt>む</rt></ruby>かいましたが、<ruby>８日<rt>ようか</rt></ruby>まで<ruby>太平洋<rt>たいへいよう</rt></ruby><ruby>側<rt>がわ</rt></ruby>では<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>りそうです。",
+            "origin": "台風１０号は日本から北に向かいましたが、８日まで太平洋側では雨がたくさん降りそうです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>で<ruby>飛<rt>と</rt></ruby>んできた<ruby>建物<rt>たてもの</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>や<ruby>木<rt>き</rt></ruby>の<ruby>枝<rt>えだ</rt></ruby>などが、まだ<ruby>落<rt>お</rt></ruby>ちている<ruby>道<rt>みち</rt></ruby>があります。このような<ruby>道<rt>みち</rt></ruby>では、<ruby>車<rt>くるま</rt></ruby>のタイヤがパンクすることもあるため、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>するときは<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>気<rt>き</rt></ruby>をつけてください。",
+            "origin": "強い風で飛んできた建物の一部や木の枝などが、まだ落ちている道があります。このような道では、車のタイヤがパンクすることもあるため、車を運転するときは十分気をつけてください。"
+        }
+    ],
+    "voiceurl": "k10012604711000.mp4",
+    "movieurl": "''",
+    "newimage": "",
+    "newsmovie": "",
+    "path": "appdata/news/k10012604711000.json"
+}
