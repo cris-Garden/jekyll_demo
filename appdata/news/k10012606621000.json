@@ -1,0 +1,35 @@
+{
+    "id": "k10012606621000",
+    "title": "上野動物園　パンダを見てもらうための新しい施設ができる",
+    "ruby": "<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　パンダを<ruby>見<rt>み</rt></ruby>てもらうための<ruby>新<rt>あたら</rt></ruby>しい<ruby>施設<rt>しせつ</rt></ruby>ができる",
+    "time": "2020-09-08",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012606621000/k10012606621000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>に、パンダを<ruby>見<rt>み</rt></ruby>てもらうための<ruby>新<rt>あたら</rt></ruby>しい<ruby>施設<rt>しせつ</rt></ruby>「パンダのもり」ができました。<ruby>広<rt>ひろ</rt></ruby>さは６８００m²で、<ruby>今<rt>いま</rt></ruby>までの<ruby>施設<rt>しせつ</rt></ruby>の３<ruby>倍<rt>ばい</rt></ruby><ruby>広<rt>ひろ</rt></ruby>くなりました。<ruby>野生<rt>やせい</rt></ruby>のパンダがいる<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>四川省<rt>しせんしょう</rt></ruby>の<ruby>森<rt>もり</rt></ruby>のように、<ruby>木<rt>き</rt></ruby>や<ruby>岩<rt>いわ</rt></ruby>があって<ruby>小<rt>ちい</rt></ruby>さい<ruby>山<rt>やま</rt></ruby>になっています。",
+            "origin": "東京の上野動物園に、パンダを見てもらうための新しい施設「パンダのもり」ができました。広さは６８００m²で、今までの施設の３倍広くなりました。野生のパンダがいる中国の四川省の森のように、木や岩があって小さい山になっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "この<ruby>施設<rt>しせつ</rt></ruby>には<ruby>雄<rt>おす</rt></ruby>のリーリーと<ruby>雌<rt>めす</rt></ruby>のシンシンがいます。リーリーとシンシンは、３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれたシャンシャンのお<ruby>父<rt>とう</rt></ruby>さんとお<ruby>母<rt>かあ</rt></ruby>さんです。<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しい<ruby>施設<rt>しせつ</rt></ruby>で<ruby>次<rt>つぎ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれるようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "この施設には雄のリーリーと雌のシンシンがいます。リーリーとシンシンは、３年前に生まれたシャンシャンのお父さんとお母さんです。上野動物園は、新しい施設で次の赤ちゃんが生まれるようにしたいと考えています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>８日<rt>ようか</rt></ruby>から、<ruby>予約<rt>よやく</rt></ruby>をすると<ruby>誰<rt>だれ</rt></ruby>でも<ruby>新<rt>あたら</rt></ruby>しい<ruby>施設<rt>しせつ</rt></ruby>にいるパンダを<ruby>見<rt>み</rt></ruby>ることができます。",
+            "origin": "８日から、予約をすると誰でも新しい施設にいるパンダを見ることができます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は「<ruby>施設<rt>しせつ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しくなって、パンダも<ruby>楽<rt>たの</rt></ruby>しそうに<ruby>見<rt>み</rt></ruby>えました」とか「<ruby>次<rt>つぎ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれるといいなと<ruby>思<rt>おも</rt></ruby>います」などと<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "見に来た人は「施設が新しくなって、パンダも楽しそうに見えました」とか「次の赤ちゃんが生まれるといいなと思います」などと話していました。"
+        }
+    ],
+    "voiceurl": "k10012606621000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200908/../20200908/K10012606621_2009081155_2009081227_01_03.jpg",
+    "newsmovie": "k10012606621_202009081218_202009081220.mp4",
+    "path": "appdata/news/k10012606621000.json"
+}

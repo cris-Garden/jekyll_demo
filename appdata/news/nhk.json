@@ -1,6 +1,48 @@
 {
     "news": [
         {
+            "id": "k10012606621000",
+            "title": "上野動物園　パンダを見てもらうための新しい施設ができる",
+            "ruby": "<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　パンダを<ruby>見<rt>み</rt></ruby>てもらうための<ruby>新<rt>あたら</rt></ruby>しい<ruby>施設<rt>しせつ</rt></ruby>ができる",
+            "time": "2020-09-08",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012606621000/k10012606621000.html",
+            "body": [],
+            "voiceurl": "k10012606621000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200908/../20200908/K10012606621_2009081155_2009081227_01_03.jpg",
+            "newsmovie": "k10012606621_202009081218_202009081220.mp4",
+            "path": "appdata/news/k10012606621000.json"
+        },
+        {
+            "id": "k10012605611000",
+            "title": "オンラインゲーム「子どもがするときは親が一緒にいて」",
+            "ruby": "オンラインゲーム「<ruby>子<rt>こ</rt></ruby>どもがするときは<ruby>親<rt>おや</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>にいて」",
+            "time": "2020-09-08",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012605611000/k10012605611000.html",
+            "body": [],
+            "voiceurl": "k10012605611000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200907/../20200907/K10012605611_2009071739_2009071856_01_02.jpg",
+            "newsmovie": "",
+            "path": "appdata/news/k10012605611000.json"
+        },
+        {
+            "id": "k10012605851000",
+            "title": "台風１０号　５００以上の避難所で中に入れない人がいた",
+            "ruby": "<ruby>台風<rt>たいふう</rt></ruby>１０<ruby>号<rt>ごう</rt></ruby>　５００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>避難所<rt>ひなんじょ</rt></ruby>で<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>れない<ruby>人<rt>ひと</rt></ruby>がいた",
+            "time": "2020-09-08",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012605851000/k10012605851000.html",
+            "body": [],
+            "voiceurl": "k10012605851000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200907/../20200907/K10012605851_2009071917_2009072009_01_03.jpg",
+            "newsmovie": "k10012605851_202009071944_202009071950.mp4",
+            "path": "appdata/news/k10012605851000.json"
+        },
+        {
             "id": "k10012600631000",
             "title": "都道府県の「幸せのランキング」　１番は４回続けて福井県",
             "ruby": "<ruby>都道府県<rt>とどうふけん</rt></ruby>の「<ruby>幸<rt>しあわ</rt></ruby>せのランキング」　１<ruby>番<rt>ばん</rt></ruby>は４<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>福井県<rt>ふくいけん</rt></ruby>",

@@ -1,0 +1,35 @@
+{
+    "id": "k10012605851000",
+    "title": "台風１０号　５００以上の避難所で中に入れない人がいた",
+    "ruby": "<ruby>台風<rt>たいふう</rt></ruby>１０<ruby>号<rt>ごう</rt></ruby>　５００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>避難所<rt>ひなんじょ</rt></ruby>で<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>れない<ruby>人<rt>ひと</rt></ruby>がいた",
+    "time": "2020-09-08",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012605851000/k10012605851000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "ＮＨＫが<ruby>調<rt>しら</rt></ruby>べると、<ruby>台風<rt>たいふう</rt></ruby>１０<ruby>号<rt>ごう</rt></ruby>のとき、<ruby>九州<rt>きゅうしゅう</rt></ruby>と<ruby>山口県<rt>やまぐちけん</rt></ruby>の５１４の<ruby>避難所<rt>ひなんじょ</rt></ruby>で、<ruby>入<rt>はい</rt></ruby>ることができると<ruby>決<rt>き</rt></ruby>めた<ruby>人数<rt>にんずう</rt></ruby>よりたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>き</rt></ruby>たことがわかりました。あとから<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は<ruby>避難所<rt>ひなんじょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることができませんでした。",
+            "origin": "ＮＨＫが調べると、台風１０号のとき、九州と山口県の５１４の避難所で、入ることができると決めた人数よりたくさんの人が来たことがわかりました。あとから来た人は避難所に入ることができませんでした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "このため<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>などは、<ruby>別<rt>べつ</rt></ruby>の<ruby>避難所<rt>ひなんじょ</rt></ruby>に<ruby>案内<rt>あんない</rt></ruby>したり、<ruby>避難所<rt>ひなんじょ</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やしたりしました。ウェブサイトなどで、<ruby>避難所<rt>ひなんじょ</rt></ruby>がどのくらい<ruby>混<rt>こ</rt></ruby>んでいるか<ruby>知<rt>し</rt></ruby>らせた<ruby>市<rt>し</rt></ruby>もありました。",
+            "origin": "このため市や町などは、別の避難所に案内したり、避難所を増やしたりしました。ウェブサイトなどで、避難所がどのくらい混んでいるか知らせた市もありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>避難所<rt>ひなんじょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることができない<ruby>人<rt>ひと</rt></ruby>がいた<ruby>理由<rt>りゆう</rt></ruby>の<ruby>１<rt>ひと</rt></ruby>つは、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスで<ruby>避難所<rt>ひなんじょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくしたことです。もう１つは、<ruby>気象庁<rt>きしょうちょう</rt></ruby>がとても<ruby>危険<rt>きけん</rt></ruby>な<ruby>台風<rt>たいふう</rt></ruby>だと<ruby>知<rt>し</rt></ruby>らせていたため、<ruby>避難<rt>ひなん</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>かったことです。",
+            "origin": "避難所に入ることができない人がいた理由の１つは、新しいコロナウイルスで避難所に入る人の数を少なくしたことです。もう１つは、気象庁がとても危険な台風だと知らせていたため、避難した人が多かったことです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>などは、<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>と<ruby>比<rt>くら</rt></ruby>べて、<ruby>避難所<rt>ひなんじょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることができる<ruby>人数<rt>にんずう</rt></ruby>がどのくらい<ruby>少<rt>すく</rt></ruby>ないか、みんなに<ruby>知<rt>し</rt></ruby>らせてほしい。<ruby>避難<rt>ひなん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は、<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>などが<ruby>決<rt>き</rt></ruby>めた<ruby>避難所<rt>ひなんじょ</rt></ruby>ではなくて、<ruby>友<rt>とも</rt></ruby>だちの<ruby>家<rt>いえ</rt></ruby>などに<ruby>避難<rt>ひなん</rt></ruby>することも<ruby>考<rt>かんが</rt></ruby>えてほしい」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "専門家は「市や町などは、住んでいる人の数と比べて、避難所に入ることができる人数がどのくらい少ないか、みんなに知らせてほしい。避難する人は、市や町などが決めた避難所ではなくて、友だちの家などに避難することも考えてほしい」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012605851000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200907/../20200907/K10012605851_2009071917_2009072009_01_03.jpg",
+    "newsmovie": "k10012605851_202009071944_202009071950.mp4",
+    "path": "appdata/news/k10012605851000.json"
+}

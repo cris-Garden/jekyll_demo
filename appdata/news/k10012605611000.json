@@ -1,0 +1,35 @@
+{
+    "id": "k10012605611000",
+    "title": "オンラインゲーム「子どもがするときは親が一緒にいて」",
+    "ruby": "オンラインゲーム「<ruby>子<rt>こ</rt></ruby>どもがするときは<ruby>親<rt>おや</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>にいて」",
+    "time": "2020-09-08",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012605611000/k10012605611000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>初<rt>はじ</rt></ruby>め、<ruby>横浜市<rt>よこはまし</rt></ruby>の９<ruby>歳<rt>さい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が、<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>葛飾区<rt>かつしかく</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる３８<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>に<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>かれる<ruby>事件<rt>じけん</rt></ruby>がありました。<ruby>警察<rt>けいさつ</rt></ruby>は、<ruby>男<rt>おとこ</rt></ruby>がオンラインゲームで<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>を<ruby>知<rt>し</rt></ruby>って、<ruby>会<rt>あ</rt></ruby>う<ruby>約束<rt>やくそく</rt></ruby>をしたと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "今月の初め、横浜市の９歳の女の子が、東京都葛飾区に住んでいる３８歳の男に連れて行かれる事件がありました。警察は、男がオンラインゲームで女の子を知って、会う約束をしたと考えています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "オンラインゲームは、インターネットを<ruby>使<rt>つか</rt></ruby>って、<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>とも<ruby>一緒<rt>いっしょ</rt></ruby>にゲームができます。<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は<ruby>親<rt>おや</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>いスマートフォンを<ruby>使<rt>つか</rt></ruby>って、オンラインゲームをしていました。",
+            "origin": "オンラインゲームは、インターネットを使って、知らない人とも一緒にゲームができます。女の子は親の古いスマートフォンを使って、オンラインゲームをしていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "オンラインゲームが<ruby>原因<rt>げんいん</rt></ruby>で<ruby>子<rt>こ</rt></ruby>どもが<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>かれる<ruby>事件<rt>じけん</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>までにもありました。",
+            "origin": "オンラインゲームが原因で子どもが連れて行かれる事件は、今までにもありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>一緒<rt>いっしょ</rt></ruby>にゲームをしていると、その<ruby>人<rt>ひと</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じてしまうことがあります。<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は、<ruby>男<rt>おとこ</rt></ruby>を『<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>』ではなくて『<ruby>信<rt>しん</rt></ruby>じることができる<ruby>人<rt>ひと</rt></ruby>』だと<ruby>思<rt>おも</rt></ruby>ったのかもしれません」と<ruby>話<rt>はな</rt></ruby>しています。そして、「<ruby>親<rt>おや</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どもがどんなゲームをしているか<ruby>知<rt>し</rt></ruby>ってください。<ruby>子<rt>こ</rt></ruby>どもがゲームをするときは<ruby>必<rt>かなら</rt></ruby>ず、<ruby>親<rt>おや</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>にいるようにしてください」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "専門家は「一緒にゲームをしていると、その人を信じてしまうことがあります。女の子は、男を『知らない人』ではなくて『信じることができる人』だと思ったのかもしれません」と話しています。そして、「親は子どもがどんなゲームをしているか知ってください。子どもがゲームをするときは必ず、親が一緒にいるようにしてください」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012605611000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200907/../20200907/K10012605611_2009071739_2009071856_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012605611000.json"
+}
