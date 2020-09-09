@@ -1,6 +1,48 @@
 {
     "news": [
         {
+            "id": "k10012607891000",
+            "title": "田んぼにいろいろな色の稲で「マスクをした熊」",
+            "ruby": "<ruby>田<rt>た</rt></ruby>んぼにいろいろな<ruby>色<rt>いろ</rt></ruby>の<ruby>稲<rt>いね</rt></ruby>で「マスクをした<ruby>熊<rt>くま</rt></ruby>」",
+            "time": "2020-09-09",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012607891000/k10012607891000.html",
+            "body": [],
+            "voiceurl": "k10012607891000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200909/../20200909/K10012607891_2009082129_2009090518_01_03.jpg",
+            "newsmovie": "k10012607891_202009082129_202009082130.mp4",
+            "path": "appdata/news/k10012607891000.json"
+        },
+        {
+            "id": "k10012607181000",
+            "title": "東京駅　マスクを専門に売る店ができる",
+            "ruby": "<ruby>東京<rt>とうきょう</rt></ruby><ruby>駅<rt>えき</rt></ruby>　マスクを<ruby>専門<rt>せんもん</rt></ruby>に<ruby>売<rt>う</rt></ruby>る<ruby>店<rt>みせ</rt></ruby>ができる",
+            "time": "2020-09-09",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012607181000/k10012607181000.html",
+            "body": [],
+            "voiceurl": "k10012607181000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200908/../20200908/K10012607181_2009081648_2009081708_01_02.jpg",
+            "newsmovie": "k10012607181_202009081736_202009081830.mp4",
+            "path": "appdata/news/k10012607181000.json"
+        },
+        {
+            "id": "k10012608061000",
+            "title": "新しいコロナウイルス　子どもの８０％は家族からうつった",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルス　<ruby>子<rt>こ</rt></ruby>どもの８０％は<ruby>家族<rt>かぞく</rt></ruby>からうつった",
+            "time": "2020-09-09",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012608061000/k10012608061000.html",
+            "body": [],
+            "voiceurl": "k10012608061000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200909/../20200909/K10012608061_2009082251_2009090614_01_02.jpg",
+            "newsmovie": "",
+            "path": "appdata/news/k10012608061000.json"
+        },
+        {
             "id": "k10012606621000",
             "title": "上野動物園　パンダを見てもらうための新しい施設ができる",
             "ruby": "<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　パンダを<ruby>見<rt>み</rt></ruby>てもらうための<ruby>新<rt>あたら</rt></ruby>しい<ruby>施設<rt>しせつ</rt></ruby>ができる",

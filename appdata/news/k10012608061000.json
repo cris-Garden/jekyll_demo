@@ -1,0 +1,40 @@
+{
+    "id": "k10012608061000",
+    "title": "新しいコロナウイルス　子どもの８０％は家族からうつった",
+    "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルス　<ruby>子<rt>こ</rt></ruby>どもの８０％は<ruby>家族<rt>かぞく</rt></ruby>からうつった",
+    "time": "2020-09-09",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012608061000/k10012608061000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本小児科学会<rt>にほんしょうにかがっかい</rt></ruby>が、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつった０<ruby>歳<rt>さい</rt></ruby>から１９<ruby>歳<rt>さい</rt></ruby>までの<ruby>子<rt>こ</rt></ruby>ども３００<ruby>人<rt>にん</rt></ruby>について<ruby>調<rt>しら</rt></ruby>べました。",
+            "origin": "日本小児科学会が、新しいコロナウイルスがうつった０歳から１９歳までの子ども３００人について調べました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ウイルスがうつった<ruby>子<rt>こ</rt></ruby>どもの８５％は、<ruby>治療<rt>ちりょう</rt></ruby>をしなくても<ruby>具合<rt>ぐあい</rt></ruby>がよくなりました。<ruby>亡<rt>な</rt></ruby>くなった<ruby>子<rt>こ</rt></ruby>どもはいませんでした。",
+            "origin": "ウイルスがうつった子どもの８５％は、治療をしなくても具合がよくなりました。亡くなった子どもはいませんでした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>誰<rt>だれ</rt></ruby>からウイルスがうつったかわかった<ruby>子<rt>こ</rt></ruby>どもは２５８<ruby>人<rt>にん</rt></ruby>いました。この<ruby>中<rt>なか</rt></ruby>の<ruby>約<rt>やく</rt></ruby>８０％の１９８<ruby>人<rt>にん</rt></ruby>は、<ruby>家族<rt>かぞく</rt></ruby>からうつっていました。<ruby>父親<rt>ちちおや</rt></ruby>からうつった<ruby>子<rt>こ</rt></ruby>どもがいちばん<ruby>多<rt>おお</rt></ruby>くて９１<ruby>人<rt>にん</rt></ruby>でした。<ruby>母親<rt>ははおや</rt></ruby>からうつった<ruby>子<rt>こ</rt></ruby>どもは４８<ruby>人<rt>にん</rt></ruby>でした。<ruby>両親<rt>りょうしん</rt></ruby>のどちらかからうつった<ruby>子<rt>こ</rt></ruby>どもは１９<ruby>人<rt>にん</rt></ruby>でした。",
+            "origin": "誰からウイルスがうつったかわかった子どもは２５８人いました。この中の約８０％の１９８人は、家族からうつっていました。父親からうつった子どもがいちばん多くて９１人でした。母親からうつった子どもは４８人でした。両親のどちらかからうつった子どもは１９人でした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>幼稚園<rt>ようちえん</rt></ruby>や<ruby>保育園<rt>ほいくえん</rt></ruby>、<ruby>学校<rt>がっこう</rt></ruby>でうつった<ruby>子<rt>こ</rt></ruby>どもは３２<ruby>人<rt>にん</rt></ruby>でした。",
+            "origin": "幼稚園や保育園、学校でうつった子どもは３２人でした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>調<rt>しら</rt></ruby>べた<ruby>人<rt>ひと</rt></ruby>は「<ruby>子<rt>こ</rt></ruby>どもにウイルスがうつらないようにするためには、<ruby>親<rt>おや</rt></ruby>がウイルスを<ruby>家<rt>いえ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れないように<ruby>気<rt>き</rt></ruby>をつけることが<ruby>大切<rt>たいせつ</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "調べた人は「子どもにウイルスがうつらないようにするためには、親がウイルスを家に入れないように気をつけることが大切です」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012608061000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200909/../20200909/K10012608061_2009082251_2009090614_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012608061000.json"
+}

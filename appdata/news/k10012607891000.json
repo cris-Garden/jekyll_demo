@@ -1,0 +1,30 @@
+{
+    "id": "k10012607891000",
+    "title": "田んぼにいろいろな色の稲で「マスクをした熊」",
+    "ruby": "<ruby>田<rt>た</rt></ruby>んぼにいろいろな<ruby>色<rt>いろ</rt></ruby>の<ruby>稲<rt>いね</rt></ruby>で「マスクをした<ruby>熊<rt>くま</rt></ruby>」",
+    "time": "2020-09-09",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012607891000/k10012607891000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>京都府<rt>きょうとふ</rt></ruby><ruby>福知山<rt>ふくちやま</rt></ruby><ruby>市<rt>し</rt></ruby>に、マスクをした<ruby>熊<rt>くま</rt></ruby>の「<ruby>田<rt>た</rt></ruby>んぼアート」ができました。<ruby>近所<rt>きんじょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>む<ruby>人<rt>ひと</rt></ruby>のグループが、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがなくなるように<ruby>願<rt>ねが</rt></ruby>って、<ruby>田<rt>た</rt></ruby>んぼにいろいろな<ruby>色<rt>いろ</rt></ruby>の<ruby>稲<rt>いね</rt></ruby>を<ruby>植<rt>う</rt></ruby>えて<ruby>作<rt>つく</rt></ruby>りました。",
+            "origin": "京都府福知山市に、マスクをした熊の「田んぼアート」ができました。近所に住む人のグループが、新しいコロナウイルスがなくなるように願って、田んぼにいろいろな色の稲を植えて作りました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "グループの<ruby>人<rt>ひと</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>から、マスクをした<ruby>熊<rt>くま</rt></ruby>の<ruby>絵<rt>え</rt></ruby>になるように、<ruby>赤<rt>あか</rt></ruby>、<ruby>黒<rt>くろ</rt></ruby>、<ruby>緑<rt>みどり</rt></ruby>、<ruby>黄色<rt>きいろ</rt></ruby>の<ruby>稲<rt>いね</rt></ruby>を<ruby>植<rt>う</rt></ruby>えました。<ruby>熊<rt>くま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>には、「ストップ」という<ruby>字<rt>じ</rt></ruby>も<ruby>見<rt>み</rt></ruby>えます。",
+            "origin": "グループの人は今年６月から、マスクをした熊の絵になるように、赤、黒、緑、黄色の稲を植えました。熊の上には、「ストップ」という字も見えます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "グループの<ruby>人<rt>ひと</rt></ruby>は「みなさんに<ruby>楽<rt>たの</rt></ruby>しんでもらいながら、コロナウイルスがストップするように<ruby>作<rt>つく</rt></ruby>りました」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "グループの人は「みなさんに楽しんでもらいながら、コロナウイルスがストップするように作りました」と話していました。"
+        }
+    ],
+    "voiceurl": "k10012607891000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200909/../20200909/K10012607891_2009082129_2009090518_01_03.jpg",
+    "newsmovie": "k10012607891_202009082129_202009082130.mp4",
+    "path": "appdata/news/k10012607891000.json"
+}

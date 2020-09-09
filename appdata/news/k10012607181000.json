@@ -1,0 +1,35 @@
+{
+    "id": "k10012607181000",
+    "title": "東京駅　マスクを専門に売る店ができる",
+    "ruby": "<ruby>東京<rt>とうきょう</rt></ruby><ruby>駅<rt>えき</rt></ruby>　マスクを<ruby>専門<rt>せんもん</rt></ruby>に<ruby>売<rt>う</rt></ruby>る<ruby>店<rt>みせ</rt></ruby>ができる",
+    "time": "2020-09-09",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012607181000/k10012607181000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつらないようにするために、マスクをすることが<ruby>習慣<rt>しゅうかん</rt></ruby>になっています。<ruby>８日<rt>ようか</rt></ruby>、マスクを<ruby>専門<rt>せんもん</rt></ruby>に<ruby>売<rt>う</rt></ruby>る<ruby>店<rt>みせ</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby><ruby>駅<rt>えき</rt></ruby>の<ruby>地下<rt>ちか</rt></ruby>にできました。",
+            "origin": "新しいコロナウイルスがうつらないようにするために、マスクをすることが習慣になっています。８日、マスクを専門に売る店が東京駅の地下にできました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>店<rt>みせ</rt></ruby>では、２００<ruby>種類<rt>しゅるい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のマスクを<ruby>売<rt>う</rt></ruby>っています。<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>によると、１<ruby>枚<rt>まい</rt></ruby>５００<ruby>円<rt>えん</rt></ruby>のマスクはのどや<ruby>肌<rt>はだ</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>きにくくて<ruby>紫外線<rt>しがいせん</rt></ruby>も<ruby>通<rt>とお</rt></ruby>しません。きれいなガラスの<ruby>飾<rt>かざ</rt></ruby>りがついたマスクは１０<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>です。",
+            "origin": "店では、２００種類以上のマスクを売っています。店の人によると、１枚５００円のマスクはのどや肌が乾きにくくて紫外線も通しません。きれいなガラスの飾りがついたマスクは１０万円です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "マスクを<ruby>入<rt>い</rt></ruby>れるケースや、マスクのための<ruby>洗剤<rt>せんざい</rt></ruby>も<ruby>売<rt>う</rt></ruby>っています。<ruby>店<rt>みせ</rt></ruby>では、<ruby>店員<rt>てんいん</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>や<ruby>服<rt>ふく</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったマスクを<ruby>選<rt>えら</rt></ruby>んでくれます。",
+            "origin": "マスクを入れるケースや、マスクのための洗剤も売っています。店では、店員が自分の顔や服の色に合ったマスクを選んでくれます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>客<rt>きゃく</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>は「いろいろなマスクがあって、<ruby>選<rt>えら</rt></ruby>ぶのが<ruby>楽<rt>たの</rt></ruby>しいです」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "客の女性は「いろいろなマスクがあって、選ぶのが楽しいです」と話していました。"
+        }
+    ],
+    "voiceurl": "k10012607181000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200908/../20200908/K10012607181_2009081648_2009081708_01_02.jpg",
+    "newsmovie": "k10012607181_202009081736_202009081830.mp4",
+    "path": "appdata/news/k10012607181000.json"
+}
