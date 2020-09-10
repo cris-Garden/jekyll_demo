@@ -1,0 +1,25 @@
+{
+    "id": "articles20200815kei00s00s017000c",
+    "title": "腎臓",
+    "ruby": "",
+    "time": "2020年8月15日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200815/kei/00s/00s/017000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>腎臓<rt>じんぞう</rt></ruby>",
+            "origin": "腎臓"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200815kei00s00s017000c.json"
+}

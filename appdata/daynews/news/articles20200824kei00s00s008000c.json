@@ -1,0 +1,25 @@
+{
+    "id": "articles20200824kei00s00s008000c",
+    "title": "奈良公園",
+    "ruby": "",
+    "time": "2020年8月24日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200824/kei/00s/00s/008000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "１８８０<ruby>年<rt>ねん</rt></ruby>に<ruby>開園<rt>かいえん</rt></ruby>した<ruby>総<rt>そう</rt></ruby><ruby>面積<rt>めんせき</rt></ruby>",
+            "origin": "１８８０年に開園した総面積"
+        },
+        {
+            "type": "ruby",
+            "ruby": "６６０ヘクタールの<ruby>奈良市<rt>ならし</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>です。<ruby>園内<rt>えんない</rt></ruby>には<ruby>興福寺<rt>こうふくじ</rt></ruby>、<ruby>東大寺<rt>とうだいじ</rt></ruby>、<ruby>正倉院<rt>しょうそういん</rt></ruby>、<ruby>春日大社<rt>かすがたいしゃ</rt></ruby>など<ruby>世界遺産<rt>せかいいさん</rt></ruby>が<ruby>多数<rt>たすう</rt></ruby>あります。<ruby>春日大社<rt>かすがたいしゃ</rt></ruby>の<ruby>神様<rt>かみさま</rt></ruby>は<ruby>神鹿<rt>しんろく</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ってきたと<ruby>伝<rt>つた</rt></ruby>わることからシカが<ruby>大切<rt>たいせつ</rt></ruby>にされ、<ruby>約<rt>やく</rt></ruby>１３００<ruby>頭<rt>とう</rt></ruby>がいます。",
+            "origin": "６６０ヘクタールの奈良市の公園です。園内には興福寺、東大寺、正倉院、春日大社など世界遺産が多数あります。春日大社の神様は神鹿に乗ってきたと伝わることからシカが大切にされ、約１３００頭がいます。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200824kei00s00s008000c.json"
+}

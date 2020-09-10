@@ -1,0 +1,390 @@
+{
+    "id": "articles20200818kei00s00s004000c",
+    "title": "／５　今月のテーマ　条件によって動きを変えよう　～もし〇〇なら△△する～（分岐）",
+    "ruby": "",
+    "time": "2020年8月18日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200818/kei/00s/00s/004000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "みなさんはプログラミングをやったことがあるかな？",
+            "origin": "みなさんはプログラミングをやったことがあるかな？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はじめてでも<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。",
+            "origin": "はじめてでも大丈夫。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>一緒<rt>いっしょ</rt></ruby>にプログラミングの<ruby>世界<rt>せかい</rt></ruby>にふれてみよう！",
+            "origin": "一緒にプログラミングの世界にふれてみよう！"
+        },
+        {
+            "type": "h2",
+            "ruby": "のりのりプログラミングとは？",
+            "origin": "のりのりプログラミングとは？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ファイトキッズクラブのキャラクターがプログラミングを<ruby>紹介<rt>しょうかい</rt></ruby>するよ！",
+            "origin": "ファイトキッズクラブのキャラクターがプログラミングを紹介するよ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "パソコンやタブレットを<ruby>使<rt>つか</rt></ruby>ってプログラミングしてみよう！",
+            "origin": "パソコンやタブレットを使ってプログラミングしてみよう！"
+        },
+        {
+            "type": "h2",
+            "ruby": "Ｆ＠ＩＴＫｉｄｓＣｌｕｂ",
+            "origin": "Ｆ＠ＩＴＫｉｄｓＣｌｕｂ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>富士通<rt>ふじつう</rt></ruby>オープンカレッジＦ＠ＩＴＫｉｄｓＣｌｕｂではＳｃｒａｔｃｈが<ruby>学<rt>まな</rt></ruby>べるよ。<ruby>全国<rt>ぜんこく</rt></ruby>の<ruby>教室<rt>きょうしつ</rt></ruby>で<ruby>体験<rt>たいけん</rt></ruby><ruby>会<rt>かい</rt></ruby>を<ruby>実施中<rt>じっしちゅう</rt></ruby>！",
+            "origin": "富士通オープンカレッジＦ＠ＩＴＫｉｄｓＣｌｕｂではＳｃｒａｔｃｈが学べるよ。全国の教室で体験会を実施中！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／",
+            "origin": "ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆今月のテーマ",
+            "origin": "◆今月のテーマ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>条件<rt>じょうけん</rt></ruby>によって<ruby>動<rt>うご</rt></ruby>きを<ruby>変<rt>か</rt></ruby>えよう～もし〇〇なら△△する～（<ruby>分岐<rt>ぶんき</rt></ruby>）",
+            "origin": "条件によって動きを変えよう～もし〇〇なら△△する～（分岐）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ある<ruby>条件<rt>じょうけん</rt></ruby>のときに<ruby>決<rt>き</rt></ruby>まった<ruby>動<rt>うご</rt></ruby>きをさせることをプログラミングでは<ruby>分岐<rt>ぶんき</rt></ruby>と<ruby>言<rt>い</rt></ruby>うよ。<ruby>例<rt>たと</rt></ruby>えばエレベーターに<ruby>乗<rt>の</rt></ruby>った<ruby>時<rt>とき</rt></ruby>、<ruby>何<rt>なに</rt></ruby>もしないと<ruby>動<rt>うご</rt></ruby>かないけど、ボタンを<ruby>押<rt>お</rt></ruby>すと<ruby>動<rt>うご</rt></ruby>くよね。このように「もし〇〇なら△△する」というように、<ruby>場合<rt>ばあい</rt></ruby>によって<ruby>動<rt>うご</rt></ruby>きを<ruby>決<rt>き</rt></ruby>めることができるよ",
+            "origin": "ある条件のときに決まった動きをさせることをプログラミングでは分岐と言うよ。例えばエレベーターに乗った時、何もしないと動かないけど、ボタンを押すと動くよね。このように「もし〇〇なら△△する」というように、場合によって動きを決めることができるよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆<ruby>今月<rt>こんげつ</rt></ruby><ruby>作<rt>つく</rt></ruby>るものは？",
+            "origin": "◆今月作るものは？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>海<rt>うみ</rt></ruby>に<ruby>潜<rt>もぐ</rt></ruby>ってフィッシングー！",
+            "origin": "海に潜ってフィッシングー！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "マウスポインターでクマノミに<ruby>触<rt>ふ</rt></ruby>れたらクマノミがゲットできる",
+            "origin": "マウスポインターでクマノミに触れたらクマノミがゲットできる"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>今回<rt>こんかい</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>もしないとクマノミは<ruby>泳<rt>およ</rt></ruby>いでいて、マウスポインターで<ruby>触<rt>ふ</rt></ruby>れるとゲットできるようにするよ。ある<ruby>条件<rt>じょうけん</rt></ruby>の<ruby>時<rt>とき</rt></ruby>に<ruby>決<rt>き</rt></ruby>まった<ruby>動<rt>うご</rt></ruby>きをするとは、どういうことだろう。まずはドリルをやってみよう",
+            "origin": "今回は、何もしないとクマノミは泳いでいて、マウスポインターで触れるとゲットできるようにするよ。ある条件の時に決まった動きをするとは、どういうことだろう。まずはドリルをやってみよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ドリル",
+            "origin": "◆ドリル"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>問題<rt>もんだい</rt></ruby>",
+            "origin": "問題"
+        },
+        {
+            "type": "ruby",
+            "ruby": "でじっとは、どの<ruby>家<rt>いえ</rt></ruby>に<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けられるでしょうか。",
+            "origin": "でじっとは、どの家に荷物を届けられるでしょうか。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "でじっとは<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けます。<ruby>命令<rt>めいれい</rt></ruby>の<ruby>紙<rt>かみ</rt></ruby>には<ruby>次<rt>つぎ</rt></ruby>のように<ruby>書<rt>か</rt></ruby>かれています。",
+            "origin": "でじっとは荷物を届けます。命令の紙には次のように書かれています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>道<rt>みち</rt></ruby>にそってまっすぐ<ruby>進<rt>すす</rt></ruby>め",
+            "origin": "道にそってまっすぐ進め"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ただし",
+            "origin": "ただし"
+        },
+        {
+            "type": "ruby",
+            "ruby": "もし★の<ruby>看板<rt>かんばん</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がれ",
+            "origin": "もし★の看板を見たら右に曲がれ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "もし♦の<ruby>看板<rt>かんばん</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら<ruby>左<rt>ひだり</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がれ",
+            "origin": "もし♦の看板を見たら左に曲がれ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "＜つぎからえらんでね＞",
+            "origin": "＜つぎからえらんでね＞"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（１）ぴよかん",
+            "origin": "（１）ぴよかん"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（２）へび",
+            "origin": "（２）へび"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（３）カニ",
+            "origin": "（３）カニ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（４）ヒトデ",
+            "origin": "（４）ヒトデ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆プログラミングしよう！",
+            "origin": "◆プログラミングしよう！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※スクラッチがはじめての<ruby>人<rt>ひと</rt></ruby>はこちらへアクセスしてね。<ruby>基本<rt>きほん</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>が<ruby>学<rt>まな</rt></ruby>べるよ。ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／ｍａｉｎｉｃｈｉ",
+            "origin": "※スクラッチがはじめての人はこちらへアクセスしてね。基本の操作が学べるよ。ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／ｍａｉｎｉｃｈｉ"
+        },
+        {
+            "type": "h2",
+            "ruby": "ステップ１はじめる<ruby>前<rt>まえ</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>",
+            "origin": "ステップ１はじめる前の準備"
+        },
+        {
+            "type": "ruby",
+            "ruby": "パソコンとマウスまたはタブレットを<ruby>用意<rt>ようい</rt></ruby>",
+            "origin": "パソコンとマウスまたはタブレットを用意"
+        },
+        {
+            "type": "ruby",
+            "ruby": "インターネットでスクラッチ（Ｓｃｒａｔｃｈ）のサイトにアクセスして「<ruby>作<rt>つく</rt></ruby>ってみよう」をクリック！ｈｔｔｐｓ：／／ｓｃｒａｔｃｈ．ｍｉｔ．ｅｄｕ／",
+            "origin": "インターネットでスクラッチ（Ｓｃｒａｔｃｈ）のサイトにアクセスして「作ってみよう」をクリック！ｈｔｔｐｓ：／／ｓｃｒａｔｃｈ．ｍｉｔ．ｅｄｕ／"
+        },
+        {
+            "type": "h2",
+            "ruby": "ステップ２レッツトライ！",
+            "origin": "ステップ２レッツトライ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（１）<ruby>背景<rt>はいけい</rt></ruby>とスプライトをえらぶ",
+            "origin": "（１）背景とスプライトをえらぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（スクラッチではキャラクターのことをスプライトとよびます）",
+            "origin": "（スクラッチではキャラクターのことをスプライトとよびます）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "をクリックしてクマノミを<ruby>選<rt>えら</rt></ruby>ぶ",
+            "origin": "をクリックしてクマノミを選ぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※クマノミは<ruby>好<rt>す</rt></ruby>きなところに<ruby>配置<rt>はいち</rt></ruby>しよう",
+            "origin": "※クマノミは好きなところに配置しよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "をクリックして<ruby>左<rt>ひだり</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ",
+            "origin": "をクリックして左の海の背景を選ぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ねこは×で<ruby>消<rt>け</rt></ruby>しておこう。",
+            "origin": "ねこは×で消しておこう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（２）クマノミの<ruby>動<rt>うご</rt></ruby>きをつくる",
+            "origin": "（２）クマノミの動きをつくる"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はからさがそう。",
+            "origin": "はからさがそう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はスプライトの<ruby>向<rt>む</rt></ruby>きを<ruby>左右<rt>さゆう</rt></ruby>のみにできるブロックだよ",
+            "origin": "はスプライトの向きを左右のみにできるブロックだよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>〇左右<rt>さゆう</rt></ruby>のみ",
+            "origin": "〇左右のみ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "×<ruby>上下<rt>じょうげ</rt></ruby>にはならない",
+            "origin": "×上下にはならない"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（３）をクリックしてクマノミが<ruby>泳<rt>およ</rt></ruby>ぐのを<ruby>確認<rt>かくにん</rt></ruby>しよう。<ruby>確認<rt>かくにん</rt></ruby>できたらで<ruby>止<rt>と</rt></ruby>めよう。",
+            "origin": "（３）をクリックしてクマノミが泳ぐのを確認しよう。確認できたらで止めよう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（４）クマノミの<ruby>動<rt>うご</rt></ruby>きを<ruby>変更<rt>へんこう</rt></ruby>する",
+            "origin": "（４）クマノミの動きを変更する"
+        },
+        {
+            "type": "ruby",
+            "ruby": "「もしマウスポインターが<ruby>触<rt>ふ</rt></ruby>れたなら」という<ruby>条件<rt>じょうけん</rt></ruby>をつくろう。",
+            "origin": "「もしマウスポインターが触れたなら」という条件をつくろう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はから、はからさがそう",
+            "origin": "はから、はからさがそう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "でしらべた<ruby>結果<rt>けっか</rt></ruby>によって、<ruby>中<rt>なか</rt></ruby>のプログラムをうごかすか<ruby>決<rt>き</rt></ruby>められるよ",
+            "origin": "でしらべた結果によって、中のプログラムをうごかすか決められるよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "もしの<ruby>中<rt>なか</rt></ruby>にブロックを<ruby>追加<rt>ついか</rt></ruby>しよう。",
+            "origin": "もしの中にブロックを追加しよう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "プログラムの<ruby>先頭<rt>せんとう</rt></ruby>には<ruby>表示<rt>ひょうじ</rt></ruby>するブロックも<ruby>追加<rt>ついか</rt></ruby>しよう。",
+            "origin": "プログラムの先頭には表示するブロックも追加しよう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "とはからさがそう。",
+            "origin": "とはからさがそう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はスプライトを<ruby>表示<rt>ひょうじ</rt></ruby>、はスプライトを<ruby>隠<rt>かく</rt></ruby>せるブロックだよ",
+            "origin": "はスプライトを表示、はスプライトを隠せるブロックだよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はの▼をクリックして<ruby>選<rt>えら</rt></ruby>ぼう。",
+            "origin": "はの▼をクリックして選ぼう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はこのプログラムだけを<ruby>止<rt>と</rt></ruby>めることができるよ。",
+            "origin": "はこのプログラムだけを止めることができるよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（５）をクリックする",
+            "origin": "（５）をクリックする"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>何<rt>なに</rt></ruby>もしないとクマノミは<ruby>泳<rt>およ</rt></ruby>いでいて、マウスポインターで<ruby>触<rt>ふ</rt></ruby>れるとクマノミの<ruby>色<rt>いろ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わって<ruby>消<rt>き</rt></ruby>えた！ゲットできたね！",
+            "origin": "何もしないとクマノミは泳いでいて、マウスポインターで触れるとクマノミの色が変わって消えた！ゲットできたね！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "これで<ruby>完成<rt>かんせい</rt></ruby>！",
+            "origin": "これで完成！"
+        },
+        {
+            "type": "h2",
+            "ruby": "ステップ３<ruby>練習問題<rt>れんしゅうもんだい</rt></ruby>",
+            "origin": "ステップ３練習問題"
+        },
+        {
+            "type": "ruby",
+            "ruby": "＜１＞<ruby>他<rt>ほか</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>の<ruby>動物<rt>どうぶつ</rt></ruby>（スプライト）を<ruby>増<rt>ふ</rt></ruby>やして、クマノミと<ruby>同<rt>おな</rt></ruby>じようにマウスポインターでゲットできるようにしよう。",
+            "origin": "＜１＞他の海の動物（スプライト）を増やして、クマノミと同じようにマウスポインターでゲットできるようにしよう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ルール",
+            "origin": "ルール"
+        },
+        {
+            "type": "ruby",
+            "ruby": "・を<ruby>使<rt>つか</rt></ruby>おう",
+            "origin": "・を使おう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "・クマノミとは<ruby>違<rt>ちが</rt></ruby>う<ruby>動<rt>うご</rt></ruby>きをさせよう",
+            "origin": "・クマノミとは違う動きをさせよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "＜２＞スプライトを<ruby>隠<rt>かく</rt></ruby>すブロックは？<ruby>当<rt>あ</rt></ruby>てはまるものに〇をしよう。",
+            "origin": "＜２＞スプライトを隠すブロックは？当てはまるものに〇をしよう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆<ruby>暮<rt>く</rt></ruby>らしの<ruby>中<rt>なか</rt></ruby>のプログラミング",
+            "origin": "◆暮らしの中のプログラミング"
+        },
+        {
+            "type": "h2",
+            "ruby": "“<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>”",
+            "origin": "“自動販売機”"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<ruby>好<rt>す</rt></ruby>きなボタンを<ruby>押<rt>お</rt></ruby>すと<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>が<ruby>出<rt>で</rt></ruby>てくるよね。ボタンによって<ruby>違<rt>ちが</rt></ruby>う<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>が<ruby>買<rt>か</rt></ruby>えたり、<ruby>入<rt>い</rt></ruby>れたお<ruby>金<rt>かね</rt></ruby>の<ruby>額<rt>がく</rt></ruby>によってお<ruby>釣<rt>つ</rt></ruby>りを<ruby>計算<rt>けいさん</rt></ruby>したりするところでプログラミングが<ruby>使<rt>つか</rt></ruby>われているよ。",
+            "origin": "自動販売機にお金を入れて好きなボタンを押すと飲み物が出てくるよね。ボタンによって違う飲み物が買えたり、入れたお金の額によってお釣りを計算したりするところでプログラミングが使われているよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "●ドリルの<ruby>解答<rt>かいとう</rt></ruby>",
+            "origin": "●ドリルの解答"
+        },
+        {
+            "type": "ruby",
+            "ruby": "▶（４）",
+            "origin": "▶（４）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "●<ruby>練習問題<rt>れんしゅうもんだい</rt></ruby>の<ruby>解答<rt>かいとう</rt></ruby>",
+            "origin": "●練習問題の解答"
+        },
+        {
+            "type": "ruby",
+            "ruby": "▶＜１＞：<ruby>図参照<rt>ずさんしょう</rt></ruby>",
+            "origin": "▶＜１＞：図参照"
+        },
+        {
+            "type": "ruby",
+            "ruby": "▶＜２＞：（３）",
+            "origin": "▶＜２＞：（３）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200818kei00s00s004000c.json"
+}

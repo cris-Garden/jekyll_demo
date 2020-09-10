@@ -1,0 +1,30 @@
+{
+    "id": "articles20200826kei00s00s006000c",
+    "title": "ボッチャ",
+    "ruby": "",
+    "time": "2020年8月26日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200826/kei/00s/00s/006000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>手足<rt>てあし</rt></ruby>に<ruby>重<rt>おも</rt></ruby>い<ruby>障害<rt>しょうがい</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>人<rt>ひと</rt></ruby>のためにヨーロッパで<ruby>考<rt>かんが</rt></ruby>えられたスポーツです。ボッチャはイタリア<ruby>語<rt>ご</rt></ruby>で「ボール」の<ruby>意味<rt>いみ</rt></ruby>です。",
+            "origin": "手足に重い障害を持つ人のためにヨーロッパで考えられたスポーツです。ボッチャはイタリア語で「ボール」の意味です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>二<rt>ふた</rt></ruby>つのチームが、それぞれ<ruby>六<rt>むっ</rt></ruby>つのボールを<ruby>投<rt>な</rt></ruby>げたり、<ruby>転<rt>ころ</rt></ruby>がしたりして、<ruby>目標<rt>もくひょう</rt></ruby>となる<ruby>白<rt>しろ</rt></ruby>い<ruby>球<rt>たま</rt></ruby>、ジャックボールにどれだけ<ruby>近<rt>ちか</rt></ruby>づけられるかを<ruby>競<rt>きそ</rt></ruby>います。<ruby>赤<rt>あか</rt></ruby>いボールと<ruby>青<rt>あお</rt></ruby>いボールをつかいます。カーリングのように、ボールのコントロールに<ruby>加<rt>くわ</rt></ruby>えて、<ruby>細<rt>こま</rt></ruby>かい<ruby>作戦<rt>さくせん</rt></ruby>や、<ruby>駆<rt>か</rt></ruby>け<ruby>引<rt>ひ</rt></ruby>きが<ruby>勝負<rt>しょうぶ</rt></ruby>を<ruby>左右<rt>さゆう</rt></ruby>します。",
+            "origin": "二つのチームが、それぞれ六つのボールを投げたり、転がしたりして、目標となる白い球、ジャックボールにどれだけ近づけられるかを競います。赤いボールと青いボールをつかいます。カーリングのように、ボールのコントロールに加えて、細かい作戦や、駆け引きが勝負を左右します。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>個人<rt>こじん</rt></ruby>やペア、チームに<ruby>分<rt>わ</rt></ruby>かれて<ruby>戦<rt>たたか</rt></ruby>い、<ruby>障害<rt>しょうがい</rt></ruby>の<ruby>程度<rt>ていど</rt></ruby>によってクラスが<ruby>分<rt>わ</rt></ruby>かれています。<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>東京大会<rt>とうきょうたいかい</rt></ruby>で<ruby>金<rt>きん</rt></ruby>メダル<ruby>獲得<rt>かくとく</rt></ruby>を<ruby>狙<rt>ねら</rt></ruby>っています。",
+            "origin": "個人やペア、チームに分かれて戦い、障害の程度によってクラスが分かれています。日本は東京大会で金メダル獲得を狙っています。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200826kei00s00s006000c.json"
+}

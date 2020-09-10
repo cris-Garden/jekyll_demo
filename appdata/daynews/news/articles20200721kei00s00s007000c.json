@@ -1,0 +1,450 @@
+{
+    "id": "articles20200721kei00s00s007000c",
+    "title": "／４　今月のテーマ　回数を決めて繰り返そう（繰り返し）",
+    "ruby": "",
+    "time": "2020年7月21日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200721/kei/00s/00s/007000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "みなさんはプログラミングをやったことがあるかな？",
+            "origin": "みなさんはプログラミングをやったことがあるかな？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はじめてでも<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。",
+            "origin": "はじめてでも大丈夫。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>一緒<rt>いっしょ</rt></ruby>にプログラミングの<ruby>世界<rt>せかい</rt></ruby>にふれてみよう！",
+            "origin": "一緒にプログラミングの世界にふれてみよう！"
+        },
+        {
+            "type": "h2",
+            "ruby": "のりのりプログラミングとは？",
+            "origin": "のりのりプログラミングとは？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ファイトキッズクラブのキャラクターがプログラミングを<ruby>紹介<rt>しょうかい</rt></ruby>するよ！",
+            "origin": "ファイトキッズクラブのキャラクターがプログラミングを紹介するよ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "パソコンやタブレットを<ruby>使<rt>つか</rt></ruby>ってプログラミングしてみよう！",
+            "origin": "パソコンやタブレットを使ってプログラミングしてみよう！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆今月のテーマ",
+            "origin": "◆今月のテーマ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>回数<rt>かいすう</rt></ruby>を<ruby>決<rt>き</rt></ruby>めて<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>そう（<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>し）",
+            "origin": "回数を決めて繰り返そう（繰り返し）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "「<ruby>同<rt>おな</rt></ruby>じプログラムを<ruby>何回<rt>なんかい</rt></ruby>も<ruby>動<rt>うご</rt></ruby>かすことを<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しと<ruby>言<rt>い</rt></ruby>うよ。<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しを<ruby>使<rt>つか</rt></ruby>えば<ruby>同<rt>おな</rt></ruby>じプログラムを<ruby>何<rt>なん</rt></ruby><ruby>個<rt>こ</rt></ruby>も<ruby>作<rt>つく</rt></ruby>らなくてすむよ。クレーンゲームをイメージしてみよう。<ruby>入<rt>い</rt></ruby>れたお<ruby>金<rt>かね</rt></ruby>によって３<ruby>回<rt>かい</rt></ruby>プレーできたり、５<ruby>回<rt>かい</rt></ruby>プレーできたりするよね。プログラミングでは<ruby>回数<rt>かいすう</rt></ruby>を<ruby>決<rt>き</rt></ruby>めて<ruby>同<rt>おな</rt></ruby>じ<ruby>動<rt>うご</rt></ruby>きを<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>すことができるよ」",
+            "origin": "「同じプログラムを何回も動かすことを繰り返しと言うよ。繰り返しを使えば同じプログラムを何個も作らなくてすむよ。クレーンゲームをイメージしてみよう。入れたお金によって３回プレーできたり、５回プレーできたりするよね。プログラミングでは回数を決めて同じ動きを繰り返すことができるよ」"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆<ruby>今月<rt>こんげつ</rt></ruby><ruby>作<rt>つく</rt></ruby>るものは？",
+            "origin": "◆今月作るものは？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>氷<rt>こおり</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>のアートスケート",
+            "origin": "氷の上のアートスケート"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>動<rt>うご</rt></ruby>きながら<ruby>線<rt>せん</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いて<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>か</rt></ruby>く",
+            "origin": "動きながら線を引いて絵を描く"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ペンギンが<ruby>正<rt>せい</rt></ruby><ruby>三角形<rt>さんかくけい</rt></ruby>を<ruby>描<rt>か</rt></ruby>いているね。<ruby>正<rt>せい</rt></ruby><ruby>三角形<rt>さんかくけい</rt></ruby>は<ruby>同<rt>おな</rt></ruby>じ<ruby>長<rt>なが</rt></ruby>さの<ruby>線<rt>せん</rt></ruby>が３<ruby>本<rt>ぼん</rt></ruby>つながっている<ruby>図形<rt>ずけい</rt></ruby>だね。どんな<ruby>動<rt>うご</rt></ruby>きを<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>せば<ruby>正<rt>せい</rt></ruby><ruby>三角形<rt>さんかくけい</rt></ruby>ができるかな？まずはドリルをやってみよう",
+            "origin": "ペンギンが正三角形を描いているね。正三角形は同じ長さの線が３本つながっている図形だね。どんな動きを繰り返せば正三角形ができるかな？まずはドリルをやってみよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ドリル",
+            "origin": "◆ドリル"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>問題<rt>もんだい</rt></ruby>",
+            "origin": "問題"
+        },
+        {
+            "type": "ruby",
+            "ruby": "アザラシがでじっとのところまで<ruby>行<rt>い</rt></ruby>くには、どんな<ruby>動<rt>うご</rt></ruby>きをすればよいでしょう。",
+            "origin": "アザラシがでじっとのところまで行くには、どんな動きをすればよいでしょう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "アザラシが<ruby>氷<rt>こおり</rt></ruby>まで<ruby>行<rt>い</rt></ruby>くには、<ruby>次<rt>つぎ</rt></ruby>のように<ruby>動<rt>うご</rt></ruby>きます。",
+            "origin": "アザラシが氷まで行くには、次のように動きます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１<ruby>歩<rt>ぽ</rt></ruby><ruby>進<rt>すす</rt></ruby>む",
+            "origin": "１歩進む"
+        },
+        {
+            "type": "ruby",
+            "ruby": "↓",
+            "origin": "↓"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>右<rt>みぎ</rt></ruby>に<ruby>回<rt>まわ</rt></ruby>る",
+            "origin": "右に回る"
+        },
+        {
+            "type": "ruby",
+            "ruby": "↓",
+            "origin": "↓"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１<ruby>歩<rt>ぽ</rt></ruby><ruby>進<rt>すす</rt></ruby>む",
+            "origin": "１歩進む"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ヒント",
+            "origin": "ヒント"
+        },
+        {
+            "type": "ruby",
+            "ruby": "とは",
+            "origin": "とは"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しの<ruby>開始<rt>かいし</rt></ruby>と<ruby>終了<rt>しゅうりょう</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>すよ",
+            "origin": "繰り返しの開始と終了を表すよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（ア）の<ruby>回数<rt>かいすう</rt></ruby>、（イ）と（ウ）を<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>すよ",
+            "origin": "（ア）の回数、（イ）と（ウ）を繰り返すよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "＜つぎからえらんでね＞",
+            "origin": "＜つぎからえらんでね＞"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（１）ア．４イ．１<ruby>歩<rt>ぽ</rt></ruby><ruby>進<rt>すす</rt></ruby>むウ．<ruby>左<rt>ひだり</rt></ruby>に<ruby>回<rt>まわ</rt></ruby>る",
+            "origin": "（１）ア．４イ．１歩進むウ．左に回る"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（２）ア．３イ．２<ruby>歩<rt>ほ</rt></ruby><ruby>進<rt>すす</rt></ruby>むウ．<ruby>左<rt>ひだり</rt></ruby>に<ruby>回<rt>まわ</rt></ruby>る",
+            "origin": "（２）ア．３イ．２歩進むウ．左に回る"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆プログラミングしよう！",
+            "origin": "◆プログラミングしよう！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※スクラッチがはじめての<ruby>人<rt>ひと</rt></ruby>はこちらへアクセスしてね。<ruby>基本<rt>きほん</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>が<ruby>学<rt>まな</rt></ruby>べるよ。ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／ｍａｉｎｉｃｈｉ",
+            "origin": "※スクラッチがはじめての人はこちらへアクセスしてね。基本の操作が学べるよ。ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／ｍａｉｎｉｃｈｉ"
+        },
+        {
+            "type": "h2",
+            "ruby": "ステップ１はじめる<ruby>前<rt>まえ</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>",
+            "origin": "ステップ１はじめる前の準備"
+        },
+        {
+            "type": "ruby",
+            "ruby": "パソコンとマウスまたはタブレットを<ruby>用意<rt>ようい</rt></ruby>",
+            "origin": "パソコンとマウスまたはタブレットを用意"
+        },
+        {
+            "type": "ruby",
+            "ruby": "インターネットでスクラッチ（Ｓｃｒａｔｃｈ）のサイトにアクセスして「<ruby>作<rt>つく</rt></ruby>ってみよう」をクリック！ｈｔｔｐｓ：／／ｓｃｒａｔｃｈ．ｍｉｔ．ｅｄｕ／",
+            "origin": "インターネットでスクラッチ（Ｓｃｒａｔｃｈ）のサイトにアクセスして「作ってみよう」をクリック！ｈｔｔｐｓ：／／ｓｃｒａｔｃｈ．ｍｉｔ．ｅｄｕ／"
+        },
+        {
+            "type": "h2",
+            "ruby": "ステップ２レッツトライ！",
+            "origin": "ステップ２レッツトライ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（１）<ruby>背景<rt>はいけい</rt></ruby>とスプライトを<ruby>選<rt>えら</rt></ruby>ぶ",
+            "origin": "（１）背景とスプライトを選ぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（スクラッチではキャラクターのことをスプライトとよびます）",
+            "origin": "（スクラッチではキャラクターのことをスプライトとよびます）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "をクリックしてペンギンを<ruby>選<rt>えら</rt></ruby>ぶ",
+            "origin": "をクリックしてペンギンを選ぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※ペンギンは<ruby>中心<rt>ちゅうしん</rt></ruby>より<ruby>少<rt>すこ</rt></ruby>し<ruby>左<rt>ひだり</rt></ruby>に<ruby>配置<rt>はいち</rt></ruby>しよう",
+            "origin": "※ペンギンは中心より少し左に配置しよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "をクリックして<ruby>左<rt>ひだり</rt></ruby>の<ruby>氷<rt>こおり</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ",
+            "origin": "をクリックして左の氷の背景を選ぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ねこは×で<ruby>消<rt>け</rt></ruby>しておこう",
+            "origin": "ねこは×で消しておこう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（２）ペンのブロックを<ruby>追加<rt>ついか</rt></ruby>する",
+            "origin": "（２）ペンのブロックを追加する"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>画面<rt>がめん</rt></ruby><ruby>左下<rt>ひだりした</rt></ruby>の（<ruby>拡張機能<rt>かくちょうきのう</rt></ruby>を<ruby>追加<rt>ついか</rt></ruby>）をクリックして、ペンのブロックを<ruby>追加<rt>ついか</rt></ruby>しよう。",
+            "origin": "画面左下の（拡張機能を追加）をクリックして、ペンのブロックを追加しよう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（３）ペンギンの<ruby>動<rt>うご</rt></ruby>きをつくる",
+            "origin": "（３）ペンギンの動きをつくる"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はペンからさがそう",
+            "origin": "はペンからさがそう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>色<rt>いろ</rt></ruby>は<ruby>数字<rt>すうじ</rt></ruby>で<ruby>表<rt>あらわ</rt></ruby>せるよ。",
+            "origin": "色は数字で表せるよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "で<ruby>色<rt>いろ</rt></ruby>の<ruby>値<rt>あたい</rt></ruby>を<ruby>変<rt>か</rt></ruby>えられるよ。",
+            "origin": "で色の値を変えられるよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（４）をクリックする",
+            "origin": "（４）をクリックする"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ペンギンの<ruby>動<rt>うご</rt></ruby>きにあわせて<ruby>線<rt>せん</rt></ruby>が<ruby>引<rt>ひ</rt></ruby>けた！",
+            "origin": "ペンギンの動きにあわせて線が引けた！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "のブロックを<ruby>使<rt>つか</rt></ruby>うとスプライトの<ruby>動<rt>うご</rt></ruby>きに<ruby>合<rt>あ</rt></ruby>わせて、<ruby>線<rt>せん</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>けるよ。ペンの<ruby>色<rt>いろ</rt></ruby>や<ruby>太<rt>ふと</rt></ruby>さも<ruby>変<rt>か</rt></ruby>えられるよ。",
+            "origin": "のブロックを使うとスプライトの動きに合わせて、線を引けるよ。ペンの色や太さも変えられるよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※ペンの<ruby>色<rt>いろ</rt></ruby>はその<ruby>時<rt>とき</rt></ruby>によって<ruby>異<rt>こと</rt></ruby>なるよ。",
+            "origin": "※ペンの色はその時によって異なるよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（５）<ruby>線<rt>せん</rt></ruby>を<ruby>消<rt>け</rt></ruby>して、ペンギンをもとの<ruby>位置<rt>いち</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>す",
+            "origin": "（５）線を消して、ペンギンをもとの位置に戻す"
+        },
+        {
+            "type": "ruby",
+            "ruby": "のをクリックすると<ruby>線<rt>せん</rt></ruby>が<ruby>消<rt>け</rt></ruby>せるよ",
+            "origin": "のをクリックすると線が消せるよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ペンギンはステージでドラッグしてもとの<ruby>位置<rt>いち</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>そう。",
+            "origin": "ペンギンはステージでドラッグしてもとの位置に戻そう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（６）ペンギンの<ruby>動<rt>うご</rt></ruby>きを<ruby>変更<rt>へんこう</rt></ruby>する",
+            "origin": "（６）ペンギンの動きを変更する"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>正<rt>せい</rt></ruby><ruby>三角形<rt>さんかくけい</rt></ruby>を<ruby>描<rt>か</rt></ruby>いてみよう",
+            "origin": "正三角形を描いてみよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はから、はからさがそう",
+            "origin": "はから、はからさがそう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ブロックの<ruby>数字<rt>すうじ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>で<ruby>変<rt>か</rt></ruby>えよう。",
+            "origin": "ブロックの数字は自分で変えよう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（７）をクリックする",
+            "origin": "（７）をクリックする"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>正<rt>せい</rt></ruby><ruby>三角形<rt>さんかくけい</rt></ruby>が<ruby>描<rt>か</rt></ruby>けた！",
+            "origin": "正三角形が描けた！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "は<ruby>回数<rt>かいすう</rt></ruby>を<ruby>決<rt>き</rt></ruby>めて<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>すブロックだよ。<ruby>数字<rt>すうじ</rt></ruby>を<ruby>変<rt>か</rt></ruby>えて<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>す<ruby>回数<rt>かいすう</rt></ruby>を<ruby>決<rt>き</rt></ruby>められるよ。",
+            "origin": "は回数を決めて繰り返すブロックだよ。数字を変えて繰り返す回数を決められるよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "これで<ruby>完成<rt>かんせい</rt></ruby>！",
+            "origin": "これで完成！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>確認<rt>かくにん</rt></ruby>できたらをクリックして<ruby>線<rt>せん</rt></ruby>を<ruby>消<rt>け</rt></ruby>しておこう。",
+            "origin": "確認できたらをクリックして線を消しておこう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "★<ruby>考<rt>かんが</rt></ruby>えてみよう",
+            "origin": "★考えてみよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>正<rt>せい</rt></ruby><ruby>三角形<rt>さんかくけい</rt></ruby>を<ruby>描<rt>か</rt></ruby>くには、<ruby>次<rt>つぎ</rt></ruby>の<ruby>線<rt>せん</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>くときに１２０<ruby>度<rt>ど</rt></ruby><ruby>回転<rt>かいてん</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>があるよ。",
+            "origin": "正三角形を描くには、次の線を引くときに１２０度回転する必要があるよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "「<ruby>前<rt>まえ</rt></ruby>へ<ruby>進<rt>すす</rt></ruby>んで１２０<ruby>度<rt>ど</rt></ruby><ruby>回転<rt>かいてん</rt></ruby>する」<ruby>動<rt>うご</rt></ruby>きを３<ruby>回<rt>かい</rt></ruby><ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>せば<ruby>正<rt>せい</rt></ruby><ruby>三角形<rt>さんかくけい</rt></ruby>が<ruby>描<rt>か</rt></ruby>けるね！",
+            "origin": "「前へ進んで１２０度回転する」動きを３回繰り返せば正三角形が描けるね！"
+        },
+        {
+            "type": "h2",
+            "ruby": "ステップ３<ruby>練習問題<rt>れんしゅうもんだい</rt></ruby>",
+            "origin": "ステップ３練習問題"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>問題<rt>もんだい</rt></ruby>１",
+            "origin": "問題１"
+        },
+        {
+            "type": "ruby",
+            "ruby": "プログラムを<ruby>変更<rt>へんこう</rt></ruby>して、<ruby>六角形<rt>ろっかくけい</rt></ruby>を<ruby>描<rt>か</rt></ruby>いてみよう。",
+            "origin": "プログラムを変更して、六角形を描いてみよう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ヒント",
+            "origin": "ヒント"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>正六角形<rt>せいろっかくけい</rt></ruby>を<ruby>描<rt>か</rt></ruby>くには、<ruby>次<rt>つぎ</rt></ruby>の<ruby>線<rt>せん</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>くときに６０<ruby>度<rt>ど</rt></ruby><ruby>回転<rt>かいてん</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>があるよ。",
+            "origin": "正六角形を描くには、次の線を引くときに６０度回転する必要があるよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>問題<rt>もんだい</rt></ruby>２",
+            "origin": "問題２"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ペンの<ruby>色<rt>いろ</rt></ruby>を<ruby>変<rt>か</rt></ruby>えるブロックは？<ruby>当<rt>あ</rt></ruby>てはまるものに〇をしよう。",
+            "origin": "ペンの色を変えるブロックは？当てはまるものに〇をしよう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（１）（）",
+            "origin": "（１）（）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（２）（）",
+            "origin": "（２）（）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（３）（）",
+            "origin": "（３）（）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆<ruby>暮<rt>く</rt></ruby>らしの<ruby>中<rt>なか</rt></ruby>のプログラミング",
+            "origin": "◆暮らしの中のプログラミング"
+        },
+        {
+            "type": "h2",
+            "ruby": "“アプリケーション（アプリ）”",
+            "origin": "“アプリケーション（アプリ）”"
+        },
+        {
+            "type": "ruby",
+            "ruby": "スマートフォンやタブレットを<ruby>使<rt>つか</rt></ruby>って<ruby>動画<rt>どうが</rt></ruby>を<ruby>見<rt>み</rt></ruby>たり、ゲームをしたりできるよね。スマートフォンやタブレットでは、プログラミングによって<ruby>作<rt>つく</rt></ruby>られた“アプリケーション”と<ruby>呼<rt>よ</rt></ruby>ばれるものでいろいろなことができるよ。<ruby>動画<rt>どうが</rt></ruby><ruby>再生<rt>さいせい</rt></ruby>ソフトやゲームもすべてアプリケーションなんだ。",
+            "origin": "スマートフォンやタブレットを使って動画を見たり、ゲームをしたりできるよね。スマートフォンやタブレットでは、プログラミングによって作られた“アプリケーション”と呼ばれるものでいろいろなことができるよ。動画再生ソフトやゲームもすべてアプリケーションなんだ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ドリルの<ruby>解答<rt>かいとう</rt></ruby>",
+            "origin": "ドリルの解答"
+        },
+        {
+            "type": "ruby",
+            "ruby": "▶（２）",
+            "origin": "▶（２）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>練習問題<rt>れんしゅうもんだい</rt></ruby>の<ruby>解答<rt>かいとう</rt></ruby>",
+            "origin": "練習問題の解答"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>問題<rt>もんだい</rt></ruby>１（<ruby>解答<rt>かいとう</rt></ruby><ruby>例<rt>れい</rt></ruby>）▶",
+            "origin": "問題１（解答例）▶"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>問題<rt>もんだい</rt></ruby>２▶（１）",
+            "origin": "問題２▶（１）"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>夏休<rt>なつやす</rt></ruby>み（８<ruby>月<rt>がつ</rt></ruby>）にオンラインサマースクールを<ruby>開催<rt>かいさい</rt></ruby>！",
+            "origin": "夏休み（８月）にオンラインサマースクールを開催！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／",
+            "origin": "ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200721kei00s00s007000c.json"
+}

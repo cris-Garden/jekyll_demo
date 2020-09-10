@@ -1,0 +1,25 @@
+{
+    "id": "articles20200810kei00s00s010000c",
+    "title": "レバノン",
+    "ruby": "",
+    "time": "2020年8月10日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/08/10/20200810kei00s00s022000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20200810/kei/00s/00s/010000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>地中海<rt>ちちゅうかい</rt></ruby>に<ruby>面<rt>めん</rt></ruby>した<ruby>中東<rt>ちゅうとう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>で、<ruby>面積<rt>めんせき</rt></ruby>は１<ruby>万<rt>まん</rt></ruby>４５２<ruby>平方<rt>へいほう</rt></ruby>キロメートルと<ruby>岐阜県<rt>ぎふけん</rt></ruby>ほどです。<ruby>古<rt>ふる</rt></ruby>くから<ruby>貿易<rt>ぼうえき</rt></ruby>で<ruby>栄<rt>さか</rt></ruby>え、ローマ<ruby>帝国<rt>ていこく</rt></ruby>やトルコのオスマン<ruby>帝国<rt>ていこく</rt></ruby>、フランスの<ruby>支配下<rt>しはいか</rt></ruby>に<ruby>置<rt>お</rt></ruby>かれました。１９４３<ruby>年<rt>ねん</rt></ruby>に<ruby>独立<rt>どくりつ</rt></ruby>しました。",
+            "origin": "地中海に面した中東の国で、面積は１万４５２平方キロメートルと岐阜県ほどです。古くから貿易で栄え、ローマ帝国やトルコのオスマン帝国、フランスの支配下に置かれました。１９４３年に独立しました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "イスラム<ruby>教<rt>きょう</rt></ruby>やキリスト<ruby>教<rt>きょう</rt></ruby>など、<ruby>国<rt>くに</rt></ruby>が<ruby>公認<rt>こうにん</rt></ruby>した１８もの<ruby>宗教<rt>しゅうきょう</rt></ruby>・<ruby>宗派<rt>しゅうは</rt></ruby>があり、<ruby>宗教<rt>しゅうきょう</rt></ruby>の<ruby>争<rt>あらそ</rt></ruby>いがもとで<ruby>内戦<rt>ないせん</rt></ruby>になったこともあります。",
+            "origin": "イスラム教やキリスト教など、国が公認した１８もの宗教・宗派があり、宗教の争いがもとで内戦になったこともあります。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/08/10/20200810kei00s00s022000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200810kei00s00s010000c.json"
+}

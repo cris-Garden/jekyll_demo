@@ -1,0 +1,25 @@
+{
+    "id": "articles20200731kei00s00s017000c",
+    "title": "脊髄",
+    "ruby": "",
+    "time": "2020年7月31日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200731/kei/00s/00s/017000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>背骨<rt>せぼね</rt></ruby>を<ruby>通<rt>とお</rt></ruby>り、<ruby>脳<rt>のう</rt></ruby>につながる<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>神経<rt>しんけい</rt></ruby>",
+            "origin": "背骨を通り、脳につながる重要な神経"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200731kei00s00s017000c.json"
+}

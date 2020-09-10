@@ -1,0 +1,25 @@
+{
+    "id": "articles20200820kei00s00s011000c",
+    "title": "三権分立",
+    "ruby": "",
+    "time": "2020年8月20日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200820/kei/00s/00s/011000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国<rt>くに</rt></ruby>を<ruby>治<rt>おさ</rt></ruby>める<ruby>権力<rt>けんりょく</rt></ruby>について、<ruby>法律<rt>ほうりつ</rt></ruby>をつくる「<ruby>立法<rt>りっぽう</rt></ruby>」、<ruby>争<rt>あらそ</rt></ruby>いを<ruby>解決<rt>かいけつ</rt></ruby>する「<ruby>司法<rt>しほう</rt></ruby>」、<ruby>実際<rt>じっさい</rt></ruby>に<ruby>国<rt>くに</rt></ruby>を<ruby>運営<rt>うんえい</rt></ruby>する「<ruby>行政<rt>ぎょうせい</rt></ruby>」の<ruby>三<rt>みっ</rt></ruby>つの<ruby>機関<rt>きかん</rt></ruby>に<ruby>分<rt>わ</rt></ruby>け、<ruby>互<rt>たが</rt></ruby>いにチェックさせる<ruby>仕組<rt>しく</rt></ruby>みです。それぞれの<ruby>機関<rt>きかん</rt></ruby>が<ruby>暴走<rt>ぼうそう</rt></ruby>するのを<ruby>防<rt>ふせ</rt></ruby>ぎます。",
+            "origin": "国を治める権力について、法律をつくる「立法」、争いを解決する「司法」、実際に国を運営する「行政」の三つの機関に分け、互いにチェックさせる仕組みです。それぞれの機関が暴走するのを防ぎます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200820kei00s00s011000c.json"
+}

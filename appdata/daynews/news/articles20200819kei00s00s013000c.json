@@ -1,0 +1,25 @@
+{
+    "id": "articles20200819kei00s00s013000c",
+    "title": "血管",
+    "ruby": "",
+    "time": "2020年8月19日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200819/kei/00s/00s/013000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>血管<rt>けっかん</rt></ruby>",
+            "origin": "血管"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200819kei00s00s013000c.json"
+}

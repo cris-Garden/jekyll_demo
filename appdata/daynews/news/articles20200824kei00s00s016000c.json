@@ -1,0 +1,20 @@
+{
+    "id": "articles20200824kei00s00s016000c",
+    "title": "赤血球",
+    "ruby": "",
+    "time": "2020年8月24日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200824/kei/00s/00s/016000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>血<rt>ち</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>く<ruby>見<rt>み</rt></ruby>えるのは<ruby>私<rt>わたし</rt></ruby>のせい",
+            "origin": "血が赤く見えるのは私のせい"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200824kei00s00s016000c.json"
+}

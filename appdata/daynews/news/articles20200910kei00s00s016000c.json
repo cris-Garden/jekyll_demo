@@ -1,0 +1,25 @@
+{
+    "id": "articles20200910kei00s00s016000c",
+    "title": "ロヒンギャ",
+    "ruby": "",
+    "time": "2020年9月10日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200910/kei/00s/00s/016000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東南<rt>とうなん</rt></ruby>アジアのミャンマーに<ruby>住<rt>す</rt></ruby>むイスラム<ruby>系<rt>けい</rt></ruby><ruby>少数民族<rt>しょうすうみんぞく</rt></ruby>です。<ruby>仏教徒<rt>ぶっきょうと</rt></ruby>の<ruby>多<rt>おお</rt></ruby>いミャンマーから「<ruby>不法移民<rt>ふほういみん</rt></ruby>」として<ruby>差別的<rt>さべつてき</rt></ruby>に<ruby>扱<rt>あつか</rt></ruby>われています。<ruby>隣国<rt>りんごく</rt></ruby>のバングラデシュに<ruby>難民<rt>なんみん</rt></ruby>として<ruby>逃<rt>のが</rt></ruby>れているほか、<ruby>船<rt>ふね</rt></ruby>で<ruby>周辺<rt>しゅうへん</rt></ruby>のインドネシアやマレーシアなどに<ruby>漂着<rt>ひょうちゃく</rt></ruby>しています。",
+            "origin": "東南アジアのミャンマーに住むイスラム系少数民族です。仏教徒の多いミャンマーから「不法移民」として差別的に扱われています。隣国のバングラデシュに難民として逃れているほか、船で周辺のインドネシアやマレーシアなどに漂着しています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200910kei00s00s016000c.json"
+}

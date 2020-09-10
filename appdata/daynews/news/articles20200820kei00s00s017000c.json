@@ -1,0 +1,25 @@
+{
+    "id": "articles20200820kei00s00s017000c",
+    "title": "動脈",
+    "ruby": "",
+    "time": "2020年8月20日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200820/kei/00s/00s/017000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>太<rt>ふと</rt></ruby>い<ruby>血管<rt>けっかん</rt></ruby>。<ruby>血液<rt>けつえき</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れも<ruby>速<rt>はや</rt></ruby>い！",
+            "origin": "太い血管。血液の流れも速い！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200820kei00s00s017000c.json"
+}

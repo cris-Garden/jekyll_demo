@@ -1,0 +1,20 @@
+{
+    "id": "articles20200803kei00s00s016000c",
+    "title": "耳",
+    "ruby": "",
+    "time": "2020年8月3日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200803/kei/00s/00s/016000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>音<rt>おと</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く",
+            "origin": "音を聞く"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200803kei00s00s016000c.json"
+}

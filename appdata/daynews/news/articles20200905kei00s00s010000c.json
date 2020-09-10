@@ -1,0 +1,25 @@
+{
+    "id": "articles20200905kei00s00s010000c",
+    "title": "ほな、さいなら！　大阪",
+    "ruby": "",
+    "time": "2020年9月5日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/09/05/20200905kei00s00s024000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20200905/kei/00s/00s/010000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>大阪<rt>おおさか</rt></ruby>・<ruby>新世界<rt>しんせかい</rt></ruby>のふぐりょうりてん「づぼらや」の「ふぐちょうちん」が３<ruby>日<rt>みっか</rt></ruby>、とりはずされました。ふぐちょうちんは、<ruby>大阪<rt>おおさか</rt></ruby>のかおの<ruby>一<rt>ひと</rt></ruby>つとしてしたしまれてきましたが、みせを１５<ruby>日<rt>にち</rt></ruby>にしめるのをまえに、とりはずすことにしました。",
+            "origin": "大阪・新世界のふぐりょうりてん「づぼらや」の「ふぐちょうちん」が３日、とりはずされました。ふぐちょうちんは、大阪のかおの一つとしてしたしまれてきましたが、みせを１５日にしめるのをまえに、とりはずすことにしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "じもとでは「シンボルとしてのこしてほしい」というこえもあります。しばらく、そうこでお<ruby>休<rt>やす</rt></ruby>みするそうです。",
+            "origin": "じもとでは「シンボルとしてのこしてほしい」というこえもあります。しばらく、そうこでお休みするそうです。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/09/05/20200905kei00s00s024000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200905kei00s00s010000c.json"
+}

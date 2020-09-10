@@ -1,0 +1,30 @@
+{
+    "id": "articles20200715kei00s00s007000c",
+    "title": "隕石",
+    "ruby": "",
+    "time": "2020年7月15日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200715/kei/00s/00s/007000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>隕石<rt>いんせき</rt></ruby>は<ruby>宇宙<rt>うちゅう</rt></ruby>に<ruby>漂<rt>ただよ</rt></ruby>う<ruby>氷<rt>こおり</rt></ruby>や<ruby>細<rt>こま</rt></ruby>かい<ruby>岩<rt>いわ</rt></ruby>、チリなどが、<ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>引力<rt>いんりょく</rt></ruby>によって<ruby>大気<rt>たいき</rt></ruby>に<ruby>飛<rt>と</rt></ruby>び<ruby>込<rt>こ</rt></ruby>んできて、<ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>表面<rt>ひょうめん</rt></ruby>まで<ruby>落<rt>お</rt></ruby>ちてきたものです。<ruby>途中<rt>とちゅう</rt></ruby>で、<ruby>大気<rt>たいき</rt></ruby>のまさつによって<ruby>燃<rt>も</rt></ruby>えたものが<ruby>流<rt>なが</rt></ruby>れ<ruby>星<rt>ぼし</rt></ruby>です。<ruby>特<rt>とく</rt></ruby>に<ruby>明<rt>あか</rt></ruby>るいものは「<ruby>火球<rt>かきゅう</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>ばれます。",
+            "origin": "隕石は宇宙に漂う氷や細かい岩、チリなどが、地球の引力によって大気に飛び込んできて、地球の表面まで落ちてきたものです。途中で、大気のまさつによって燃えたものが流れ星です。特に明るいものは「火球」と呼ばれます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>ＪＡＸＡ<rt>ジャクサ</rt></ruby>（<ruby>宇宙航空研究開発機構<rt>うちゅうこうくうけんきゅうかいはつきこう</rt></ruby>）によると、<ruby>隕石<rt>いんせき</rt></ruby>は１<ruby>年<rt>ねん</rt></ruby><ruby>間<rt>かん</rt></ruby>に<ruby>地球<rt>ちきゅう</rt></ruby>に<ruby>数<rt>すう</rt></ruby><ruby>千<rt>せん</rt></ruby><ruby>個<rt>こ</rt></ruby><ruby>落<rt>お</rt></ruby>ちてきており、そのうち<ruby>発見<rt>はっけん</rt></ruby>されるのは１０<ruby>個<rt>こ</rt></ruby>ぐらいで、<ruby>南極<rt>なんきょく</rt></ruby>で<ruby>多<rt>おお</rt></ruby>く<ruby>発見<rt>はっけん</rt></ruby>されるといいます。",
+            "origin": "ＪＡＸＡ（宇宙航空研究開発機構）によると、隕石は１年間に地球に数千個落ちてきており、そのうち発見されるのは１０個ぐらいで、南極で多く発見されるといいます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国立科学博物館<rt>こくりつかがくはくぶつかん</rt></ruby>によると、<ruby>今回<rt>こんかい</rt></ruby><ruby>見<rt>み</rt></ruby>つかった<ruby>破片<rt>はへん</rt></ruby>はそれぞれ<ruby>重<rt>おも</rt></ruby>さ６３グラムと７０グラム。いずれも<ruby>宇宙<rt>うちゅう</rt></ruby>から<ruby>来<rt>き</rt></ruby>たことを<ruby>示<rt>しめ</rt></ruby>す<ruby>放射線<rt>ほうしゃせん</rt></ruby>が<ruby>観測<rt>かんそく</rt></ruby>され、<ruby>隕石<rt>いんせき</rt></ruby>と<ruby>確認<rt>かくにん</rt></ruby>しました。",
+            "origin": "国立科学博物館によると、今回見つかった破片はそれぞれ重さ６３グラムと７０グラム。いずれも宇宙から来たことを示す放射線が観測され、隕石と確認しました。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200715kei00s00s007000c.json"
+}

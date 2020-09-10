@@ -1,0 +1,20 @@
+{
+    "id": "articles20200823kei00s00s008000c",
+    "title": "血液",
+    "ruby": "",
+    "time": "2020年8月23日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200823/kei/00s/00s/008000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>全身<rt>ぜんしん</rt></ruby>の<ruby>血液<rt>けつえき</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>は３リットルくらい",
+            "origin": "全身の血液の量は３リットルくらい"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200823kei00s00s008000c.json"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "articles20200722kei00s00s007000c",
+    "title": "ワクチン",
+    "ruby": "",
+    "time": "2020年7月22日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200722/kei/00s/00s/007000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>人<rt>ひと</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>は、<ruby>一度<rt>いちど</rt></ruby>ウイルスに<ruby>感染<rt>かんせん</rt></ruby>するとそのウイルスに<ruby>対<rt>たい</rt></ruby>する「<ruby>抗体<rt>こうたい</rt></ruby>」ができ、２<ruby>度目<rt>どめ</rt></ruby>の<ruby>感染<rt>かんせん</rt></ruby>では、<ruby>熱<rt>ねつ</rt></ruby>などの<ruby>症状<rt>しょうじょう</rt></ruby>がでにくくなります。そこで、<ruby>症状<rt>しょうじょう</rt></ruby>がひどくならないよう、<ruby>感染<rt>かんせん</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>の<ruby>弱<rt>よわ</rt></ruby>いウイルスをあらかじめ<ruby>体<rt>からだ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて<ruby>抗体<rt>こうたい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>り、<ruby>病気<rt>びょうき</rt></ruby>を<ruby>予防<rt>よぼう</rt></ruby>する<ruby>方法<rt>ほうほう</rt></ruby>があります。<ruby>予防<rt>よぼう</rt></ruby>のためにつくられたウイルスを「ワクチン」と<ruby>呼<rt>よ</rt></ruby>びます。<ruby>最近<rt>さいきん</rt></ruby>はウイルスではなく、たんぱく<ruby>質<rt>しつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ったワクチンもあります。",
+            "origin": "人の体は、一度ウイルスに感染するとそのウイルスに対する「抗体」ができ、２度目の感染では、熱などの症状がでにくくなります。そこで、症状がひどくならないよう、感染する力の弱いウイルスをあらかじめ体に入れて抗体を作り、病気を予防する方法があります。予防のためにつくられたウイルスを「ワクチン」と呼びます。最近はウイルスではなく、たんぱく質を使ったワクチンもあります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>現在<rt>げんざい</rt></ruby>、<ruby>新型<rt>しんがた</rt></ruby>コロナのワクチンは<ruby>世界各国<rt>せかいかっこく</rt></ruby>で<ruby>開発<rt>かいはつ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>です。ワクチンができたら、<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>医療従事者<rt>いりょうじゅうじしゃ</rt></ruby>と<ruby>高齢者<rt>こうれいしゃ</rt></ruby>に<ruby>先<rt>さき</rt></ruby>に<ruby>予防接種<rt>よぼうせっしゅ</rt></ruby>をする<ruby>予定<rt>よてい</rt></ruby>で、<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いをしています。",
+            "origin": "現在、新型コロナのワクチンは世界各国で開発中です。ワクチンができたら、政府は、医療従事者と高齢者に先に予防接種をする予定で、話し合いをしています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200722kei00s00s007000c.json"
+}

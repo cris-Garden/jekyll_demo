@@ -1,0 +1,25 @@
+{
+    "id": "articles20200712kei00s00s006000c",
+    "title": "あすの新聞休みます",
+    "ruby": "",
+    "time": "2020年7月12日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200712/kei/00s/00s/006000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "きょう１２<ruby>日<rt>にち</rt></ruby>は<ruby>新聞<rt>しんぶん</rt></ruby>の<ruby>製作<rt>せいさく</rt></ruby>を<ruby>休<rt>やす</rt></ruby>み、１３<ruby>日<rt>にち</rt></ruby>は<ruby>休刊<rt>きゅうかん</rt></ruby>とさせていただきます",
+            "origin": "きょう１２日は新聞の製作を休み、１３日は休刊とさせていただきます"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200712kei00s00s006000c.json"
+}

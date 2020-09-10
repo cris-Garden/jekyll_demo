@@ -1,0 +1,25 @@
+{
+    "id": "articles20200703kei00s00s011000c",
+    "title": "業況判断指数（ＤＩ）",
+    "ruby": "",
+    "time": "2020年7月3日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200703/kei/00s/00s/011000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>短観<rt>たんかん</rt></ruby>は<ruby>日本銀行<rt>にっぽんぎんこう</rt></ruby>が３か<ruby>月<rt>げつ</rt></ruby>ごとに<ruby>実施<rt>じっし</rt></ruby>する<ruby>民間企業<rt>みんかんきぎょう</rt></ruby><ruby>対象<rt>たいしょう</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>アンケートです。<ruby>主<rt>おも</rt></ruby>な<ruby>指標<rt>しひょう</rt></ruby>が「<ruby>業況判断指数<rt>ぎょうきょうはんだんしすう</rt></ruby>」（ＤＩ）です。<ruby>景気<rt>けいき</rt></ruby>が「<ruby>良<rt>よ</rt></ruby>い」と<ruby>答<rt>こた</rt></ruby>えた<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>から「<ruby>悪<rt>わる</rt></ruby>い」と<ruby>答<rt>こた</rt></ruby>えた<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いた<ruby>値<rt>あたい</rt></ruby>です。",
+            "origin": "短観は日本銀行が３か月ごとに実施する民間企業対象の経済アンケートです。主な指標が「業況判断指数」（ＤＩ）です。景気が「良い」と答えた企業の割合から「悪い」と答えた企業の割合を引いた値です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200703kei00s00s011000c.json"
+}

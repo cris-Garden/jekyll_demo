@@ -1,0 +1,20 @@
+{
+    "id": "articles20200809kei00s00s006000c",
+    "title": "胃",
+    "ruby": "",
+    "time": "2020年8月9日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200809/kei/00s/00s/006000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>胃<rt>い</rt></ruby>",
+            "origin": "胃"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200809kei00s00s006000c.json"
+}

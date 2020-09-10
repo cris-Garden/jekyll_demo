@@ -1,0 +1,25 @@
+{
+    "id": "articles20200804kei00s00s007000c",
+    "title": "太平洋高気圧",
+    "ruby": "",
+    "time": "2020年8月4日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200804/kei/00s/00s/007000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>主<rt>おも</rt></ruby>に<ruby>夏<rt>なつ</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>まる<ruby>高気圧<rt>こうきあつ</rt></ruby>で、その<ruby>中心<rt>ちゅうしん</rt></ruby>はハワイ<ruby>諸島<rt>しょとう</rt></ruby>の<ruby>北<rt>きた</rt></ruby>の<ruby>東<rt>ひがし</rt></ruby><ruby>太平洋<rt>たいへいよう</rt></ruby>にあります。<ruby>高気圧<rt>こうきあつ</rt></ruby>に<ruby>覆<rt>おお</rt></ruby>われると、<ruby>上<rt>うえ</rt></ruby>から<ruby>下<rt>した</rt></ruby>に<ruby>向<rt>む</rt></ruby>かう<ruby>空気<rt>くうき</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れ「<ruby>下降気流<rt>かこうきりゅう</rt></ruby>」が<ruby>起<rt>お</rt></ruby>き、<ruby>雲<rt>くも</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>しにくくなって、<ruby>天気<rt>てんき</rt></ruby>がよくなります。",
+            "origin": "主に夏に強まる高気圧で、その中心はハワイ諸島の北の東太平洋にあります。高気圧に覆われると、上から下に向かう空気の流れ「下降気流」が起き、雲が発生しにくくなって、天気がよくなります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200804kei00s00s007000c.json"
+}

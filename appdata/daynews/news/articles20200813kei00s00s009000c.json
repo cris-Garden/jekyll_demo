@@ -1,0 +1,25 @@
+{
+    "id": "articles20200813kei00s00s009000c",
+    "title": "暑さ指数",
+    "ruby": "",
+    "time": "2020年8月13日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200813/kei/00s/00s/009000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>になる<ruby>危険度<rt>きけんど</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す<ruby>国際<rt>こくさい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>指標<rt>しひょう</rt></ruby>です。<ruby>気温<rt>きおん</rt></ruby>▽<ruby>湿度<rt>しつど</rt></ruby>▽<ruby>日差<rt>ひざ</rt></ruby>しの<ruby>強<rt>つよ</rt></ruby>さから<ruby>計算<rt>けいさん</rt></ruby>します。<ruby>湿度<rt>しつど</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いと<ruby>汗<rt>あせ</rt></ruby>が<ruby>蒸発<rt>じょうはつ</rt></ruby>しにくくなり、<ruby>体<rt>からだ</rt></ruby>から<ruby>熱<rt>ねつ</rt></ruby>を<ruby>逃<rt>に</rt></ruby>がせなくなるため、<ruby>気温<rt>きおん</rt></ruby>より<ruby>湿度<rt>しつど</rt></ruby>を<ruby>重視<rt>じゅうし</rt></ruby>しています。<ruby>単位<rt>たんい</rt></ruby>は<ruby>気温<rt>きおん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>度<rt>ど</rt></ruby>（℃）です。",
+            "origin": "熱中症になる危険度を示す国際的な指標です。気温▽湿度▽日差しの強さから計算します。湿度が高いと汗が蒸発しにくくなり、体から熱を逃がせなくなるため、気温より湿度を重視しています。単位は気温と同じ度（℃）です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby>では３１<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が「<ruby>危険<rt>きけん</rt></ruby>」、２８～３１<ruby>度<rt>ど</rt></ruby><ruby>未満<rt>みまん</rt></ruby>が「<ruby>厳重<rt>げんじゅう</rt></ruby><ruby>警戒<rt>けいかい</rt></ruby>」、２５～２８<ruby>度<rt>ど</rt></ruby><ruby>未満<rt>みまん</rt></ruby>が「<ruby>警戒<rt>けいかい</rt></ruby>」、２５<ruby>度<rt>ど</rt></ruby><ruby>未満<rt>みまん</rt></ruby>が「<ruby>注意<rt>ちゅうい</rt></ruby>」です。２８<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>は<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby><ruby>患者<rt>かんじゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えるとされます。３３<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>予想<rt>よそう</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>から「<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby><ruby>警戒<rt>けいかい</rt></ruby>アラート」が<ruby>出<rt>だ</rt></ruby>されます。アラートは<ruby>都道府県<rt>とどうふけん</rt></ruby><ruby>単位<rt>たんい</rt></ruby>で、７～１０<ruby>月<rt>がつ</rt></ruby>に<ruby>関東甲信<rt>かんとうこうしん</rt></ruby>の１<ruby>都<rt>と</rt></ruby>８<ruby>県<rt>けん</rt></ruby>で<ruby>試<rt>ため</rt></ruby>し、<ruby>来<rt>らい</rt></ruby><ruby>年<rt>ねん</rt></ruby>から<ruby>全国<rt>ぜんこく</rt></ruby>に<ruby>広<rt>ひろ</rt></ruby>げる<ruby>予定<rt>よてい</rt></ruby>です。",
+            "origin": "日常生活では３１度以上が「危険」、２８～３１度未満が「厳重警戒」、２５～２８度未満が「警戒」、２５度未満が「注意」です。２８度以上は熱中症患者が増えるとされます。３３度以上の予想の場合は今年から「熱中症警戒アラート」が出されます。アラートは都道府県単位で、７～１０月に関東甲信の１都８県で試し、来年から全国に広げる予定です。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200813kei00s00s009000c.json"
+}

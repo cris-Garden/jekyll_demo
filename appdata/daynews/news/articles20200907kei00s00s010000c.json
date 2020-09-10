@@ -1,0 +1,35 @@
+{
+    "id": "articles20200907kei00s00s010000c",
+    "title": "インフルエンザ",
+    "ruby": "",
+    "time": "2020年9月7日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200907/kei/00s/00s/010000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "インフルエンザウイルスが<ruby>原因<rt>げんいん</rt></ruby>となる<ruby>感染症<rt>かんせんしょう</rt></ruby>です。<ruby>毎<rt>まい</rt></ruby><ruby>年<rt>とし</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>から３<ruby>月<rt>がつ</rt></ruby>ぐらいに<ruby>流行<rt>りゅうこう</rt></ruby>します。せきや<ruby>鼻水<rt>はなみず</rt></ruby>、<ruby>高熱<rt>こうねつ</rt></ruby>、<ruby>体<rt>からだ</rt></ruby>のだるさ、<ruby>筋肉<rt>きんにく</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みなどの<ruby>症状<rt>しょうじょう</rt></ruby>が<ruby>起<rt>お</rt></ruby>こります。<ruby>肺炎<rt>はいえん</rt></ruby>や<ruby>脳炎<rt>のうえん</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>き<ruby>起<rt>お</rt></ruby>こして<ruby>死亡<rt>しぼう</rt></ruby>することもあります。",
+            "origin": "インフルエンザウイルスが原因となる感染症です。毎年１２月から３月ぐらいに流行します。せきや鼻水、高熱、体のだるさ、筋肉の痛みなどの症状が起こります。肺炎や脳炎を引き起こして死亡することもあります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>毎<rt>まい</rt></ruby><ruby>年<rt>とし</rt></ruby>、<ruby>世界各地<rt>せかいかくち</rt></ruby>で<ruby>流行<rt>りゅうこう</rt></ruby>がみられます。ウイルスにはたんぱく<ruby>質<rt>しつ</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いによって、Ａ、Ｂ、Ｃの<ruby>三<rt>みっ</rt></ruby>つの<ruby>型<rt>かた</rt></ruby>があります。よく<ruby>流行<rt>りゅうこう</rt></ruby>するのはＡ<ruby>型<rt>がた</rt></ruby>とＢ<ruby>型<rt>がた</rt></ruby>です。",
+            "origin": "毎年、世界各地で流行がみられます。ウイルスにはたんぱく質の違いによって、Ａ、Ｂ、Ｃの三つの型があります。よく流行するのはＡ型とＢ型です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "くしゃみやせきなどのしぶきや、<ruby>感染者<rt>かんせんしゃ</rt></ruby>が<ruby>触<rt>さわ</rt></ruby>ったドアノブなどを<ruby>介<rt>かい</rt></ruby>して<ruby>広<rt>ひろ</rt></ruby>がります。<ruby>感染<rt>かんせん</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐには、こまめな<ruby>手洗<rt>てあら</rt></ruby>いが<ruby>効果的<rt>こうかてき</rt></ruby>です。",
+            "origin": "くしゃみやせきなどのしぶきや、感染者が触ったドアノブなどを介して広がります。感染を防ぐには、こまめな手洗いが効果的です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200907kei00s00s010000c.json"
+}

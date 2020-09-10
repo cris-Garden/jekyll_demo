@@ -1,0 +1,20 @@
+{
+    "id": "articles20200908kei00s00s012000c",
+    "title": "避難指示",
+    "ruby": "",
+    "time": "2020年9月8日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200908/kei/00s/00s/012000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>災害<rt>さいがい</rt></ruby>が<ruby>起<rt>お</rt></ruby>きた<ruby>時<rt>とき</rt></ruby>に<ruby>市区町村<rt>しくちょうそん</rt></ruby>が<ruby>発令<rt>はつれい</rt></ruby>します。<ruby>災害<rt>さいがい</rt></ruby>の<ruby>危険度<rt>きけんど</rt></ruby>と<ruby>住民<rt>じゅうみん</rt></ruby>の<ruby>取<rt>と</rt></ruby>るべき<ruby>行動<rt>こうどう</rt></ruby>を、５<ruby>段階<rt>だんかい</rt></ruby>の<ruby>警戒<rt>けいかい</rt></ruby>レベルで<ruby>伝<rt>つた</rt></ruby>えます。「レベル３」はお<ruby>年<rt>とし</rt></ruby><ruby>寄<rt>よ</rt></ruby>りなどの<ruby>避難<rt>ひなん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>め、「レベル４」は<ruby>全員<rt>ぜんいん</rt></ruby>の<ruby>避難<rt>ひなん</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められます。<ruby>避難指示<rt>ひなんしじ</rt></ruby>はレベル４です。",
+            "origin": "災害が起きた時に市区町村が発令します。災害の危険度と住民の取るべき行動を、５段階の警戒レベルで伝えます。「レベル３」はお年寄りなどの避難を始め、「レベル４」は全員の避難が求められます。避難指示はレベル４です。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200908kei00s00s012000c.json"
+}
