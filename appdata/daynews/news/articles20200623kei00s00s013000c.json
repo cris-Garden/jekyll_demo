@@ -1,0 +1,80 @@
+{
+    "id": "articles20200623kei00s00s013000c",
+    "title": "同じ日本でも地域によって、しょうゆの味が違うのはなぜ？",
+    "ruby": "",
+    "time": "2020年6月23日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200623/kei/00s/00s/013000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "Ｑ<ruby>同<rt>おな</rt></ruby>じ<ruby>日本<rt>にほん</rt></ruby>でも<ruby>地域<rt>ちいき</rt></ruby>によって、しょうゆの<ruby>味<rt>あじ</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>うのはなぜ？（<ruby>兵庫県芦屋市<rt>ひょうごけんあしやし</rt></ruby>、<ruby>小<rt>しょう</rt></ruby>５、<ruby>男子<rt>だんし</rt></ruby>）",
+            "origin": "Ｑ同じ日本でも地域によって、しょうゆの味が違うのはなぜ？（兵庫県芦屋市、小５、男子）"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>原料<rt>げんりょう</rt></ruby>や<ruby>気候<rt>きこう</rt></ruby>、<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>い",
+            "origin": "手に入る原料や気候、文化の違い"
+        },
+        {
+            "type": "ruby",
+            "ruby": "Ａしょうゆは、<ruby>日本農林規格<rt>にほんのうりんきかく</rt></ruby>（ＪＡＳ）では、「こいくち」「うすくち」「さいしこみ」「たまり」「しろ」の５<ruby>種類<rt>しゅるい</rt></ruby>に<ruby>分類<rt>ぶんるい</rt></ruby>されています。",
+            "origin": "Ａしょうゆは、日本農林規格（ＪＡＳ）では、「こいくち」「うすくち」「さいしこみ」「たまり」「しろ」の５種類に分類されています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "「こいくち」は<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>なしょうゆです。<ruby>全国<rt>ぜんこく</rt></ruby>のしょうゆの<ruby>出荷量<rt>しゅっかりょう</rt></ruby>の８０％<ruby>以上<rt>いじょう</rt></ruby>をしめます。<ruby>原料<rt>げんりょう</rt></ruby>は<ruby>大豆<rt>だいず</rt></ruby>、<ruby>小麦<rt>こむぎ</rt></ruby>、<ruby>食塩<rt>しょくえん</rt></ruby>です。<ruby>蒸<rt>む</rt></ruby>した<ruby>大豆<rt>だいず</rt></ruby>と、いった<ruby>小麦<rt>こむぎ</rt></ruby>に、こうじ<ruby>菌<rt>きん</rt></ruby>や<ruby>食塩水<rt>しょくえんすい</rt></ruby>をまぜ、<ruby>約<rt>やく</rt></ruby>６か<ruby>月<rt>げつ</rt></ruby>かけて<ruby>発酵<rt>はっこう</rt></ruby>、<ruby>熟成<rt>じゅくせい</rt></ruby>させます。",
+            "origin": "「こいくち」は一般的なしょうゆです。全国のしょうゆの出荷量の８０％以上をしめます。原料は大豆、小麦、食塩です。蒸した大豆と、いった小麦に、こうじ菌や食塩水をまぜ、約６か月かけて発酵、熟成させます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "「うすくち」は、<ruby>関西地方<rt>かんさいちほう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>われる<ruby>色<rt>いろ</rt></ruby>の<ruby>淡<rt>あわ</rt></ruby>いしょうゆです。「こいくち」よりも<ruby>塩分<rt>えんぶん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>めです。<ruby>仕上<rt>しあ</rt></ruby>げに<ruby>甘酒<rt>あまざけ</rt></ruby>を<ruby>加<rt>くわ</rt></ruby>えるのも<ruby>特徴<rt>とくちょう</rt></ruby>です。",
+            "origin": "「うすくち」は、関西地方で使われる色の淡いしょうゆです。「こいくち」よりも塩分が多めです。仕上げに甘酒を加えるのも特徴です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "「さいしこみ」は<ruby>山口県<rt>やまぐちけん</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれ、<ruby>山陰地方<rt>さんいんちほう</rt></ruby>や<ruby>九州地方<rt>きゅうしゅうちほう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>われます。<ruby>色<rt>いろ</rt></ruby>、<ruby>味<rt>あじ</rt></ruby>、<ruby>香<rt>かお</rt></ruby>りとも<ruby>濃厚<rt>のうこう</rt></ruby>です。<ruby>食塩水<rt>しょくえんすい</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりに「こいくち」を<ruby>使<rt>つか</rt></ruby>って<ruby>仕込<rt>しこ</rt></ruby>みます。",
+            "origin": "「さいしこみ」は山口県で生まれ、山陰地方や九州地方で使われます。色、味、香りとも濃厚です。食塩水の代わりに「こいくち」を使って仕込みます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "「たまり」はトロリとしたコクのある<ruby>味<rt>あじ</rt></ruby>が<ruby>特徴<rt>とくちょう</rt></ruby>で、おもに<ruby>中部地方<rt>ちゅうぶちほう</rt></ruby>で<ruby>造<rt>つく</rt></ruby>られる<ruby>色<rt>いろ</rt></ruby>の<ruby>濃<rt>こ</rt></ruby>いしょうゆです。ほとんど<ruby>大豆<rt>だいず</rt></ruby>で<ruby>造<rt>つく</rt></ruby>ります。",
+            "origin": "「たまり」はトロリとしたコクのある味が特徴で、おもに中部地方で造られる色の濃いしょうゆです。ほとんど大豆で造ります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "「しろ」は<ruby>愛知県碧南市<rt>あいちけんへきなんし</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれた、「うすくち」よりも<ruby>色<rt>いろ</rt></ruby>の<ruby>薄<rt>うす</rt></ruby>いしょうゆです。<ruby>甘<rt>あま</rt></ruby>みが<ruby>強<rt>つよ</rt></ruby>く、<ruby>独特<rt>どくとく</rt></ruby>の<ruby>香<rt>かお</rt></ruby>りがあります。<ruby>小麦<rt>こむぎ</rt></ruby>がおもな<ruby>原料<rt>げんりょう</rt></ruby>で、<ruby>大豆<rt>だいず</rt></ruby>を<ruby>少量<rt>しょうりょう</rt></ruby><ruby>使<rt>つか</rt></ruby>います。",
+            "origin": "「しろ」は愛知県碧南市で生まれた、「うすくち」よりも色の薄いしょうゆです。甘みが強く、独特の香りがあります。小麦がおもな原料で、大豆を少量使います。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本<rt>にほん</rt></ruby><ruby>醬油<rt>しょうゆ</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>センターの<ruby>松本秀樹<rt>まつもとひでき</rt></ruby>さんは「<ruby>味<rt>あじ</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いは<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>原料<rt>げんりょう</rt></ruby>、<ruby>気候<rt>きこう</rt></ruby><ruby>風土<rt>ふうど</rt></ruby>、<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いによるものです」と<ruby>言<rt>い</rt></ruby>います。",
+            "origin": "日本醬油技術センターの松本秀樹さんは「味の違いは手に入る原料、気候風土、文化の違いによるものです」と言います。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>愛知県<rt>あいちけん</rt></ruby>は<ruby>高温<rt>こうおん</rt></ruby><ruby>多湿<rt>たしつ</rt></ruby>の<ruby>気候<rt>きこう</rt></ruby>であることから、<ruby>発酵<rt>はっこう</rt></ruby>の<ruby>遅<rt>おそ</rt></ruby>い<ruby>豆<rt>まめ</rt></ruby>みそが<ruby>発達<rt>はったつ</rt></ruby>しました。<ruby>豆<rt>まめ</rt></ruby>みそを<ruby>造<rt>つく</rt></ruby>る<ruby>過程<rt>かてい</rt></ruby>でにじみ<ruby>出<rt>で</rt></ruby>た<ruby>液体<rt>えきたい</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>したのが「たまり」のはじまりと<ruby>言<rt>い</rt></ruby>われます。<ruby>原料<rt>げんりょう</rt></ruby>となる<ruby>大豆<rt>だいず</rt></ruby>や<ruby>食塩<rt>しょくえん</rt></ruby>は、<ruby>尾張<rt>おわり</rt></ruby>や<ruby>美濃<rt>みの</rt></ruby>が<ruby>江戸時代<rt>えどじだい</rt></ruby>の<ruby>交通<rt>こうつう</rt></ruby>の<ruby>要所<rt>ようしょ</rt></ruby>であったことから<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りやすかったと<ruby>言<rt>い</rt></ruby>えます。",
+            "origin": "愛知県は高温多湿の気候であることから、発酵の遅い豆みそが発達しました。豆みそを造る過程でにじみ出た液体を取り出したのが「たまり」のはじまりと言われます。原料となる大豆や食塩は、尾張や美濃が江戸時代の交通の要所であったことから手に入りやすかったと言えます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>濃厚<rt>のうこう</rt></ruby>な「たまり」が<ruby>生<rt>う</rt></ruby>まれた<ruby>愛知県<rt>あいちけん</rt></ruby>で<ruby>正反対<rt>せいはんたい</rt></ruby>のしょうゆへの<ruby>要望<rt>ようぼう</rt></ruby>もあり、「しろ」が<ruby>造<rt>つく</rt></ruby>られたと<ruby>言<rt>い</rt></ruby>われています。",
+            "origin": "一方、濃厚な「たまり」が生まれた愛知県で正反対のしょうゆへの要望もあり、「しろ」が造られたと言われています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>関西地方<rt>かんさいちほう</rt></ruby>で「うすくち」が<ruby>生<rt>う</rt></ruby>まれた<ruby>背景<rt>はいけい</rt></ruby>には、<ruby>日本酒<rt>にほんしゅ</rt></ruby>の<ruby>生産地<rt>せいさんち</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>いためおけなどが<ruby>調達<rt>ちょうたつ</rt></ruby>しやすく、<ruby>小麦<rt>こむぎ</rt></ruby>や<ruby>食塩<rt>しょくえん</rt></ruby>の<ruby>産地<rt>さんち</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>いことなどがありました。また、<ruby>京都<rt>きょうと</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>く、<ruby>精進料理<rt>しょうじんりょうり</rt></ruby>などでは<ruby>濃<rt>こ</rt></ruby>い<ruby>色<rt>いろ</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けるため、<ruby>生<rt>う</rt></ruby>まれました。",
+            "origin": "関西地方で「うすくち」が生まれた背景には、日本酒の生産地が近いためおけなどが調達しやすく、小麦や食塩の産地が近いことなどがありました。また、京都に近く、精進料理などでは濃い色を避けるため、生まれました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>室町時代<rt>むろまちじだい</rt></ruby>に「たまり」が<ruby>生<rt>う</rt></ruby>まれ、<ruby>江戸時代<rt>えどじだい</rt></ruby>になると<ruby>千葉県<rt>ちばけん</rt></ruby>の<ruby>銚子<rt>ちょうし</rt></ruby>や<ruby>野田<rt>のだ</rt></ruby>で「こいくち」が<ruby>生<rt>う</rt></ruby>まれました。<ruby>江戸時代<rt>えどじだい</rt></ruby><ruby>後期<rt>こうき</rt></ruby>には<ruby>現在<rt>げんざい</rt></ruby>の５<ruby>種類<rt>しゅるい</rt></ruby>がそろったと<ruby>思<rt>おも</rt></ruby>われます。【<ruby>篠口<rt>しのぐち</rt></ruby><ruby>純子<rt>じゅんこ</rt></ruby>】",
+            "origin": "室町時代に「たまり」が生まれ、江戸時代になると千葉県の銚子や野田で「こいくち」が生まれました。江戸時代後期には現在の５種類がそろったと思われます。【篠口純子】"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200623kei00s00s013000c.json"
+}

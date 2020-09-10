@@ -1,0 +1,35 @@
+{
+    "id": "articles20200624kei00s00s010000c",
+    "title": "スポーツ　プロ野球　来月１０日から観客を入れて開催",
+    "ruby": "",
+    "time": "2020年6月24日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/06/24/20200624kei00s00s021000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20200624/kei/00s/00s/010000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新型<rt>しんがた</rt></ruby>コロナウイルスの<ruby>感染<rt>かんせん</rt></ruby><ruby>防止<rt>ぼうし</rt></ruby>のため<ruby>無<rt>む</rt></ruby><ruby>観客<rt>かんきゃく</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>われているプロ<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>公式戦<rt>こうしきせん</rt></ruby>が、７<ruby>月<rt>がつ</rt></ruby>１０<ruby>日<rt>とおか</rt></ruby>から<ruby>観客<rt>かんきゃく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<ruby>開催<rt>かいさい</rt></ruby>されます。プロ<ruby>野球<rt>やきゅう</rt></ruby>をまとめている<ruby>日本野球機構<rt>にほんやきゅうきこう</rt></ruby>（ＮＰＢ）と１２<ruby>球団<rt>きゅうだん</rt></ruby>が２２<ruby>日<rt>にち</rt></ruby>、<ruby>決<rt>き</rt></ruby>めました。",
+            "origin": "新型コロナウイルスの感染防止のため無観客で行われているプロ野球の公式戦が、７月１０日から観客を入れて開催されます。プロ野球をまとめている日本野球機構（ＮＰＢ）と１２球団が２２日、決めました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>政府<rt>せいふ</rt></ruby>の<ruby>方針<rt>ほうしん</rt></ruby>により、プロ<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>球場<rt>きゅうじょう</rt></ruby>の<ruby>最大<rt>さいだい</rt></ruby><ruby>入場者<rt>にゅうじょうしゃ</rt></ruby><ruby>数<rt>すう</rt></ruby>は５０００<ruby>人<rt>にん</rt></ruby>になります。<ruby>開催地<rt>かいさいち</rt></ruby>の<ruby>感染<rt>かんせん</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>により、<ruby>各地<rt>かくち</rt></ruby>の<ruby>入場者<rt>にゅうじょうしゃ</rt></ruby><ruby>数<rt>すう</rt></ruby>の<ruby>上限<rt>じょうげん</rt></ruby>には<ruby>差<rt>さ</rt></ruby>が<ruby>出<rt>で</rt></ruby>るかもしれません。",
+            "origin": "政府の方針により、プロ野球の球場の最大入場者数は５０００人になります。開催地の感染状況により、各地の入場者数の上限には差が出るかもしれません。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>感染症<rt>かんせんしょう</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>チームからは、「<ruby>応援歌<rt>おうえんか</rt></ruby>の<ruby>合唱<rt>がっしょう</rt></ruby>や<ruby>鳴<rt>な</rt></ruby>り<ruby>物<rt>もの</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う<ruby>応援<rt>おうえん</rt></ruby>スタイルの<ruby>変更<rt>へんこう</rt></ruby>と、<ruby>観客<rt>かんきゃく</rt></ruby><ruby>同士<rt>どうし</rt></ruby>のハイタッチなどの<ruby>接触<rt>せっしょく</rt></ruby>の<ruby>禁止<rt>きんし</rt></ruby>」などが<ruby>観客<rt>かんきゃく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れる<ruby>際<rt>さい</rt></ruby>の<ruby>対策<rt>たいさく</rt></ruby>として<ruby>示<rt>しめ</rt></ruby>されています。",
+            "origin": "感染症の専門家チームからは、「応援歌の合唱や鳴り物を使う応援スタイルの変更と、観客同士のハイタッチなどの接触の禁止」などが観客を入れる際の対策として示されています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>阪神<rt>はんしん</rt></ruby>は２３<ruby>日<rt>にち</rt></ruby>、<ruby>甲子園球場<rt>こうしえんきゅうじょう</rt></ruby>でのオリックスとの２<ruby>軍<rt>ぐん</rt></ruby><ruby>戦<rt>せん</rt></ruby>を<ruby>観客<rt>かんきゃく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<ruby>行<rt>おこな</rt></ruby>い、サーモグラフィーによる<ruby>検温<rt>けんおん</rt></ruby>などを<ruby>実施<rt>じっし</rt></ruby>して、<ruby>試合<rt>しあい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。",
+            "origin": "阪神は２３日、甲子園球場でのオリックスとの２軍戦を観客を入れて行い、サーモグラフィーによる検温などを実施して、試合の時の対応を確認します。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/06/24/20200624kei00s00s021000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200624kei00s00s010000c.json"
+}

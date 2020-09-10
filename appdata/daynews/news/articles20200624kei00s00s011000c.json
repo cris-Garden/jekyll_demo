@@ -1,0 +1,25 @@
+{
+    "id": "articles20200624kei00s00s011000c",
+    "title": "科学　スパコン富岳、４部門で世界１位に",
+    "ruby": "",
+    "time": "2020年6月24日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/06/24/20200624kei00s00s020000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20200624/kei/00s/00s/011000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "ふつうのコンピューターに<ruby>比<rt>くら</rt></ruby>べて<ruby>超<rt>ちょう</rt></ruby><ruby>高速<rt>こうそく</rt></ruby>で<ruby>計算<rt>けいさん</rt></ruby>ができる、スーパーコンピューター（スパコン）の<ruby>世界<rt>せかい</rt></ruby>ランキングが２２<ruby>日<rt>にち</rt></ruby>、<ruby>発表<rt>はっぴょう</rt></ruby>されました。<ruby>理化学研究所<rt>りかがくけんきゅうしょ</rt></ruby>のスパコン「<ruby>富岳<rt>ふがく</rt></ruby>」が、４<ruby>部門<rt>ぶもん</rt></ruby>で１<ruby>位<rt>い</rt></ruby>になりました。そのうち<ruby>計算<rt>けいさん</rt></ruby><ruby>速度<rt>そくど</rt></ruby>▽<ruby>実用<rt>じつよう</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>性能<rt>せいのう</rt></ruby>▽ビッグデータを<ruby>扱<rt>あつか</rt></ruby>う<ruby>性能<rt>せいのう</rt></ruby>――の３<ruby>部門<rt>ぶもん</rt></ruby>で<ruby>同時<rt>どうじ</rt></ruby>に１<ruby>位<rt>い</rt></ruby>となるのは<ruby>世界初<rt>せかいはつ</rt></ruby>です。<ruby>日本<rt>にっぽん</rt></ruby>のスパコンが<ruby>主要<rt>しゅよう</rt></ruby><ruby>部門<rt>ぶもん</rt></ruby>の<ruby>計算<rt>けいさん</rt></ruby><ruby>速度<rt>そくど</rt></ruby>で<ruby>世界一<rt>せかいいち</rt></ruby>になるのは、２０１９<ruby>年<rt>ねん</rt></ruby>に<ruby>運転<rt>うんてん</rt></ruby>を<ruby>終了<rt>しゅうりょう</rt></ruby>した「<ruby>京<rt>けい</rt></ruby>」が１１<ruby>年<rt>ねん</rt></ruby>に<ruby>獲得<rt>かくとく</rt></ruby>して<ruby>以来<rt>いらい</rt></ruby>です。",
+            "origin": "ふつうのコンピューターに比べて超高速で計算ができる、スーパーコンピューター（スパコン）の世界ランキングが２２日、発表されました。理化学研究所のスパコン「富岳」が、４部門で１位になりました。そのうち計算速度▽実用時の性能▽ビッグデータを扱う性能――の３部門で同時に１位となるのは世界初です。日本のスパコンが主要部門の計算速度で世界一になるのは、２０１９年に運転を終了した「京」が１１年に獲得して以来です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>富岳<rt>ふがく</rt></ruby>は<ruby>最大<rt>さいだい</rt></ruby>で「<ruby>京<rt>けい</rt></ruby>」の<ruby>約<rt>やく</rt></ruby>１００<ruby>倍<rt>ばい</rt></ruby>の<ruby>計算<rt>けいさん</rt></ruby><ruby>速度<rt>そくど</rt></ruby>を<ruby>持<rt>も</rt></ruby>ちます。<ruby>実験<rt>じっけん</rt></ruby>や<ruby>観測<rt>かんそく</rt></ruby>がむずかしい<ruby>現象<rt>げんしょう</rt></ruby>などをシミュレーションで<ruby>再現<rt>さいげん</rt></ruby>します。２１<ruby>年<rt>ねん</rt></ruby><ruby>度<rt>ど</rt></ruby>に<ruby>本格的<rt>ほんかくてき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>で、<ruby>一部<rt>いちぶ</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から<ruby>新型<rt>しんがた</rt></ruby>コロナウイルスに<ruby>関<rt>かん</rt></ruby>する<ruby>研究<rt>けんきゅう</rt></ruby>などに<ruby>使<rt>つか</rt></ruby>われています。",
+            "origin": "富岳は最大で「京」の約１００倍の計算速度を持ちます。実験や観測がむずかしい現象などをシミュレーションで再現します。２１年度に本格的に動く予定で、一部は今年４月から新型コロナウイルスに関する研究などに使われています。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/06/24/20200624kei00s00s020000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200624kei00s00s011000c.json"
+}

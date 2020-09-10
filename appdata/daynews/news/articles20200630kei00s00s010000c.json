@@ -1,0 +1,100 @@
+{
+    "id": "articles20200630kei00s00s010000c",
+    "title": "科学　新型コロナ　世界の感染者数１０００万人超える",
+    "ruby": "",
+    "time": "2020年6月30日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200630/kei/00s/00s/010000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新型<rt>しんがた</rt></ruby>コロナウイルスの<ruby>感染者<rt>かんせんしゃ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>が、<ruby>世界<rt>せかい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>で１０００<ruby>万人<rt>まんにん</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えました。アメリカのジョンズ・ホプキンズ<ruby>大学<rt>だいがく</rt></ruby>のまとめでは、<ruby>日本時間<rt>にほんじかん</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>２９<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>、１０１１<ruby>万<rt>まん</rt></ruby>５９１２<ruby>人<rt>にん</rt></ruby>でした。５００<ruby>万人<rt>まんにん</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えたのが５<ruby>月<rt>がつ</rt></ruby>２１<ruby>日<rt>にち</rt></ruby>（<ruby>日本時間<rt>にほんじかん</rt></ruby>）で、１か<ruby>月<rt>げつ</rt></ruby>あまりで２<ruby>倍<rt>ばい</rt></ruby>になり、<ruby>急速<rt>きゅうそく</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>えています。<ruby>死者<rt>ししゃ</rt></ruby><ruby>数<rt>すう</rt></ruby>も<ruby>世界<rt>せかい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>で５０<ruby>万人<rt>まんにん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。",
+            "origin": "新型コロナウイルスの感染者の数が、世界全体で１０００万人を超えました。アメリカのジョンズ・ホプキンズ大学のまとめでは、日本時間６月２９日午前、１０１１万５９１２人でした。５００万人を超えたのが５月２１日（日本時間）で、１か月あまりで２倍になり、急速に増えています。死者数も世界全体で５０万人以上になりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新型<rt>しんがた</rt></ruby>コロナウイルスは、２０１９<ruby>年<rt>ねん</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>に<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>確認<rt>かくにん</rt></ruby>されました。<ruby>今<rt>いま</rt></ruby>はブラジルなどの<ruby>新興国<rt>しんこうこく</rt></ruby>で<ruby>感染<rt>かんせん</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>急増<rt>きゅうぞう</rt></ruby>しています。<ruby>国<rt>くに</rt></ruby><ruby>別<rt>べつ</rt></ruby>ではアメリカが<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>く、<ruby>次<rt>つ</rt></ruby>いでブラジル、ロシア、インドが<ruby>続<rt>つづ</rt></ruby>いています。",
+            "origin": "新型コロナウイルスは、２０１９年１２月に中国で初めて確認されました。今はブラジルなどの新興国で感染者が急増しています。国別ではアメリカが最も多く、次いでブラジル、ロシア、インドが続いています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "アメリカでは５<ruby>月<rt>がつ</rt></ruby><ruby>以降<rt>いこう</rt></ruby>、<ruby>感染者<rt>かんせんしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えるペースが<ruby>緩<rt>ゆる</rt></ruby>やかになったので、<ruby>経済活動<rt>けいざいかつどう</rt></ruby>の<ruby>規制<rt>きせい</rt></ruby>をゆるめる<ruby>地域<rt>ちいき</rt></ruby>もありました。しかし６<ruby>月<rt>がつ</rt></ruby><ruby>中旬<rt>ちゅうじゅん</rt></ruby>から<ruby>南部<rt>なんぶ</rt></ruby>や<ruby>中西部<rt>ちゅうせいぶ</rt></ruby>で<ruby>感染<rt>かんせん</rt></ruby><ruby>者<rt>しゃ</rt></ruby>がまた<ruby>急増<rt>きゅうぞう</rt></ruby>しています。",
+            "origin": "アメリカでは５月以降、感染者が増えるペースが緩やかになったので、経済活動の規制をゆるめる地域もありました。しかし６月中旬から南部や中西部で感染者がまた急増しています。"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>新型<rt>しんがた</rt></ruby>コロナウイルスの<ruby>感染者<rt>かんせんしゃ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い<ruby>国<rt>くに</rt></ruby>・<ruby>地域<rt>ちいき</rt></ruby>",
+            "origin": "新型コロナウイルスの感染者が多い国・地域"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>感染者<rt>かんせんしゃ</rt></ruby>（<ruby>人<rt>にん</rt></ruby>）<ruby>死者<rt>ししゃ</rt></ruby>（<ruby>人<rt>にん</rt></ruby>）",
+            "origin": "感染者（人）死者（人）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>世界<rt>せかい</rt></ruby>１０１１<ruby>万<rt>まん</rt></ruby>５９１２５０<ruby>万<rt>まん</rt></ruby>１２３３",
+            "origin": "世界１０１１万５９１２５０万１２３３"
+        },
+        {
+            "type": "ruby",
+            "ruby": "アメリカ２５４<ruby>万<rt>まん</rt></ruby>８１４３１２<ruby>万<rt>まん</rt></ruby>５７９９",
+            "origin": "アメリカ２５４万８１４３１２万５７９９"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ブラジル１３４<ruby>万<rt>まん</rt></ruby>４１４３５<ruby>万<rt>まん</rt></ruby>７６２２",
+            "origin": "ブラジル１３４万４１４３５万７６２２"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ロシア６３<ruby>万<rt>まん</rt></ruby>３５６３９０６０",
+            "origin": "ロシア６３万３５６３９０６０"
+        },
+        {
+            "type": "ruby",
+            "ruby": "インド５２<ruby>万<rt>まん</rt></ruby>８８５９１<ruby>万<rt>まん</rt></ruby>６０９５",
+            "origin": "インド５２万８８５９１万６０９５"
+        },
+        {
+            "type": "ruby",
+            "ruby": "イギリス３１<ruby>万<rt>まん</rt></ruby>２６４０４<ruby>万<rt>まん</rt></ruby>３６３４",
+            "origin": "イギリス３１万２６４０４万３６３４"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ペルー２７<ruby>万<rt>まん</rt></ruby>９４１９９３１７",
+            "origin": "ペルー２７万９４１９９３１７"
+        },
+        {
+            "type": "ruby",
+            "ruby": "チリ２７<ruby>万<rt>まん</rt></ruby>１９８２５５０９",
+            "origin": "チリ２７万１９８２５５０９"
+        },
+        {
+            "type": "ruby",
+            "ruby": "スペイン２４<ruby>万<rt>まん</rt></ruby>８７７０２<ruby>万<rt>まん</rt></ruby>８３４３",
+            "origin": "スペイン２４万８７７０２万８３４３"
+        },
+        {
+            "type": "ruby",
+            "ruby": "イタリア２４<ruby>万<rt>まん</rt></ruby>３１０３<ruby>万<rt>まん</rt></ruby>４７３８",
+            "origin": "イタリア２４万３１０３万４７３８"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※<ruby>日本時間<rt>にほんじかん</rt></ruby>２９<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>、ジョンズ・ホプキンズ<ruby>大学<rt>だいがく</rt></ruby>の<ruby>集計<rt>しゅうけい</rt></ruby>",
+            "origin": "※日本時間２９日午前、ジョンズ・ホプキンズ大学の集計"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200630kei00s00s010000c.json"
+}

@@ -1,0 +1,25 @@
+{
+    "id": "articles20200629kei00s00s010000c",
+    "title": "リニア中央新幹線",
+    "ruby": "",
+    "time": "2020年6月29日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200629/kei/00s/00s/010000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>磁石<rt>じしゃく</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>で<ruby>車体<rt>しゃたい</rt></ruby>を<ruby>浮<rt>う</rt></ruby>かせ<ruby>高速<rt>こうそく</rt></ruby>で<ruby>走<rt>はし</rt></ruby>らせる<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>鉄道<rt>てつどう</rt></ruby>です。<ruby>品川駅<rt>しながわえき</rt></ruby>から<ruby>名古屋駅<rt>なごやえき</rt></ruby>を<ruby>通<rt>とお</rt></ruby>り、<ruby>大阪市<rt>おおさかし</rt></ruby>の<ruby>新大阪駅<rt>しんおおさかえき</rt></ruby>までつなぐことを<ruby>目指<rt>めざ</rt></ruby>しています。<ruby>最高速度<rt>さいこうそくど</rt></ruby>は<ruby>時速<rt>じそく</rt></ruby>５００キロメートルを<ruby>超<rt>こ</rt></ruby>え、<ruby>品川<rt>しながわ</rt></ruby>―<ruby>名古屋<rt>なごや</rt></ruby>を４０<ruby>分<rt>ぷん</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る<ruby>見通<rt>みとお</rt></ruby>しです。",
+            "origin": "磁石の力で車体を浮かせ高速で走らせる技術を使った鉄道です。品川駅から名古屋駅を通り、大阪市の新大阪駅までつなぐことを目指しています。最高速度は時速５００キロメートルを超え、品川―名古屋を４０分で走る見通しです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200629kei00s00s010000c.json"
+}
