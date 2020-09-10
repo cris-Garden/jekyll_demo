@@ -1,6 +1,48 @@
 {
     "news": [
         {
+            "id": "k10012608551000",
+            "title": "ドコモ口座　銀行の口座からお金がとられる被害があった",
+            "ruby": "ドコモ<ruby>口座<rt>こうざ</rt></ruby>　<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>口座<rt>こうざ</rt></ruby>からお<ruby>金<rt>かね</rt></ruby>がとられる<ruby>被害<rt>ひがい</rt></ruby>があった",
+            "time": "2020-09-10",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012608551000/k10012608551000.html",
+            "body": [],
+            "voiceurl": "k10012608551000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200909/../20200909/K10012608551_2009091212_2009091213_01_02.jpg",
+            "newsmovie": "k10012608551_202009091225_202009091236.mp4",
+            "path": "appdata/news/k10012608551000.json"
+        },
+        {
+            "id": "k10012606871000",
+            "title": "新しいコロナウイルスで５００の会社が倒産した",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスで５００の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>倒産<rt>とうさん</rt></ruby>した",
+            "time": "2020-09-10",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012606871000/k10012606871000.html",
+            "body": [],
+            "voiceurl": "k10012606871000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200908/../20200908/K10012606871_2009081424_2009081426_01_02.jpg",
+            "newsmovie": "",
+            "path": "appdata/news/k10012606871000.json"
+        },
+        {
+            "id": "k10012608001000",
+            "title": "コロナウイルス　仕事がなくなって家賃を払えない人が増える",
+            "ruby": "コロナウイルス　<ruby>仕事<rt>しごと</rt></ruby>がなくなって<ruby>家賃<rt>やちん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>えない<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える",
+            "time": "2020-09-10",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012608001000/k10012608001000.html",
+            "body": [],
+            "voiceurl": "k10012608001000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200909/../20200909/K10012608001_2009082143_2009090602_01_02.jpg",
+            "newsmovie": "k10012608001_202009090618_202009090619.mp4",
+            "path": "appdata/news/k10012608001000.json"
+        },
+        {
             "id": "k10012607891000",
             "title": "田んぼにいろいろな色の稲で「マスクをした熊」",
             "ruby": "<ruby>田<rt>た</rt></ruby>んぼにいろいろな<ruby>色<rt>いろ</rt></ruby>の<ruby>稲<rt>いね</rt></ruby>で「マスクをした<ruby>熊<rt>くま</rt></ruby>」",

@@ -1,0 +1,35 @@
+{
+    "id": "k10012606871000",
+    "title": "新しいコロナウイルスで５００の会社が倒産した",
+    "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスで５００の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>倒産<rt>とうさん</rt></ruby>した",
+    "time": "2020-09-10",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012606871000/k10012606871000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で、<ruby>今年<rt>ことし</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>から９<ruby>月<rt>がつ</rt></ruby><ruby>８日<rt>ようか</rt></ruby>までに５００の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>倒産<rt>とうさん</rt></ruby>したり、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることをやめたりしました。<ruby>調査<rt>ちょうさ</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>の<ruby>帝国<rt>ていこく</rt></ruby>データバンクが<ruby>調<rt>しら</rt></ruby>べて、わかりました。",
+            "origin": "新しいコロナウイルスの問題で、今年２月から９月８日までに５００の会社が倒産したり、仕事を続けることをやめたりしました。調査会社の帝国データバンクが調べて、わかりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "この<ruby>中<rt>なか</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>かった<ruby>仕事<rt>しごと</rt></ruby>はレストランなどの「<ruby>飲食店<rt>いんしょくてん</rt></ruby>」で、６９ありました。<ruby>次<rt>つぎ</rt></ruby>は「ホテル・<ruby>旅館<rt>りょかん</rt></ruby>」で５３、<ruby>服<rt>ふく</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ったり<ruby>売<rt>う</rt></ruby>ったりする「アパレル<ruby>小売店<rt>こうりてん</rt></ruby>」が３４ありました。",
+            "origin": "この中でいちばん多かった仕事はレストランなどの「飲食店」で、６９ありました。次は「ホテル・旅館」で５３、服を作ったり売ったりする「アパレル小売店」が３４ありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>にある<ruby>会社<rt>かいしゃ</rt></ruby>がいちばん<ruby>多<rt>おお</rt></ruby>くて１２３、<ruby>大阪府<rt>おおさかふ</rt></ruby>は５４、<ruby>北海道<rt>ほっかいどう</rt></ruby>は２５でした。６<ruby>月<rt>がつ</rt></ruby>と７<ruby>月<rt>がつ</rt></ruby>はどちらも１００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>倒産<rt>とうさん</rt></ruby>しました。８<ruby>月<rt>がつ</rt></ruby>は８４でした。",
+            "origin": "東京都にある会社がいちばん多くて１２３、大阪府は５４、北海道は２５でした。６月と７月はどちらも１００以上の会社が倒産しました。８月は８４でした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>帝国<rt>ていこく</rt></ruby>データバンクは「<ruby>政府<rt>せいふ</rt></ruby>などが<ruby>出<rt>だ</rt></ruby>すお<ruby>金<rt>かね</rt></ruby>が<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>もあります。コロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で、みんながお<ruby>金<rt>かね</rt></ruby>をあまり<ruby>使<rt>つか</rt></ruby>わない<ruby>生活<rt>せいかつ</rt></ruby>がこれからも<ruby>続<rt>つづ</rt></ruby>いたら、<ruby>経営<rt>けいえい</rt></ruby>がうまくいかなくなる<ruby>会社<rt>かいしゃ</rt></ruby>がもっと<ruby>増<rt>ふ</rt></ruby>えるかもしれません」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "帝国データバンクは「政府などが出すお金が役に立っている会社もあります。コロナウイルスの問題で、みんながお金をあまり使わない生活がこれからも続いたら、経営がうまくいかなくなる会社がもっと増えるかもしれません」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012606871000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200908/../20200908/K10012606871_2009081424_2009081426_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012606871000.json"
+}
