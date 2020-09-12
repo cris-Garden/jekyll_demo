@@ -1,0 +1,35 @@
+{
+    "id": "k10012612261000",
+    "title": "成田山新勝寺「来年の初詣は正月の３日間以外に来てください」",
+    "ruby": "<ruby>成田山新勝寺<rt>なりたさんしんしょうじ</rt></ruby>「<ruby>来年<rt>らいねん</rt></ruby>の<ruby>初詣<rt>はつもうで</rt></ruby>は<ruby>正月<rt>しょうがつ</rt></ruby>の<ruby>３日<rt>みっか</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>以外<rt>いがい</rt></ruby>に<ruby>来<rt>き</rt></ruby>てください」",
+    "time": "2020-09-11",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012612261000/k10012612261000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>千葉県<rt>ちばけん</rt></ruby>にある<ruby>成田山新勝寺<rt>なりたさんしんしょうじ</rt></ruby>という<ruby>寺<rt>てら</rt></ruby>は、<ruby>毎年<rt>まいとし</rt></ruby><ruby>正月<rt>しょうがつ</rt></ruby>の<ruby>３日<rt>みっか</rt></ruby><ruby>間<rt>かん</rt></ruby>に<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>初詣<rt>はつもうで</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>の<ruby>幸<rt>しあわ</rt></ruby>せを<ruby>祈<rt>いの</rt></ruby>ります。<ruby>今年<rt>ことし</rt></ruby>は３１８<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>来<rt>き</rt></ruby>ました。",
+            "origin": "千葉県にある成田山新勝寺という寺は、毎年正月の３日間に大勢の人が初詣に来て、新しい年の幸せを祈ります。今年は３１８万人ぐらいが来ました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "しかし<ruby>来年<rt>らいねん</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がらないように、<ruby>初詣<rt>はつもうで</rt></ruby>は１<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>３日<rt>みっか</rt></ruby>ではなくて、できるだけ<ruby>別<rt>べつ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>来<rt>き</rt></ruby>てもらうことにしました。<ruby>寺<rt>てら</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>には、<ruby>人<rt>ひと</rt></ruby>と<ruby>人<rt>ひと</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>くして、アルコールで<ruby>手<rt>て</rt></ruby>を<ruby>消毒<rt>しょうどく</rt></ruby>してもらいます。",
+            "origin": "しかし来年は、新しいコロナウイルスが広がらないように、初詣は１月１日から３日ではなくて、できるだけ別の日に来てもらうことにしました。寺に来た人には、人と人の間を広くして、アルコールで手を消毒してもらいます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>寺<rt>てら</rt></ruby>がある<ruby>成田市<rt>なりたし</rt></ruby>は、<ruby>寺<rt>てら</rt></ruby>までの<ruby>道<rt>みち</rt></ruby>に<ruby>体温<rt>たいおん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べたり、<ruby>消毒<rt>しょうどく</rt></ruby>したりする<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。",
+            "origin": "寺がある成田市は、寺までの道に体温を調べたり、消毒したりする場所を作る予定です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>寺<rt>てら</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「このようにお<ruby>願<rt>ねが</rt></ruby>いするのは<ruby>初<rt>はじ</rt></ruby>めてだと<ruby>思<rt>おも</rt></ruby>います。<ruby>初詣<rt>はつもうで</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>をしっかり<ruby>迎<rt>むか</rt></ruby>えることができるように<ruby>準備<rt>じゅんび</rt></ruby>をしていきたいです」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "寺の人は「このようにお願いするのは初めてだと思います。初詣に来る人をしっかり迎えることができるように準備をしていきたいです」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012612261000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200911/../20200911/K10012612261_2009110721_2009110725_01_03.jpg",
+    "newsmovie": "k10012612261_202009110721_202009110724.mp4",
+    "path": "appdata/news/k10012612261000.json"
+}

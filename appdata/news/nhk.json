@@ -1,6 +1,48 @@
 {
     "news": [
         {
+            "id": "k10012607971000",
+            "title": "台風になる前の熱帯低気圧　５日先まで予報を出すことにする",
+            "ruby": "<ruby>台風<rt>たいふう</rt></ruby>になる<ruby>前<rt>まえ</rt></ruby>の<ruby>熱帯低気圧<rt>ねったいていきあつ</rt></ruby>　<ruby>５日<rt>いつか</rt></ruby><ruby>先<rt>さき</rt></ruby>まで<ruby>予報<rt>よほう</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すことにする",
+            "time": "2020-09-11",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012607971000/k10012607971000.html",
+            "body": [],
+            "voiceurl": "k10012607971000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200909/../20200909/K10012607971_2009082136_2009090446_01_02.jpg",
+            "newsmovie": "",
+            "path": "appdata/news/k10012607971000.json"
+        },
+        {
+            "id": "k10012612261000",
+            "title": "成田山新勝寺「来年の初詣は正月の３日間以外に来てください」",
+            "ruby": "<ruby>成田山新勝寺<rt>なりたさんしんしょうじ</rt></ruby>「<ruby>来年<rt>らいねん</rt></ruby>の<ruby>初詣<rt>はつもうで</rt></ruby>は<ruby>正月<rt>しょうがつ</rt></ruby>の<ruby>３日<rt>みっか</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>以外<rt>いがい</rt></ruby>に<ruby>来<rt>き</rt></ruby>てください」",
+            "time": "2020-09-11",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012612261000/k10012612261000.html",
+            "body": [],
+            "voiceurl": "k10012612261000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200911/../20200911/K10012612261_2009110721_2009110725_01_03.jpg",
+            "newsmovie": "k10012612261_202009110721_202009110724.mp4",
+            "path": "appdata/news/k10012612261000.json"
+        },
+        {
+            "id": "k10012612431000",
+            "title": "「Go Toトラベル」１０月１日から東京都でも始まる",
+            "ruby": "「Go Toトラベル」１０<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>東京都<rt>とうきょうと</rt></ruby>でも<ruby>始<rt>はじ</rt></ruby>まる",
+            "time": "2020-09-11",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012612431000/k10012612431000.html",
+            "body": [],
+            "voiceurl": "k10012612431000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200911/../20200911/K10012612431_2009111047_2009111048_01_02.jpg",
+            "newsmovie": "k10012612431_202009111215_202009111222.mp4",
+            "path": "appdata/news/k10012612431000.json"
+        },
+        {
             "id": "k10012608551000",
             "title": "ドコモ口座　銀行の口座からお金がとられる被害があった",
             "ruby": "ドコモ<ruby>口座<rt>こうざ</rt></ruby>　<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>口座<rt>こうざ</rt></ruby>からお<ruby>金<rt>かね</rt></ruby>がとられる<ruby>被害<rt>ひがい</rt></ruby>があった",
