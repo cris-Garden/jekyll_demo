@@ -1,6 +1,48 @@
 {
     "news": [
         {
+            "id": "k10012615281000",
+            "title": "「自分から仕事をやめた」ことにされた外国人の相談が増える",
+            "ruby": "「<ruby>自分<rt>じぶん</rt></ruby>から<ruby>仕事<rt>しごと</rt></ruby>をやめた」ことにされた<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>相談<rt>そうだん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える",
+            "time": "2020-09-14",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012615281000/k10012615281000.html",
+            "body": [],
+            "voiceurl": "k10012615281000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200913/../20200913/K10012615281_2009130733_2009130735_01_03.jpg",
+            "newsmovie": "k10012615281_202009130733_202009130734.mp4",
+            "path": "appdata/news/k10012615281000.json"
+        },
+        {
+            "id": "k10012616561000",
+            "title": "５年に１回の国勢調査が始まる　日本に住む外国人も答える",
+            "ruby": "５<ruby>年<rt>ねん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby>の<ruby>国勢調査<rt>こくせいちょうさ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる　<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住<rt>す</rt></ruby>む<ruby>外国人<rt>がいこくじん</rt></ruby>も<ruby>答<rt>こた</rt></ruby>える",
+            "time": "2020-09-14",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012616561000/k10012616561000.html",
+            "body": [],
+            "voiceurl": "k10012616561000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200914/../20200914/K10012616561_2009140040_2009140605_01_02.jpg",
+            "newsmovie": "k10012616561_202009140556_202009140611.mp4",
+            "path": "appdata/news/k10012616561000.json"
+        },
+        {
+            "id": "k10012615261000",
+            "title": "テニスの全米オープン　大坂なおみ選手が２回目の優勝",
+            "ruby": "テニスの<ruby>全米<rt>ぜんべい</rt></ruby>オープン　<ruby>大坂<rt>おおさか</rt></ruby>なおみ<ruby>選手<rt>せんしゅ</rt></ruby>が２<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<ruby>優勝<rt>ゆうしょう</rt></ruby>",
+            "time": "2020-09-14",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012615261000/k10012615261000.html",
+            "body": [],
+            "voiceurl": "k10012615261000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200913/../20200913/K10012615261_2009130754_2009130756_01_02.jpg",
+            "newsmovie": "",
+            "path": "appdata/news/k10012615261000.json"
+        },
+        {
             "id": "k10012607971000",
             "title": "台風になる前の熱帯低気圧　５日先まで予報を出すことにする",
             "ruby": "<ruby>台風<rt>たいふう</rt></ruby>になる<ruby>前<rt>まえ</rt></ruby>の<ruby>熱帯低気圧<rt>ねったいていきあつ</rt></ruby>　<ruby>５日<rt>いつか</rt></ruby><ruby>先<rt>さき</rt></ruby>まで<ruby>予報<rt>よほう</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すことにする",

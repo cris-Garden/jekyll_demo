@@ -2,5 +2,6 @@
     "andriod":"1.4.1",
     "iOS":"1.7.0",
     "needForceUpdate":false,
+    "needShow":false,
     "time":""
 }

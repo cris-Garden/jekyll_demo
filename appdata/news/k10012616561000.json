@@ -1,0 +1,35 @@
+{
+    "id": "k10012616561000",
+    "title": "５年に１回の国勢調査が始まる　日本に住む外国人も答える",
+    "ruby": "５<ruby>年<rt>ねん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby>の<ruby>国勢調査<rt>こくせいちょうさ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる　<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住<rt>す</rt></ruby>む<ruby>外国人<rt>がいこくじん</rt></ruby>も<ruby>答<rt>こた</rt></ruby>える",
+    "time": "2020-09-14",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012616561000/k10012616561000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国<rt>くに</rt></ruby>が５<ruby>年<rt>ねん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby><ruby>人口<rt>じんこう</rt></ruby>などを<ruby>調<rt>しら</rt></ruby>べるための<ruby>国勢調査<rt>こくせいちょうさ</rt></ruby>が、<ruby>１４日<rt>じゅうよっか</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住<rt>す</rt></ruby>む<ruby>人<rt>ひと</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>や<ruby>仕事<rt>しごと</rt></ruby>などについて１６の<ruby>質問<rt>しつもん</rt></ruby>があって、<ruby>外国人<rt>がいこくじん</rt></ruby>も<ruby>答<rt>こた</rt></ruby>えることになっています。",
+            "origin": "国が５年に１回人口などを調べるための国勢調査が、１４日から始まりました。日本に住む人の家族や仕事などについて１６の質問があって、外国人も答えることになっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>最後<rt>さいご</rt></ruby>に<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>学校<rt>がっこう</rt></ruby>についての<ruby>答<rt>こた</rt></ruby>えは、「<ruby>小学校<rt>しょうがっこう</rt></ruby>」と「<ruby>中学校<rt>ちゅうがっこう</rt></ruby>」を<ruby>今年<rt>ことし</rt></ruby>から<ruby>分<rt>わ</rt></ruby>けました。<ruby>働<rt>はたら</rt></ruby>く<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているため、<ruby>働<rt>はたら</rt></ruby>きながら<ruby>夜<rt>よる</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>う<ruby>中学校<rt>ちゅうがっこう</rt></ruby>がどのくらい<ruby>必要<rt>ひつよう</rt></ruby>かなどがわかるようにしました。",
+            "origin": "最後に卒業した学校についての答えは、「小学校」と「中学校」を今年から分けました。働く外国人が増えているため、働きながら夜に通う中学校がどのくらい必要かなどがわかるようにしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えたあと<ruby>郵便<rt>ゆうびん</rt></ruby>で<ruby>送<rt>おく</rt></ruby>る<ruby>方法<rt>ほうほう</rt></ruby>や、パソコンやスマートフォンなどインターネットで<ruby>答<rt>こた</rt></ruby>える<ruby>方法<rt>ほうほう</rt></ruby>があります。インターネットでは、<ruby>英語<rt>えいご</rt></ruby>のほかに<ruby>新<rt>あたら</rt></ruby>しく<ruby>中国語<rt>ちゅうごくご</rt></ruby>、<ruby>韓国語<rt>かんこくご</rt></ruby>、ポルトガル<ruby>語<rt>ご</rt></ruby>、スペイン<ruby>語<rt>ご</rt></ruby>、ベトナム<ruby>語<rt>ご</rt></ruby>で<ruby>答<rt>こた</rt></ruby>えることができるようになりました。",
+            "origin": "質問に答えたあと郵便で送る方法や、パソコンやスマートフォンなどインターネットで答える方法があります。インターネットでは、英語のほかに新しく中国語、韓国語、ポルトガル語、スペイン語、ベトナム語で答えることができるようになりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１０<ruby>月<rt>がつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>までに<ruby>答<rt>こた</rt></ruby>えることになっています。",
+            "origin": "１０月７日までに答えることになっています。"
+        }
+    ],
+    "voiceurl": "k10012616561000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200914/../20200914/K10012616561_2009140040_2009140605_01_02.jpg",
+    "newsmovie": "k10012616561_202009140556_202009140611.mp4",
+    "path": "appdata/news/k10012616561000.json"
+}

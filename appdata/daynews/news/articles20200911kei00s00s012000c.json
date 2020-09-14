@@ -1,0 +1,25 @@
+{
+    "id": "articles20200911kei00s00s012000c",
+    "title": "経済　ドコモ口座　不正引き出し広がる",
+    "ruby": "",
+    "time": "2020年9月11日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/09/11/20200911kei00s00s026000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20200911/kei/00s/00s/012000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "ＮＴＴドコモの<ruby>電子<rt>でんし</rt></ruby>マネー<ruby>決済<rt>けっさい</rt></ruby>サービス「ドコモ<ruby>口座<rt>こうざ</rt></ruby>」を<ruby>通<rt>つう</rt></ruby>じて、<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>口座<rt>こうざ</rt></ruby>から<ruby>不正<rt>ふせい</rt></ruby>に<ruby>現金<rt>げんきん</rt></ruby>が<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>される<ruby>被害<rt>ひがい</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がっています。９<ruby>日<rt>ここのか</rt></ruby>までに<ruby>銀行<rt>ぎんこう</rt></ruby>１０<ruby>行<rt>こう</rt></ruby>で<ruby>被害<rt>ひがい</rt></ruby>が<ruby>確認<rt>かくにん</rt></ruby>され、ドコモは１０<ruby>日<rt>とおか</rt></ruby>から、<ruby>提携<rt>ていけい</rt></ruby>する３５<ruby>行<rt>こう</rt></ruby><ruby>全<rt>すべ</rt></ruby>ての<ruby>口座<rt>こうざ</rt></ruby>で<ruby>新<rt>あら</rt></ruby>たな<ruby>登録<rt>とうろく</rt></ruby>を<ruby>止<rt>と</rt></ruby>めました。",
+            "origin": "ＮＴＴドコモの電子マネー決済サービス「ドコモ口座」を通じて、銀行の口座から不正に現金が引き出される被害が広がっています。９日までに銀行１０行で被害が確認され、ドコモは１０日から、提携する３５行全ての口座で新たな登録を止めました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>不正<rt>ふせい</rt></ruby>の<ruby>手口<rt>てぐち</rt></ruby>は、まず<ruby>何者<rt>なにもの</rt></ruby>かが<ruby>預金<rt>よきん</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>本人<rt>ほんにん</rt></ruby>になりすましてドコモ<ruby>口座<rt>こうざ</rt></ruby>をつくります。<ruby>預金<rt>よきん</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>本人<rt>ほんにん</rt></ruby>の<ruby>銀行口座<rt>ぎんこうこうざ</rt></ruby>からドコモ<ruby>口座<rt>こうざ</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>移<rt>うつ</rt></ruby>し、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>などに<ruby>使<rt>つか</rt></ruby>ったようです。<ruby>背景<rt>はいけい</rt></ruby>には、サービスを<ruby>使<rt>つか</rt></ruby>ううえでの<ruby>本人確認<rt>ほんにんかくにん</rt></ruby>の<ruby>甘<rt>あま</rt></ruby>さがあると<ruby>指摘<rt>してき</rt></ruby>されています。",
+            "origin": "不正の手口は、まず何者かが預金者本人になりすましてドコモ口座をつくります。預金者本人の銀行口座からドコモ口座にお金を移し、買い物などに使ったようです。背景には、サービスを使ううえでの本人確認の甘さがあると指摘されています。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/09/11/20200911kei00s00s026000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200911kei00s00s012000c.json"
+}

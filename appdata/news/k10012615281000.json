@@ -1,0 +1,35 @@
+{
+    "id": "k10012615281000",
+    "title": "「自分から仕事をやめた」ことにされた外国人の相談が増える",
+    "ruby": "「<ruby>自分<rt>じぶん</rt></ruby>から<ruby>仕事<rt>しごと</rt></ruby>をやめた」ことにされた<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>相談<rt>そうだん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える",
+    "time": "2020-09-14",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012615281000/k10012615281000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>外国<rt>がいこく</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>働<rt>はたら</rt></ruby>きながら<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>習<rt>なら</rt></ruby>う<ruby>技能実習生<rt>ぎのうじっしゅうせい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をやめさせられた<ruby>人<rt>ひと</rt></ruby>がいます。<ruby>国<rt>くに</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べると、８<ruby>月<rt>がつ</rt></ruby>までに３１００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>いました。",
+            "origin": "外国から日本に来て、働きながら技術を習う技能実習生の中には、新しいコロナウイルスの問題で仕事をやめさせられた人がいます。国が調べると、８月までに３１００人以上いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "しかし<ruby>外国人<rt>がいこくじん</rt></ruby>を<ruby>助<rt>たす</rt></ruby>けている<ruby>団体<rt>だんたい</rt></ruby>には、<ruby>国<rt>くに</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べた<ruby>人<rt>ひと</rt></ruby><ruby>以外<rt>いがい</rt></ruby>で、<ruby>会社<rt>かいしゃ</rt></ruby>にやめさせられたのに、<ruby>自分<rt>じぶん</rt></ruby>からやめたことにされたという<ruby>相談<rt>そうだん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<ruby>団体<rt>だんたい</rt></ruby>によると、<ruby>自分<rt>じぶん</rt></ruby>からやめたことにするように、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に３<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>ずっと<ruby>言<rt>い</rt></ruby>われた<ruby>人<rt>ひと</rt></ruby>もいます。",
+            "origin": "しかし外国人を助けている団体には、国が調べた人以外で、会社にやめさせられたのに、自分からやめたことにされたという相談が増えています。団体によると、自分からやめたことにするように、会社の人に３時間以上ずっと言われた人もいます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ウイルスの<ruby>問題<rt>もんだい</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をやめさせられた<ruby>技能実習生<rt>ぎのうじっしゅうせい</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から<ruby>別<rt>べつ</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>ができるようになりました。しかし、<ruby>自分<rt>じぶん</rt></ruby>からやめた<ruby>人<rt>ひと</rt></ruby>は、<ruby>別<rt>べつ</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>はできません。",
+            "origin": "ウイルスの問題で仕事をやめさせられた技能実習生は、今年４月から別の種類の仕事ができるようになりました。しかし、自分からやめた人は、別の種類の仕事はできません。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国<rt>くに</rt></ruby>は、このような<ruby>技能実習生<rt>ぎのうじっしゅうせい</rt></ruby>について<ruby>調<rt>しら</rt></ruby>べることにしています。",
+            "origin": "国は、このような技能実習生について調べることにしています。"
+        }
+    ],
+    "voiceurl": "k10012615281000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200913/../20200913/K10012615281_2009130733_2009130735_01_03.jpg",
+    "newsmovie": "k10012615281_202009130733_202009130734.mp4",
+    "path": "appdata/news/k10012615281000.json"
+}
