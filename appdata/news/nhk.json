@@ -1,6 +1,48 @@
 {
     "news": [
         {
+            "id": "k10012617671000",
+            "title": "コロナウイルス　ディズニーランドの会社がボーナスを減らす",
+            "ruby": "コロナウイルス　ディズニーランドの<ruby>会社<rt>かいしゃ</rt></ruby>がボーナスを<ruby>減<rt>へ</rt></ruby>らす",
+            "time": "2020-09-15",
+            "imgurl": "k10012617671000.jpg",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012617671000/k10012617671000.html",
+            "body": [],
+            "voiceurl": "k10012617671000.mp4",
+            "movieurl": "''",
+            "newimage": "",
+            "newsmovie": "",
+            "path": "appdata/news/k10012617671000.json"
+        },
+        {
+            "id": "k10012617251000",
+            "title": "菅官房長官が自民党の新しい総裁になる",
+            "ruby": "<ruby>菅<rt>すが</rt></ruby><ruby>官房長官<rt>かんぼうちょうかん</rt></ruby>が<ruby>自民党<rt>じみんとう</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>総裁<rt>そうさい</rt></ruby>になる",
+            "time": "2020-09-15",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012617251000/k10012617251000.html",
+            "body": [],
+            "voiceurl": "k10012617251000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200914/../20200914/K10012617251_2009141604_2009141605_01_03.jpg",
+            "newsmovie": "k10012617251_202009141940_202009141956.mp4",
+            "path": "appdata/news/k10012617251000.json"
+        },
+        {
+            "id": "k10012616641000",
+            "title": "全米オープンテニス　車いすの部で国枝選手が優勝",
+            "ruby": "<ruby>全米<rt>ぜんべい</rt></ruby>オープンテニス　<ruby>車<rt>くるま</rt></ruby>いすの<ruby>部<rt>ぶ</rt></ruby>で<ruby>国枝<rt>くにえだ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>",
+            "time": "2020-09-15",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012616641000/k10012616641000.html",
+            "body": [],
+            "voiceurl": "k10012616641000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200914/../20200914/K10012616641_2009141047_2009141048_01_02.jpg",
+            "newsmovie": "",
+            "path": "appdata/news/k10012616641000.json"
+        },
+        {
             "id": "k10012615281000",
             "title": "「自分から仕事をやめた」ことにされた外国人の相談が増える",
             "ruby": "「<ruby>自分<rt>じぶん</rt></ruby>から<ruby>仕事<rt>しごと</rt></ruby>をやめた」ことにされた<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>相談<rt>そうだん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える",

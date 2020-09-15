@@ -1,0 +1,35 @@
+{
+    "id": "k10012616641000",
+    "title": "全米オープンテニス　車いすの部で国枝選手が優勝",
+    "ruby": "<ruby>全米<rt>ぜんべい</rt></ruby>オープンテニス　<ruby>車<rt>くるま</rt></ruby>いすの<ruby>部<rt>ぶ</rt></ruby>で<ruby>国枝<rt>くにえだ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>",
+    "time": "2020-09-15",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012616641000/k10012616641000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "テニスの<ruby>全米<rt>ぜんべい</rt></ruby>オープンは、１３<ruby>日<rt>にち</rt></ruby>にアメリカで、<ruby>車<rt>くるま</rt></ruby>いすの<ruby>部<rt>ぶ</rt></ruby>の<ruby>男子<rt>だんし</rt></ruby>シングルスの<ruby>決勝戦<rt>けっしょうせん</rt></ruby>がありました。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>国枝<rt>くにえだ</rt></ruby><ruby>慎吾<rt>しんご</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が、イギリスのアルフィー・ヒューウェット<ruby>選手<rt>せんしゅ</rt></ruby>と<ruby>試合<rt>しあい</rt></ruby>をしました。",
+            "origin": "テニスの全米オープンは、１３日にアメリカで、車いすの部の男子シングルスの決勝戦がありました。日本の国枝慎吾選手が、イギリスのアルフィー・ヒューウェット選手と試合をしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>試合<rt>しあい</rt></ruby>は、<ruby>国枝<rt>くにえだ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>第<rt>だい</rt></ruby>１セットと<ruby>第<rt>だい</rt></ruby>３セットを<ruby>取<rt>と</rt></ruby>って<ruby>勝<rt>か</rt></ruby>ちました。<ruby>国枝<rt>くにえだ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がこの<ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>したのは７<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>です。<ruby>国枝<rt>くにえだ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けてこの<ruby>大会<rt>たいかい</rt></ruby>でヒューウェット<ruby>選手<rt>せんしゅ</rt></ruby>に<ruby>負<rt>ま</rt></ruby>けていましたが、<ruby>今年<rt>ことし</rt></ruby>は<ruby>勝<rt>か</rt></ruby>つことができました。",
+            "origin": "試合は、国枝選手が第１セットと第３セットを取って勝ちました。国枝選手がこの大会で優勝したのは７回目です。国枝選手は、３年続けてこの大会でヒューウェット選手に負けていましたが、今年は勝つことができました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>全米<rt>ぜんべい</rt></ruby>オープンは、<ruby>世界<rt>せかい</rt></ruby>に４つあるテニスの<ruby>大<rt>おお</rt></ruby>きな<ruby>大会<rt>たいかい</rt></ruby>の<ruby>１<rt>ひと</rt></ruby>つです。<ruby>国枝<rt>くにえだ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が４つの<ruby>大<rt>おお</rt></ruby>きな<ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>したのは２４<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>です。",
+            "origin": "全米オープンは、世界に４つあるテニスの大きな大会の１つです。国枝選手が４つの大きな大会で優勝したのは２４回目です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>女子<rt>じょし</rt></ruby>ダブルスの<ruby>試合<rt>しあい</rt></ruby>では、<ruby>上地<rt>かみじ</rt></ruby><ruby>結衣<rt>ゆい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>とイギリスの<ruby>選手<rt>せんしゅ</rt></ruby>のペアが、オランダのペアに<ruby>勝<rt>か</rt></ruby>って<ruby>優勝<rt>ゆうしょう</rt></ruby>しました。",
+            "origin": "女子ダブルスの試合では、上地結衣選手とイギリスの選手のペアが、オランダのペアに勝って優勝しました。"
+        }
+    ],
+    "voiceurl": "k10012616641000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200914/../20200914/K10012616641_2009141047_2009141048_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012616641000.json"
+}

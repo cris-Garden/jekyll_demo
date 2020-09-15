@@ -1,0 +1,40 @@
+{
+    "id": "k10012617671000",
+    "title": "コロナウイルス　ディズニーランドの会社がボーナスを減らす",
+    "ruby": "コロナウイルス　ディズニーランドの<ruby>会社<rt>かいしゃ</rt></ruby>がボーナスを<ruby>減<rt>へ</rt></ruby>らす",
+    "time": "2020-09-15",
+    "imgurl": "k10012617671000.jpg",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012617671000/k10012617671000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>ディズニーランドと<ruby>東京<rt>とうきょう</rt></ruby>ディズニーシーは、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がって、<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby>、<ruby>客<rt>きゃく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れませんでした。<ruby>東京<rt>とうきょう</rt></ruby>ディズニーランドなどの<ruby>会社<rt>かいしゃ</rt></ruby>「オリエンタルランド」は６<ruby>月<rt>がつ</rt></ruby>までの３か<ruby>月<rt>げつ</rt></ruby>で２４８<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>の<ruby>赤字<rt>あかじ</rt></ruby>になりました。",
+            "origin": "東京ディズニーランドと東京ディズニーシーは、新しいコロナウイルスが広がって、長い間、客を入れませんでした。東京ディズニーランドなどの会社「オリエンタルランド」は６月までの３か月で２４８億円の赤字になりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "このため、<ruby>社員<rt>しゃいん</rt></ruby>など<ruby>約<rt>やく</rt></ruby>４０００<ruby>人<rt>にん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>のボーナスを７０％<ruby>減<rt>へ</rt></ruby>らすと<ruby>決<rt>き</rt></ruby>めました。<ruby>社員<rt>しゃいん</rt></ruby>とは<ruby>別<rt>べつ</rt></ruby>の<ruby>契約<rt>けいやく</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いている<ruby>約<rt>やく</rt></ruby>２０００<ruby>人<rt>にん</rt></ruby>のボーナスも<ruby>半分<rt>はんぶん</rt></ruby>にします。",
+            "origin": "このため、社員など約４０００人の冬のボーナスを７０％減らすと決めました。社員とは別の契約で働いている約２０００人のボーナスも半分にします。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "パレードができないため、ダンサーにはほかの<ruby>仕事<rt>しごと</rt></ruby>をしてもらいます。ほかの<ruby>仕事<rt>しごと</rt></ruby>をしたくない<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>会社<rt>かいしゃ</rt></ruby>をやめるように<ruby>言<rt>い</rt></ruby>います。",
+            "origin": "パレードができないため、ダンサーにはほかの仕事をしてもらいます。ほかの仕事をしたくない場合は、会社をやめるように言います。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>役員<rt>やくいん</rt></ruby>に<ruby>払<rt>はら</rt></ruby>うお<ruby>金<rt>かね</rt></ruby>は３０％から１０％<ruby>減<rt>へ</rt></ruby>らしましたが、これからもっと<ruby>減<rt>へ</rt></ruby>らします。",
+            "origin": "会社が役員に払うお金は３０％から１０％減らしましたが、これからもっと減らします。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ディズニーランドなどでは、<ruby>来年<rt>らいねん</rt></ruby>の３<ruby>月<rt>がつ</rt></ruby>まで、<ruby>大<rt>おお</rt></ruby>きなイベントをほとんど<ruby>中止<rt>ちゅうし</rt></ruby>します。これからも<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>収入<rt>しゅうにゅう</rt></ruby>が<ruby>減<rt>へ</rt></ruby>るのを<ruby>止<rt>と</rt></ruby>めるのは<ruby>難<rt>むずか</rt></ruby>しそうです。",
+            "origin": "ディズニーランドなどでは、来年の３月まで、大きなイベントをほとんど中止します。これからも会社の収入が減るのを止めるのは難しそうです。"
+        }
+    ],
+    "voiceurl": "k10012617671000.mp4",
+    "movieurl": "''",
+    "newimage": "",
+    "newsmovie": "",
+    "path": "appdata/news/k10012617671000.json"
+}

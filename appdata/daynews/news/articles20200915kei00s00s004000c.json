@@ -1,0 +1,380 @@
+{
+    "id": "articles20200915kei00s00s004000c",
+    "title": "／６　今月のテーマ　条件によって動きを変えよう２　～もし〇〇なら、でなければ～（分岐）",
+    "ruby": "",
+    "time": "2020年9月15日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200915/kei/00s/00s/004000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "みなさんはプログラミングをやったことがあるかな？",
+            "origin": "みなさんはプログラミングをやったことがあるかな？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はじめてでも<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。",
+            "origin": "はじめてでも大丈夫。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>一緒<rt>いっしょ</rt></ruby>にプログラミングの<ruby>世界<rt>せかい</rt></ruby>にふれてみよう！",
+            "origin": "一緒にプログラミングの世界にふれてみよう！"
+        },
+        {
+            "type": "h2",
+            "ruby": "のりのりプログラミングとは？",
+            "origin": "のりのりプログラミングとは？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ファイトキッズクラブのキャラクターがプログラミングを<ruby>紹介<rt>しょうかい</rt></ruby>するよ！",
+            "origin": "ファイトキッズクラブのキャラクターがプログラミングを紹介するよ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "パソコンやタブレットを<ruby>使<rt>つか</rt></ruby>ってプログラミングしてみよう！",
+            "origin": "パソコンやタブレットを使ってプログラミングしてみよう！"
+        },
+        {
+            "type": "h2",
+            "ruby": "Ｆ＠ＩＴＫｉｄｓＣｌｕｂ",
+            "origin": "Ｆ＠ＩＴＫｉｄｓＣｌｕｂ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>富士通<rt>ふじつう</rt></ruby>オープンカレッジＦ＠ＩＴＫｉｄｓＣｌｕｂではＳｃｒａｔｃｈが<ruby>学<rt>まな</rt></ruby>べるよ！<ruby>全国<rt>ぜんこく</rt></ruby>４０<ruby>校<rt>こう</rt></ruby>！",
+            "origin": "富士通オープンカレッジＦ＠ＩＴＫｉｄｓＣｌｕｂではＳｃｒａｔｃｈが学べるよ！全国４０校！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／",
+            "origin": "ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆今月のテーマ",
+            "origin": "◆今月のテーマ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>条件<rt>じょうけん</rt></ruby>によって<ruby>動<rt>うご</rt></ruby>きを<ruby>変<rt>か</rt></ruby>えよう２～もし〇〇なら、でなければ～（<ruby>分岐<rt>ぶんき</rt></ruby>）",
+            "origin": "条件によって動きを変えよう２～もし〇〇なら、でなければ～（分岐）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ある<ruby>条件<rt>じょうけん</rt></ruby>のときと、そうでないときとで<ruby>動<rt>うご</rt></ruby>きを<ruby>変<rt>か</rt></ruby>えることをプログラミングでは<ruby>分岐<rt>ぶんき</rt></ruby>と<ruby>言<rt>い</rt></ruby>うよ。<ruby>例<rt>たと</rt></ruby>えば、ロボット<ruby>掃除機<rt>そうじき</rt></ruby>は、お<ruby>掃除<rt>そうじ</rt></ruby>するとき、<ruby>障害<rt>しょうがい</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>があると<ruby>方向<rt>ほうこう</rt></ruby>を<ruby>変<rt>か</rt></ruby>えて、そうでなければまっすぐ<ruby>進<rt>すす</rt></ruby>むよね。このように「もし〇〇なら△△する、そうでなければ□□する」というように、<ruby>場合<rt>ばあい</rt></ruby>によって<ruby>動<rt>うご</rt></ruby>きを<ruby>変<rt>か</rt></ruby>えることができるよ",
+            "origin": "ある条件のときと、そうでないときとで動きを変えることをプログラミングでは分岐と言うよ。例えば、ロボット掃除機は、お掃除するとき、障害物があると方向を変えて、そうでなければまっすぐ進むよね。このように「もし〇〇なら△△する、そうでなければ□□する」というように、場合によって動きを変えることができるよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆<ruby>今月<rt>こんげつ</rt></ruby><ruby>作<rt>つく</rt></ruby>るものは？",
+            "origin": "◆今月作るものは？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>目指<rt>めざ</rt></ruby>せホームラン！バッティングゲーム",
+            "origin": "目指せホームラン！バッティングゲーム"
+        },
+        {
+            "type": "ruby",
+            "ruby": "クリックしたらバットを<ruby>振<rt>ふ</rt></ruby>ってボールを<ruby>打<rt>う</rt></ruby>てる",
+            "origin": "クリックしたらバットを振ってボールを打てる"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>今回<rt>こんかい</rt></ruby>は、マウスをクリックしたら（タップしたら）バットを<ruby>振<rt>ふ</rt></ruby>る、<ruby>特<rt>とく</rt></ruby>にクリックしていないときはバットを<ruby>構<rt>かま</rt></ruby>えているポーズで<ruby>待<rt>ま</rt></ruby>つ、という<ruby>動<rt>うご</rt></ruby>きを<ruby>作<rt>つく</rt></ruby>るよ。まずはドリルをやってみよう",
+            "origin": "今回は、マウスをクリックしたら（タップしたら）バットを振る、特にクリックしていないときはバットを構えているポーズで待つ、という動きを作るよ。まずはドリルをやってみよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ドリル",
+            "origin": "◆ドリル"
+        },
+        {
+            "type": "ruby",
+            "ruby": "でじっととぴよかんは、<ruby>野球<rt>やきゅう</rt></ruby>をしています",
+            "origin": "でじっととぴよかんは、野球をしています"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ピッチャーはぴよかん、バッターはでじっとです",
+            "origin": "ピッチャーはぴよかん、バッターはでじっとです"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>問題<rt>もんだい</rt></ruby>",
+            "origin": "問題"
+        },
+        {
+            "type": "ruby",
+            "ruby": "でじっとがボールを<ruby>打<rt>う</rt></ruby>つとき、どんな<ruby>動<rt>うご</rt></ruby>きをすればいいでしょうか。",
+            "origin": "でじっとがボールを打つとき、どんな動きをすればいいでしょうか。"
+        },
+        {
+            "type": "h2",
+            "ruby": "ヒント",
+            "origin": "ヒント"
+        },
+        {
+            "type": "ruby",
+            "ruby": "は<ruby>動<rt>うご</rt></ruby>きの<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>えを<ruby>表<rt>あらわ</rt></ruby>すよ。",
+            "origin": "は動きの切り替えを表すよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（ア）が<ruby>近<rt>ちか</rt></ruby>くにきたら",
+            "origin": "（ア）が近くにきたら"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（イ）をやって、そうでなければ（ウ）をやるよ",
+            "origin": "（イ）をやって、そうでなければ（ウ）をやるよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "＜つぎからえらんでね＞",
+            "origin": "＜つぎからえらんでね＞"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（１）ア．ボールイ．グラブを<ruby>構<rt>かま</rt></ruby>えるウ．バットを<ruby>構<rt>かま</rt></ruby>える",
+            "origin": "（１）ア．ボールイ．グラブを構えるウ．バットを構える"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（２）ア．ボールイ．バットを<ruby>振<rt>ふ</rt></ruby>るウ．バットを<ruby>構<rt>かま</rt></ruby>える",
+            "origin": "（２）ア．ボールイ．バットを振るウ．バットを構える"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（３）ア．グラブイ．バットを<ruby>振<rt>ふ</rt></ruby>るウ．グラブを<ruby>構<rt>かま</rt></ruby>える",
+            "origin": "（３）ア．グラブイ．バットを振るウ．グラブを構える"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆プログラミングしよう！",
+            "origin": "◆プログラミングしよう！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※スクラッチがはじめての<ruby>人<rt>ひと</rt></ruby>はこちらへアクセスしてね。<ruby>基本<rt>きほん</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>が<ruby>学<rt>まな</rt></ruby>べるよ。ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／ｍａｉｎｉｃｈｉ",
+            "origin": "※スクラッチがはじめての人はこちらへアクセスしてね。基本の操作が学べるよ。ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／ｍａｉｎｉｃｈｉ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ステップ１",
+            "origin": "◆ステップ１"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はじめる<ruby>前<rt>まえ</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>",
+            "origin": "はじめる前の準備"
+        },
+        {
+            "type": "ruby",
+            "ruby": "パソコンとマウス、またはタブレットを<ruby>用意<rt>ようい</rt></ruby>",
+            "origin": "パソコンとマウス、またはタブレットを用意"
+        },
+        {
+            "type": "ruby",
+            "ruby": "インターネットでスクラッチ（Ｓｃｒａｔｃｈ）のサイトにアクセスして「<ruby>作<rt>つく</rt></ruby>ってみよう」をクリック！ｈｔｔｐｓ：／／ｓｃｒａｔｃｈ．ｍｉｔ．ｅｄｕ／",
+            "origin": "インターネットでスクラッチ（Ｓｃｒａｔｃｈ）のサイトにアクセスして「作ってみよう」をクリック！ｈｔｔｐｓ：／／ｓｃｒａｔｃｈ．ｍｉｔ．ｅｄｕ／"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ステップ２",
+            "origin": "◆ステップ２"
+        },
+        {
+            "type": "ruby",
+            "ruby": "レッツトライ！",
+            "origin": "レッツトライ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（１）<ruby>背景<rt>はいけい</rt></ruby>とスプライトをえらぶ",
+            "origin": "（１）背景とスプライトをえらぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "をクリックしてバッターを<ruby>選<rt>えら</rt></ruby>ぶ",
+            "origin": "をクリックしてバッターを選ぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※バッターは<ruby>右端<rt>みぎはし</rt></ruby>あたりに<ruby>配置<rt>はいち</rt></ruby>しよう",
+            "origin": "※バッターは右端あたりに配置しよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "をクリックして<ruby>左<rt>ひだり</rt></ruby>の<ruby>野球場<rt>やきゅうじょう</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ",
+            "origin": "をクリックして左の野球場の背景を選ぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ねこは×で<ruby>消<rt>け</rt></ruby>しておこう",
+            "origin": "ねこは×で消しておこう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（２）バッターの<ruby>動<rt>うご</rt></ruby>きをつくる",
+            "origin": "（２）バッターの動きをつくる"
+        },
+        {
+            "type": "ruby",
+            "ruby": "「もしマウスが<ruby>押<rt>お</rt></ruby>されたなら～でなければ～」という<ruby>条件<rt>じょうけん</rt></ruby>をつくろう。",
+            "origin": "「もしマウスが押されたなら～でなければ～」という条件をつくろう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "は制御から、",
+            "origin": "は制御から、"
+        },
+        {
+            "type": "ruby",
+            "ruby": "は調べるからさがそう",
+            "origin": "は調べるからさがそう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "でしらべた<ruby>結果<rt>けっか</rt></ruby>によって、<ruby>中<rt>なか</rt></ruby>のプログラムをうごかすか<ruby>決<rt>き</rt></ruby>められるよ",
+            "origin": "でしらべた結果によって、中のプログラムをうごかすか決められるよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "もしの<ruby>中<rt>なか</rt></ruby>にブロックを<ruby>追加<rt>ついか</rt></ruby>しよう。",
+            "origin": "もしの中にブロックを追加しよう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "は見た目からさがそう",
+            "origin": "は見た目からさがそう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>一<rt>ひと</rt></ruby>つ<ruby>目<rt>め</rt></ruby>のは<ruby>矢印<rt>やじるし</rt></ruby>（）をクリックしてｂａｔｔｅｒ－ｃを<ruby>選<rt>えら</rt></ruby>ぼう",
+            "origin": "一つ目のは矢印（）をクリックしてｂａｔｔｅｒ－ｃを選ぼう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>同<rt>おな</rt></ruby>じように<ruby>二<rt>ふた</rt></ruby>つ<ruby>目<rt>め</rt></ruby>はｂａｔｔｅｒ－ａを<ruby>選<rt>えら</rt></ruby>ぼう",
+            "origin": "同じように二つ目はｂａｔｔｅｒ－ａを選ぼう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "コスチュームはスプライトの<ruby>見<rt>み</rt></ruby>た<ruby>目<rt>め</rt></ruby>（ポーズ）のことだよ",
+            "origin": "コスチュームはスプライトの見た目（ポーズ）のことだよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "バッターのポーズは<ruby>画面<rt>がめん</rt></ruby><ruby>左上<rt>ひだりうえ</rt></ruby>のコスチュームから<ruby>確認<rt>かくにん</rt></ruby>できるよ",
+            "origin": "バッターのポーズは画面左上のコスチュームから確認できるよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（３）をクリックする",
+            "origin": "（３）をクリックする"
+        },
+        {
+            "type": "ruby",
+            "ruby": "マウスをクリックしていない<ruby>状態<rt>じょうたい</rt></ruby>だとバッターはバットを<ruby>構<rt>かま</rt></ruby>えているだけだけど、クリックするとバッターはバットを<ruby>振<rt>ふ</rt></ruby>った！",
+            "origin": "マウスをクリックしていない状態だとバッターはバットを構えているだけだけど、クリックするとバッターはバットを振った！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "これで<ruby>完成<rt>かんせい</rt></ruby>！",
+            "origin": "これで完成！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ステップ３",
+            "origin": "◆ステップ３"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>練習問題<rt>れんしゅうもんだい</rt></ruby>",
+            "origin": "練習問題"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>野球<rt>やきゅう</rt></ruby>ボール（スプライト）を<ruby>増<rt>ふ</rt></ruby>やして、バッターに<ruby>触<rt>ふ</rt></ruby>れたらボールが<ruby>飛<rt>と</rt></ruby>ぶようにしよう。<ruby>数値<rt>すうち</rt></ruby>（スピード）は<ruby>自由<rt>じゆう</rt></ruby>！",
+            "origin": "野球ボール（スプライト）を増やして、バッターに触れたらボールが飛ぶようにしよう。数値（スピード）は自由！"
+        },
+        {
+            "type": "h2",
+            "ruby": "ルール",
+            "origin": "ルール"
+        },
+        {
+            "type": "ruby",
+            "ruby": "・を<ruby>使<rt>つか</rt></ruby>おう",
+            "origin": "・を使おう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "・<ruby>野球<rt>やきゅう</rt></ruby>ボールは<ruby>左端<rt>ひだりはし</rt></ruby>からバッターに<ruby>向<rt>む</rt></ruby>かって<ruby>進<rt>すす</rt></ruby>むようにしよう",
+            "origin": "・野球ボールは左端からバッターに向かって進むようにしよう"
+        },
+        {
+            "type": "h2",
+            "ruby": "ヒント",
+            "origin": "ヒント"
+        },
+        {
+            "type": "ruby",
+            "ruby": "・の<ruby>矢印<rt>やじるし</rt></ruby>（）をクリックすると、バッターに<ruby>触<rt>ふ</rt></ruby>れたかどうかを<ruby>調<rt>しら</rt></ruby>べるブロックを<ruby>作<rt>つく</rt></ruby>れるよ",
+            "origin": "・の矢印（）をクリックすると、バッターに触れたかどうかを調べるブロックを作れるよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "・を<ruby>使<rt>つか</rt></ruby>うと、",
+            "origin": "・を使うと、"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１<ruby>秒<rt>びょう</rt></ruby>かけてスプライトをどこかに<ruby>動<rt>うご</rt></ruby>かすことができるよ！ボールを<ruby>飛<rt>と</rt></ruby>ばすときに<ruby>使<rt>つか</rt></ruby>ってみよう",
+            "origin": "１秒かけてスプライトをどこかに動かすことができるよ！ボールを飛ばすときに使ってみよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "・<ruby>野球<rt>やきゅう</rt></ruby>ボールの<ruby>大<rt>おお</rt></ruby>きさを<ruby>変<rt>か</rt></ruby>えたいときは大きさの<ruby>数字<rt>すうじ</rt></ruby>を<ruby>変<rt>か</rt></ruby>えよう",
+            "origin": "・野球ボールの大きさを変えたいときは大きさの数字を変えよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "“<ruby>押<rt>お</rt></ruby>しボタン<ruby>式信号機<rt>しきしんごうき</rt></ruby>”",
+            "origin": "“押しボタン式信号機”"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>信号<rt>しんごう</rt></ruby>にはボタンを<ruby>押<rt>お</rt></ruby>すことで<ruby>青信号<rt>あおしんごう</rt></ruby>になるものがあるよね。ボタンが<ruby>押<rt>お</rt></ruby>されたかどうかを<ruby>調<rt>しら</rt></ruby>べて<ruby>信号<rt>しんごう</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>を<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>えるところでプログラミングが<ruby>使<rt>つか</rt></ruby>われているよ。",
+            "origin": "信号にはボタンを押すことで青信号になるものがあるよね。ボタンが押されたかどうかを調べて信号の色を切り替えるところでプログラミングが使われているよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "●ドリルの<ruby>解答<rt>かいとう</rt></ruby>",
+            "origin": "●ドリルの解答"
+        },
+        {
+            "type": "ruby",
+            "ruby": "▶（２）",
+            "origin": "▶（２）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "●<ruby>練習問題<rt>れんしゅうもんだい</rt></ruby>の<ruby>解答<rt>かいとう</rt></ruby>",
+            "origin": "●練習問題の解答"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（<ruby>解答<rt>かいとう</rt></ruby><ruby>例<rt>れい</rt></ruby>）▶",
+            "origin": "（解答例）▶"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200915kei00s00s004000c.json"
+}
