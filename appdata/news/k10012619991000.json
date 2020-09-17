@@ -1,0 +1,30 @@
+{
+    "id": "k10012619991000",
+    "title": "家でイヤホンをして仕事をする人に耳の病気が増えている",
+    "ruby": "<ruby>家<rt>いえ</rt></ruby>でイヤホンをして<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>に<ruby>耳<rt>みみ</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている",
+    "time": "2020-09-16",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012619991000/k10012619991000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で、<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>かないで<ruby>家<rt>いえ</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えました。<ruby>家<rt>いえ</rt></ruby>ではイヤホンをして<ruby>仕事<rt>しごと</rt></ruby>をすることも<ruby>多<rt>おお</rt></ruby>くなります。",
+            "origin": "新しいコロナウイルスの問題で、会社に行かないで家で仕事をする人が増えました。家ではイヤホンをして仕事をすることも多くなります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>耳<rt>みみ</rt></ruby>の<ruby>医者<rt>いしゃ</rt></ruby>は「<ruby>仕事<rt>しごと</rt></ruby>のときにずっとイヤホンをしていて、<ruby>耳<rt>みみ</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>になった<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています」と<ruby>話<rt>はな</rt></ruby>しています。<ruby>医者<rt>いしゃ</rt></ruby>は「<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>イヤホンをしていると、<ruby>耳<rt>みみ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>くなったり<ruby>痛<rt>いた</rt></ruby>くなったりします。ひどい<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>音<rt>おと</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえなくなることもあります」と<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "耳の医者は「仕事のときにずっとイヤホンをしていて、耳の病気になった人が増えています」と話しています。医者は「長い時間イヤホンをしていると、耳の中が赤くなったり痛くなったりします。ひどい場合は、音が聞こえなくなることもあります」と言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>医者<rt>いしゃ</rt></ruby>は、<ruby>耳<rt>みみ</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>にならないために、<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>イヤホンを<ruby>耳<rt>みみ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れたままにしないように<ruby>言<rt>い</rt></ruby>っています。イヤホンをきれいにすることや、イヤホンではなくてスピーカーを<ruby>使<rt>つか</rt></ruby>うことも<ruby>大切<rt>たいせつ</rt></ruby>です。そして、<ruby>耳<rt>みみ</rt></ruby>がかゆくなったり<ruby>痛<rt>いた</rt></ruby>くなったりしたら、<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行<rt>い</rt></ruby>くように<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "医者は、耳の病気にならないために、長い時間イヤホンを耳に入れたままにしないように言っています。イヤホンをきれいにすることや、イヤホンではなくてスピーカーを使うことも大切です。そして、耳がかゆくなったり痛くなったりしたら、病院に行くように言っています。"
+        }
+    ],
+    "voiceurl": "k10012619991000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200916/../20200916/K10012619991_2009152324_2009160057_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012619991000.json"
+}

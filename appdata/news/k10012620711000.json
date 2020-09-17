@@ -1,0 +1,35 @@
+{
+    "id": "k10012620711000",
+    "title": "東京の山手線　乗っている人のリュックサックから火が出る",
+    "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>山手線<rt>やまのてせん</rt></ruby>　<ruby>乗<rt>の</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>のリュックサックから<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>る",
+    "time": "2020-09-17",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012620711000/k10012620711000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "１６<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>９<ruby>時<rt>じ</rt></ruby>すぎ、<ruby>東京<rt>とうきょう</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る<ruby>山手線<rt>やまのてせん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>大学生<rt>だいがくせい</rt></ruby>がひざの<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いていたリュックサックから<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました。<ruby>白<rt>しろ</rt></ruby>い<ruby>煙<rt>けむり</rt></ruby>も<ruby>出<rt>で</rt></ruby>ました。",
+            "origin": "１６日午前９時すぎ、東京を走る山手線の電車の中で、大学生がひざの上に置いていたリュックサックから火が出ました。白い煙も出ました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>はとても<ruby>騒<rt>さわ</rt></ruby>がしくなりました。<ruby>乗<rt>の</rt></ruby>っていた<ruby>人<rt>ひと</rt></ruby>たちは<ruby>上野駅<rt>うえのえき</rt></ruby>のホームに<ruby>逃<rt>に</rt></ruby>げました。",
+            "origin": "電車の中はとても騒がしくなりました。乗っていた人たちは上野駅のホームに逃げました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>火<rt>ひ</rt></ruby>は<ruby>駅員<rt>えきいん</rt></ruby>が<ruby>消<rt>け</rt></ruby>しました。リュックサックを<ruby>持<rt>も</rt></ruby>っていた<ruby>大学生<rt>だいがくせい</rt></ruby>は、<ruby>足<rt>あし</rt></ruby>にやけどをして<ruby>病院<rt>びょういん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれました。",
+            "origin": "火は駅員が消しました。リュックサックを持っていた大学生は、足にやけどをして病院に運ばれました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>警察<rt>けいさつ</rt></ruby>などは、リュックサックの<ruby>中<rt>なか</rt></ruby>にあった「ヘアアイロン」という<ruby>電化製品<rt>でんかせいひん</rt></ruby>のバッテリーから<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>たと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "警察などは、リュックサックの中にあった「ヘアアイロン」という電化製品のバッテリーから火が出たと考えています。"
+        }
+    ],
+    "voiceurl": "k10012620711000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200916/../20200916/K10012620711_2009161255_2009161307_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012620711000.json"
+}
