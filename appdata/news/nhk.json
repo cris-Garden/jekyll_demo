@@ -1,6 +1,48 @@
 {
     "news": [
         {
+            "id": "k10012624421000",
+            "title": "１１７歳２６０日の女性　日本でいちばん長生きの記録",
+            "ruby": "１１７<ruby>歳<rt>さい</rt></ruby>２６０<ruby>日<rt>にち</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>長生<rt>ながい</rt></ruby>きの<ruby>記録<rt>きろく</rt></ruby>",
+            "time": "2020-09-18",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012624421000/k10012624421000.html",
+            "body": [],
+            "voiceurl": "k10012624421000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200918/../20200918/K10012624421_2009181137_2009181143_01_02.jpg",
+            "newsmovie": "",
+            "path": "appdata/news/k10012624421000.json"
+        },
+        {
+            "id": "k10012624471000",
+            "title": "イグ・ノーベル賞「ワニは哺乳類と同じ方法で声を出す」",
+            "ruby": "イグ・ノーベル<ruby>賞<rt>しょう</rt></ruby>「ワニは<ruby>哺乳類<rt>ほにゅうるい</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>声<rt>こえ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す」",
+            "time": "2020-09-18",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012624471000/k10012624471000.html",
+            "body": [],
+            "voiceurl": "k10012624471000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200918/../20200918/K10012624471_2009181230_2009181233_01_03.jpg",
+            "newsmovie": "k10012624471_202009181228_202009181230.mp4",
+            "path": "appdata/news/k10012624471000.json"
+        },
+        {
+            "id": "k10012623981000",
+            "title": "群馬県　コロナウイルスに気をつけることを外国語で伝える",
+            "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby>　コロナウイルスに<ruby>気<rt>き</rt></ruby>をつけることを<ruby>外国語<rt>がいこくご</rt></ruby>で<ruby>伝<rt>つた</rt></ruby>える",
+            "time": "2020-09-18",
+            "imgurl": "''",
+            "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012623981000/k10012623981000.html",
+            "body": [],
+            "voiceurl": "k10012623981000.mp4",
+            "movieurl": "''",
+            "newimage": "https://www3.nhk.or.jp/news/html/20200917/../20200917/K10012623981_2009172049_2009172057_01_02.jpg",
+            "newsmovie": "",
+            "path": "appdata/news/k10012623981000.json"
+        },
+        {
             "id": "k10012619061000",
             "title": "コロナウイルス　会社で働く約束がなくなった学生が増える",
             "ruby": "コロナウイルス　<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>く<ruby>約束<rt>やくそく</rt></ruby>がなくなった<ruby>学生<rt>がくせい</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える",

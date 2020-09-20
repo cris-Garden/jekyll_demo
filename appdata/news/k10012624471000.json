@@ -1,0 +1,35 @@
+{
+    "id": "k10012624471000",
+    "title": "イグ・ノーベル賞「ワニは哺乳類と同じ方法で声を出す」",
+    "ruby": "イグ・ノーベル<ruby>賞<rt>しょう</rt></ruby>「ワニは<ruby>哺乳類<rt>ほにゅうるい</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>声<rt>こえ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す」",
+    "time": "2020-09-18",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012624471000/k10012624471000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "アメリカの<ruby>科学<rt>かがく</rt></ruby><ruby>雑誌<rt>ざっし</rt></ruby>は１９９１<ruby>年<rt>ねん</rt></ruby>から、<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んで「イグ・ノーベル<ruby>賞<rt>しょう</rt></ruby>」を<ruby>贈<rt>おく</rt></ruby>っています。<ruby>今年<rt>ことし</rt></ruby>は、<ruby>京都大学霊長類研究所<rt>きょうとだいがくれいちょうるいけんきゅうしょ</rt></ruby>の<ruby>西村<rt>にしむら</rt></ruby><ruby>剛<rt>たけし</rt></ruby>さんたちの<ruby>国際<rt>こくさい</rt></ruby>グループがこの<ruby>賞<rt>しょう</rt></ruby>をもらいました。",
+            "origin": "アメリカの科学雑誌は１９９１年から、面白い研究を選んで「イグ・ノーベル賞」を贈っています。今年は、京都大学霊長類研究所の西村剛さんたちの国際グループがこの賞をもらいました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>西村<rt>にしむら</rt></ruby>さんたちは、ワニがどうやって<ruby>声<rt>こえ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しているか<ruby>研究<rt>けんきゅう</rt></ruby>しました。<ruby>空気<rt>くうき</rt></ruby>を<ruby>入<rt>い</rt></ruby>れた<ruby>水槽<rt>すいそう</rt></ruby>と、ヘリウムガスと<ruby>酸素<rt>さんそ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れた<ruby>水槽<rt>すいそう</rt></ruby>を<ruby>用意<rt>ようい</rt></ruby>して、<ruby>両方<rt>りょうほう</rt></ruby>の<ruby>水槽<rt>すいそう</rt></ruby>にワニを<ruby>入<rt>い</rt></ruby>れました。",
+            "origin": "西村さんたちは、ワニがどうやって声を出しているか研究しました。空気を入れた水槽と、ヘリウムガスと酸素を入れた水槽を用意して、両方の水槽にワニを入れました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、ヘリウムガスを<ruby>吸<rt>す</rt></ruby>ったワニは、<ruby>声<rt>こえ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなりました。グループは、ワニがのどから<ruby>口<rt>くち</rt></ruby>までの<ruby>空気<rt>くうき</rt></ruby>を<ruby>揺<rt>ゆ</rt></ruby>らして<ruby>声<rt>こえ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>していることがわかったと<ruby>言<rt>い</rt></ruby>っています。これは<ruby>人<rt>ひと</rt></ruby>などの<ruby>哺乳類<rt>ほにゅうるい</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>方法<rt>ほうほう</rt></ruby>です。",
+            "origin": "その結果、ヘリウムガスを吸ったワニは、声が高くなりました。グループは、ワニがのどから口までの空気を揺らして声を出していることがわかったと言っています。これは人などの哺乳類と同じ方法です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本人<rt>にっぽんじん</rt></ruby>は１４<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて「イグ・ノーベル<ruby>賞<rt>しょう</rt></ruby>」をもらっています。",
+            "origin": "日本人は１４年続けて「イグ・ノーベル賞」をもらっています。"
+        }
+    ],
+    "voiceurl": "k10012624471000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200918/../20200918/K10012624471_2009181230_2009181233_01_03.jpg",
+    "newsmovie": "k10012624471_202009181228_202009181230.mp4",
+    "path": "appdata/news/k10012624471000.json"
+}

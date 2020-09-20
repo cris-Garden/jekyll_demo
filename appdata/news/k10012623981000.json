@@ -1,0 +1,30 @@
+{
+    "id": "k10012623981000",
+    "title": "群馬県　コロナウイルスに気をつけることを外国語で伝える",
+    "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby>　コロナウイルスに<ruby>気<rt>き</rt></ruby>をつけることを<ruby>外国語<rt>がいこくご</rt></ruby>で<ruby>伝<rt>つた</rt></ruby>える",
+    "time": "2020-09-18",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012623981000/k10012623981000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby>では１６<ruby>日<rt>にち</rt></ruby>までの１<ruby>週間<rt>しゅうかん</rt></ruby>に、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつった<ruby>人<rt>ひと</rt></ruby>が９０<ruby>人<rt>にん</rt></ruby>いました。この<ruby>中<rt>なか</rt></ruby>の７０％ぐらいが<ruby>外国人<rt>がいこくじん</rt></ruby>でした。",
+            "origin": "群馬県では１６日までの１週間に、新しいコロナウイルスがうつった人が９０人いました。この中の７０％ぐらいが外国人でした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>群馬県<rt>ぐんまけん</rt></ruby>には、ブラジルやペルーから<ruby>働<rt>はたら</rt></ruby>きに<ruby>来<rt>き</rt></ruby>ている<ruby>日系<rt>にっけい</rt></ruby><ruby>人<rt>じん</rt></ruby>など、<ruby>外国人<rt>がいこくじん</rt></ruby>がたくさん<ruby>住<rt>す</rt></ruby>んでいます。このため<ruby>群馬県<rt>ぐんまけん</rt></ruby>は、ポルトガル<ruby>語<rt>ご</rt></ruby>やスペイン<ruby>語<rt>ご</rt></ruby>で、ウイルスがうつらないようにマスクをして、<ruby>狭<rt>せま</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>に<ruby>大勢<rt>おおぜい</rt></ruby>で<ruby>集<rt>あつ</rt></ruby>まらないように<ruby>伝<rt>つた</rt></ruby>えます。<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>働<rt>はたら</rt></ruby>く<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったり、インターネットを<ruby>使<rt>つか</rt></ruby>ったりして<ruby>伝<rt>つた</rt></ruby>えます。",
+            "origin": "群馬県には、ブラジルやペルーから働きに来ている日系人など、外国人がたくさん住んでいます。このため群馬県は、ポルトガル語やスペイン語で、ウイルスがうつらないようにマスクをして、狭い所に大勢で集まらないように伝えます。外国人が働く会社に行ったり、インターネットを使ったりして伝えます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>大泉町<rt>おおいずみまち</rt></ruby>は、<ruby>町<rt>まち</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>の２０％が<ruby>外国人<rt>がいこくじん</rt></ruby>です。<ruby>大泉町<rt>おおいずみまち</rt></ruby>は、<ruby>特別<rt>とくべつ</rt></ruby>に１８<ruby>日<rt>にち</rt></ruby>から<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでは、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>用事<rt>ようじ</rt></ruby>のとき<ruby>以外<rt>いがい</rt></ruby>は、<ruby>出<rt>で</rt></ruby>かけないように<ruby>町<rt>まち</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "大泉町は、町に住んでいる人の２０％が外国人です。大泉町は、特別に１８日から今月の終わりまでは、大切な用事のとき以外は、出かけないように町の人に言いました。"
+        }
+    ],
+    "voiceurl": "k10012623981000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200917/../20200917/K10012623981_2009172049_2009172057_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012623981000.json"
+}
