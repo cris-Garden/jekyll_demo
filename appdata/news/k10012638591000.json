@@ -1,0 +1,35 @@
+{
+    "id": "k10012638591000",
+    "title": "インフルエンザ「できるだけ早くワクチンを注射して」",
+    "ruby": "インフルエンザ「できるだけ<ruby>早<rt>はや</rt></ruby>くワクチンを<ruby>注射<rt>ちゅうしゃ</rt></ruby>して」",
+    "time": "2020-09-29",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012638591000/k10012638591000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>は<ruby>約<rt>やく</rt></ruby>５０００の<ruby>病院<rt>びょういん</rt></ruby>で、インフルエンザになった<ruby>人<rt>ひと</rt></ruby>が<ruby>何<rt>なん</rt></ruby><ruby>人<rt>にん</rt></ruby>いるか<ruby>調<rt>しら</rt></ruby>べています。９<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>までの１<ruby>週間<rt>しゅうかん</rt></ruby>にインフルエンザになった<ruby>人<rt>ひと</rt></ruby>は４<ruby>人<rt>にん</rt></ruby>でした。<ruby>今<rt>いま</rt></ruby>はまだインフルエンザが<ruby>広<rt>ひろ</rt></ruby>がる<ruby>心配<rt>しんぱい</rt></ruby>はほとんどありません。",
+            "origin": "厚生労働省は約５０００の病院で、インフルエンザになった人が何人いるか調べています。９月２０日までの１週間にインフルエンザになった人は４人でした。今はまだインフルエンザが広がる心配はほとんどありません。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "しかし、<ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>によると、インフルエンザになる<ruby>人<rt>ひと</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>か１２<ruby>月<rt>がつ</rt></ruby>から<ruby>多<rt>おお</rt></ruby>くなります。このためインフルエンザの<ruby>人<rt>ひと</rt></ruby>と、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>病気<rt>びょうき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、<ruby>同<rt>おな</rt></ruby>じときに<ruby>多<rt>おお</rt></ruby>くなる<ruby>心配<rt>しんぱい</rt></ruby>があります。",
+            "origin": "しかし、国立感染症研究所によると、インフルエンザになる人は毎年１１月か１２月から多くなります。このためインフルエンザの人と、新しいコロナウイルスの病気の人が、同じときに多くなる心配があります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>は「インフルエンザはこれから<ruby>増<rt>ふ</rt></ruby>える<ruby>心配<rt>しんぱい</rt></ruby>があります。できるだけ<ruby>早<rt>はや</rt></ruby>く、インフルエンザのワクチンを<ruby>注射<rt>ちゅうしゃ</rt></ruby>してください」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "国立感染症研究所の専門家は「インフルエンザはこれから増える心配があります。できるだけ早く、インフルエンザのワクチンを注射してください」と話しています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>神奈川県<rt>かながわけん</rt></ruby>などでは、６５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はインフルエンザのワクチンの<ruby>注射<rt>ちゅうしゃ</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>がかからないようにします。<ruby>住<rt>す</rt></ruby>んでいる<ruby>市<rt>し</rt></ruby>や<ruby>区<rt>く</rt></ruby>、<ruby>町<rt>まち</rt></ruby>、<ruby>村<rt>むら</rt></ruby>に<ruby>聞<rt>き</rt></ruby>いてください。",
+            "origin": "神奈川県などでは、６５歳以上の人はインフルエンザのワクチンの注射にお金がかからないようにします。住んでいる市や区、町、村に聞いてください。"
+        }
+    ],
+    "voiceurl": "k10012638591000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200928/../20200928/K10012638591_2009281822_2009281831_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012638591000.json"
+}

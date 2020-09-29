@@ -1,0 +1,30 @@
+{
+    "id": "articles20200926kei00s00s015000c",
+    "title": "経済　ゆうちょ銀行、口座不正で被害６０００万円",
+    "ruby": "",
+    "time": "2020年9月26日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/09/26/20200926kei00s00s022000p/0c6.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200926/kei/00s/00s/015000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本郵政<rt>にっぽんゆうせい</rt></ruby>グループの「ゆうちょ<ruby>銀行<rt>ぎんこう</rt></ruby>」は２４<ruby>日<rt>か</rt></ruby>、キャッシュレス<ruby>決済<rt>けっさい</rt></ruby>サービスを<ruby>通<rt>つう</rt></ruby>じて<ruby>口座<rt>こうざ</rt></ruby>から<ruby>不正<rt>ふせい</rt></ruby>に<ruby>貯金<rt>ちょきん</rt></ruby>が<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>される<ruby>被害<rt>ひがい</rt></ruby>が２２<ruby>日時<rt>にちじ</rt></ruby><ruby>点<rt>てん</rt></ruby>で<ruby>約<rt>やく</rt></ruby>３８０<ruby>件<rt>けん</rt></ruby>、<ruby>計<rt>けい</rt></ruby><ruby>約<rt>やく</rt></ruby>６０００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>に<ruby>上<rt>のぼ</rt></ruby>ると<ruby>発表<rt>はっぴょう</rt></ruby>しました。キャッシュレス<ruby>決済<rt>けっさい</rt></ruby>サービスをめぐっては、ＮＴＴドコモの「ドコモ<ruby>口座<rt>こうざ</rt></ruby>」で<ruby>不正<rt>ふせい</rt></ruby>な<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>しが<ruby>明<rt>あき</rt></ruby>らかになったのをきっかけに、<ruby>各<rt>かく</rt></ruby><ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>被害<rt>ひがい</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んでいます。",
+            "origin": "日本郵政グループの「ゆうちょ銀行」は２４日、キャッシュレス決済サービスを通じて口座から不正に貯金が引き出される被害が２２日時点で約３８０件、計約６０００万円に上ると発表しました。キャッシュレス決済サービスをめぐっては、ＮＴＴドコモの「ドコモ口座」で不正な引き出しが明らかになったのをきっかけに、各銀行で被害の確認が進んでいます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ゆうちょ<ruby>銀行<rt>ぎんこう</rt></ruby>では、「ドコモ<ruby>口座<rt>こうざ</rt></ruby>」などのほか、ゆうちょ<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>口座<rt>こうざ</rt></ruby>やチャージで<ruby>使<rt>つか</rt></ruby>えるカード「<ruby>ｍｉｊｉｃａ<rt>ミヂカ</rt></ruby>」でも<ruby>不正<rt>ふせい</rt></ruby>がありました。",
+            "origin": "ゆうちょ銀行では、「ドコモ口座」などのほか、ゆうちょ銀行の口座やチャージで使えるカード「ｍｉｊｉｃａ」でも不正がありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ゆうちょ<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>池田憲人<rt>いけだのりと</rt></ruby><ruby>社長<rt>しゃちょう</rt></ruby>は「<ruby>安全性<rt>あんぜんせい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>するわれわれのリスク<ruby>感度<rt>かんど</rt></ruby>が<ruby>鈍<rt>にぶ</rt></ruby>かった」と<ruby>述<rt>の</rt></ruby>べました。<ruby>口座<rt>こうざ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち、キャッシュレス<ruby>決済<rt>けっさい</rt></ruby>に<ruby>登録<rt>とうろく</rt></ruby>する<ruby>約<rt>やく</rt></ruby>５５０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>に<ruby>不審<rt>ふしん</rt></ruby>な<ruby>取引<rt>とりひき</rt></ruby>がないか<ruby>確認<rt>かくにん</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>びかけています。",
+            "origin": "ゆうちょ銀行の池田憲人社長は「安全性に対するわれわれのリスク感度が鈍かった」と述べました。口座を持ち、キャッシュレス決済に登録する約５５０万人に不審な取引がないか確認を呼びかけています。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/09/26/20200926kei00s00s022000p/0c6.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200926kei00s00s015000c.json"
+}

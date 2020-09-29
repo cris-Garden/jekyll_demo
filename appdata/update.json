@@ -1,7 +1,7 @@
 {
     "andriod":"1.4.1",
-    "iOS":"1.7.0",
+    "iOS":"1.8.0",
     "needForceUpdate":false,
-    "needShow":false,
+    "needShow":true,
     "time":""
 }

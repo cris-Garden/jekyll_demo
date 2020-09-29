@@ -1,0 +1,40 @@
+{
+    "id": "k10012639291000",
+    "title": "コロナウイルス　亡くなった人が世界で１００万人以上になる",
+    "ruby": "コロナウイルス　<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>で１００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる",
+    "time": "2020-09-29",
+    "imgurl": "k10012639291000.jpg",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012639291000/k10012639291000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "アメリカのジョンズ・ホプキンス<ruby>大学<rt>だいがく</rt></ruby>によると、２９<ruby>日<rt>にち</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスで<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>で１００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>は１００<ruby>万<rt>まん</rt></ruby>５５５<ruby>人<rt>にん</rt></ruby>です。",
+            "origin": "アメリカのジョンズ・ホプキンス大学によると、２９日、新しいコロナウイルスで亡くなった人が世界で１００万人以上になりました。亡くなった人は１００万５５５人です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>がいちばん<ruby>多<rt>おお</rt></ruby>い<ruby>国<rt>くに</rt></ruby>は、アメリカで２０<ruby>万<rt>まん</rt></ruby>５０３１<ruby>人<rt>にん</rt></ruby>です。<ruby>次<rt>つぎ</rt></ruby>はブラジルで１４<ruby>万<rt>まん</rt></ruby>２０５８<ruby>人<rt>にん</rt></ruby>、その<ruby>次<rt>つぎ</rt></ruby>はインドで９<ruby>万<rt>まん</rt></ruby>５５４２<ruby>人<rt>にん</rt></ruby>です。",
+            "origin": "亡くなった人がいちばん多い国は、アメリカで２０万５０３１人です。次はブラジルで１４万２０５８人、その次はインドで９万５５４２人です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "４<ruby>月<rt>がつ</rt></ruby>から、<ruby>世界<rt>せかい</rt></ruby>では<ruby>毎日<rt>まいにち</rt></ruby>５０００<ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>亡<rt>な</rt></ruby>くなっていて、まだ<ruby>少<rt>すく</rt></ruby>なくなっていません。",
+            "origin": "４月から、世界では毎日５０００人ぐらいが亡くなっていて、まだ少なくなっていません。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>人口<rt>じんこう</rt></ruby>１０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は、アメリカやブラジル、コロンビア、アルゼンチンなどで<ruby>増<rt>ふ</rt></ruby>え<ruby>続<rt>つづ</rt></ruby>けています。<ruby>南<rt>みなみ</rt></ruby>アメリカのブラジルやペルーなどでは、<ruby>貧<rt>まず</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>が<ruby>住<rt>す</rt></ruby>んでいる<ruby>所<rt>ところ</rt></ruby>でコロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がっていて、<ruby>亡<rt>な</rt></ruby>くなる<ruby>人<rt>ひと</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなっています。",
+            "origin": "人口１０万人の中で亡くなった人の数は、アメリカやブラジル、コロンビア、アルゼンチンなどで増え続けています。南アメリカのブラジルやペルーなどでは、貧しい人が住んでいる所でコロナウイルスが広がっていて、亡くなる人の割合が高くなっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ＷＨＯは「<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスで<ruby>亡<rt>な</rt></ruby>くなる<ruby>人<rt>ひと</rt></ruby>は、<ruby>世界<rt>せかい</rt></ruby>で２００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>になる<ruby>心配<rt>しんぱい</rt></ruby>があります」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "ＷＨＯは「新しいコロナウイルスで亡くなる人は、世界で２００万人になる心配があります」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012639291000.mp4",
+    "movieurl": "''",
+    "newimage": "",
+    "newsmovie": "",
+    "path": "appdata/news/k10012639291000.json"
+}

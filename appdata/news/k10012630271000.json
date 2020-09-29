@@ -1,0 +1,35 @@
+{
+    "id": "k10012630271000",
+    "title": "台風１２号が日本の近くに来ている　雨に気をつけて",
+    "ruby": "<ruby>台風<rt>たいふう</rt></ruby>１２<ruby>号<rt>ごう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>き</rt></ruby>ている　<ruby>雨<rt>あめ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて",
+    "time": "2020-09-23",
+    "imgurl": "k10012630271000.jpg",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012630271000/k10012630271000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>台風<rt>たいふう</rt></ruby>１２<ruby>号<rt>ごう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>のほうに<ruby>進<rt>すす</rt></ruby>んでいます。<ruby>台風<rt>たいふう</rt></ruby>は<ruby>２４日<rt>にじゅうよっか</rt></ruby>から２５<ruby>日<rt>にち</rt></ruby>に、<ruby>関東地方<rt>かんとうちほう</rt></ruby>や<ruby>東北地方<rt>とうほくちほう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>き</rt></ruby>そうです。",
+            "origin": "気象庁によると、台風１２号が日本のほうに進んでいます。台風は２４日から２５日に、関東地方や東北地方の近くに来そうです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東海地方<rt>とうかいちほう</rt></ruby>や<ruby>関東地方<rt>かんとうちほう</rt></ruby>、<ruby>東北地方<rt>とうほくちほう</rt></ruby>の<ruby>太平洋<rt>たいへいよう</rt></ruby><ruby>側<rt>がわ</rt></ruby>などでは２５<ruby>日<rt>にち</rt></ruby>まで、<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>って、<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>くなりそうです。<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>があふれたり、<ruby>山<rt>やま</rt></ruby>が<ruby>崩<rt>くず</rt></ruby>れたりするかもしれないため、<ruby>気<rt>き</rt></ruby>をつけるように<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "東海地方や関東地方、東北地方の太平洋側などでは２５日まで、雨がたくさん降って、風が強くなりそうです。気象庁は、川の水があふれたり、山が崩れたりするかもしれないため、気をつけるように言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>台風<rt>たいふう</rt></ruby>のときに<ruby>気<rt>き</rt></ruby>をつけることは、<ruby>下<rt>した</rt></ruby>のページに<ruby>書<rt>か</rt></ruby>いてあります。",
+            "origin": "台風のときに気をつけることは、下のページに書いてあります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "https://www3.nhk.or.jp/news/easy/article/disaster_typhoon.html",
+            "origin": "https://www3.nhk.or.jp/news/easy/article/disaster_typhoon.html"
+        }
+    ],
+    "voiceurl": "k10012630271000.mp4",
+    "movieurl": "''",
+    "newimage": "",
+    "newsmovie": "",
+    "path": "appdata/news/k10012630271000.json"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "k10012634981000",
+    "title": "「やさしい日本語」を知っていますか　国が初めて調査",
+    "ruby": "「やさしい<ruby>日本語<rt>にほんご</rt></ruby>」を<ruby>知<rt>し</rt></ruby>っていますか　<ruby>国<rt>くに</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>調査<rt>ちょうさ</rt></ruby>",
+    "time": "2020-09-28",
+    "imgurl": "k10012634981000.jpg",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012634981000/k10012634981000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>する<ruby>外国人<rt>がいこくじん</rt></ruby>のため、<ruby>災害<rt>さいがい</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>など<ruby>大事<rt>だいじ</rt></ruby>なことを<ruby>役所<rt>やくしょ</rt></ruby>が<ruby>伝<rt>つた</rt></ruby>えるとき「やさしい<ruby>日本語<rt>にほんご</rt></ruby>」を<ruby>使<rt>つか</rt></ruby>うことが<ruby>増<rt>ふ</rt></ruby>えています。「やさしい<ruby>日本語<rt>にほんご</rt></ruby>」は<ruby>日本語<rt>にほんご</rt></ruby>に<ruby>慣<rt>な</rt></ruby>れていない<ruby>人<rt>ひと</rt></ruby>もわかるように、<ruby>文<rt>ぶん</rt></ruby>を<ruby>短<rt>みじか</rt></ruby>くしたり<ruby>難<rt>むずか</rt></ruby>しい<ruby>言葉<rt>ことば</rt></ruby>を<ruby>簡単<rt>かんたん</rt></ruby>にしたりします。",
+            "origin": "日本で生活する外国人のため、災害の情報など大事なことを役所が伝えるとき「やさしい日本語」を使うことが増えています。「やさしい日本語」は日本語に慣れていない人もわかるように、文を短くしたり難しい言葉を簡単にしたりします。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "この「やさしい<ruby>日本語<rt>にほんご</rt></ruby>」について、<ruby>文化庁<rt>ぶんかちょう</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>調査<rt>ちょうさ</rt></ruby>しました。１９９４<ruby>人<rt>にん</rt></ruby>が<ruby>答<rt>こた</rt></ruby>えました。",
+            "origin": "この「やさしい日本語」について、文化庁が初めて調査しました。１９９４人が答えました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "「やさしい<ruby>日本語<rt>にほんご</rt></ruby>」で<ruby>伝<rt>つた</rt></ruby>えていることを「<ruby>知<rt>し</rt></ruby>らない」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は６８％でした。「<ruby>知<rt>し</rt></ruby>っている」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は３０％でした。",
+            "origin": "「やさしい日本語」で伝えていることを「知らない」と答えた人は６８％でした。「知っている」と答えた人は３０％でした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>大事<rt>だいじ</rt></ruby>なことをどうやって<ruby>伝<rt>つた</rt></ruby>えたらいいかという<ruby>質問<rt>しつもん</rt></ruby>では、「いろいろな<ruby>国<rt>くに</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>」がいちばん<ruby>多<rt>おお</rt></ruby>くて５８％でした。「やさしい<ruby>日本語<rt>にほんご</rt></ruby>」という<ruby>答<rt>こた</rt></ruby>えも４６％ありました。",
+            "origin": "大事なことをどうやって伝えたらいいかという質問では、「いろいろな国の言葉」がいちばん多くて５８％でした。「やさしい日本語」という答えも４６％ありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>文化庁<rt>ぶんかちょう</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>にいる<ruby>外国人<rt>がいこくじん</rt></ruby>はいろいろな<ruby>国<rt>くに</rt></ruby>から<ruby>来<rt>き</rt></ruby>ています。<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>外国語<rt>がいこくご</rt></ruby>で<ruby>伝<rt>つた</rt></ruby>えるのは<ruby>難<rt>むずか</rt></ruby>しいので、<ruby>役所<rt>やくしょ</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>に『やさしい<ruby>日本語<rt>にほんご</rt></ruby>』を<ruby>知<rt>し</rt></ruby>らせていきたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "文化庁は「日本にいる外国人はいろいろな国から来ています。全部の外国語で伝えるのは難しいので、役所や会社に『やさしい日本語』を知らせていきたいと思います」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012634981000.mp4",
+    "movieurl": "''",
+    "newimage": "",
+    "newsmovie": "",
+    "path": "appdata/news/k10012634981000.json"
+}

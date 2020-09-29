@@ -1,0 +1,35 @@
+{
+    "id": "k10012632061000",
+    "title": "コロナウイルスで仕事がなくなった人が６万人以上になる",
+    "ruby": "コロナウイルスで<ruby>仕事<rt>しごと</rt></ruby>がなくなった<ruby>人<rt>ひと</rt></ruby>が６<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる",
+    "time": "2020-09-25",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012632061000/k10012632061000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をやめさせられた<ruby>人<rt>ひと</rt></ruby>や、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>契約<rt>けいやく</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けてもらうことができなかった<ruby>人<rt>ひと</rt></ruby>が<ruby>何<rt>なん</rt></ruby><ruby>人<rt>にん</rt></ruby>いるか<ruby>調<rt>しら</rt></ruby>べています。",
+            "origin": "厚生労働省は、新しいコロナウイルスの問題で仕事をやめさせられた人や、仕事の契約を続けてもらうことができなかった人が何人いるか調べています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりから５<ruby>月<rt>がつ</rt></ruby>２２<ruby>日<rt>にち</rt></ruby>までに１<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>いて、７<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>に３<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>、８<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>に５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。そして、９<ruby>月<rt>がつ</rt></ruby>２３<ruby>日<rt>にち</rt></ruby>までに６<ruby>万<rt>まん</rt></ruby>４３９<ruby>人<rt>にん</rt></ruby>になって、<ruby>増<rt>ふ</rt></ruby>え<ruby>続<rt>つづ</rt></ruby>けていることがわかりました。",
+            "origin": "１月の終わりから５月２２日までに１万人以上いて、７月１日に３万人以上、８月３１日に５万人以上になりました。そして、９月２３日までに６万４３９人になって、増え続けていることがわかりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>は、ハローワークと<ruby>労働局<rt>ろうどうきょく</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べた<ruby>数<rt>かず</rt></ruby>なので、<ruby>仕事<rt>しごと</rt></ruby>がなくなった<ruby>人<rt>ひと</rt></ruby>はもっと<ruby>多<rt>おお</rt></ruby>いと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "厚生労働省は、ハローワークと労働局で調べた数なので、仕事がなくなった人はもっと多いと考えています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>は、<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>国<rt>くに</rt></ruby>が<ruby>出<rt>だ</rt></ruby>しているお<ruby>金<rt>かね</rt></ruby>などを<ruby>使<rt>つか</rt></ruby>って、<ruby>働<rt>はたら</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>が<ruby>仕事<rt>しごと</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることができるようにしてほしいと<ruby>言<rt>い</rt></ruby>っています。そして、<ruby>仕事<rt>しごと</rt></ruby>がなくなった<ruby>人<rt>ひと</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけることができるように<ruby>手伝<rt>てつだ</rt></ruby>いたいと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "厚生労働省は、会社は国が出しているお金などを使って、働いている人が仕事を続けることができるようにしてほしいと言っています。そして、仕事がなくなった人が新しい仕事を見つけることができるように手伝いたいと考えています。"
+        }
+    ],
+    "voiceurl": "k10012632061000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200924/../20200924/K10012632061_2009241032_2009241035_01_02.jpg",
+    "newsmovie": "k10012632061_202009241213_202009241224.mp4",
+    "path": "appdata/news/k10012632061000.json"
+}

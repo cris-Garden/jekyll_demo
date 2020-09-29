@@ -1,0 +1,35 @@
+{
+    "id": "k10012637261000",
+    "title": "大相撲　９月の大会で熊本県出身の正代が初めて優勝",
+    "ruby": "<ruby>大相撲<rt>おおずもう</rt></ruby>　９<ruby>月<rt>がつ</rt></ruby>の<ruby>大会<rt>たいかい</rt></ruby>で<ruby>熊本県<rt>くまもとけん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>正代<rt>しょうだい</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>優勝<rt>ゆうしょう</rt></ruby>",
+    "time": "2020-09-28",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012637261000/k10012637261000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "２７<ruby>日<rt>にち</rt></ruby>、<ruby>大相撲<rt>おおずもう</rt></ruby>の９<ruby>月<rt>がつ</rt></ruby>の<ruby>大会<rt>たいかい</rt></ruby>が<ruby>終<rt>お</rt></ruby>わりました。<ruby>関脇<rt>せきわけ</rt></ruby>の<ruby>正代<rt>しょうだい</rt></ruby>が１５<ruby>回<rt>かい</rt></ruby>の<ruby>相撲<rt>すもう</rt></ruby>のうち１３<ruby>回<rt>かい</rt></ruby><ruby>勝<rt>か</rt></ruby>って<ruby>優勝<rt>ゆうしょう</rt></ruby>しました。<ruby>正代<rt>しょうだい</rt></ruby>は３<ruby>月<rt>がつ</rt></ruby>と７<ruby>月<rt>がつ</rt></ruby>と９<ruby>月<rt>がつ</rt></ruby>の<ruby>大会<rt>たいかい</rt></ruby>で、<ruby>全部<rt>ぜんぶ</rt></ruby>で３２<ruby>回<rt>かい</rt></ruby><ruby>勝<rt>か</rt></ruby>っていて、<ruby>関脇<rt>せきわけ</rt></ruby>から１つ<ruby>上<rt>うえ</rt></ruby>の<ruby>大関<rt>おおぜき</rt></ruby>に<ruby>上<rt>あ</rt></ruby>がりそうです。",
+            "origin": "２７日、大相撲の９月の大会が終わりました。関脇の正代が１５回の相撲のうち１３回勝って優勝しました。正代は３月と７月と９月の大会で、全部で３２回勝っていて、関脇から１つ上の大関に上がりそうです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>正代<rt>しょうだい</rt></ruby>は<ruby>熊本県<rt>くまもとけん</rt></ruby><ruby>宇土市<rt>うとし</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>です。<ruby>熊本県<rt>くまもとけん</rt></ruby>の<ruby>力士<rt>りきし</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>するのは<ruby>初<rt>はじ</rt></ruby>めてです。",
+            "origin": "正代は熊本県宇土市出身です。熊本県の力士が優勝するのは初めてです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>宇土市<rt>うとし</rt></ruby>では、<ruby>両親<rt>りょうしん</rt></ruby>や<ruby>市民<rt>しみん</rt></ruby>など２００<ruby>人<rt>にん</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きなテレビの<ruby>前<rt>まえ</rt></ruby>で<ruby>正代<rt>しょうだい</rt></ruby>を<ruby>応援<rt>おうえん</rt></ruby>しました。７<ruby>月<rt>がつ</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>被害<rt>ひがい</rt></ruby>があった<ruby>芦北町<rt>あしきたまち</rt></ruby>でも、<ruby>中学生<rt>ちゅうがくせい</rt></ruby>のとき<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>相撲<rt>すもう</rt></ruby>をした<ruby>友達<rt>ともだち</rt></ruby>が<ruby>応援<rt>おうえん</rt></ruby>しました。",
+            "origin": "宇土市では、両親や市民など２００人が大きなテレビの前で正代を応援しました。７月に雨で大きな被害があった芦北町でも、中学生のとき一緒に相撲をした友達が応援しました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>相撲<rt>すもう</rt></ruby>のあと<ruby>正代<rt>しょうだい</rt></ruby>は「<ruby>熊本<rt>くまもと</rt></ruby>からのたくさんの<ruby>応援<rt>おうえん</rt></ruby>で<ruby>力<rt>ちから</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました」と<ruby>話<rt>はな</rt></ruby>しました。",
+            "origin": "相撲のあと正代は「熊本からのたくさんの応援で力が出ました」と話しました。"
+        }
+    ],
+    "voiceurl": "k10012637261000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200927/../20200927/K10012637261_2009271723_2009271724_01_02.jpg",
+    "newsmovie": "k10012637261_202009271925_202009271926.mp4",
+    "path": "appdata/news/k10012637261000.json"
+}

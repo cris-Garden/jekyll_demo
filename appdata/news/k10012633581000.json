@@ -1,0 +1,35 @@
+{
+    "id": "k10012633581000",
+    "title": "ゆうちょ銀行　お金がとられていないか調べてもらう",
+    "ruby": "ゆうちょ<ruby>銀行<rt>ぎんこう</rt></ruby>　お<ruby>金<rt>かね</rt></ruby>がとられていないか<ruby>調<rt>しら</rt></ruby>べてもらう",
+    "time": "2020-09-25",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012633581000/k10012633581000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "スマートフォンなどを<ruby>使<rt>つか</rt></ruby>って<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>ができる「<ruby>電子<rt>でんし</rt></ruby><ruby>決済<rt>けっさい</rt></ruby>サービス」で、ゆうちょ<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>口座<rt>こうざ</rt></ruby>からお<ruby>金<rt>かね</rt></ruby>がとられる<ruby>被害<rt>ひがい</rt></ruby>が<ruby>問題<rt>もんだい</rt></ruby>になっています。",
+            "origin": "スマートフォンなどを使って買い物ができる「電子決済サービス」で、ゆうちょ銀行の口座からお金がとられる被害が問題になっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ゆうちょ<ruby>銀行<rt>ぎんこう</rt></ruby>は<ruby>２４日<rt>にじゅうよっか</rt></ruby>、<ruby>被害<rt>ひがい</rt></ruby>の<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>約<rt>やく</rt></ruby>３８０<ruby>件<rt>けん</rt></ruby>、６０００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>あったと<ruby>言<rt>い</rt></ruby>いました。このほかに、お<ruby>年寄<rt>としよ</rt></ruby>りの<ruby>約<rt>やく</rt></ruby>６００の<ruby>口座<rt>こうざ</rt></ruby>で<ruby>電子<rt>でんし</rt></ruby><ruby>決済<rt>けっさい</rt></ruby>サービスが<ruby>利用<rt>りよう</rt></ruby>できるようになったあと、たくさんのお<ruby>金<rt>かね</rt></ruby>が<ruby>不正<rt>ふせい</rt></ruby>に<ruby>送<rt>おく</rt></ruby>られていた<ruby>可能性<rt>かのうせい</rt></ruby>があると<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "ゆうちょ銀行は２４日、被害の連絡が約３８０件、６０００万円あったと言いました。このほかに、お年寄りの約６００の口座で電子決済サービスが利用できるようになったあと、たくさんのお金が不正に送られていた可能性があると言いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ゆうちょ<ruby>銀行<rt>ぎんこう</rt></ruby>は、<ruby>電子<rt>でんし</rt></ruby><ruby>決済<rt>けっさい</rt></ruby>サービスを<ruby>利用<rt>りよう</rt></ruby>している５５０<ruby>万<rt>まん</rt></ruby>の<ruby>口座<rt>こうざ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に、<ruby>知<rt>し</rt></ruby>らない<ruby>間<rt>あいだ</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>がとられていないか<ruby>調<rt>しら</rt></ruby>べてもらうことにしました。",
+            "origin": "ゆうちょ銀行は、電子決済サービスを利用している５５０万の口座の人に、知らない間にお金がとられていないか調べてもらうことにしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ゆうちょ<ruby>銀行<rt>ぎんこう</rt></ruby>は、<ruby>口座<rt>こうざ</rt></ruby>の<ruby>番号<rt>ばんごう</rt></ruby>やパスワードを<ruby>聞<rt>き</rt></ruby>くことは<ruby>絶対<rt>ぜったい</rt></ruby>にないと<ruby>言<rt>い</rt></ruby>っています。しかし、パスワードなどを<ruby>聞<rt>き</rt></ruby>くうそのメールが<ruby>来<rt>く</rt></ruby>る<ruby>可能性<rt>かのうせい</rt></ruby>もあるため、<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけるように<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "ゆうちょ銀行は、口座の番号やパスワードを聞くことは絶対にないと言っています。しかし、パスワードなどを聞くうそのメールが来る可能性もあるため、十分に気をつけるように言っています。"
+        }
+    ],
+    "voiceurl": "k10012633581000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200925/../20200925/K10012633581_2009250712_2009250713_01_03.jpg",
+    "newsmovie": "k10012633581_202009250712_202009250712.mp4",
+    "path": "appdata/news/k10012633581000.json"
+}

@@ -1,0 +1,60 @@
+{
+    "id": "articles20200922kei00s00s012000c",
+    "title": "タブレット端末で指紋を読み取る仕組みはどうなっているのですか",
+    "ruby": "",
+    "time": "2020年9月22日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/09/22/20200922kei00s00s015000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20200922/kei/00s/00s/012000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "Ｑタブレット<ruby>端末<rt>たんまつ</rt></ruby>で<ruby>指紋<rt>しもん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>み<ruby>取<rt>と</rt></ruby>る<ruby>仕組<rt>しく</rt></ruby>みはどうなっているのですか（<ruby>神奈川県鎌倉市<rt>かながわけんかまくらし</rt></ruby>、<ruby>小<rt>しょう</rt></ruby>５、<ruby>鶴身<rt>つるみ</rt></ruby><ruby>彩華<rt>あやか</rt></ruby>さん）",
+            "origin": "Ｑタブレット端末で指紋を読み取る仕組みはどうなっているのですか（神奈川県鎌倉市、小５、鶴身彩華さん）"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>電子<rt>でんし</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>はかり、<ruby>特徴<rt>とくちょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>み<ruby>取<rt>と</rt></ruby>る",
+            "origin": "電子の量はかり、特徴を読み取る"
+        },
+        {
+            "type": "ruby",
+            "ruby": "Ａスマートフォンやタブレットには、<ruby>持<rt>も</rt></ruby>ち<ruby>主<rt>ぬし</rt></ruby><ruby>以外<rt>いがい</rt></ruby>に<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>見<rt>み</rt></ruby>られないようにロックする<ruby>機能<rt>きのう</rt></ruby>があります。ロックを<ruby>解除<rt>かいじょ</rt></ruby>するには、<ruby>持<rt>も</rt></ruby>ち<ruby>主<rt>ぬし</rt></ruby>が<ruby>決<rt>き</rt></ruby>めた<ruby>暗証番号<rt>あんしょうばんごう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れたり、<ruby>指紋<rt>しもん</rt></ruby>や<ruby>黒目<rt>くろめ</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>などの<ruby>体<rt>からだ</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>で、<ruby>本人<rt>ほんにん</rt></ruby>だと<ruby>確認<rt>かくにん</rt></ruby>したりする<ruby>方法<rt>ほうほう</rt></ruby>があります。<ruby>指紋<rt>しもん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>指紋認証<rt>しもんにんしょう</rt></ruby>と<ruby>呼<rt>よ</rt></ruby>んでいます。<ruby>指紋<rt>しもん</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>もが<ruby>持<rt>も</rt></ruby>っていますが、<ruby>同<rt>おな</rt></ruby>じ<ruby>遺伝子<rt>いでんし</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>一卵性<rt>いちらんせい</rt></ruby>の<ruby>双子<rt>ふたご</rt></ruby>ですら<ruby>異<rt>こと</rt></ruby>なっていて、<ruby>同<rt>おな</rt></ruby>じ<ruby>模様<rt>もよう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はいず、また<ruby>生涯<rt>しょうがい</rt></ruby><ruby>変<rt>か</rt></ruby>わることがないため、<ruby>本人<rt>ほんにん</rt></ruby>を<ruby>特定<rt>とくてい</rt></ruby>するのに<ruby>適<rt>てき</rt></ruby>しています。",
+            "origin": "Ａスマートフォンやタブレットには、持ち主以外に大切な情報を見られないようにロックする機能があります。ロックを解除するには、持ち主が決めた暗証番号を入れたり、指紋や黒目の模様などの体の特徴で、本人だと確認したりする方法があります。指紋を使った方法を指紋認証と呼んでいます。指紋は誰もが持っていますが、同じ遺伝子を持つ一卵性の双子ですら異なっていて、同じ模様の人はいず、また生涯変わることがないため、本人を特定するのに適しています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>富士通研究所<rt>ふじつうけんきゅうしょ</rt></ruby>で<ruby>指紋<rt>しもん</rt></ruby>などを<ruby>使<rt>つか</rt></ruby>った<ruby>生体認証<rt>せいたいにんしょう</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>んでいる<ruby>新崎<rt>しんざき</rt></ruby><ruby>卓<rt>たかし</rt></ruby>さんに<ruby>聞<rt>き</rt></ruby>きました。",
+            "origin": "富士通研究所で指紋などを使った生体認証の研究に取り組んでいる新崎卓さんに聞きました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>指紋<rt>しもん</rt></ruby>には、いくつかの<ruby>特徴<rt>とくちょう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>模様<rt>もよう</rt></ruby>があります。<ruby>指紋<rt>しもん</rt></ruby>の<ruby>線<rt>せん</rt></ruby>の<ruby>行<rt>い</rt></ruby>き<ruby>止<rt>ど</rt></ruby>まり（<ruby>端点<rt>たんてん</rt></ruby>）、アルファベットの「Ｙ」のような<ruby>分岐<rt>ぶんき</rt></ruby><ruby>点<rt>てん</rt></ruby>、<ruby>三<rt>みっ</rt></ruby>つの<ruby>線<rt>せん</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まったデルタ（<ruby>三角州<rt>さんかくす</rt></ruby>）です【<ruby>図<rt>ず</rt></ruby>１】。この<ruby>特徴<rt>とくちょう</rt></ruby>がある<ruby>場所<rt>ばしょ</rt></ruby>と<ruby>数<rt>かず</rt></ruby>をセンサーで<ruby>感知<rt>かんち</rt></ruby>して、あらかじめ<ruby>登録<rt>とうろく</rt></ruby>された<ruby>指紋<rt>しもん</rt></ruby>と<ruby>一致<rt>いっち</rt></ruby>するかを<ruby>判断<rt>はんだん</rt></ruby>します。",
+            "origin": "指紋には、いくつかの特徴的な模様があります。指紋の線の行き止まり（端点）、アルファベットの「Ｙ」のような分岐点、三つの線が集まったデルタ（三角州）です【図１】。この特徴がある場所と数をセンサーで感知して、あらかじめ登録された指紋と一致するかを判断します。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>指紋<rt>しもん</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>を<ruby>感知<rt>かんち</rt></ruby>するセンサーは、１０ミリメートル<ruby>四方<rt>しほう</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさに、５０マイクロメートル（１０００<ruby>分<rt>ぶん</rt></ruby>の５０ミリメートル）の<ruby>小<rt>ちい</rt></ruby>さな<ruby>電極<rt>でんきょく</rt></ruby>が<ruby>方眼紙<rt>ほうがんし</rt></ruby>のマス<ruby>目<rt>め</rt></ruby>のように<ruby>一<rt>ひと</rt></ruby>つずつ<ruby>埋<rt>う</rt></ruby>め<ruby>込<rt>こ</rt></ruby>まれたものです。センサーに<ruby>指<rt>ゆび</rt></ruby>が<ruby>置<rt>お</rt></ruby>かれるとまず、<ruby>指<rt>ゆび</rt></ruby>がきちんと<ruby>触<rt>さわ</rt></ruby>っているか、その<ruby>面積<rt>めんせき</rt></ruby>をはかります。<ruby>面積<rt>めんせき</rt></ruby>が<ruby>十分<rt>じゅうぶん</rt></ruby>にあると<ruby>判断<rt>はんだん</rt></ruby>されると、<ruby>電極<rt>でんきょく</rt></ruby>の<ruby>電子<rt>でんし</rt></ruby>（<ruby>原子<rt>げんし</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りをぐるぐる<ruby>回<rt>まわ</rt></ruby>っている<ruby>物質<rt>ぶっしつ</rt></ruby>）の<ruby>量<rt>りょう</rt></ruby>をはかります。",
+            "origin": "指紋の模様を感知するセンサーは、１０ミリメートル四方の大きさに、５０マイクロメートル（１０００分の５０ミリメートル）の小さな電極が方眼紙のマス目のように一つずつ埋め込まれたものです。センサーに指が置かれるとまず、指がきちんと触っているか、その面積をはかります。面積が十分にあると判断されると、電極の電子（原子の周りをぐるぐる回っている物質）の量をはかります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>指<rt>ゆび</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づけば<ruby>近<rt>ちか</rt></ruby>づくほど<ruby>多<rt>おお</rt></ruby>くの<ruby>電子<rt>でんし</rt></ruby>が<ruby>電極<rt>でんきょく</rt></ruby>にたまります。<ruby>指紋<rt>しもん</rt></ruby>の<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がって<ruby>線<rt>せん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っている<ruby>部分<rt>ぶぶん</rt></ruby>（<ruby>隆<rt>りゅう</rt></ruby><ruby>線<rt>せん</rt></ruby>）は<ruby>電極<rt>でんきょく</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>いので、それ<ruby>以外<rt>いがい</rt></ruby>の<ruby>部分<rt>ぶぶん</rt></ruby>に<ruby>比<rt>くら</rt></ruby>べて<ruby>電子<rt>でんし</rt></ruby>はたまりやすくなります。<ruby>反対<rt>はんたい</rt></ruby>に、へこんだところは<ruby>電極<rt>でんきょく</rt></ruby>との<ruby>間<rt>あいだ</rt></ruby>に<ruby>空気<rt>くうき</rt></ruby>の<ruby>層<rt>そう</rt></ruby>があり、<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がった<ruby>部分<rt>ぶぶん</rt></ruby>に<ruby>比<rt>くら</rt></ruby>べてたまる<ruby>電子<rt>でんし</rt></ruby>は<ruby>少<rt>すく</rt></ruby>なくなります。【<ruby>図<rt>ず</rt></ruby>２】",
+            "origin": "指が近づけば近づくほど多くの電子が電極にたまります。指紋の盛り上がって線を作っている部分（隆線）は電極に近いので、それ以外の部分に比べて電子はたまりやすくなります。反対に、へこんだところは電極との間に空気の層があり、盛り上がった部分に比べてたまる電子は少なくなります。【図２】"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>電極<rt>でんきょく</rt></ruby>の<ruby>下<rt>した</rt></ruby>の<ruby>回路<rt>かいろ</rt></ruby>でたまった<ruby>電子<rt>でんし</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>をはかり、<ruby>白黒<rt>しろくろ</rt></ruby>の<ruby>指紋<rt>しもん</rt></ruby>の<ruby>画像<rt>がぞう</rt></ruby>に<ruby>変換<rt>へんかん</rt></ruby>します。<ruby>電子<rt>でんし</rt></ruby>がたくさんある<ruby>場所<rt>ばしょ</rt></ruby>ほど<ruby>黒<rt>くろ</rt></ruby>く、<ruby>少<rt>すく</rt></ruby>ないほど<ruby>白<rt>しろ</rt></ruby>く<ruby>表示<rt>ひょうじ</rt></ruby>するように<ruby>設定<rt>せってい</rt></ruby>されています。<ruby>画像<rt>がぞう</rt></ruby>から<ruby>図<rt>ず</rt></ruby>１の<ruby>指紋<rt>しもん</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby><ruby>点<rt>てん</rt></ruby>をいくつか<ruby>抽出<rt>ちゅうしゅつ</rt></ruby>し、<ruby>場所<rt>ばしょ</rt></ruby>や、<ruby>線<rt>せん</rt></ruby>の<ruby>方向<rt>ほうこう</rt></ruby>などが<ruby>事前<rt>じぜん</rt></ruby>に<ruby>登録<rt>とうろく</rt></ruby>した<ruby>指紋<rt>しもん</rt></ruby>と<ruby>一致<rt>いっち</rt></ruby>しているかを<ruby>判断<rt>はんだん</rt></ruby>しています。<ruby>最近<rt>さいきん</rt></ruby>では、<ruby>指<rt>ゆび</rt></ruby>にある<ruby>汗<rt>あせ</rt></ruby>が<ruby>出<rt>で</rt></ruby>る<ruby>穴<rt>あな</rt></ruby>の<ruby>位置<rt>いち</rt></ruby>なども<ruby>検出<rt>けんしゅつ</rt></ruby>するようにして、より<ruby>精度<rt>せいど</rt></ruby>を<ruby>高<rt>たか</rt></ruby>める<ruby>研究<rt>けんきゅう</rt></ruby>も<ruby>進<rt>すす</rt></ruby>んでいるそうです。",
+            "origin": "電極の下の回路でたまった電子の量をはかり、白黒の指紋の画像に変換します。電子がたくさんある場所ほど黒く、少ないほど白く表示するように設定されています。画像から図１の指紋の特徴点をいくつか抽出し、場所や、線の方向などが事前に登録した指紋と一致しているかを判断しています。最近では、指にある汗が出る穴の位置なども検出するようにして、より精度を高める研究も進んでいるそうです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>指紋認証<rt>しもんにんしょう</rt></ruby>は、<ruby>海外<rt>かいがい</rt></ruby>の<ruby>難民<rt>なんみん</rt></ruby>キャンプで<ruby>国連難民高等弁務官事務所<rt>こくれんなんみんこうとうべんむかんじむしょ</rt></ruby>も<ruby>使<rt>つか</rt></ruby>っているそうです。<ruby>国<rt>くに</rt></ruby>を<ruby>追<rt>お</rt></ruby>われて<ruby>逃<rt>に</rt></ruby>げてきた<ruby>多<rt>おお</rt></ruby>くの<ruby>難民<rt>なんみん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>身分証<rt>みぶんしょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていません。<ruby>食料<rt>しょくりょう</rt></ruby>の<ruby>配給<rt>はいきゅう</rt></ruby>や<ruby>予防接種<rt>よぼうせっしゅ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けるときに、<ruby>登録<rt>とうろく</rt></ruby>された<ruby>名前<rt>なまえ</rt></ruby>などの<ruby>情報<rt>じょうほう</rt></ruby>と<ruby>人<rt>ひと</rt></ruby>をひもづける<ruby>時<rt>とき</rt></ruby>に、<ruby>指紋<rt>しもん</rt></ruby><ruby>認証<rt>にんしょう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っているそうです。【<ruby>田嶋<rt>たじま</rt></ruby><ruby>夏希<rt>なつき</rt></ruby>】＜え・内山大助＞",
+            "origin": "指紋認証は、海外の難民キャンプで国連難民高等弁務官事務所も使っているそうです。国を追われて逃げてきた多くの難民の人は、身分証を持っていません。食料の配給や予防接種を受けるときに、登録された名前などの情報と人をひもづける時に、指紋認証を使っているそうです。【田嶋夏希】＜え・内山大助＞"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/09/22/20200922kei00s00s015000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200922kei00s00s012000c.json"
+}

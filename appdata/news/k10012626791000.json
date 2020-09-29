@@ -1,0 +1,40 @@
+{
+    "id": "k10012626791000",
+    "title": "映画館やプロ野球などの会場に入れる客を増やす",
+    "ruby": "<ruby>映画館<rt>えいがかん</rt></ruby>やプロ<ruby>野球<rt>やきゅう</rt></ruby>などの<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる<ruby>客<rt>きゃく</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やす",
+    "time": "2020-09-23",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012626791000/k10012626791000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつる<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなったため、<ruby>政府<rt>せいふ</rt></ruby>は１９<ruby>日<rt>にち</rt></ruby>から、イベントの<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる<ruby>客<rt>きゃく</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やすことができるようにしました。",
+            "origin": "新しいコロナウイルスがうつる人が少なくなったため、政府は１９日から、イベントの会場に入れる客を増やすことができるようにしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>映画館<rt>えいがかん</rt></ruby>では<ruby>今<rt>いま</rt></ruby>まで、<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる<ruby>客<rt>きゃく</rt></ruby>を<ruby>席<rt>せき</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby><ruby>以下<rt>いか</rt></ruby>にしていました。しかし、１９<ruby>日<rt>にち</rt></ruby>からは<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>に<ruby>客<rt>きゃく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れてもいいことになりました。",
+            "origin": "映画館では今まで、会場に入れる客を席の半分以下にしていました。しかし、１９日からは全部の席に客を入れてもいいことになりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>にある<ruby>映画館<rt>えいがかん</rt></ruby>は１９<ruby>日<rt>にち</rt></ruby>から、<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>のチケットを<ruby>売<rt>う</rt></ruby>っています。<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、<ruby>隣<rt>となり</rt></ruby>の<ruby>席<rt>せき</rt></ruby>に<ruby>並<rt>なら</rt></ruby>んで<ruby>座<rt>すわ</rt></ruby>って<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ていました。",
+            "origin": "東京の渋谷にある映画館は１９日から、全部の席のチケットを売っています。映画を見に来た人は、隣の席に並んで座って映画を見ていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>客<rt>きゃく</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>さないクラシック<ruby>音楽<rt>おんがく</rt></ruby>のコンサートや<ruby>劇<rt>げき</rt></ruby>などの<ruby>会場<rt>かいじょう</rt></ruby>では、５０００<ruby>人<rt>にん</rt></ruby>まで<ruby>客<rt>きゃく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れることができるようになりました。",
+            "origin": "客が大きな声を出さないクラシック音楽のコンサートや劇などの会場では、５０００人まで客を入れることができるようになりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "プロ<ruby>野球<rt>やきゅう</rt></ruby>やサッカーのＪリーグなど１<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>る<ruby>会場<rt>かいじょう</rt></ruby>では、<ruby>席<rt>せき</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby>まで<ruby>客<rt>きゃく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れることができるようになりました。<ruby>例<rt>たと</rt></ruby>えば、<ruby>客<rt>きゃく</rt></ruby>が４<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>入<rt>はい</rt></ruby>る<ruby>会場<rt>かいじょう</rt></ruby>では、２<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>まで<ruby>入<rt>い</rt></ruby>れることができます。",
+            "origin": "プロ野球やサッカーのＪリーグなど１万人以上が入る会場では、席の半分まで客を入れることができるようになりました。例えば、客が４万人入る会場では、２万人まで入れることができます。"
+        }
+    ],
+    "voiceurl": "k10012626791000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200919/../20200919/K10012626791_2009191628_2009191711_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012626791000.json"
+}

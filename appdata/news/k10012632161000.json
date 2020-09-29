@@ -1,0 +1,30 @@
+{
+    "id": "k10012632161000",
+    "title": "コンビニで消費期限が近い食べ物を安く売る情報を客に送る",
+    "ruby": "コンビニで<ruby>消費期限<rt>しょうひきげん</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>い<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>安<rt>やす</rt></ruby>く<ruby>売<rt>う</rt></ruby>る<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>客<rt>きゃく</rt></ruby>に<ruby>送<rt>おく</rt></ruby>る",
+    "time": "2020-09-25",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012632161000/k10012632161000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "コンビニは<ruby>消費期限<rt>しょうひきげん</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎた<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>捨<rt>す</rt></ruby>てていますが、できるだけ<ruby>少<rt>すく</rt></ruby>なくしたいと<ruby>考<rt>かんが</rt></ruby>えています。ローソンと<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のＫＤＤＩは、<ruby>店<rt>みせ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにいる<ruby>客<rt>きゃく</rt></ruby>に、<ruby>消費期限<rt>しょうひきげん</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>くなって<ruby>安<rt>やす</rt></ruby>く<ruby>売<rt>う</rt></ruby>る<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>をアプリで<ruby>知<rt>し</rt></ruby>らせるサービスを<ruby>始<rt>はじ</rt></ruby>めます。",
+            "origin": "コンビニは消費期限を過ぎた食べ物を捨てていますが、できるだけ少なくしたいと考えています。ローソンと携帯電話の会社のＫＤＤＩは、店の近くにいる客に、消費期限が近くなって安く売る食べ物をアプリで知らせるサービスを始めます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "スマートフォンの<ruby>位置<rt>いち</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>と、<ruby>客<rt>きゃく</rt></ruby>が<ruby>最近<rt>さいきん</rt></ruby>の１か<ruby>月<rt>げつ</rt></ruby>にコンビニで<ruby>買<rt>か</rt></ruby>った<ruby>物<rt>もの</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。スマートフォンにアプリを<ruby>入<rt>い</rt></ruby>れた<ruby>客<rt>きゃく</rt></ruby>で、<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>う<ruby>可能性<rt>かのうせい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<ruby>店<rt>みせ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>く</rt></ruby>ると、<ruby>安<rt>やす</rt></ruby>く<ruby>売<rt>う</rt></ruby>る<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ります。",
+            "origin": "スマートフォンの位置の情報と、客が最近の１か月にコンビニで買った物の情報を使います。スマートフォンにアプリを入れた客で、食べ物を買う可能性が高い人が店の近くに来ると、安く売る食べ物の情報を送ります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ローソンとＫＤＤＩは、１０<ruby>月<rt>がつ</rt></ruby><ruby>２日<rt>ふつか</rt></ruby>から<ruby>埼玉県<rt>さいたまけん</rt></ruby>の１０の<ruby>店<rt>みせ</rt></ruby>でこのサービスを<ruby>始<rt>はじ</rt></ruby>めます。そして、２０２１<ruby>年度<rt>ねんど</rt></ruby>には<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>でこのサービスを<ruby>始<rt>はじ</rt></ruby>めたいと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "ローソンとＫＤＤＩは、１０月２日から埼玉県の１０の店でこのサービスを始めます。そして、２０２１年度には全部の店でこのサービスを始めたいと考えています。"
+        }
+    ],
+    "voiceurl": "k10012632161000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200924/../20200924/K10012632161_2009241212_2009241215_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012632161000.json"
+}
