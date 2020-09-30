@@ -1,9 +1,10 @@
 {
     "means":[
         {
-            "id":10002,
+            "id":10002100,
             "title":"にしろ",
-            "level":"N2"
+            "level":"N2",
+            "grammar_id":10002
         }
     ]
 }
