@@ -1,0 +1,34 @@
+{
+    "types":[
+        {
+            "title":"N1",
+            "path":"grammarapi/n1.json",
+            "id":"",
+            "type":""
+        },
+        {
+            "title":"N2",
+            "path":"grammarapi/n2.json",
+            "id":"",
+            "type":""
+        },
+        {
+            "title":"N3",
+            "path":"grammarapi/n3.json",
+            "id":"",
+            "type":""
+        },
+        {
+            "title":"N4",
+            "path":"grammarapi/n4.json",
+            "id":"",
+            "type":""
+        },
+        {
+            "title":"N5",
+            "path":"grammarapi/n5.json",
+            "id":"",
+            "type":""
+        }
+    ]
+}
