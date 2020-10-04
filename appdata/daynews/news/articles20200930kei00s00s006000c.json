@@ -1,0 +1,25 @@
+{
+    "id": "articles20200930kei00s00s006000c",
+    "title": "大学入学共通テスト",
+    "ruby": "",
+    "time": "2020年9月30日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20200930/kei/00s/00s/006000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りたい<ruby>人<rt>ひと</rt></ruby>が<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>一斉<rt>いっせい</rt></ruby>に<ruby>受<rt>う</rt></ruby>けるテストです。２０２０<ruby>年度<rt>ねんど</rt></ruby>から<ruby>導入<rt>どうにゅう</rt></ruby>され、<ruby>今<rt>いま</rt></ruby>の<ruby>高校<rt>こうこう</rt></ruby>３<ruby>年<rt>ねん</rt></ruby><ruby>生<rt>せい</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>受<rt>う</rt></ruby>けます。",
+            "origin": "大学に入りたい人が全国で一斉に受けるテストです。２０２０年度から導入され、今の高校３年生が初めて受けます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>共通<rt>きょうつう</rt></ruby>テストでは<ruby>考<rt>かんが</rt></ruby>える<ruby>力<rt>ちから</rt></ruby>や<ruby>判断力<rt>はんだんりょく</rt></ruby>、<ruby>表現力<rt>ひょうげんりょく</rt></ruby>が<ruby>重視<rt>じゅうし</rt></ruby>されます。そのため<ruby>国語<rt>こくご</rt></ruby>と<ruby>数学<rt>すうがく</rt></ruby>で、<ruby>記述<rt>きじゅつ</rt></ruby><ruby>式<rt>しき</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す<ruby>予定<rt>よてい</rt></ruby>でしたが、<ruby>採点<rt>さいてん</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しく、<ruby>見送<rt>みおく</rt></ruby>られました。",
+            "origin": "共通テストでは考える力や判断力、表現力が重視されます。そのため国語と数学で、記述式の問題を出す予定でしたが、採点が難しく、見送られました。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20200930kei00s00s006000c.json"
+}

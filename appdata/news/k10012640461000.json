@@ -1,0 +1,35 @@
+{
+    "id": "k10012640461000",
+    "title": "福島県のサービスエリア　ジュースが出る大きな桃",
+    "ruby": "<ruby>福島県<rt>ふくしまけん</rt></ruby>のサービスエリア　ジュースが<ruby>出<rt>で</rt></ruby>る<ruby>大<rt>おお</rt></ruby>きな<ruby>桃<rt>もも</rt></ruby>",
+    "time": "2020-10-02",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012640461000/k10012640461000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>関東<rt>かんとう</rt></ruby>から<ruby>東北<rt>とうほく</rt></ruby>に<ruby>向<rt>む</rt></ruby>かう<ruby>高速道路<rt>こうそくどうろ</rt></ruby>にある<ruby>福島県<rt>ふくしまけん</rt></ruby>の<ruby>国見<rt>くにみ</rt></ruby>サービスエリアが<ruby>新<rt>あたら</rt></ruby>しくなりました。サービスエリアは、<ruby>運転<rt>うんてん</rt></ruby>の<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>休<rt>やす</rt></ruby>んだり<ruby>食事<rt>しょくじ</rt></ruby>をしたりする<ruby>所<rt>ところ</rt></ruby>です。",
+            "origin": "関東から東北に向かう高速道路にある福島県の国見サービスエリアが新しくなりました。サービスエリアは、運転の途中で休んだり食事をしたりする所です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "このサービスエリアで、<ruby>大<rt>おお</rt></ruby>きな<ruby>桃<rt>もも</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>の<ruby>入<rt>い</rt></ruby>れ<ruby>物<rt>もの</rt></ruby>から<ruby>出<rt>で</rt></ruby>る<ruby>桃<rt>もも</rt></ruby>のジュースを<ruby>飲<rt>の</rt></ruby>むことができるようになりました。お<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>って、<ruby>蛇口<rt>じゃぐち</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けると<ruby>福島県<rt>ふくしまけん</rt></ruby>の<ruby>桃<rt>もも</rt></ruby>を１００％<ruby>使<rt>つか</rt></ruby>ったジュースが<ruby>出<rt>で</rt></ruby>てきます。",
+            "origin": "このサービスエリアで、大きな桃の形の入れ物から出る桃のジュースを飲むことができるようになりました。お金を払って、蛇口を開けると福島県の桃を１００％使ったジュースが出てきます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ここでは、<ruby>福島県<rt>ふくしまけん</rt></ruby>の<ruby>桃<rt>もも</rt></ruby>で<ruby>作<rt>つく</rt></ruby>ったお<ruby>菓子<rt>かし</rt></ruby>なども<ruby>売<rt>う</rt></ruby>っています。",
+            "origin": "ここでは、福島県の桃で作ったお菓子なども売っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>福島県<rt>ふくしまけん</rt></ruby><ruby>郡山市<rt>こおりやまし</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>桃<rt>もも</rt></ruby>のジュースがとてもおいしかったです。インターネットのインスタグラムで<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>しようと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "福島県郡山市から来た女性は「桃のジュースがとてもおいしかったです。インターネットのインスタグラムで写真を紹介しようと思います」と話していました。"
+        }
+    ],
+    "voiceurl": "k10012640461000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20200929/../20200929/K10012640461_2009292129_2009292344_01_03.jpg",
+    "newsmovie": "k10012640461_202009292129_202009292130.mp4",
+    "path": "appdata/news/k10012640461000.json"
+}

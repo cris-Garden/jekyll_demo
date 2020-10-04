@@ -1,0 +1,35 @@
+{
+    "id": "articles20201003kei00s00s013000c",
+    "title": "経済　東証が終日停止　システム障害",
+    "ruby": "",
+    "time": "2020年10月3日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/10/03/20201003kei00s00s023000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20201003/kei/00s/00s/013000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>の<ruby>株式<rt>かぶしき</rt></ruby>を<ruby>売買<rt>ばいばい</rt></ruby>している「<ruby>東京証券取引所<rt>とうきょうしょうけんとりひきじょ</rt></ruby>」（<ruby>東証<rt>とうしょう</rt></ruby>）で１<ruby>日<rt>ついたち</rt></ruby>、システム<ruby>障害<rt>しょうがい</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>し、<ruby>株式<rt>かぶしき</rt></ruby>の<ruby>売買<rt>ばいばい</rt></ruby>を<ruby>終日<rt>しゅうじつ</rt></ruby>にわたってやめました。<ruby>東証<rt>とうしょう</rt></ruby>が<ruby>売買<rt>ばいばい</rt></ruby>を<ruby>終日<rt>しゅうじつ</rt></ruby><ruby>停止<rt>ていし</rt></ruby>するのは<ruby>初<rt>はじ</rt></ruby>めてです。",
+            "origin": "株式会社の株式を売買している「東京証券取引所」（東証）で１日、システム障害が発生し、株式の売買を終日にわたってやめました。東証が売買を終日停止するのは初めてです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>障害<rt>しょうがい</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたのは、<ruby>株式<rt>かぶしき</rt></ruby>を<ruby>売買<rt>ばいばい</rt></ruby>する「アローヘッド」というシステムです。システムを<ruby>動<rt>うご</rt></ruby>かすのに<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>記録<rt>きろく</rt></ruby>する<ruby>装置<rt>そうち</rt></ruby>が<ruby>故障<rt>こしょう</rt></ruby>し、バックアップのシステムにも<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>わりませんでした。<ruby>同<rt>おな</rt></ruby>じシステムを<ruby>使<rt>つか</rt></ruby>う<ruby>札幌<rt>さっぽろ</rt></ruby>、<ruby>名古屋<rt>なごや</rt></ruby>、<ruby>福岡<rt>ふくおか</rt></ruby>の<ruby>各<rt>かく</rt></ruby><ruby>証券取引所<rt>しょうけんとりひきじょ</rt></ruby>も<ruby>売買<rt>ばいばい</rt></ruby>を<ruby>停止<rt>ていし</rt></ruby>しました。",
+            "origin": "障害が起きたのは、株式を売買する「アローヘッド」というシステムです。システムを動かすのに必要な情報を記録する装置が故障し、バックアップのシステムにも切り替わりませんでした。同じシステムを使う札幌、名古屋、福岡の各証券取引所も売買を停止しました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>にとって、<ruby>株式<rt>かぶしき</rt></ruby>を<ruby>売<rt>う</rt></ruby>ることは、<ruby>仕事<rt>しごと</rt></ruby>をするためのお<ruby>金<rt>かね</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>める<ruby>手段<rt>しゅだん</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つです。<ruby>株式<rt>かぶしき</rt></ruby>を<ruby>売<rt>う</rt></ruby>りたい<ruby>人<rt>ひと</rt></ruby>と、<ruby>買<rt>か</rt></ruby>いたい<ruby>人<rt>ひと</rt></ruby>のどちらが<ruby>多<rt>おお</rt></ruby>いかによって<ruby>株式<rt>かぶしき</rt></ruby>の<ruby>価格<rt>かかく</rt></ruby>は<ruby>変<rt>か</rt></ruby>わりますが、この<ruby>日<rt>ひ</rt></ruby>は<ruby>株価<rt>かぶか</rt></ruby>がつきませんでした。",
+            "origin": "株式会社にとって、株式を売ることは、仕事をするためのお金を集める手段の一つです。株式を売りたい人と、買いたい人のどちらが多いかによって株式の価格は変わりますが、この日は株価がつきませんでした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東証<rt>とうしょう</rt></ruby>は<ruby>故障<rt>こしょう</rt></ruby>した<ruby>装置<rt>そうち</rt></ruby>を<ruby>交換<rt>こうかん</rt></ruby>し、２<ruby>日<rt>ふつか</rt></ruby>に<ruby>売買<rt>ばいばい</rt></ruby>を<ruby>再開<rt>さいかい</rt></ruby>しました。",
+            "origin": "東証は故障した装置を交換し、２日に売買を再開しました。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/10/03/20201003kei00s00s023000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201003kei00s00s013000c.json"
+}

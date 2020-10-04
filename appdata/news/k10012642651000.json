@@ -1,0 +1,40 @@
+{
+    "id": "k10012642651000",
+    "title": "日本航空「ladies and gentlemen」という言い方をやめる",
+    "ruby": "<ruby>日本航空<rt>にほんこうくう</rt></ruby>「ladies and gentlemen」という<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>をやめる",
+    "time": "2020-10-01",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012642651000/k10012642651000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本航空<rt>にほんこうくう</rt></ruby>は、<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>や<ruby>空港<rt>くうこう</rt></ruby>で<ruby>英語<rt>えいご</rt></ruby>で<ruby>放送<rt>ほうそう</rt></ruby>するとき、<ruby>最初<rt>さいしょ</rt></ruby>に「ladies and gentlemen」と<ruby>言<rt>い</rt></ruby>っていました。",
+            "origin": "日本航空は、飛行機の中や空港で英語で放送するとき、最初に「ladies and gentlemen」と言っていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本航空<rt>にほんこうくう</rt></ruby>は１０<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>からこの<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>をやめることにしました。この<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>には「<ruby>人<rt>ひと</rt></ruby>は<ruby>男性<rt>だんせい</rt></ruby>か<ruby>女性<rt>じょせい</rt></ruby>のどちらか」という<ruby>考<rt>かんが</rt></ruby>えがあるためです。",
+            "origin": "日本航空は１０月１日からこの言い方をやめることにしました。この言い方には「人は男性か女性のどちらか」という考えがあるためです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "これからは「Attention,all passengers」や「Good morning,everyone」などの<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>にします。",
+            "origin": "これからは「Attention,all passengers」や「Good morning,everyone」などの言い方にします。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ほかにも<ruby>日本航空<rt>にほんこうくう</rt></ruby>は、<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>客<rt>きゃく</rt></ruby>にサービスする<ruby>女性<rt>じょせい</rt></ruby>の<ruby>制服<rt>せいふく</rt></ruby>を<ruby>変<rt>か</rt></ruby>えて、<ruby>初<rt>はじ</rt></ruby>めてズボンも<ruby>選<rt>えら</rt></ruby>ぶことができるようにしました。",
+            "origin": "ほかにも日本航空は、飛行機で客にサービスする女性の制服を変えて、初めてズボンも選ぶことができるようにしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>飛行機<rt>ひこうき</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>するともらうことができる「マイルのサービス」は、<ruby>区役所<rt>くやくしょ</rt></ruby>の<ruby>証明<rt>しょうめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>などがあると、<ruby>同<rt>おな</rt></ruby>じ<ruby>性<rt>せい</rt></ruby>のパートナーも<ruby>家族<rt>かぞく</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>受<rt>う</rt></ruby>けることができるようにしました。",
+            "origin": "飛行機を利用するともらうことができる「マイルのサービス」は、区役所の証明書などがあると、同じ性のパートナーも家族と同じように受けることができるようにしました。"
+        }
+    ],
+    "voiceurl": "k10012642651000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201001/../20201001/K10012642651_2010011346_2010011347_01_03.jpg",
+    "newsmovie": "k10012642651_202010011346_202010011346.mp4",
+    "path": "appdata/news/k10012642651000.json"
+}
