@@ -1,0 +1,40 @@
+{
+    "id": "k10012652031000",
+    "title": "火星が地球に近くなって明るく見える",
+    "ruby": "<ruby>火星<rt>かせい</rt></ruby>が<ruby>地球<rt>ちきゅう</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>くなって<ruby>明<rt>あか</rt></ruby>るく<ruby>見<rt>み</rt></ruby>える",
+    "time": "2020-10-08",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012652031000/k10012652031000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>火星<rt>かせい</rt></ruby>は、<ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>隣<rt>となり</rt></ruby>にある<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>惑星<rt>わくせい</rt></ruby>で、<ruby>地球<rt>ちきゅう</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>太陽<rt>たいよう</rt></ruby>のまわりを<ruby>回<rt>まわ</rt></ruby>っています。<ruby>回<rt>まわ</rt></ruby>るのにかかる<ruby>時間<rt>じかん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>うため、<ruby>地球<rt>ちきゅう</rt></ruby>と<ruby>火星<rt>かせい</rt></ruby>は<ruby>近<rt>ちか</rt></ruby>くなったり<ruby>遠<rt>とお</rt></ruby>くなったりします。",
+            "origin": "火星は、地球の隣にある太陽の惑星で、地球と同じように太陽のまわりを回っています。回るのにかかる時間が違うため、地球と火星は近くなったり遠くなったりします。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>火星<rt>かせい</rt></ruby>は、<ruby>６日<rt>むいか</rt></ruby><ruby>午後<rt>ごご</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>すぎに<ruby>地球<rt>ちきゅう</rt></ruby>にいちばん<ruby>近<rt>ちか</rt></ruby>くなりました。<ruby>地球<rt>ちきゅう</rt></ruby>と<ruby>火星<rt>かせい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>は６２００<ruby>万<rt>まん</rt></ruby>ｋｍでした。",
+            "origin": "火星は、６日午後１１時すぎに地球にいちばん近くなりました。地球と火星の間は６２００万ｋｍでした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ＮＨＫが<ruby>国立天文台<rt>こくりつてんもんだい</rt></ruby>の<ruby>望遠鏡<rt>ぼうえんきょう</rt></ruby>に８Ｋカメラを<ruby>付<rt>つ</rt></ruby>けて<ruby>撮<rt>と</rt></ruby>ると、<ruby>少<rt>すこ</rt></ruby>し<ruby>赤<rt>あか</rt></ruby>い<ruby>色<rt>いろ</rt></ruby>の<ruby>火星<rt>かせい</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きく<ruby>見<rt>み</rt></ruby>えました。<ruby>火星<rt>かせい</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby><ruby>側<rt>がわ</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby>には<ruby>黒<rt>くろ</rt></ruby>い<ruby>模様<rt>もよう</rt></ruby>も<ruby>薄<rt>うす</rt></ruby>く<ruby>見<rt>み</rt></ruby>えました。いちばん<ruby>南<rt>みなみ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにあるドライアイスでできた<ruby>白<rt>しろ</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>も<ruby>見<rt>み</rt></ruby>えました。",
+            "origin": "ＮＨＫが国立天文台の望遠鏡に８Ｋカメラを付けて撮ると、少し赤い色の火星が大きく見えました。火星の南側の半分には黒い模様も薄く見えました。いちばん南の近くにあるドライアイスでできた白い所も見えました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>火星<rt>かせい</rt></ruby>はこれから１か<ruby>月<rt>げつ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>、<ruby>明<rt>あか</rt></ruby>るく<ruby>見<rt>み</rt></ruby>えます。そのあと<ruby>地球<rt>ちきゅう</rt></ruby>と<ruby>火星<rt>かせい</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>遠<rt>とお</rt></ruby>くなっていきます。",
+            "origin": "火星はこれから１か月以上の間、明るく見えます。そのあと地球と火星は少しずつ遠くなっていきます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>次<rt>つぎ</rt></ruby>に<ruby>火星<rt>かせい</rt></ruby>が<ruby>今<rt>いま</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じぐらい<ruby>地球<rt>ちきゅう</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>くなるのは２０３３<ruby>年<rt>ねん</rt></ruby>です。",
+            "origin": "次に火星が今と同じぐらい地球に近くなるのは２０３３年です。"
+        }
+    ],
+    "voiceurl": "k10012652031000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201007/../20201007/K10012652031_2010071508_2010071550_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012652031000.json"
+}

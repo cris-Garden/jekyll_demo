@@ -1,0 +1,35 @@
+{
+    "id": "k10012646781000",
+    "title": "「いのちの電話」　相談を聞く人が少なくなっている",
+    "ruby": "「いのちの<ruby>電話<rt>でんわ</rt></ruby>」　<ruby>相談<rt>そうだん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなっている",
+    "time": "2020-10-05",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012646781000/k10012646781000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>死<rt>し</rt></ruby>にたいと<ruby>考<rt>かんが</rt></ruby>えている<ruby>人<rt>ひと</rt></ruby>の<ruby>悩<rt>なや</rt></ruby>みを<ruby>電話<rt>でんわ</rt></ruby>で<ruby>聞<rt>き</rt></ruby>くために、１９７１<ruby>年<rt>ねん</rt></ruby>に「いのちの<ruby>電話<rt>でんわ</rt></ruby>」が<ruby>始<rt>はじ</rt></ruby>まりました。しかし、<ruby>相談<rt>そうだん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>年<rt>とし</rt></ruby>をとってきていること、<ruby>少<rt>すく</rt></ruby>なくなっていることが<ruby>問題<rt>もんだい</rt></ruby>になっています。",
+            "origin": "死にたいと考えている人の悩みを電話で聞くために、１９７１年に「いのちの電話」が始まりました。しかし、相談を聞く人が年をとってきていること、少なくなっていることが問題になっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>今<rt>いま</rt></ruby>、５０の<ruby>事務所<rt>じむしょ</rt></ruby>で、６０００<ruby>人<rt>にん</rt></ruby>ぐらいのボランティアが１<ruby>年<rt>ねん</rt></ruby>に６０<ruby>万<rt>まん</rt></ruby>ぐらいの<ruby>相談<rt>そうだん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いています。",
+            "origin": "今、５０の事務所で、６０００人ぐらいのボランティアが１年に６０万ぐらいの相談を聞いています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "しかし、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>もあって、１３の<ruby>事務所<rt>じむしょ</rt></ruby>がしばらく<ruby>休<rt>やす</rt></ruby>まなければなりませんでした。<ruby>今<rt>いま</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>事務所<rt>じむしょ</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いていますが、ウイルスを<ruby>心配<rt>しんぱい</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>がいて<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっているため、<ruby>相談<rt>そうだん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くことができないときもあります。<ruby>必要<rt>ひつよう</rt></ruby>なお<ruby>金<rt>かね</rt></ruby>が<ruby>足<rt>た</rt></ruby>りない<ruby>事務所<rt>じむしょ</rt></ruby>もあります。",
+            "origin": "しかし、新しいコロナウイルスの問題もあって、１３の事務所がしばらく休まなければなりませんでした。今は全部の事務所が開いていますが、ウイルスを心配する人がいて人が足りなくなっているため、相談を聞くことができないときもあります。必要なお金が足りない事務所もあります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>は「『いのちの<ruby>電話<rt>でんわ</rt></ruby>』は、<ruby>家族<rt>かぞく</rt></ruby>にも<ruby>相談<rt>そうだん</rt></ruby>できない<ruby>人<rt>ひと</rt></ruby>が<ruby>最後<rt>さいご</rt></ruby>に<ruby>助<rt>たす</rt></ruby>けてほしいと<ruby>言<rt>い</rt></ruby>うことができる<ruby>大切<rt>たいせつ</rt></ruby>なところです。<ruby>役所<rt>やくしょ</rt></ruby>がお<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すことや<ruby>専門家<rt>せんもんか</rt></ruby>の<ruby>協力<rt>きょうりょく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "専門家は「『いのちの電話』は、家族にも相談できない人が最後に助けてほしいと言うことができる大切なところです。役所がお金を出すことや専門家の協力が必要です」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012646781000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201003/../20201003/K10012646781_2010031718_2010031737_01_02.jpg",
+    "newsmovie": "k10012646781_202010031925_202010031929.mp4",
+    "path": "appdata/news/k10012646781000.json"
+}

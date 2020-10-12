@@ -1,0 +1,30 @@
+{
+    "id": "k10012650211000",
+    "title": "沖縄県の水族館　珍しいカニを生きたまま見ることができる",
+    "ruby": "<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>水族館<rt>すいぞくかん</rt></ruby>　<ruby>珍<rt>めずら</rt></ruby>しいカニを<ruby>生<rt>い</rt></ruby>きたまま<ruby>見<rt>み</rt></ruby>ることができる",
+    "time": "2020-10-07",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012650211000/k10012650211000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>沖縄県<rt>おきなわけん</rt></ruby>にある<ruby>沖縄<rt>おきなわ</rt></ruby><ruby>美<rt>ちゅ</rt></ruby>ら<ruby>海<rt>うみ</rt></ruby><ruby>水族館<rt>すいぞくかん</rt></ruby>には、<ruby>深<rt>ふか</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる「ミナミオーストンガニ」という<ruby>珍<rt>めずら</rt></ruby>しいカニがいます。<ruby>水族館<rt>すいぞくかん</rt></ruby>は、このカニを<ruby>生<rt>い</rt></ruby>きたまま<ruby>見<rt>み</rt></ruby>ることができるのは、<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてだと<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "沖縄県にある沖縄美ら海水族館には、深い海に住んでいる「ミナミオーストンガニ」という珍しいカニがいます。水族館は、このカニを生きたまま見ることができるのは、世界で初めてだと言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>今<rt>いま</rt></ruby>までに<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかったミナミオーストンガニは４<ruby>匹<rt>ひき</rt></ruby>だけです。<ruby>水族館<rt>すいぞくかん</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>、<ruby>漁師<rt>りょうし</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>久米島<rt>くめじま</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>さ６００ｍの<ruby>海<rt>うみ</rt></ruby>で、このカニをとりました。<ruby>甲羅<rt>こうら</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさは４ｃｍぐらいですが、<ruby>足<rt>あし</rt></ruby>は<ruby>伸<rt>の</rt></ruby>ばすと２５ｃｍになります。<ruby>足<rt>あし</rt></ruby>には、とげがたくさんあります。",
+            "origin": "今までに日本で見つかったミナミオーストンガニは４匹だけです。水族館は去年１２月、漁師と一緒に沖縄県の久米島の深さ６００ｍの海で、このカニをとりました。甲羅の大きさは４ｃｍぐらいですが、足は伸ばすと２５ｃｍになります。足には、とげがたくさんあります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>によると、このカニはおなかに<ruby>卵<rt>たまご</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていて、<ruby>１０日<rt>とおか</rt></ruby>で３０００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが<ruby>生<rt>う</rt></ruby>まれました。<ruby>水族館<rt>すいぞくかん</rt></ruby>は「このカニはまだ<ruby>卵<rt>たまご</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。<ruby>卵<rt>たまご</rt></ruby>から<ruby>子<rt>こ</rt></ruby>どもを<ruby>育<rt>そだ</rt></ruby>てるところも<ruby>見<rt>み</rt></ruby>てほしいです」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "水族館によると、このカニはおなかに卵を持っていて、１０日で３０００以上の子どもが生まれました。水族館は「このカニはまだ卵を持っています。卵から子どもを育てるところも見てほしいです」と話していました。"
+        }
+    ],
+    "voiceurl": "k10012650211000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201006/../20201006/K10012650211_2010061624_2010061639_01_02.jpg",
+    "newsmovie": "k10012650211_202010061659_202010061659.mp4",
+    "path": "appdata/news/k10012650211000.json"
+}

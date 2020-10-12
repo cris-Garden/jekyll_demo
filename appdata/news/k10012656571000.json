@@ -1,0 +1,35 @@
+{
+    "id": "k10012656571000",
+    "title": "今年は日本に来た外国人がとても少なくて６か月で３４４万人",
+    "ruby": "<ruby>今年<rt>ことし</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>がとても<ruby>少<rt>すく</rt></ruby>なくて６か<ruby>月<rt>げつ</rt></ruby>で３４４<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>",
+    "time": "2020-10-12",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012656571000/k10012656571000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国<rt>くに</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby>の１<ruby>月<rt>がつ</rt></ruby>から６<ruby>月<rt>がつ</rt></ruby>までに<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>は、<ruby>約<rt>やく</rt></ruby>３４４<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>でした。これは<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同<rt>おな</rt></ruby>じときの２３％で、とても<ruby>少<rt>すく</rt></ruby>なくなりました。",
+            "origin": "国によると、今年の１月から６月までに日本に来た外国人は、約３４４万人でした。これは去年の同じときの２３％で、とても少なくなりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>まで<ruby>毎年<rt>まいとし</rt></ruby><ruby>増<rt>ふ</rt></ruby>えていました。<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>より<ruby>減<rt>へ</rt></ruby>ったのは、<ruby>東日本<rt>ひがしにほん</rt></ruby><ruby>大震災<rt>だいしんさい</rt></ruby>という<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>があった２０１１<ruby>年<rt>ねん</rt></ruby>のあと<ruby>初<rt>はじ</rt></ruby>めてです。",
+            "origin": "日本に来る外国人は、去年まで毎年増えていました。前の年より減ったのは、東日本大震災という大きな地震があった２０１１年のあと初めてです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>大<rt>おお</rt></ruby>きく<ruby>減<rt>へ</rt></ruby>った<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がらないように、<ruby>外国人<rt>がいこくじん</rt></ruby>を<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>入<rt>い</rt></ruby>れないようにしたためです。<ruby>今年<rt>ことし</rt></ruby><ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>のほとんどは、まだ<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることができた１<ruby>月<rt>がつ</rt></ruby>と２<ruby>月<rt>がつ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>などです。",
+            "origin": "大きく減った理由は、新しいコロナウイルスが広がらないように、外国人を日本に入れないようにしたためです。今年来た外国人のほとんどは、まだ日本に入ることができた１月と２月に旅行に来た人などです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国<rt>くに</rt></ruby>は「<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることができるようになっていますが、<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>来<rt>く</rt></ruby>ることはまだできません。これからしばらく<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きく<ruby>増<rt>ふ</rt></ruby>えることはなさそうです」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "国は「少しずつ外国人が日本に入ることができるようになっていますが、旅行で来ることはまだできません。これからしばらく日本に来る外国人が大きく増えることはなさそうです」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012656571000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201009/../20201009/K10012656571_2010091846_2010091854_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012656571000.json"
+}

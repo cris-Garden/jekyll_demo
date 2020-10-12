@@ -1,0 +1,35 @@
+{
+    "id": "k10012652851000",
+    "title": "ＰＣＲ検査　仕事で外国に行く人はウェブサイトで予約できる",
+    "ruby": "ＰＣＲ<ruby>検査<rt>けんさ</rt></ruby>　<ruby>仕事<rt>しごと</rt></ruby>で<ruby>外国<rt>がいこく</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>はウェブサイトで<ruby>予約<rt>よやく</rt></ruby>できる",
+    "time": "2020-10-08",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012652851000/k10012652851000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>と<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>心配<rt>しんぱい</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなっている<ruby>国<rt>くに</rt></ruby>などの<ruby>間<rt>あいだ</rt></ruby>では、これから<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>行<rt>い</rt></ruby>ったり<ruby>来<rt>き</rt></ruby>たりできるようになりそうです。<ruby>外国<rt>がいこく</rt></ruby>に<ruby>行<rt>い</rt></ruby>くときは、コロナウイルスがうつっていないというＰＣＲ<ruby>検査<rt>けんさ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になることが<ruby>増<rt>ふ</rt></ruby>えると<ruby>考<rt>かんが</rt></ruby>えられています。",
+            "origin": "日本と新しいコロナウイルスの心配が少なくなっている国などの間では、これから少しずつ行ったり来たりできるようになりそうです。外国に行くときは、コロナウイルスがうつっていないというＰＣＲ検査の結果が必要になることが増えると考えられています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "このため、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>政府<rt>せいふ</rt></ruby>は<ruby>８日<rt>ようか</rt></ruby>から、<ruby>仕事<rt>しごと</rt></ruby>で<ruby>外国<rt>がいこく</rt></ruby>に<ruby>行<rt>い</rt></ruby>くときは、ウェブサイトでＰＣＲ<ruby>検査<rt>けんさ</rt></ruby>の<ruby>予約<rt>よやく</rt></ruby>ができるようにしました。すぐ<ruby>検査<rt>けんさ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることができるようにするためです。",
+            "origin": "このため、日本の政府は８日から、仕事で外国に行くときは、ウェブサイトでＰＣＲ検査の予約ができるようにしました。すぐ検査を受けることができるようにするためです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "このウェブサイトには、<ruby>検査<rt>けんさ</rt></ruby>ができる<ruby>約<rt>やく</rt></ruby>３００の<ruby>病院<rt>びょういん</rt></ruby>などが<ruby>出<rt>で</rt></ruby>ています。<ruby>検査<rt>けんさ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けたい<ruby>人<rt>ひと</rt></ruby>は、<ruby>予約<rt>よやく</rt></ruby>できる<ruby>時間<rt>じかん</rt></ruby>や<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>病院<rt>びょういん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶことができます。",
+            "origin": "このウェブサイトには、検査ができる約３００の病院などが出ています。検査を受けたい人は、予約できる時間や料金を見て、病院を選ぶことができます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>検査<rt>けんさ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>の<ruby>書類<rt>しょるい</rt></ruby>をもらいに<ruby>行<rt>い</rt></ruby>かなくても、スマートフォンでもらうことができるようにすることも<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "政府は、病院へ検査の結果の書類をもらいに行かなくても、スマートフォンでもらうことができるようにすることも考えています。"
+        }
+    ],
+    "voiceurl": "k10012652851000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201008/../20201008/K10012652851_2010072025_2010080604_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012652851000.json"
+}

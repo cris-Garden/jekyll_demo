@@ -1,0 +1,40 @@
+{
+    "id": "k10012656901000",
+    "title": "ウイルスを心配して学校を休んでいる子どもは７００人以上",
+    "ruby": "ウイルスを<ruby>心配<rt>しんぱい</rt></ruby>して<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んでいる<ruby>子<rt>こ</rt></ruby>どもは７００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>",
+    "time": "2020-10-12",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012656901000/k10012656901000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつることを<ruby>心配<rt>しんぱい</rt></ruby>して、<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んでいる<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>大勢<rt>おおぜい</rt></ruby>います。",
+            "origin": "新しいコロナウイルスがうつることを心配して、学校を休んでいる子どもたちが大勢います。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ＮＨＫは、<ruby>大<rt>おお</rt></ruby>きな<ruby>市<rt>し</rt></ruby>や<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>区<rt>く</rt></ruby>を<ruby>調査<rt>ちょうさ</rt></ruby>しました。１６の<ruby>役所<rt>やくしょ</rt></ruby>では、<ruby>夏休<rt>なつやす</rt></ruby>みが<ruby>終<rt>お</rt></ruby>わってから１０<ruby>月<rt>がつ</rt></ruby>の<ruby>初<rt>はじ</rt></ruby>めまでに、<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>約<rt>やく</rt></ruby>７３０<ruby>人<rt>にん</rt></ruby>の<ruby>小学生<rt>しょうがくせい</rt></ruby>と<ruby>中学生<rt>ちゅうがくせい</rt></ruby>が<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んでいることがわかりました。",
+            "origin": "ＮＨＫは、大きな市や東京都の区を調査しました。１６の役所では、夏休みが終わってから１０月の初めまでに、全部で約７３０人の小学生と中学生が学校を休んでいることがわかりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>自分<rt>じぶん</rt></ruby>や<ruby>家族<rt>かぞく</rt></ruby>にぜんそくなどの<ruby>病気<rt>びょうき</rt></ruby>がある<ruby>子<rt>こ</rt></ruby>どもが、ウイルスがうつることを<ruby>心配<rt>しんぱい</rt></ruby>して<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んでいました。４か<ruby>月<rt>げつ</rt></ruby>ぐらい<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>っていない<ruby>子<rt>こ</rt></ruby>どももいました。",
+            "origin": "自分や家族にぜんそくなどの病気がある子どもが、ウイルスがうつることを心配して学校を休んでいました。４か月ぐらい学校に行っていない子どももいました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "このような<ruby>子<rt>こ</rt></ruby>どもたちは、<ruby>宿題<rt>しゅくだい</rt></ruby>やビデオで<ruby>勉強<rt>べんきょう</rt></ruby>したり、オンラインで<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けたりしていました。<ruby>先生<rt>せんせい</rt></ruby>が<ruby>家<rt>いえ</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったり、ほかの<ruby>子<rt>こ</rt></ruby>どもが<ruby>帰<rt>かえ</rt></ruby>ったあと<ruby>学校<rt>がっこう</rt></ruby>で<ruby>授業<rt>じゅぎょう</rt></ruby>をしたりしている<ruby>場合<rt>ばあい</rt></ruby>もありました。",
+            "origin": "このような子どもたちは、宿題やビデオで勉強したり、オンラインで授業を受けたりしていました。先生が家に行ったり、ほかの子どもが帰ったあと学校で授業をしたりしている場合もありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んでいる<ruby>子<rt>こ</rt></ruby>どもはもっといると<ruby>思<rt>おも</rt></ruby>います。もっと<ruby>詳<rt>くわ</rt></ruby>しい <ruby>調査<rt>ちょうさ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "専門家は「学校を休んでいる子どもはもっといると思います。もっと詳しい 調査が必要です」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012656901000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201009/../20201009/K10012656901_2010092246_2010092259_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012656901000.json"
+}

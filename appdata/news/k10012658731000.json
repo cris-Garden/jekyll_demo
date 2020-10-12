@@ -1,0 +1,35 @@
+{
+    "id": "k10012658731000",
+    "title": "コロナウイルス　映像を使って人が集まらないようにする",
+    "ruby": "コロナウイルス　<ruby>映像<rt>えいぞう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まらないようにする",
+    "time": "2020-10-12",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012658731000/k10012658731000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつらないように、<ruby>映像<rt>えいぞう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まらないようにする<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を、いろいろな<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "新しいコロナウイルスがうつらないように、映像を使って人が集まらないようにする新しい技術を、いろいろな会社が考えています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日立製作所<rt>ひたちせいさくしょ</rt></ruby>は、<ruby>人<rt>ひと</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りに<ruby>直径<rt>ちょっけい</rt></ruby>２ｍの<ruby>円<rt>えん</rt></ruby>を、<ruby>床<rt>ゆか</rt></ruby>に<ruby>映<rt>うつ</rt></ruby>すシステムを<ruby>考<rt>かんが</rt></ruby>えました。<ruby>円<rt>えん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には<ruby>魚<rt>さかな</rt></ruby>が<ruby>泳<rt>およ</rt></ruby>いでいます。ほかの<ruby>人<rt>ひと</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>く</rt></ruby>ると、<ruby>魚<rt>さかな</rt></ruby>が<ruby>円<rt>えん</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>逃<rt>に</rt></ruby>げて、「<ruby>気<rt>き</rt></ruby>をつけて」と<ruby>知<rt>し</rt></ruby>らせます。",
+            "origin": "日立製作所は、人の周りに直径２ｍの円を、床に映すシステムを考えました。円の中には魚が泳いでいます。ほかの人が近くに来ると、魚が円の外に逃げて、「気をつけて」と知らせます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>三菱電機<rt>みつびしでんき</rt></ruby>は、<ruby>床<rt>ゆか</rt></ruby>にアニメーションを<ruby>映<rt>うつ</rt></ruby>して、<ruby>人<rt>ひと</rt></ruby>と<ruby>人<rt>ひと</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>くしてエレベーターに<ruby>乗<rt>の</rt></ruby>ることなどを<ruby>知<rt>し</rt></ruby>らせるシステムを<ruby>考<rt>かんが</rt></ruby>えました。",
+            "origin": "三菱電機は、床にアニメーションを映して、人と人の間を広くしてエレベーターに乗ることなどを知らせるシステムを考えました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>映像<rt>えいぞう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うと、<ruby>子<rt>こ</rt></ruby>どもや<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むことができない<ruby>外国人<rt>がいこくじん</rt></ruby>にもわかりやすくなります。",
+            "origin": "映像を使うと、子どもや日本語を読むことができない外国人にもわかりやすくなります。"
+        }
+    ],
+    "voiceurl": "k10012658731000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201011/../20201011/K10012658731_2010111728_2010111756_01_03.jpg",
+    "newsmovie": "k10012658731_202010111743_202010111743.mp4",
+    "path": "appdata/news/k10012658731000.json"
+}

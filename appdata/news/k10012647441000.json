@@ -1,0 +1,35 @@
+{
+    "id": "k10012647441000",
+    "title": "自動で走るロボットが事故を起こしたときの保険を作る",
+    "ruby": "<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>るロボットが<ruby>事故<rt>じこ</rt></ruby>を<ruby>起<rt>お</rt></ruby>こしたときの<ruby>保険<rt>ほけん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る",
+    "time": "2020-10-05",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012647441000/k10012647441000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつらないように、<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>るロボットが<ruby>物<rt>もの</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>んだり、<ruby>消毒<rt>しょうどく</rt></ruby>したりするテストをいろいろな<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>っています。",
+            "origin": "新しいコロナウイルスがうつらないように、自動で走るロボットが物を運んだり、消毒したりするテストをいろいろな場所で行っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "このようなロボットが<ruby>事故<rt>じこ</rt></ruby>を<ruby>起<rt>お</rt></ruby>こしたときの<ruby>保険<rt>ほけん</rt></ruby>がないため、<ruby>損保<rt>そんぽ</rt></ruby>ジャパンが<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>保険<rt>ほけん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。",
+            "origin": "このようなロボットが事故を起こしたときの保険がないため、損保ジャパンが特別な保険を作りました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ロボットのテストをしている<ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>大学<rt>だいがく</rt></ruby>、<ruby>研究所<rt>けんきゅうじょ</rt></ruby>にこの<ruby>保険<rt>ほけん</rt></ruby>を<ruby>売<rt>う</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。ロボットがぶつかって<ruby>人<rt>ひと</rt></ruby>がけがをしたり、ロボットが<ruby>運<rt>はこ</rt></ruby>んでいる<ruby>物<rt>もの</rt></ruby>を<ruby>壊<rt>こわ</rt></ruby>したりしたときに、<ruby>保険<rt>ほけん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>します。",
+            "origin": "ロボットのテストをしている会社や大学、研究所にこの保険を売る予定です。ロボットがぶつかって人がけがをしたり、ロボットが運んでいる物を壊したりしたときに、保険のお金を出します。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>保険<rt>ほけん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「コロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>がある<ruby>今<rt>いま</rt></ruby>は、<ruby>人<rt>ひと</rt></ruby>が<ruby>動<rt>うご</rt></ruby>くのではなくて、<ruby>物<rt>もの</rt></ruby>が<ruby>動<rt>うご</rt></ruby>くことが<ruby>必要<rt>ひつよう</rt></ruby>になっています。<ruby>新<rt>あたら</rt></ruby>しい<ruby>保険<rt>ほけん</rt></ruby>が、<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>るロボットを<ruby>使<rt>つか</rt></ruby>うことに<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つようにしたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "保険の会社の人は「コロナウイルスの問題がある今は、人が動くのではなくて、物が動くことが必要になっています。新しい保険が、自動で走るロボットを使うことに役に立つようにしたいと思います」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012647441000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201004/../20201004/K10012647441_2010041100_2010041108_01_02.jpg",
+    "newsmovie": "k10012647441_202010041213_202010041426.mp4",
+    "path": "appdata/news/k10012647441000.json"
+}
