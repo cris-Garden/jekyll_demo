@@ -2,6 +2,6 @@
     "andriod":"1.4.1",
     "iOS":"1.8.0",
     "needForceUpdate":false,
-    "needShow":true,
+    "needShow":false,
     "time":""
 }
