@@ -1,0 +1,35 @@
+{
+    "id": "k10012739151000",
+    "title": "国に帰ることができない外国人はアルバイトをしてもいい",
+    "ruby": "<ruby>国<rt>くに</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ることができない<ruby>外国人<rt>がいこくじん</rt></ruby>はアルバイトをしてもいい",
+    "time": "2020-12-01",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012739151000/k10012739151000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>国<rt>くに</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ることができない<ruby>人<rt>ひと</rt></ruby>がいます。<ruby>自分<rt>じぶん</rt></ruby>の<ruby>国<rt>くに</rt></ruby>で<ruby>外国<rt>がいこく</rt></ruby>から<ruby>帰<rt>かえ</rt></ruby>るときの<ruby>決<rt>き</rt></ruby>まりが<ruby>厳<rt>きび</rt></ruby>しくなったり、<ruby>国<rt>くに</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>る<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなったりしているためです。",
+            "origin": "日本に来た外国人の中には、新しいコロナウイルスの問題で、自分の国に帰ることができない人がいます。自分の国で外国から帰るときの決まりが厳しくなったり、国に帰る飛行機が少なくなったりしているためです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国<rt>くに</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ることができない<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>がいます。",
+            "origin": "国に帰ることができない外国人の中には、生活に困っている人がいます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "このため<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>政府<rt>せいふ</rt></ruby>は１２<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から、このような<ruby>外国人<rt>がいこくじん</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>資格<rt>しかく</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていなくてもアルバイトをしてもいいことにしました。",
+            "origin": "このため日本の政府は１２月１日から、このような外国人は、日本で仕事をする資格を持っていなくてもアルバイトをしてもいいことにしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "アルバイトをしたい<ruby>人<rt>ひと</rt></ruby>は、<ruby>出入国在留管理局<rt>しゅつにゅうこくざいりゅうかんりきょく</rt></ruby>などに<ruby>書類<rt>しょるい</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す<ruby>必要<rt>ひつよう</rt></ruby>があります。アルバイトができるのは、<ruby>観光<rt>かんこう</rt></ruby>や<ruby>仕事<rt>しごと</rt></ruby>のために<ruby>短<rt>みじか</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby>だけ<ruby>日本<rt>にっぽん</rt></ruby>にいる<ruby>人<rt>ひと</rt></ruby>や、<ruby>働<rt>はたら</rt></ruby>きながら<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>習<rt>なら</rt></ruby>う<ruby>技能実習生<rt>ぎのうじっしゅうせい</rt></ruby>など、２<ruby>万<rt>まん</rt></ruby>１０００<ruby>人<rt>にん</rt></ruby>ぐらいです。",
+            "origin": "アルバイトをしたい人は、出入国在留管理局などに書類を出す必要があります。アルバイトができるのは、観光や仕事のために短い間だけ日本にいる人や、働きながら技術を習う技能実習生など、２万１０００人ぐらいです。"
+        }
+    ],
+    "voiceurl": "k10012739151000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201201/../20201201/K10012739151_2011302050_2012010543_01_03.jpg",
+    "newsmovie": "k10012739151_202012010538_202012010541.mp4",
+    "path": "appdata/news/k10012739151000.json"
+}

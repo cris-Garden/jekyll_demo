@@ -1,0 +1,40 @@
+{
+    "id": "k10012670771000",
+    "title": "家の前に大きな穴があく　トンネルの工事との関係を調べる",
+    "ruby": "<ruby>家<rt>いえ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>穴<rt>あな</rt></ruby>があく　トンネルの<ruby>工事<rt>こうじ</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる",
+    "time": "2020-10-20",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012670771000/k10012670771000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>調布市<rt>ちょうふし</rt></ruby>で１８<ruby>日<rt>にち</rt></ruby>、<ruby>家<rt>いえ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>道路<rt>どうろ</rt></ruby>に<ruby>横<rt>よこ</rt></ruby>５ｍ、<ruby>縦<rt>たて</rt></ruby>２ｍの<ruby>穴<rt>あな</rt></ruby>があきました。<ruby>穴<rt>あな</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>さは５ｍぐらいありました。",
+            "origin": "東京都調布市で１８日、家の前の道路に横５ｍ、縦２ｍの穴があきました。穴の深さは５ｍぐらいありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "この<ruby>場所<rt>ばしょ</rt></ruby>の４０ｍ<ruby>以上<rt>いじょう</rt></ruby><ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>では、<ruby>東日本高速道路<rt>ひがしにほんこうそくどうろ</rt></ruby>という<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>道路<rt>どうろ</rt></ruby>のトンネルをつくる<ruby>工事<rt>こうじ</rt></ruby>をしていました。<ruby>直径<rt>ちょっけい</rt></ruby>１６mぐらいの<ruby>大<rt>おお</rt></ruby>きな<ruby>機械<rt>きかい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってトンネルを<ruby>掘<rt>ほ</rt></ruby>っていました。",
+            "origin": "この場所の４０ｍ以上深い所では、東日本高速道路という会社が道路のトンネルをつくる工事をしていました。直径１６mぐらいの大きな機械を使ってトンネルを掘っていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>は、この<ruby>工事<rt>こうじ</rt></ruby>が、<ruby>道路<rt>どうろ</rt></ruby>に<ruby>穴<rt>あな</rt></ruby>があいたことと<ruby>関係<rt>かんけい</rt></ruby>があるかどうか<ruby>調<rt>しら</rt></ruby>べています。",
+            "origin": "会社は、この工事が、道路に穴があいたことと関係があるかどうか調べています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>地下<rt>ちか</rt></ruby>４０ｍ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>でトンネルを<ruby>掘<rt>ほ</rt></ruby>ったりする<ruby>場合<rt>ばあい</rt></ruby>、<ruby>法律<rt>ほうりつ</rt></ruby>では<ruby>普通<rt>ふつう</rt></ruby>、<ruby>上<rt>うえ</rt></ruby>にある<ruby>土地<rt>とち</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>の<ruby>許可<rt>きょか</rt></ruby>がなくてもいいことになっています。このため、<ruby>深<rt>ふか</rt></ruby>い<ruby>地下<rt>ちか</rt></ruby>の<ruby>利用<rt>りよう</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んでいます。<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>名古屋<rt>なごや</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る「リニア<ruby>中央新幹線<rt>ちゅうおうしんかんせん</rt></ruby>」の<ruby>計画<rt>けいかく</rt></ruby>でも、<ruby>地下<rt>ちか</rt></ruby>４０ｍ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>所<rt>ところ</rt></ruby>にトンネルをつくります。",
+            "origin": "地下４０ｍ以上の深い所でトンネルを掘ったりする場合、法律では普通、上にある土地を持っている人の許可がなくてもいいことになっています。このため、深い地下の利用が進んでいます。東京と名古屋の間を走る「リニア中央新幹線」の計画でも、地下４０ｍ以上の所にトンネルをつくります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>道路<rt>どうろ</rt></ruby>に<ruby>穴<rt>あな</rt></ruby>があいた<ruby>原因<rt>げんいん</rt></ruby>が<ruby>地下<rt>ちか</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>の<ruby>工事<rt>こうじ</rt></ruby>だったら、<ruby>初<rt>はじ</rt></ruby>めてのことです。しっかり<ruby>調<rt>しら</rt></ruby>べなければなりません」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "専門家は「道路に穴があいた原因が地下の深い所の工事だったら、初めてのことです。しっかり調べなければなりません」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012670771000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201019/../20201019/K10012670771_2010191950_2010192128_01_03.jpg",
+    "newsmovie": "k10012670771_202010191950_202010192128.mp4",
+    "path": "appdata/news/k10012670771000.json"
+}

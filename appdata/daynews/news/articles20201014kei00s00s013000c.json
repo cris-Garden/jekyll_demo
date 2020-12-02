@@ -1,0 +1,85 @@
+{
+    "id": "articles20201014kei00s00s013000c",
+    "title": "ディープフェイクって何？",
+    "ruby": "",
+    "time": "2020年10月14日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/10/14/20201014kei00s00s023000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20201014/kei/00s/00s/013000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "＜ヒヨコの<ruby>質問<rt>しつもん</rt></ruby>に<ruby>記者<rt>きしゃ</rt></ruby>が<ruby>答<rt>こた</rt></ruby>える＞",
+            "origin": "＜ヒヨコの質問に記者が答える＞"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>質問<rt>しつもん</rt></ruby>",
+            "origin": "質問"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ディープフェイクって<ruby>何<rt>なに</rt></ruby>？",
+            "origin": "ディープフェイクって何？"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>答<rt>こた</rt></ruby>え",
+            "origin": "答え"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ＡＩを<ruby>使<rt>つか</rt></ruby>った<ruby>本人<rt>ほんにん</rt></ruby>そっくりの<ruby>動画<rt>どうが</rt></ruby>です。",
+            "origin": "ＡＩを使った本人そっくりの動画です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>発言<rt>はつげん</rt></ruby>もにせもの。<ruby>各国<rt>かっこく</rt></ruby>で<ruby>混乱<rt>こんらん</rt></ruby>しています",
+            "origin": "発言もにせもの。各国で混乱しています"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ヒヨコさん<ruby>最近<rt>さいきん</rt></ruby>、「ディープフェイク」という<ruby>言葉<rt>ことば</rt></ruby>をよく<ruby>聞<rt>き</rt></ruby>くけど、どういう<ruby>意味<rt>いみ</rt></ruby>なの？",
+            "origin": "ヒヨコさん最近、「ディープフェイク」という言葉をよく聞くけど、どういう意味なの？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>記者<rt>きしゃ</rt></ruby><ruby>人工知能<rt>じんこうちのう</rt></ruby>（ＡＩ）の<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<ruby>人<rt>ひと</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>の<ruby>映像<rt>えいぞう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れ<ruby>替<rt>か</rt></ruby>えるなどして<ruby>作<rt>つく</rt></ruby>る<ruby>本人<rt>ほんにん</rt></ruby>そっくりのにせ<ruby>動画<rt>どうが</rt></ruby>のことです。<ruby>名前<rt>なまえ</rt></ruby>は、ＡＩがもつ<ruby>機能<rt>きのう</rt></ruby>「ディープラーニング（<ruby>深層<rt>しんそう</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby>）」と、「にせもの」を<ruby>意味<rt>いみ</rt></ruby>する「フェイク」から<ruby>作<rt>つく</rt></ruby>られました。<ruby>深層<rt>しんそう</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby>とは、たくさんの<ruby>人<rt>ひと</rt></ruby>の<ruby>画像<rt>がぞう</rt></ruby>を<ruby>見<rt>み</rt></ruby>せられたコンピューターが、その<ruby>画像<rt>がぞう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から<ruby>共通<rt>きょうつう</rt></ruby>する<ruby>特徴<rt>とくちょう</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>見<rt>み</rt></ruby>つける<ruby>機能<rt>きのう</rt></ruby>です。そのため、<ruby>使<rt>つか</rt></ruby>いたい<ruby>顔<rt>かお</rt></ruby>のさまざまな<ruby>映像<rt>えいぞう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>ませて<ruby>特徴<rt>とくちょう</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えさせることで、<ruby>顔<rt>かお</rt></ruby>を<ruby>入<rt>い</rt></ruby>れ<ruby>替<rt>か</rt></ruby>えても<ruby>自然<rt>しぜん</rt></ruby>な<ruby>動<rt>うご</rt></ruby>きに<ruby>見<rt>み</rt></ruby>えるようにすることができます。",
+            "origin": "記者人工知能（ＡＩ）の技術を使って、人の顔の映像を入れ替えるなどして作る本人そっくりのにせ動画のことです。名前は、ＡＩがもつ機能「ディープラーニング（深層学習）」と、「にせもの」を意味する「フェイク」から作られました。深層学習とは、たくさんの人の画像を見せられたコンピューターが、その画像の中から共通する特徴を自分で見つける機能です。そのため、使いたい顔のさまざまな映像を読み込ませて特徴を覚えさせることで、顔を入れ替えても自然な動きに見えるようにすることができます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ヒヨコさんディープフェイクは<ruby>誰<rt>だれ</rt></ruby>でも<ruby>作<rt>つく</rt></ruby>れるの？",
+            "origin": "ヒヨコさんディープフェイクは誰でも作れるの？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>記者<rt>きしゃ</rt></ruby>はい。ヨーロッパやアメリカの<ruby>会社<rt>かいしゃ</rt></ruby>などがソフトを<ruby>開発<rt>かいはつ</rt></ruby>し、<ruby>一部<rt>いちぶ</rt></ruby>はインターネットからも<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>い</rt></ruby>れることができます。また、スマートフォン<ruby>向<rt>む</rt></ruby>けの<ruby>無料<rt>むりょう</rt></ruby>の<ruby>顔<rt>かお</rt></ruby><ruby>交換<rt>こうかん</rt></ruby>アプリも<ruby>登場<rt>とうじょう</rt></ruby>し、<ruby>遊<rt>あそ</rt></ruby>び<ruby>目的<rt>もくてき</rt></ruby>で<ruby>作<rt>つく</rt></ruby>られる<ruby>場合<rt>ばあい</rt></ruby>もあります。ただ、にせものと<ruby>分<rt>わ</rt></ruby>からないほどうまくつくるには、<ruby>肌<rt>はだ</rt></ruby>の<ruby>色合<rt>いろあ</rt></ruby>いなどの<ruby>調整<rt>ちょうせい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+            "origin": "記者はい。ヨーロッパやアメリカの会社などがソフトを開発し、一部はインターネットからも手に入れることができます。また、スマートフォン向けの無料の顔交換アプリも登場し、遊び目的で作られる場合もあります。ただ、にせものと分からないほどうまくつくるには、肌の色合いなどの調整が必要です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ヒヨコさんいろいろな<ruby>動画<rt>どうが</rt></ruby>が<ruby>作<rt>つく</rt></ruby>れそうだけど、よくないニュースもあるね。",
+            "origin": "ヒヨコさんいろいろな動画が作れそうだけど、よくないニュースもあるね。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>記者<rt>きしゃ</rt></ruby><ruby>女性<rt>じょせい</rt></ruby><ruby>有名人<rt>ゆうめいじん</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>に<ruby>入<rt>い</rt></ruby>れ<ruby>替<rt>か</rt></ruby>えた<ruby>裸<rt>はだか</rt></ruby>の<ruby>動画<rt>どうが</rt></ruby>がソーシャル・ネットワーキング・サービス（ＳＮＳ）に<ruby>投稿<rt>とうこう</rt></ruby>されて、<ruby>名誉<rt>めいよ</rt></ruby>を<ruby>傷付<rt>きずつ</rt></ruby>けられるという<ruby>被害<rt>ひがい</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>で<ruby>起<rt>お</rt></ruby>きています。<ruby>今月<rt>こんげつ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>でも<ruby>初<rt>はじ</rt></ruby>めて<ruby>警視庁<rt>けいしちょう</rt></ruby>などが、<ruby>同<rt>おな</rt></ruby>じようににせの<ruby>動画<rt>どうが</rt></ruby>を<ruby>投稿<rt>とうこう</rt></ruby>した<ruby>男<rt>おとこ</rt></ruby>を<ruby>逮捕<rt>たいほ</rt></ruby>する<ruby>事件<rt>じけん</rt></ruby>がありました。また<ruby>最近<rt>さいきん</rt></ruby>は、<ruby>実際<rt>じっさい</rt></ruby>にはなかった<ruby>政治家<rt>せいじか</rt></ruby>の<ruby>発言<rt>はつげん</rt></ruby>や<ruby>行動<rt>こうどう</rt></ruby>があったかのように<ruby>動画<rt>どうが</rt></ruby>が<ruby>作<rt>つく</rt></ruby>られて<ruby>混乱<rt>こんらん</rt></ruby>した<ruby>例<rt>れい</rt></ruby>が<ruby>世界各国<rt>せかいかっこく</rt></ruby>であります。<ruby>大統領選挙<rt>だいとうりょうせんきょ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>いアメリカでは、<ruby>候補者<rt>こうほしゃ</rt></ruby>のディープフェイクが<ruby>広<rt>ひろ</rt></ruby>がって<ruby>投票結果<rt>とうひょうけっか</rt></ruby>を<ruby>左右<rt>さゆう</rt></ruby>するのではないかと<ruby>警戒<rt>けいかい</rt></ruby>されています。",
+            "origin": "記者女性有名人の顔に入れ替えた裸の動画がソーシャル・ネットワーキング・サービス（ＳＮＳ）に投稿されて、名誉を傷付けられるという被害が世界で起きています。今月、日本でも初めて警視庁などが、同じようににせの動画を投稿した男を逮捕する事件がありました。また最近は、実際にはなかった政治家の発言や行動があったかのように動画が作られて混乱した例が世界各国であります。大統領選挙の近いアメリカでは、候補者のディープフェイクが広がって投票結果を左右するのではないかと警戒されています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ヒヨコさん<ruby>動画<rt>どうが</rt></ruby>も<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>信<rt>しん</rt></ruby>じてはいけないね。",
+            "origin": "ヒヨコさん動画も簡単に信じてはいけないね。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>記者<rt>きしゃ</rt></ruby>ディープフェイクの<ruby>存在<rt>そんざい</rt></ruby>を<ruby>悪用<rt>あくよう</rt></ruby>して、<ruby>自分<rt>じぶん</rt></ruby>に<ruby>都合<rt>つごう</rt></ruby>の<ruby>悪<rt>わる</rt></ruby>い<ruby>動画<rt>どうが</rt></ruby>を、にせ<ruby>動画<rt>どうが</rt></ruby>だと<ruby>主張<rt>しゅちょう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>も<ruby>現<rt>あらわ</rt></ruby>れるかもしれません。<ruby>何<rt>なに</rt></ruby>が<ruby>真実<rt>しんじつ</rt></ruby>か<ruby>分<rt>わ</rt></ruby>からなくなってしまうのが、この<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>怖<rt>こわ</rt></ruby>いところです。",
+            "origin": "記者ディープフェイクの存在を悪用して、自分に都合の悪い動画を、にせ動画だと主張する人も現れるかもしれません。何が真実か分からなくなってしまうのが、この技術の怖いところです。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/10/14/20201014kei00s00s023000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201014kei00s00s013000c.json"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "k10012681871000",
+    "title": "「エスカレーターは歩かないで止まって乗りましょう」",
+    "ruby": "「エスカレーターは<ruby>歩<rt>ある</rt></ruby>かないで<ruby>止<rt>と</rt></ruby>まって<ruby>乗<rt>の</rt></ruby>りましょう」",
+    "time": "2020-10-27",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012681871000/k10012681871000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "エスカレーターで<ruby>歩<rt>ある</rt></ruby>いていた<ruby>人<rt>ひと</rt></ruby>が<ruby>転<rt>ころ</rt></ruby>んだりつまずいたりする<ruby>事故<rt>じこ</rt></ruby>が、<ruby>去年<rt>きょねん</rt></ruby>までの２<ruby>年<rt>ねん</rt></ruby>に８０５<ruby>件<rt>けん</rt></ruby>ありました。",
+            "origin": "エスカレーターで歩いていた人が転んだりつまずいたりする事故が、去年までの２年に８０５件ありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>鉄道<rt>てつどう</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>などは２６<ruby>日<rt>にち</rt></ruby>から、エスカレーターは<ruby>歩<rt>ある</rt></ruby>かないで<ruby>止<rt>と</rt></ruby>まって<ruby>乗<rt>の</rt></ruby>るのが<ruby>正<rt>ただ</rt></ruby>しいことを<ruby>伝<rt>つた</rt></ruby>えるキャンペーンを<ruby>始<rt>はじ</rt></ruby>めました。",
+            "origin": "鉄道会社などは２６日から、エスカレーターは歩かないで止まって乗るのが正しいことを伝えるキャンペーンを始めました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ＪＲ<ruby>東京<rt>とうきょう</rt></ruby><ruby>駅<rt>えき</rt></ruby>は、エスカレーターに<ruby>乗<rt>の</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>からよく<ruby>見<rt>み</rt></ruby>える<ruby>所<rt>ところ</rt></ruby>に、<ruby>大<rt>おお</rt></ruby>きな<ruby>字<rt>じ</rt></ruby>で「<ruby>止<rt>と</rt></ruby>まろう」と<ruby>書<rt>か</rt></ruby>いたポスターを<ruby>貼<rt>は</rt></ruby>りました。ポスターには、つえを<ruby>持<rt>も</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>や<ruby>子<rt>こ</rt></ruby>どもと<ruby>手<rt>て</rt></ruby>をつないだ<ruby>人<rt>ひと</rt></ruby>が<ruby>止<rt>と</rt></ruby>まってエスカレーターに<ruby>乗<rt>の</rt></ruby>っている<ruby>絵<rt>え</rt></ruby>もあります。",
+            "origin": "ＪＲ東京駅は、エスカレーターに乗る人からよく見える所に、大きな字で「止まろう」と書いたポスターを貼りました。ポスターには、つえを持った人や子どもと手をつないだ人が止まってエスカレーターに乗っている絵もあります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "８０<ruby>歳<rt>さい</rt></ruby>ぐらいの<ruby>母親<rt>ははおや</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>している<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>急<rt>いそ</rt></ruby>いで<ruby>歩<rt>ある</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>がいるので、<ruby>母<rt>はは</rt></ruby>が<ruby>心配<rt>しんぱい</rt></ruby>です。みんなに<ruby>正<rt>ただ</rt></ruby>しく<ruby>乗<rt>の</rt></ruby>ってほしいです」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "８０歳ぐらいの母親と旅行している女性は「急いで歩く人がいるので、母が心配です。みんなに正しく乗ってほしいです」と話していました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「みんなの<ruby>安全<rt>あんぜん</rt></ruby>のために<ruby>協力<rt>きょうりょく</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "ＪＲ東日本の人は「みんなの安全のために協力をお願いします」と話していました。"
+        }
+    ],
+    "voiceurl": "k10012681871000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201026/../20201026/K10012681871_2010261745_2010261754_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012681871000.json"
+}

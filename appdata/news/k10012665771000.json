@@ -1,0 +1,35 @@
+{
+    "id": "k10012665771000",
+    "title": "東京都　ウイルスがうつった人が多いままで今も増えている",
+    "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>　ウイルスがうつった<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いままで<ruby>今<rt>いま</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えている",
+    "time": "2020-10-16",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012665771000/k10012665771000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>では１５<ruby>日<rt>にち</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつったことがわかった<ruby>人<rt>ひと</rt></ruby>が２８４<ruby>人<rt>にん</rt></ruby>いました。２８０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になるのは、２か<ruby>月<rt>げつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>の８<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>のあとでは<ruby>初<rt>はじ</rt></ruby>めてです。",
+            "origin": "東京都では１５日、新しいコロナウイルスがうつったことがわかった人が２８４人いました。２８０人以上になるのは、２か月前の８月２０日のあとでは初めてです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ウイルスがうつった<ruby>人<rt>ひと</rt></ruby>は、<ruby>大学<rt>だいがく</rt></ruby>の<ruby>運動<rt>うんどう</rt></ruby><ruby>部<rt>ぶ</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しく１４<ruby>人<rt>にん</rt></ruby>、お<ruby>年寄<rt>としよ</rt></ruby>りが<ruby>集<rt>あつ</rt></ruby>まる<ruby>施設<rt>しせつ</rt></ruby>で１１<ruby>人<rt>にん</rt></ruby>いました。<ruby>東京都<rt>とうきょうと</rt></ruby>は、うつった<ruby>人<rt>ひと</rt></ruby>がたくさんいる<ruby>所<rt>ところ</rt></ruby>でウイルスが<ruby>広<rt>ひろ</rt></ruby>がっているため、<ruby>数<rt>かず</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "ウイルスがうつった人は、大学の運動部で新しく１４人、お年寄りが集まる施設で１１人いました。東京都は、うつった人がたくさんいる所でウイルスが広がっているため、数が増えたと考えています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ウイルスがうつった<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は<ruby>増<rt>ふ</rt></ruby>えていて、１<ruby>週間<rt>しゅうかん</rt></ruby>の<ruby>平均<rt>へいきん</rt></ruby>で<ruby>７日<rt>なのか</rt></ruby>は１６１.6<ruby>人<rt>にん</rt></ruby>でしたが、１５<ruby>日<rt>にち</rt></ruby>は１８６.１<ruby>人<rt>にん</rt></ruby>になりました。<ruby>病気<rt>びょうき</rt></ruby>がひどくなった<ruby>人<rt>ひと</rt></ruby>は２５<ruby>人<rt>にん</rt></ruby>で、１<ruby>週間<rt>しゅうかん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わっていません。",
+            "origin": "ウイルスがうつった人の数は増えていて、１週間の平均で７日は１６１.6人でしたが、１５日は１８６.１人になりました。病気がひどくなった人は２５人で、１週間で大きく変わっていません。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>は、マスクをすること、<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>うこと、うがいをすること、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まらないようにすることをしっかり<ruby>行<rt>おこな</rt></ruby>ってほしいと<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "東京都は、マスクをすること、手を洗うこと、うがいをすること、大勢の人が集まらないようにすることをしっかり行ってほしいと言っています。"
+        }
+    ],
+    "voiceurl": "k10012665771000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201016/../20201016/K10012665771_2010160512_2010160515_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012665771000.json"
+}

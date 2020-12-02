@@ -1,0 +1,35 @@
+{
+    "id": "k10012720011000",
+    "title": "みんなで食事をするときは「静かに、マスクをして」",
+    "ruby": "みんなで<ruby>食事<rt>しょくじ</rt></ruby>をするときは「<ruby>静<rt>しず</rt></ruby>かに、マスクをして」",
+    "time": "2020-11-26",
+    "imgurl": "k10012720011000.jpg",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012720011000/k10012720011000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>政府<rt>せいふ</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>によると、<ruby>大勢<rt>おおぜい</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>をしたりお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだりすると、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつる<ruby>危険<rt>きけん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなります。<ruby>声<rt>こえ</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きくなって、つばなどが<ruby>飛<rt>と</rt></ruby>びやすくなるためです。このため、<ruby>菅<rt>すが</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>は「<ruby>静<rt>しず</rt></ruby>かに<ruby>食<rt>た</rt></ruby>べて、<ruby>会話<rt>かいわ</rt></ruby>をするときはマスクをしてください。<ruby>私<rt>わたし</rt></ruby>もそうします」と<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "政府の専門家会議によると、大勢で食事をしたりお酒を飲んだりすると、新しいコロナウイルスがうつる危険が高くなります。声が大きくなって、つばなどが飛びやすくなるためです。このため、菅総理大臣は「静かに食べて、会話をするときはマスクをしてください。私もそうします」と言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "マスクをして<ruby>食事<rt>しょくじ</rt></ruby>をすることについて、<ruby>専門家<rt>せんもんか</rt></ruby>はいろいろな<ruby>意見<rt>いけん</rt></ruby>を<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "マスクをして食事をすることについて、専門家はいろいろな意見を言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本赤十字北海道看護大学<rt>にっぽんせきじゅうじほっかいどうかんごだいがく</rt></ruby>の<ruby>根本<rt>ねもと</rt></ruby><ruby>昌宏<rt>まさひろ</rt></ruby><ruby>教授<rt>きょうじゅ</rt></ruby>は「マスクをしていても、<ruby>声<rt>こえ</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きくなると、マスクの<ruby>隙間<rt>すきま</rt></ruby>から<ruby>出<rt>で</rt></ruby>るつばなどが<ruby>多<rt>おお</rt></ruby>くなります。できるだけ<ruby>小<rt>ちい</rt></ruby>さい<ruby>声<rt>こえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "日本赤十字北海道看護大学の根本昌宏教授は「マスクをしていても、声が大きくなると、マスクの隙間から出るつばなどが多くなります。できるだけ小さい声で話すことが大切です」と言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>長野保健医療大学<rt>ながのほけんいりょうだいがく</rt></ruby>の<ruby>塚田<rt>つかだ</rt></ruby>ゆみ<ruby>子<rt>こ</rt></ruby>さんは「<ruby>料理<rt>りょうり</rt></ruby>が<ruby>来<rt>き</rt></ruby>たら、まず<ruby>何<rt>なに</rt></ruby>も<ruby>話<rt>はな</rt></ruby>さないで<ruby>食<rt>た</rt></ruby>べます。<ruby>食<rt>た</rt></ruby>べ<ruby>終<rt>お</rt></ruby>わったらマスクをして<ruby>会話<rt>かいわ</rt></ruby>をします。<ruby>次<rt>つぎ</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>が<ruby>来<rt>き</rt></ruby>たら<ruby>会話<rt>かいわ</rt></ruby>をやめて、また<ruby>食<rt>た</rt></ruby>べる<ruby>方法<rt>ほうほう</rt></ruby>がいいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "長野保健医療大学の塚田ゆみ子さんは「料理が来たら、まず何も話さないで食べます。食べ終わったらマスクをして会話をします。次の料理が来たら会話をやめて、また食べる方法がいいと思います」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012720011000.mp4",
+    "movieurl": "''",
+    "newimage": "",
+    "newsmovie": "",
+    "path": "appdata/news/k10012720011000.json"
+}

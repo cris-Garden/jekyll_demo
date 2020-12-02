@@ -1,0 +1,40 @@
+{
+    "id": "k10012696201000",
+    "title": "香川県で鳥インフルエンザ　３３万羽の鶏を殺す",
+    "ruby": "<ruby>香川県<rt>かがわけん</rt></ruby>で<ruby>鳥<rt>とり</rt></ruby>インフルエンザ　３３<ruby>万<rt>まん</rt></ruby><ruby>羽<rt>ば</rt></ruby>の<ruby>鶏<rt>にわとり</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>す",
+    "time": "2020-11-05",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012696201000/k10012696201000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>４日<rt>よっか</rt></ruby>、<ruby>香川県<rt>かがわけん</rt></ruby><ruby>三豊市<rt>みとよし</rt></ruby>の<ruby>農家<rt>のうか</rt></ruby>で３８００<ruby>羽<rt>ぱ</rt></ruby>の<ruby>鶏<rt>にわとり</rt></ruby>が<ruby>死<rt>し</rt></ruby>んだことがわかりました。",
+            "origin": "４日、香川県三豊市の農家で３８００羽の鶏が死んだことがわかりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>県<rt>けん</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べると、「Ｈ５<ruby>型<rt>がた</rt></ruby>」の<ruby>鳥<rt>とり</rt></ruby>インフルエンザのウイルスが<ruby>見<rt>み</rt></ruby>つかりました。ウイルスは<ruby>鶏<rt>にわとり</rt></ruby>にうつりやすくて、うつると<ruby>死<rt>し</rt></ruby>ぬ<ruby>可能性<rt>かのうせい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いこともわかりました。",
+            "origin": "県が調べると、「Ｈ５型」の鳥インフルエンザのウイルスが見つかりました。ウイルスは鶏にうつりやすくて、うつると死ぬ可能性が高いこともわかりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ウイルスが<ruby>広<rt>ひろ</rt></ruby>がらないように、<ruby>県<rt>けん</rt></ruby>は<ruby>５日<rt>いつか</rt></ruby>から、この<ruby>農家<rt>のうか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>てている<ruby>鶏<rt>にわとり</rt></ruby>３３<ruby>万<rt>まん</rt></ruby><ruby>羽<rt>ば</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>しています。<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>殺<rt>ころ</rt></ruby>して<ruby>土<rt>つち</rt></ruby>に<ruby>埋<rt>う</rt></ruby>めるのに<ruby>１０日<rt>とおか</rt></ruby>ぐらいかかりそうです。<ruby>県<rt>けん</rt></ruby>は<ruby>自衛隊<rt>じえいたい</rt></ruby>に<ruby>手伝<rt>てつだ</rt></ruby>ってもらうことにしました。",
+            "origin": "ウイルスが広がらないように、県は５日から、この農家で育てている鶏３３万羽を殺しています。全部殺して土に埋めるのに１０日ぐらいかかりそうです。県は自衛隊に手伝ってもらうことにしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>県<rt>けん</rt></ruby>は、この<ruby>農家<rt>のうか</rt></ruby>から３ｋｍ<ruby>以内<rt>いない</rt></ruby>では、<ruby>育<rt>そだ</rt></ruby>てている<ruby>鶏<rt>にわとり</rt></ruby>や<ruby>卵<rt>たまご</rt></ruby>を<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>移動<rt>いどう</rt></ruby>してはいけないと<ruby>言<rt>い</rt></ruby>いました。１０ｋｍ<ruby>以内<rt>いない</rt></ruby>では、<ruby>鶏<rt>にわとり</rt></ruby>や<ruby>卵<rt>たまご</rt></ruby>を<ruby>市場<rt>いちば</rt></ruby>などに<ruby>出<rt>だ</rt></ruby>してはいけないと<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "県は、この農家から３ｋｍ以内では、育てている鶏や卵を別の場所に移動してはいけないと言いました。１０ｋｍ以内では、鶏や卵を市場などに出してはいけないと言いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby>は<ruby>専門家<rt>せんもんか</rt></ruby>のチームを<ruby>香川県<rt>かがわけん</rt></ruby>に<ruby>送<rt>おく</rt></ruby>って、どうしてうつったかなどを<ruby>調<rt>しら</rt></ruby>べることにしています。",
+            "origin": "農林水産省は専門家のチームを香川県に送って、どうしてうつったかなどを調べることにしています。"
+        }
+    ],
+    "voiceurl": "k10012696201000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201105/../20201105/K10012696201_2011051217_2011051227_01_02.jpg",
+    "newsmovie": "k10012696201_202011051237_202011051239.mp4",
+    "path": "appdata/news/k10012696201000.json"
+}

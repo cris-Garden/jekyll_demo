@@ -1,0 +1,140 @@
+{
+    "id": "articles20201202kei00s00s004000c",
+    "title": "祝ノーベル賞！　ゲノム編集はどこがすごい？",
+    "ruby": "",
+    "time": "2020年12月2日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/12/02/20201202kei00s00s026000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20201202/kei/00s/00s/004000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>今年<rt>ことし</rt></ruby>のノーベル<ruby>化学賞<rt>かがくしょう</rt></ruby>に<ruby>選<rt>えら</rt></ruby>ばれたのは、<ruby>遺伝子<rt>いでんし</rt></ruby>を<ruby>変<rt>か</rt></ruby>える「ゲノム<ruby>編集<rt>へんしゅう</rt></ruby>」の<ruby>新<rt>あたら</rt></ruby>しい<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけた２<ruby>人<rt>ふたり</rt></ruby>の<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>です。<ruby>生物<rt>せいぶつ</rt></ruby>で<ruby>親<rt>おや</rt></ruby>から<ruby>子<rt>こ</rt></ruby>へと<ruby>受<rt>う</rt></ruby>け<ruby>渡<rt>わた</rt></ruby>される<ruby>特徴<rt>とくちょう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>るのが<ruby>遺伝子<rt>いでんし</rt></ruby>です。それを<ruby>変<rt>か</rt></ruby>えるとは、どういうことでしょうか。「ゲノム<ruby>編集<rt>へんしゅう</rt></ruby>」のどこがすごいのでしょうか。【<ruby>黒崎亜弓<rt>くろさきあゆみ</rt></ruby>】",
+            "origin": "今年のノーベル化学賞に選ばれたのは、遺伝子を変える「ゲノム編集」の新しい方法を見つけた２人の研究者です。生物で親から子へと受け渡される特徴を作るのが遺伝子です。それを変えるとは、どういうことでしょうか。「ゲノム編集」のどこがすごいのでしょうか。【黒崎亜弓】"
+        },
+        {
+            "type": "h2",
+            "ruby": "ゲノムって<ruby>何<rt>なに</rt></ruby>？",
+            "origin": "ゲノムって何？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>生物<rt>せいぶつ</rt></ruby>が<ruby>持<rt>も</rt></ruby>つ<ruby>自分<rt>じぶん</rt></ruby>の「<ruby>設計図<rt>せっけいず</rt></ruby>」のことです。<ruby>親<rt>おや</rt></ruby>から<ruby>子<rt>こ</rt></ruby>へと<ruby>伝<rt>つた</rt></ruby>えられるので<ruby>遺伝情報<rt>いでんじょうほう</rt></ruby>と<ruby>言<rt>い</rt></ruby>われます。<ruby>生物<rt>せいぶつ</rt></ruby>を<ruby>形作<rt>かたちづく</rt></ruby>る<ruby>細胞<rt>さいぼう</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つ<ruby>一<rt>ひと</rt></ruby>つに<ruby>入<rt>はい</rt></ruby>っている、４<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>物質<rt>ぶっしつ</rt></ruby>（<ruby>塩基<rt>えんき</rt></ruby>と<ruby>言<rt>い</rt></ruby>います）の<ruby>並<rt>なら</rt></ruby>び<ruby>方<rt>かた</rt></ruby>すべてが「ゲノム」です。",
+            "origin": "生物が持つ自分の「設計図」のことです。親から子へと伝えられるので遺伝情報と言われます。生物を形作る細胞の一つ一つに入っている、４種類の物質（塩基と言います）の並び方すべてが「ゲノム」です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>生物<rt>せいぶつ</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>によって、<ruby>並<rt>なら</rt></ruby>ぶ<ruby>数<rt>かず</rt></ruby>や<ruby>並<rt>なら</rt></ruby>び<ruby>方<rt>かた</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>い、<ruby>人間<rt>にんげん</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>、<ruby>物質<rt>ぶっしつ</rt></ruby>３０<ruby>億<rt>おく</rt></ruby><ruby>個<rt>こ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>、イネだと４<ruby>億<rt>おく</rt></ruby><ruby>個<rt>こ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>です。<ruby>同<rt>おな</rt></ruby>じ<ruby>種<rt>しゅ</rt></ruby>でも<ruby>並<rt>なら</rt></ruby>び<ruby>方<rt>かた</rt></ruby>はほんの<ruby>少<rt>すこ</rt></ruby>し<ruby>違<rt>ちが</rt></ruby>っていて、それが<ruby>人<rt>ひと</rt></ruby>と<ruby>人<rt>ひと</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いも<ruby>生<rt>う</rt></ruby>んでいます。",
+            "origin": "生物の種類によって、並ぶ数や並び方が違い、人間の場合、物質３０億個分、イネだと４億個分です。同じ種でも並び方はほんの少し違っていて、それが人と人の違いも生んでいます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ゲノムのうち、<ruby>生物<rt>せいぶつ</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>の<ruby>材料<rt>ざいりょう</rt></ruby>になるたんぱく<ruby>質<rt>しつ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>り<ruby>出<rt>だ</rt></ruby>す<ruby>部分<rt>ぶぶん</rt></ruby>が<ruby>遺伝子<rt>いでんし</rt></ruby>です。<ruby>人間<rt>にんげん</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>、<ruby>遺伝子<rt>いでんし</rt></ruby>は２<ruby>万個<rt>まんこ</rt></ruby>あまりです。どの<ruby>遺伝子<rt>いでんし</rt></ruby>が<ruby>生物<rt>せいぶつ</rt></ruby>のどんな<ruby>特徴<rt>とくちょう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>るのか、<ruby>分<rt>わ</rt></ruby>かってきています。",
+            "origin": "ゲノムのうち、生物の体の材料になるたんぱく質を作り出す部分が遺伝子です。人間の場合、遺伝子は２万個あまりです。どの遺伝子が生物のどんな特徴を作るのか、分かってきています。"
+        },
+        {
+            "type": "h2",
+            "ruby": "ノーベル<ruby>賞<rt>しょう</rt></ruby>に<ruby>選<rt>えら</rt></ruby>ばれたのはなぜ？",
+            "origin": "ノーベル賞に選ばれたのはなぜ？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>受賞<rt>じゅしょう</rt></ruby>する２<ruby>人<rt>ふたり</rt></ruby>が２０１２<ruby>年<rt>ねん</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>した「クリスパー・キャス９（ナイン）」という<ruby>方法<rt>ほうほう</rt></ruby>だと、ねらった<ruby>遺伝子<rt>いでんし</rt></ruby>を<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>切<rt>き</rt></ruby>れるからです。ゲノム<ruby>編集<rt>へんしゅう</rt></ruby>にかかる<ruby>時間<rt>じかん</rt></ruby>もお<ruby>金<rt>かね</rt></ruby>も<ruby>少<rt>すく</rt></ruby>なくて<ruby>済<rt>す</rt></ruby>むようになり、<ruby>世界中<rt>せかいじゅう</rt></ruby>でこの<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってさまざまな<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>われています。",
+            "origin": "受賞する２人が２０１２年に発表した「クリスパー・キャス９（ナイン）」という方法だと、ねらった遺伝子を簡単に切れるからです。ゲノム編集にかかる時間もお金も少なくて済むようになり、世界中でこの方法を使ってさまざまな研究が行われています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>一<rt>ひと</rt></ruby>つは、<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>になる<ruby>生物<rt>せいぶつ</rt></ruby>の<ruby>品種改良<rt>ひんしゅかいりょう</rt></ruby>です。<ruby>日本<rt>にっぽん</rt></ruby>でも、<ruby>体<rt>からだ</rt></ruby>にいい<ruby>成分<rt>せいぶん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>く<ruby>入<rt>はい</rt></ruby>ったトマトや、<ruby>身<rt>み</rt></ruby>の<ruby>厚<rt>あつ</rt></ruby>い<ruby>魚<rt>さかな</rt></ruby>（マダイ）が<ruby>作<rt>つく</rt></ruby>られています。<ruby>筋肉<rt>きんにく</rt></ruby>が<ruby>成長<rt>せいちょう</rt></ruby>しないようにおさえる<ruby>遺伝子<rt>いでんし</rt></ruby>を<ruby>壊<rt>こわ</rt></ruby>すことで、<ruby>身<rt>み</rt></ruby>の<ruby>厚<rt>あつ</rt></ruby>い<ruby>魚<rt>さかな</rt></ruby>ができます。",
+            "origin": "一つは、食べ物になる生物の品種改良です。日本でも、体にいい成分が多く入ったトマトや、身の厚い魚（マダイ）が作られています。筋肉が成長しないようにおさえる遺伝子を壊すことで、身の厚い魚ができます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "もう<ruby>一<rt>ひと</rt></ruby>つは<ruby>病気<rt>びょうき</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>です。たとえば、<ruby>血液<rt>けつえき</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>から<ruby>血液<rt>けつえき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>細胞<rt>さいぼう</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>し、<ruby>病気<rt>びょうき</rt></ruby>を<ruby>起<rt>お</rt></ruby>こす<ruby>遺伝子<rt>いでんし</rt></ruby>を<ruby>壊<rt>こわ</rt></ruby>してから<ruby>体<rt>からだ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>すと、<ruby>健康<rt>けんこう</rt></ruby>な<ruby>血液<rt>けつえき</rt></ruby>が<ruby>作<rt>つく</rt></ruby>られるようになります。",
+            "origin": "もう一つは病気の治療です。たとえば、血液の病気の人から血液を作る細胞を取り出し、病気を起こす遺伝子を壊してから体に戻すと、健康な血液が作られるようになります。"
+        },
+        {
+            "type": "h2",
+            "ruby": "ゲノムを<ruby>編集<rt>へんしゅう</rt></ruby>するってどういうこと？",
+            "origin": "ゲノムを編集するってどういうこと？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ゲノムの<ruby>並<rt>なら</rt></ruby>び<ruby>方<rt>かた</rt></ruby>のうち、<ruby>遺伝子<rt>いでんし</rt></ruby>の<ruby>部分<rt>ぶぶん</rt></ruby>を<ruby>変<rt>か</rt></ruby>えることで、<ruby>生物<rt>せいぶつ</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>を<ruby>変<rt>か</rt></ruby>えます。",
+            "origin": "ゲノムの並び方のうち、遺伝子の部分を変えることで、生物の特徴を変えます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "たとえば、<ruby>作物<rt>さくもつ</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>を<ruby>起<rt>お</rt></ruby>こす<ruby>遺伝子<rt>いでんし</rt></ruby>を<ruby>壊<rt>こわ</rt></ruby>し、<ruby>病気<rt>びょうき</rt></ruby>にならないようにします。<ruby>遺伝子<rt>いでんし</rt></ruby>の<ruby>部分<rt>ぶぶん</rt></ruby>を<ruby>切<rt>き</rt></ruby>ると、くっつく<ruby>時<rt>とき</rt></ruby>には<ruby>並<rt>なら</rt></ruby>び<ruby>方<rt>かた</rt></ruby>が<ruby>変<rt>か</rt></ruby>わり、<ruby>遺伝子<rt>いでんし</rt></ruby>として<ruby>働<rt>はたら</rt></ruby>かなくなります。<ruby>切<rt>き</rt></ruby>った<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>別<rt>べつ</rt></ruby>の<ruby>遺伝子<rt>いでんし</rt></ruby>をはさむこともできます。",
+            "origin": "たとえば、作物の病気を起こす遺伝子を壊し、病気にならないようにします。遺伝子の部分を切ると、くっつく時には並び方が変わり、遺伝子として働かなくなります。切った場所に別の遺伝子をはさむこともできます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>遺伝子<rt>いでんし</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>はもともと、ゲノムが<ruby>親<rt>おや</rt></ruby>から<ruby>子<rt>こ</rt></ruby>へと<ruby>受<rt>う</rt></ruby>け<ruby>継<rt>つ</rt></ruby>がれる<ruby>時<rt>とき</rt></ruby>などにたまたま<ruby>起<rt>お</rt></ruby>こるものでした。<ruby>人間<rt>にんげん</rt></ruby>はそれを、<ruby>違<rt>ちが</rt></ruby>う<ruby>特徴<rt>とくちょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>作物<rt>さくもつ</rt></ruby>をかけあわせたりしてわざと<ruby>起<rt>お</rt></ruby>こしてきました。「<ruby>遺伝子組<rt>いでんしく</rt></ruby>み<ruby>換<rt>か</rt></ruby>え」という<ruby>技術<rt>ぎじゅつ</rt></ruby>では、<ruby>他<rt>ほか</rt></ruby>の<ruby>生物<rt>せいぶつ</rt></ruby>から<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>した<ruby>遺伝子<rt>いでんし</rt></ruby>を<ruby>細胞<rt>さいぼう</rt></ruby>に<ruby>入<rt>い</rt></ruby>れます。",
+            "origin": "遺伝子の変化はもともと、ゲノムが親から子へと受け継がれる時などにたまたま起こるものでした。人間はそれを、違う特徴を持つ作物をかけあわせたりしてわざと起こしてきました。「遺伝子組み換え」という技術では、他の生物から取り出した遺伝子を細胞に入れます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ゲノム<ruby>編集<rt>へんしゅう</rt></ruby>ではこれまでの<ruby>方法<rt>ほうほう</rt></ruby>より、<ruby>求<rt>もと</rt></ruby>める<ruby>特徴<rt>とくちょう</rt></ruby>にしやすいと<ruby>考<rt>かんが</rt></ruby>えられています。",
+            "origin": "ゲノム編集ではこれまでの方法より、求める特徴にしやすいと考えられています。"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>問題<rt>もんだい</rt></ruby>は<ruby>起<rt>お</rt></ruby>きないの？",
+            "origin": "問題は起きないの？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ねらった<ruby>遺伝子<rt>いでんし</rt></ruby><ruby>以外<rt>いがい</rt></ruby>のところまで<ruby>変<rt>か</rt></ruby>わってしまうことが<ruby>起<rt>お</rt></ruby>きるので、<ruby>人間<rt>にんげん</rt></ruby>に<ruby>害<rt>がい</rt></ruby>のある<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>ができるのではないかと<ruby>心配<rt>しんぱい</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>たちがいます。<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>は、ほかの<ruby>遺伝子<rt>いでんし</rt></ruby>が<ruby>変<rt>か</rt></ruby>わっていないかどうかを<ruby>調<rt>しら</rt></ruby>べれば<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だと<ruby>説明<rt>せつめい</rt></ruby>します。",
+            "origin": "ねらった遺伝子以外のところまで変わってしまうことが起きるので、人間に害のある食べ物ができるのではないかと心配する人たちがいます。研究者は、ほかの遺伝子が変わっていないかどうかを調べれば大丈夫だと説明します。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ゲノム<ruby>編集<rt>へんしゅう</rt></ruby>で<ruby>遺伝子<rt>いでんし</rt></ruby>を<ruby>変<rt>か</rt></ruby>えた<ruby>生物<rt>せいぶつ</rt></ruby>が<ruby>自然環境<rt>しぜんかんきょう</rt></ruby>にどんな<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えるのか、よくわかりません。",
+            "origin": "ゲノム編集で遺伝子を変えた生物が自然環境にどんな影響を与えるのか、よくわかりません。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "それに、<ruby>生<rt>う</rt></ruby>まれてくる<ruby>人間<rt>にんげん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<ruby>特徴<rt>とくちょう</rt></ruby>を<ruby>変<rt>か</rt></ruby>えて、<ruby>親<rt>おや</rt></ruby>が<ruby>好<rt>す</rt></ruby>きな<ruby>見<rt>み</rt></ruby>た<ruby>目<rt>め</rt></ruby>にしたり、<ruby>勉強<rt>べんきょう</rt></ruby>や<ruby>運動<rt>うんどう</rt></ruby>がよくできる<ruby>子<rt>こ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>り<ruby>出<rt>だ</rt></ruby>したりする<ruby>心配<rt>しんぱい</rt></ruby>もあります。<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>はもうゲノム<ruby>編集<rt>へんしゅう</rt></ruby>をした<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>誕生<rt>たんじょう</rt></ruby>させたそうです。",
+            "origin": "それに、生まれてくる人間の子どもの特徴を変えて、親が好きな見た目にしたり、勉強や運動がよくできる子を作り出したりする心配もあります。中国の研究者はもうゲノム編集をした赤ちゃんを誕生させたそうです。"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>遺伝子<rt>いでんし</rt></ruby>を<ruby>自由<rt>じゆう</rt></ruby>に<ruby>変<rt>か</rt></ruby>えていいの？",
+            "origin": "遺伝子を自由に変えていいの？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国<rt>くに</rt></ruby>によって<ruby>違<rt>ちが</rt></ruby>います。<ruby>人間<rt>にんげん</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>と<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>でも<ruby>違<rt>ちが</rt></ruby>います。",
+            "origin": "国によって違います。人間の場合と食べ物でも違います。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>人間<rt>にんげん</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんのもとになる<ruby>細胞<rt>さいぼう</rt></ruby>をゲノム<ruby>編集<rt>へんしゅう</rt></ruby>で<ruby>変<rt>か</rt></ruby>えることは、<ruby>研究<rt>けんきゅう</rt></ruby>のためだけに<ruby>認<rt>みと</rt></ruby>められます。<ruby>赤<rt>あか</rt></ruby>ちゃんとして<ruby>誕生<rt>たんじょう</rt></ruby>させることは<ruby>禁止<rt>きんし</rt></ruby>されています。",
+            "origin": "日本では、人間の赤ちゃんのもとになる細胞をゲノム編集で変えることは、研究のためだけに認められます。赤ちゃんとして誕生させることは禁止されています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>だと、ある<ruby>遺伝子<rt>いでんし</rt></ruby>をゲノム<ruby>編集<rt>へんしゅう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>かないようにした<ruby>品種<rt>ひんしゅ</rt></ruby>については、<ruby>売<rt>う</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えるよう<ruby>求<rt>もと</rt></ruby>めているだけです。<ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>はその<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>公表<rt>こうひょう</rt></ruby>します。<ruby>売<rt>う</rt></ruby>る<ruby>時<rt>とき</rt></ruby>にゲノム<ruby>編集<rt>へんしゅう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>ったものだとお<ruby>客<rt>きゃく</rt></ruby>に<ruby>表示<rt>ひょうじ</rt></ruby>などで<ruby>知<rt>し</rt></ruby>らせる<ruby>決<rt>き</rt></ruby>まりもありません。ある<ruby>遺伝子<rt>いでんし</rt></ruby>が<ruby>働<rt>はたら</rt></ruby>かなくなることは<ruby>自然<rt>しぜん</rt></ruby>にも<ruby>起<rt>お</rt></ruby>こるので、<ruby>見分<rt>みわ</rt></ruby>けがつかないからです。<ruby>他<rt>ほか</rt></ruby>の<ruby>生物<rt>せいぶつ</rt></ruby>の<ruby>遺伝子<rt>いでんし</rt></ruby>を<ruby>入<rt>い</rt></ruby>れた<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>が<ruby>問題<rt>もんだい</rt></ruby>ないと<ruby>認<rt>みと</rt></ruby>めなければ<ruby>栽培<rt>さいばい</rt></ruby>や<ruby>販売<rt>はんばい</rt></ruby>ができません。＜え・内山大助＞",
+            "origin": "食べ物だと、ある遺伝子をゲノム編集で働かないようにした品種については、売る前に厚生労働省に伝えるよう求めているだけです。厚生労働省はその情報を公表します。売る時にゲノム編集を行ったものだとお客に表示などで知らせる決まりもありません。ある遺伝子が働かなくなることは自然にも起こるので、見分けがつかないからです。他の生物の遺伝子を入れた場合は、国が問題ないと認めなければ栽培や販売ができません。＜え・内山大助＞"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆<ruby>知<rt>し</rt></ruby>りたいワード",
+            "origin": "◆知りたいワード"
+        },
+        {
+            "type": "h2",
+            "ruby": "ノーベル<ruby>賞<rt>しょう</rt></ruby>",
+            "origin": "ノーベル賞"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>世界<rt>せかい</rt></ruby>の<ruby>人々<rt>ひとびと</rt></ruby>に<ruby>役立<rt>やくだ</rt></ruby>つ<ruby>研究<rt>けんきゅう</rt></ruby>をした<ruby>人<rt>ひと</rt></ruby>に<ruby>毎<rt>まい</rt></ruby><ruby>年<rt>とし</rt></ruby><ruby>贈<rt>おく</rt></ruby>られる<ruby>賞<rt>しょう</rt></ruby>です。<ruby>爆薬<rt>ばくやく</rt></ruby>のダイナマイトを<ruby>発明<rt>はつめい</rt></ruby>したアルフレッド・ノーベルが<ruby>亡<rt>な</rt></ruby>くなる<ruby>時<rt>とき</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>財産<rt>ざいさん</rt></ruby>で<ruby>賞<rt>しょう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>るよう<ruby>言<rt>い</rt></ruby>い<ruby>残<rt>のこ</rt></ruby>しました。１９０１<ruby>年<rt>ねん</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まった<ruby>時<rt>とき</rt></ruby>は<ruby>物理学<rt>ぶつりがく</rt></ruby><ruby>賞<rt>しょう</rt></ruby>、<ruby>化学賞<rt>かがくしょう</rt></ruby>、<ruby>医学<rt>いがく</rt></ruby><ruby>生理学<rt>せいりがく</rt></ruby><ruby>賞<rt>しょう</rt></ruby>、<ruby>文学賞<rt>ぶんがくしょう</rt></ruby>、<ruby>平和賞<rt>へいわしょう</rt></ruby>の<ruby>五<rt>いつ</rt></ruby>つでした。<ruby>後<rt>あと</rt></ruby>から<ruby>経済学<rt>けいざいがく</rt></ruby><ruby>賞<rt>しょう</rt></ruby>が<ruby>加<rt>くわ</rt></ruby>わりました。",
+            "origin": "世界の人々に役立つ研究をした人に毎年贈られる賞です。爆薬のダイナマイトを発明したアルフレッド・ノーベルが亡くなる時、自分の財産で賞を作るよう言い残しました。１９０１年に始まった時は物理学賞、化学賞、医学生理学賞、文学賞、平和賞の五つでした。後から経済学賞が加わりました。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/12/02/20201202kei00s00s026000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201202kei00s00s004000c.json"
+}

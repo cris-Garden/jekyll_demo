@@ -1,0 +1,30 @@
+{
+    "id": "k10012741391000",
+    "title": "ＯＥＣＤ「来年経済が戻るのは中国など一部の国だけ」",
+    "ruby": "ＯＥＣＤ「<ruby>来年<rt>らいねん</rt></ruby><ruby>経済<rt>けいざい</rt></ruby>が<ruby>戻<rt>もど</rt></ruby>るのは<ruby>中国<rt>ちゅうごく</rt></ruby>など<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>国<rt>くに</rt></ruby>だけ」",
+    "time": "2020-12-02",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012741391000/k10012741391000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で<ruby>世界<rt>せかい</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなっています。",
+            "origin": "新しいコロナウイルスの問題で世界の経済が悪くなっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ＯＥＣＤは<ruby>世界<rt>せかい</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>が<ruby>成長<rt>せいちょう</rt></ruby>する<ruby>割合<rt>わりあい</rt></ruby>を<ruby>予測<rt>よそく</rt></ruby>しました。<ruby>今年<rt>ことし</rt></ruby>は、マイナス４．２％になります。しかし<ruby>来年<rt>らいねん</rt></ruby>はプラス４．２％になって、ウイルスが<ruby>広<rt>ひろ</rt></ruby>がる<ruby>前<rt>まえ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ります。<ruby>中国<rt>ちゅうごく</rt></ruby>が<ruby>来年<rt>らいねん</rt></ruby>８％と<ruby>大<rt>おお</rt></ruby>きくプラスになることや、コロナウイルスのワクチンができると<ruby>考<rt>かんが</rt></ruby>えているからです。しかし、<ruby>経済<rt>けいざい</rt></ruby>が<ruby>戻<rt>もど</rt></ruby>るのは<ruby>中国<rt>ちゅうごく</rt></ruby>や<ruby>韓国<rt>かんこく</rt></ruby>など<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>国<rt>くに</rt></ruby>だけです。<ruby>日本<rt>にっぽん</rt></ruby>など<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>は、<ruby>戻<rt>もど</rt></ruby>るまで<ruby>時間<rt>じかん</rt></ruby>がかかります。",
+            "origin": "ＯＥＣＤは世界の経済が成長する割合を予測しました。今年は、マイナス４．２％になります。しかし来年はプラス４．２％になって、ウイルスが広がる前に戻ります。中国が来年８％と大きくプラスになることや、コロナウイルスのワクチンができると考えているからです。しかし、経済が戻るのは中国や韓国など一部の国だけです。日本など多くの国は、戻るまで時間がかかります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>マイナス５．３％で、<ruby>来年<rt>らいねん</rt></ruby>はプラス２．３％です。<ruby>来年<rt>らいねん</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>でオリンピックとパラリンピックを<ruby>開<rt>ひら</rt></ruby>いた<ruby>場合<rt>ばあい</rt></ruby>でも、<ruby>戻<rt>もど</rt></ruby>ることはできません。ＯＥＣＤは、<ruby>経済<rt>けいざい</rt></ruby>をよくするために、いろいろな<ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>かた</rt></ruby>ができるようにしたり、もっとオンラインで<ruby>仕事<rt>しごと</rt></ruby>などができるようにしたほうがいいと<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "日本の経済は、今年マイナス５．３％で、来年はプラス２．３％です。来年、東京でオリンピックとパラリンピックを開いた場合でも、戻ることはできません。ＯＥＣＤは、経済をよくするために、いろいろな働き方ができるようにしたり、もっとオンラインで仕事などができるようにしたほうがいいと言っています。"
+        }
+    ],
+    "voiceurl": "k10012741391000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201202/../20201202/K10012741391_2012012221_2012020124_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012741391000.json"
+}

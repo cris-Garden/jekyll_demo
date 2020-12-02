@@ -1,0 +1,35 @@
+{
+    "id": "k10012715751000",
+    "title": "仕事をなくした外国人をハローワークが助ける",
+    "ruby": "<ruby>仕事<rt>しごと</rt></ruby>をなくした<ruby>外国人<rt>がいこくじん</rt></ruby>をハローワークが<ruby>助<rt>たす</rt></ruby>ける",
+    "time": "2020-11-18",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012715751000/k10012715751000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>三重県<rt>みえけん</rt></ruby>にあるシャープの<ruby>工場<rt>こうじょう</rt></ruby>では、<ruby>派遣<rt>はけん</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>から<ruby>仕事<rt>しごと</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>された<ruby>人<rt>ひと</rt></ruby>が<ruby>働<rt>はたら</rt></ruby>いていました。<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなって、<ruby>派遣<rt>はけん</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>が９３<ruby>人<rt>にん</rt></ruby>をやめさせました。この<ruby>中<rt>なか</rt></ruby>に、フィリピン<ruby>人<rt>じん</rt></ruby>が７６<ruby>人<rt>にん</rt></ruby>いました。",
+            "origin": "三重県にあるシャープの工場では、派遣会社から仕事を紹介された人が働いていました。工場の仕事が少なくなって、派遣会社が９３人をやめさせました。この中に、フィリピン人が７６人いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１６<ruby>日<rt>にち</rt></ruby>、５０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が、<ruby>仕事<rt>しごと</rt></ruby>をなくした<ruby>人<rt>ひと</rt></ruby>を<ruby>助<rt>たす</rt></ruby>けるハローワーク<ruby>松阪<rt>まつさか</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。そして、<ruby>仕事<rt>しごと</rt></ruby>をなくしたときにもらうお<ruby>金<rt>かね</rt></ruby>や、<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すための<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みをしました。",
+            "origin": "１６日、５０人以上が、仕事をなくした人を助けるハローワーク松阪に行きました。そして、仕事をなくしたときにもらうお金や、新しい仕事を探すための申し込みをしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みをしたフィリピン<ruby>人<rt>じん</rt></ruby>は「<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる４<ruby>人<rt>にん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で３<ruby>人<rt>にん</rt></ruby>が<ruby>仕事<rt>しごと</rt></ruby>をなくしました。コロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくて、これからの<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>心配<rt>しんぱい</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "申し込みをしたフィリピン人は「一緒に住んでいる４人の中で３人が仕事をなくしました。コロナウイルスの問題で仕事が少なくて、これからの生活が心配です」と話していました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ハローワーク<ruby>松阪<rt>まつさか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「こんなに<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>仕事<rt>しごと</rt></ruby>をなくしたのは、ここでは<ruby>初<rt>はじ</rt></ruby>めてです。<ruby>少<rt>すこ</rt></ruby>しでも<ruby>早<rt>はや</rt></ruby>く<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけることができるように<ruby>職員<rt>しょくいん</rt></ruby>みんなで<ruby>頑張<rt>がんば</rt></ruby>ります」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "ハローワーク松阪の人は「こんなに多くの人が仕事をなくしたのは、ここでは初めてです。少しでも早く新しい仕事を見つけることができるように職員みんなで頑張ります」と話していました。"
+        }
+    ],
+    "voiceurl": "k10012715751000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201116/../20201116/K10012715751_2011162029_2011162104_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012715751000.json"
+}

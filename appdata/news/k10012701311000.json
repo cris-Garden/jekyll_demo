@@ -1,0 +1,35 @@
+{
+    "id": "k10012701311000",
+    "title": "秋篠宮さまが皇嗣になったことを知らせる儀式",
+    "ruby": "<ruby>秋篠宮<rt>あきしののみや</rt></ruby>さまが<ruby>皇嗣<rt>こうし</rt></ruby>になったことを<ruby>知<rt>し</rt></ruby>らせる<ruby>儀式<rt>ぎしき</rt></ruby>",
+    "time": "2020-11-09",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012701311000/k10012701311000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby>の<ruby>秋篠宮<rt>あきしののみや</rt></ruby>さまが「<ruby>皇嗣<rt>こうし</rt></ruby>」になったことをみんなに<ruby>知<rt>し</rt></ruby>らせる<ruby>儀式<rt>ぎしき</rt></ruby>が<ruby>８日<rt>ようか</rt></ruby>、<ruby>皇居<rt>こうきょ</rt></ruby>の<ruby>宮殿<rt>きゅうでん</rt></ruby>でありました。<ruby>皇嗣<rt>こうし</rt></ruby>は<ruby>今<rt>いま</rt></ruby>の<ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>の<ruby>次<rt>つぎ</rt></ruby>に<ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>になる<ruby>順位<rt>じゅんい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>です。",
+            "origin": "天皇陛下の弟の秋篠宮さまが「皇嗣」になったことをみんなに知らせる儀式が８日、皇居の宮殿でありました。皇嗣は今の天皇陛下の次に天皇陛下になる順位の人です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>午前<rt>ごぜん</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>ごろ<ruby>始<rt>はじ</rt></ruby>まった「<ruby>立皇嗣<rt>りっこうし</rt></ruby><ruby>宣明<rt>せんめい</rt></ruby>の<ruby>儀<rt>ぎ</rt></ruby>」という<ruby>儀式<rt>ぎしき</rt></ruby>で、<ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>は<ruby>秋篠宮<rt>あきしののみや</rt></ruby>さまが<ruby>皇嗣<rt>こうし</rt></ruby>になったことを<ruby>知<rt>し</rt></ruby>らせるお<ruby>言葉<rt>ことば</rt></ruby>を<ruby>言<rt>い</rt></ruby>いました。<ruby>秋篠宮<rt>あきしののみや</rt></ruby>さまは「<ruby>皇嗣<rt>こうし</rt></ruby>の<ruby>責任<rt>せきにん</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>く<ruby>考<rt>かんが</rt></ruby>えて、<ruby>務<rt>つと</rt></ruby>めを<ruby>果<rt>は</rt></ruby>たしていきます」と<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "午前１１時ごろ始まった「立皇嗣宣明の儀」という儀式で、天皇陛下は秋篠宮さまが皇嗣になったことを知らせるお言葉を言いました。秋篠宮さまは「皇嗣の責任を深く考えて、務めを果たしていきます」と言いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>午後<rt>ごご</rt></ruby>４<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>ごろ<ruby>始<rt>はじ</rt></ruby>まった<ruby>最後<rt>さいご</rt></ruby>の<ruby>儀式<rt>ぎしき</rt></ruby>では、<ruby>秋篠宮<rt>あきしののみや</rt></ruby>さまが<ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>にお<ruby>礼<rt>れい</rt></ruby>のお<ruby>言葉<rt>ことば</rt></ruby>を<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "午後４時半ごろ始まった最後の儀式では、秋篠宮さまが天皇陛下にお礼のお言葉を言いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "これで、<ruby>新<rt>あたら</rt></ruby>しい<ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>の<ruby>即位<rt>そくい</rt></ruby>のために、<ruby>去年<rt>きょねん</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まった<ruby>国<rt>くに</rt></ruby>の<ruby>儀式<rt>ぎしき</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>終<rt>お</rt></ruby>わりました。",
+            "origin": "これで、新しい天皇陛下の即位のために、去年４月から始まった国の儀式は全部終わりました。"
+        }
+    ],
+    "voiceurl": "k10012701311000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201108/../20201108/K10012701311_2011081843_2011081856_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012701311000.json"
+}

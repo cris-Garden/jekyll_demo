@@ -1,0 +1,35 @@
+{
+    "id": "k10012673741000",
+    "title": "ＡＮＡ　１年の赤字が５０００億円ぐらいになりそう",
+    "ruby": "ＡＮＡ　１<ruby>年<rt>ねん</rt></ruby>の<ruby>赤字<rt>あかじ</rt></ruby>が５０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいになりそう",
+    "time": "2020-10-22",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012673741000/k10012673741000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>航空<rt>こうくう</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>のＡＮＡホールディングスは、<ruby>来年<rt>らいねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までの１<ruby>年<rt>ねん</rt></ruby>で、５０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいの<ruby>赤字<rt>あかじ</rt></ruby>になりそうです。",
+            "origin": "航空会社のＡＮＡホールディングスは、来年３月までの１年で、５０００億円ぐらいの赤字になりそうです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で、<ruby>特<rt>とく</rt></ruby>に<ruby>外国<rt>がいこく</rt></ruby>との<ruby>間<rt>あいだ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>国際線<rt>こくさいせん</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>がほとんど<ruby>飛<rt>と</rt></ruby>ばなくなっているためです。１０<ruby>月<rt>がつ</rt></ruby>も、<ruby>国際線<rt>こくさいせん</rt></ruby>は９０％<ruby>少<rt>すく</rt></ruby>なくなっています。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>国内線<rt>こくないせん</rt></ruby>も５０％ぐらい<ruby>少<rt>すく</rt></ruby>なくなっています。",
+            "origin": "新しいコロナウイルスの問題で、特に外国との間を飛ぶ国際線の飛行機がほとんど飛ばなくなっているためです。１０月も、国際線は９０％少なくなっています。日本の中を飛ぶ国内線も５０％ぐらい少なくなっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ＡＮＡは、<ruby>仕事<rt>しごと</rt></ruby>にかかるお<ruby>金<rt>かね</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくするため、<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らします。３００<ruby>持<rt>も</rt></ruby>っている<ruby>飛行機<rt>ひこうき</rt></ruby>のうち、３０ぐらいを<ruby>売<rt>う</rt></ruby>ります。",
+            "origin": "ＡＮＡは、仕事にかかるお金を少なくするため、働く人の給料を減らします。３００持っている飛行機のうち、３０ぐらいを売ります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "そして、<ruby>国際線<rt>こくさいせん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたときは、<ruby>利用<rt>りよう</rt></ruby>する<ruby>空港<rt>くうこう</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくして、できるだけ<ruby>羽田空港<rt>はねだくうこう</rt></ruby>だけを<ruby>利用<rt>りよう</rt></ruby>しようと<ruby>考<rt>かんが</rt></ruby>えています。<ruby>成田空港<rt>なりたくうこう</rt></ruby>などほかの<ruby>空港<rt>くうこう</rt></ruby>は、<ruby>飛行機<rt>ひこうき</rt></ruby>がどのくらい<ruby>増<rt>ふ</rt></ruby>えているかなどを<ruby>考<rt>かんが</rt></ruby>えて<ruby>利用<rt>りよう</rt></ruby>します。<ruby>羽田空港<rt>はねだくうこう</rt></ruby><ruby>以外<rt>いがい</rt></ruby>で<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>飛<rt>と</rt></ruby>ばなくなると、<ruby>地方<rt>ちほう</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなるかもしれません。",
+            "origin": "そして、国際線が増えたときは、利用する空港を少なくして、できるだけ羽田空港だけを利用しようと考えています。成田空港などほかの空港は、飛行機がどのくらい増えているかなどを考えて利用します。羽田空港以外で飛行機が飛ばなくなると、地方の経済が悪くなるかもしれません。"
+        }
+    ],
+    "voiceurl": "k10012673741000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201021/../20201021/K10012673741_2010211415_2010211415_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012673741000.json"
+}

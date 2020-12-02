@@ -1,0 +1,40 @@
+{
+    "id": "k10012684571000",
+    "title": "高級なぶどう「シャインマスカット」が熊に食べられる",
+    "ruby": "<ruby>高級<rt>こうきゅう</rt></ruby>なぶどう「シャインマスカット」が<ruby>熊<rt>くま</rt></ruby>に<ruby>食<rt>た</rt></ruby>べられる",
+    "time": "2020-10-29",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012684571000/k10012684571000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>山形県<rt>やまがたけん</rt></ruby><ruby>高畠町<rt>たかはたまち</rt></ruby>にある<ruby>田制<rt>たせい</rt></ruby><ruby>裕基<rt>ゆうき</rt></ruby>さんの<ruby>畑<rt>はたけ</rt></ruby>で、<ruby>高級<rt>こうきゅう</rt></ruby>なぶどう「シャインマスカット」が<ruby>熊<rt>くま</rt></ruby>に<ruby>食<rt>た</rt></ruby>べられる<ruby>被害<rt>ひがい</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。",
+            "origin": "山形県高畠町にある田制裕基さんの畑で、高級なぶどう「シャインマスカット」が熊に食べられる被害が続いています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>田制<rt>たせい</rt></ruby>さんは２６<ruby>日<rt>にち</rt></ruby>、<ruby>体<rt>からだ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさが１ｍぐらいの<ruby>熊<rt>くま</rt></ruby>が、<ruby>畑<rt>はたけ</rt></ruby>でシャインマスカットを<ruby>食<rt>た</rt></ruby>べているところを<ruby>見<rt>み</rt></ruby>ました。<ruby>田制<rt>たせい</rt></ruby>さんが<ruby>撮<rt>と</rt></ruby>ったビデオを<ruby>見<rt>み</rt></ruby>ると、<ruby>熊<rt>くま</rt></ruby>はぶどうを<ruby>枝<rt>えだ</rt></ruby>から<ruby>取<rt>と</rt></ruby>って<ruby>食<rt>た</rt></ruby>べていました。",
+            "origin": "田制さんは２６日、体の大きさが１ｍぐらいの熊が、畑でシャインマスカットを食べているところを見ました。田制さんが撮ったビデオを見ると、熊はぶどうを枝から取って食べていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "２８<ruby>日<rt>にち</rt></ruby>、ＮＨＫが<ruby>畑<rt>はたけ</rt></ruby>で<ruby>田制<rt>たせい</rt></ruby>さんに<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いているとき、また<ruby>熊<rt>くま</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。<ruby>田制<rt>たせい</rt></ruby>さんが<ruby>花火<rt>はなび</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ばすと、<ruby>熊<rt>くま</rt></ruby>は１<ruby>度<rt>ど</rt></ruby><ruby>逃<rt>に</rt></ruby>げましたが、また<ruby>畑<rt>はたけ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ってシャインマスカットを<ruby>食<rt>た</rt></ruby>べていました。",
+            "origin": "２８日、ＮＨＫが畑で田制さんに話を聞いているとき、また熊が来ました。田制さんが花火を飛ばすと、熊は１度逃げましたが、また畑に戻ってシャインマスカットを食べていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>熊<rt>くま</rt></ruby>は<ruby>今週<rt>こんしゅう</rt></ruby>、<ruby>田制<rt>たせい</rt></ruby>さんの<ruby>畑<rt>はたけ</rt></ruby>に４<ruby>回<rt>かい</rt></ruby><ruby>来<rt>き</rt></ruby>ました。シャインマスカットが６０<ruby>房<rt>ふさ</rt></ruby>ぐらい<ruby>食<rt>た</rt></ruby>べられて、<ruby>被害<rt>ひがい</rt></ruby>は１０<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいになりました。",
+            "origin": "熊は今週、田制さんの畑に４回来ました。シャインマスカットが６０房ぐらい食べられて、被害は１０万円ぐらいになりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>田制<rt>たせい</rt></ruby>さんは「びっくりしました。いつも<ruby>同<rt>おな</rt></ruby>じ<ruby>熊<rt>くま</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。<ruby>早<rt>はや</rt></ruby>くいなくなるようにしてほしいです」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "田制さんは「びっくりしました。いつも同じ熊だと思います。早くいなくなるようにしてほしいです」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012684571000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201028/../20201028/K10012684571_2010281452_2010281500_01_03.jpg",
+    "newsmovie": "k10012684571_202010281514_202010281514.mp4",
+    "path": "appdata/news/k10012684571000.json"
+}

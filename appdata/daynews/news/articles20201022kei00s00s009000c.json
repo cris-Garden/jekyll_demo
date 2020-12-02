@@ -1,0 +1,20 @@
+{
+    "id": "articles20201022kei00s00s009000c",
+    "title": "サイバー攻撃",
+    "ruby": "",
+    "time": "2020年10月22日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/10/22/20201022kei00s00s031000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20201022/kei/00s/00s/009000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "インターネットを<ruby>通<rt>とお</rt></ruby>して<ruby>他人<rt>たにん</rt></ruby>のコンピューターに<ruby>不正<rt>ふせい</rt></ruby>な<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>入<rt>はい</rt></ruby>り<ruby>込<rt>こ</rt></ruby>み、<ruby>個人情報<rt>こじんじょうほう</rt></ruby>や<ruby>企業秘密<rt>きぎょうひみつ</rt></ruby>などのデータを<ruby>盗<rt>ぬす</rt></ruby>んだり、システムを<ruby>壊<rt>こわ</rt></ruby>したりすることです。オリンピック（<ruby>五輪<rt>ごりん</rt></ruby>）をめぐっては、２０１２<ruby>年<rt>ねん</rt></ruby>ロンドン<ruby>五輪<rt>ごりん</rt></ruby>が<ruby>約<rt>やく</rt></ruby>２<ruby>億<rt>おく</rt></ruby><ruby>件<rt>けん</rt></ruby>のサイバー<ruby>攻撃<rt>こうげき</rt></ruby>を<ruby>受<rt>う</rt></ruby>けました。１８<ruby>年<rt>ねん</rt></ruby><ruby>平昌<rt>ピョンチャン</rt></ruby><ruby>冬季<rt>とうき</rt></ruby><ruby>五輪<rt>ごりん</rt></ruby>でも<ruby>準備期間<rt>じゅんびきかん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>を<ruby>含<rt>ふく</rt></ruby>めて<ruby>約<rt>やく</rt></ruby>６<ruby>億<rt>おく</rt></ruby><ruby>件<rt>けん</rt></ruby>のサイバー<ruby>攻撃<rt>こうげき</rt></ruby>があり、<ruby>Ｗｉ<rt>ワイ</rt></ruby>－<ruby>Ｆｉ<rt>ファイ</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>などに<ruby>一時<rt>いちじ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>障害<rt>しょうがい</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>しました。",
+            "origin": "インターネットを通して他人のコンピューターに不正な方法で入り込み、個人情報や企業秘密などのデータを盗んだり、システムを壊したりすることです。オリンピック（五輪）をめぐっては、２０１２年ロンドン五輪が約２億件のサイバー攻撃を受けました。１８年平昌冬季五輪でも準備期間中を含めて約６億件のサイバー攻撃があり、Ｗｉ－Ｆｉ環境などに一時的な障害が発生しました。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/10/22/20201022kei00s00s031000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201022kei00s00s009000c.json"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "k10012691981000",
+    "title": "成田空港にウイルス検査の「ＰＣＲセンター」ができる",
+    "ruby": "<ruby>成田空港<rt>なりたくうこう</rt></ruby>にウイルス<ruby>検査<rt>けんさ</rt></ruby>の「ＰＣＲセンター」ができる",
+    "time": "2020-11-04",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012691981000/k10012691981000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>とほかの<ruby>国<rt>くに</rt></ruby>や<ruby>地域<rt>ちいき</rt></ruby>との<ruby>間<rt>あいだ</rt></ruby>で、<ruby>行<rt>い</rt></ruby>ったり<ruby>来<rt>き</rt></ruby>たりすることが<ruby>少<rt>すこ</rt></ruby>しずつできるようになっています。ほかの<ruby>国<rt>くに</rt></ruby>や<ruby>地域<rt>ちいき</rt></ruby>に<ruby>行<rt>い</rt></ruby>くために、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつっていないことを<ruby>証明<rt>しょうめい</rt></ruby>する<ruby>書類<rt>しょるい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>が、<ruby>今<rt>いま</rt></ruby>までより<ruby>多<rt>おお</rt></ruby>くなりそうです。",
+            "origin": "日本とほかの国や地域との間で、行ったり来たりすることが少しずつできるようになっています。ほかの国や地域に行くために、新しいコロナウイルスがうつっていないことを証明する書類が必要な人が、今までより多くなりそうです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>成田空港<rt>なりたくうこう</rt></ruby>に<ruby>２日<rt>ふつか</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>を<ruby>出<rt>で</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>がウイルスの<ruby>検査<rt>けんさ</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける「ＰＣＲセンター」ができました。<ruby>日本<rt>にっぽん</rt></ruby>にある<ruby>空港<rt>くうこう</rt></ruby>では<ruby>初<rt>はじ</rt></ruby>めてです。センターには<ruby>医者<rt>いしゃ</rt></ruby>や<ruby>看護師<rt>かんごし</rt></ruby>などが３０<ruby>人<rt>にん</rt></ruby>ぐらいいます。２４<ruby>時間<rt>じかん</rt></ruby>いつでも<ruby>検査<rt>けんさ</rt></ruby>ができます。１<ruby>日<rt>にち</rt></ruby>に７００<ruby>人<rt>にん</rt></ruby>ぐらいの<ruby>検査<rt>けんさ</rt></ruby>ができます。",
+            "origin": "成田空港に２日、日本を出る人がウイルスの検査を受ける「ＰＣＲセンター」ができました。日本にある空港では初めてです。センターには医者や看護師などが３０人ぐらいいます。２４時間いつでも検査ができます。１日に７００人ぐらいの検査ができます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>予約<rt>よやく</rt></ruby>がなくても<ruby>検査<rt>けんさ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることができます。<ruby>今<rt>いま</rt></ruby>は６<ruby>時間<rt>じかん</rt></ruby>ぐらい、１２<ruby>月<rt>がつ</rt></ruby>からは２<ruby>時間<rt>じかん</rt></ruby>ぐらいで、ウイルスがうつっていないことを<ruby>証明<rt>しょうめい</rt></ruby>する<ruby>書類<rt>しょるい</rt></ruby>をもらうことができます。",
+            "origin": "予約がなくても検査を受けることができます。今は６時間ぐらい、１２月からは２時間ぐらいで、ウイルスがうつっていないことを証明する書類をもらうことができます。"
+        }
+    ],
+    "voiceurl": "k10012691981000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201102/../20201102/K10012691981_2011021218_2011021223_01_03.jpg",
+    "newsmovie": "k10012691981_202011021218_202011021219.mp4",
+    "path": "appdata/news/k10012691981000.json"
+}

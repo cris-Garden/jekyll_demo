@@ -1,0 +1,35 @@
+{
+    "id": "k10012687791000",
+    "title": "まだ見つかっていないウイルス　「８５万種類ある可能性」",
+    "ruby": "まだ<ruby>見<rt>み</rt></ruby>つかっていないウイルス　「８５<ruby>万<rt>まん</rt></ruby><ruby>種類<rt>しゅるい</rt></ruby>ある<ruby>可能性<rt>かのうせい</rt></ruby>」",
+    "time": "2020-11-02",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012687791000/k10012687791000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>など<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>の<ruby>科学<rt>かがく</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まるＩＰＢＥＳは、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスやエイズなど<ruby>人<rt>ひと</rt></ruby>にうつる<ruby>病気<rt>びょうき</rt></ruby>について<ruby>発表<rt>はっぴょう</rt></ruby>しました。",
+            "origin": "日本など多くの国の科学の専門家が集まるＩＰＢＥＳは、新しいコロナウイルスやエイズなど人にうつる病気について発表しました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "うつる<ruby>病気<rt>びょうき</rt></ruby>の<ruby>多<rt>おお</rt></ruby>くは、<ruby>動物<rt>どうぶつ</rt></ruby>が<ruby>持<rt>も</rt></ruby>つばい<ruby>菌<rt>きん</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>です。<ruby>人<rt>ひと</rt></ruby>にうつる<ruby>可能性<rt>かのうせい</rt></ruby>があって、まだ<ruby>見<rt>み</rt></ruby>つかっていないウイルスは５４<ruby>万<rt>まん</rt></ruby>から８５<ruby>万<rt>まん</rt></ruby><ruby>種類<rt>しゅるい</rt></ruby>あるとＩＰＢＥＳは<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "うつる病気の多くは、動物が持つばい菌が原因です。人にうつる可能性があって、まだ見つかっていないウイルスは５４万から８５万種類あるとＩＰＢＥＳは考えています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>病気<rt>びょうき</rt></ruby>は、１９１８<ruby>年<rt>ねん</rt></ruby>の「スペインかぜ」のあと<ruby>世界<rt>せかい</rt></ruby>に<ruby>広<rt>ひろ</rt></ruby>がった<ruby>病気<rt>びょうき</rt></ruby>では６つ<ruby>目<rt>め</rt></ruby>です。<ruby>森<rt>もり</rt></ruby>の<ruby>木<rt>き</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなったりして<ruby>環境<rt>かんきょう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなると、<ruby>病気<rt>びょうき</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がりやすくなると<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "新しいコロナウイルスの病気は、１９１８年の「スペインかぜ」のあと世界に広がった病気では６つ目です。森の木が少なくなったりして環境が悪くなると、病気が広がりやすくなると言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "うつる<ruby>病気<rt>びょうき</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がると、<ruby>世界<rt>せかい</rt></ruby>で１<ruby>年<rt>ねん</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>で１００<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>損失<rt>そんしつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>るかもしれないと<ruby>言<rt>い</rt></ruby>っています。このため、<ruby>環境<rt>かんきょう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くならないようにすることや、<ruby>野生<rt>やせい</rt></ruby>の<ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>売<rt>う</rt></ruby>ったり<ruby>買<rt>か</rt></ruby>ったりできないようにすることが<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "うつる病気が広がると、世界で１年に日本のお金で１００兆円以上の損失が出るかもしれないと言っています。このため、環境が悪くならないようにすることや、野生の動物を売ったり買ったりできないようにすることが大切だと言っています。"
+        }
+    ],
+    "voiceurl": "k10012687791000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201030/../20201030/K10012687791_2010300630_2010300657_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012687791000.json"
+}

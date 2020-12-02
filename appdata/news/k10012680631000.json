@@ -1,0 +1,30 @@
+{
+    "id": "k10012680631000",
+    "title": "インフルエンザのワクチン　お年寄り以外も注射を受けられる",
+    "ruby": "インフルエンザのワクチン　お<ruby>年寄<rt>としよ</rt></ruby>り<ruby>以外<rt>いがい</rt></ruby>も<ruby>注射<rt>ちゅうしゃ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けられる",
+    "time": "2020-10-26",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012680631000/k10012680631000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がっている<ruby>今年<rt>ことし</rt></ruby>は、インフルエンザのワクチンの<ruby>注射<rt>ちゅうしゃ</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えると<ruby>国<rt>くに</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>えています。このため<ruby>国<rt>くに</rt></ruby>は１０<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から、<ruby>病気<rt>びょうき</rt></ruby>がひどくなりやすい６５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のお<ruby>年寄<rt>としよ</rt></ruby>りが<ruby>先<rt>さき</rt></ruby>に、<ruby>病院<rt>びょういん</rt></ruby>で<ruby>注射<rt>ちゅうしゃ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることができるようにしました。",
+            "origin": "新しいコロナウイルスが広がっている今年は、インフルエンザのワクチンの注射を受ける人が増えると国は考えています。このため国は１０月１日から、病気がひどくなりやすい６５歳以上のお年寄りが先に、病院で注射を受けることができるようにしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "そして２６<ruby>日<rt>にち</rt></ruby>からは、みんなが<ruby>注射<rt>ちゅうしゃ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることができるようにしました。<ruby>病院<rt>びょういん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>や、おなかに<ruby>赤<rt>あか</rt></ruby>ちゃんがいる<ruby>人<rt>ひと</rt></ruby>、<ruby>生<rt>う</rt></ruby>まれて６か<ruby>月<rt>げつ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんから<ruby>小学校<rt>しょうがっこう</rt></ruby>２<ruby>年生<rt>ねんせい</rt></ruby>までの<ruby>子<rt>こ</rt></ruby>どもは、<ruby>早<rt>はや</rt></ruby>く<ruby>注射<rt>ちゅうしゃ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けてほしいと<ruby>国<rt>くに</rt></ruby>は<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "そして２６日からは、みんなが注射を受けることができるようにしました。病院で働く人や、おなかに赤ちゃんがいる人、生まれて６か月の赤ちゃんから小学校２年生までの子どもは、早く注射を受けてほしいと国は言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国<rt>くに</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby>は<ruby>大人<rt>おとな</rt></ruby>だと６６４４<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>に<ruby>注射<rt>ちゅうしゃ</rt></ruby>できるワクチンを<ruby>用意<rt>ようい</rt></ruby>しています。<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>より２８０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらい<ruby>多<rt>おお</rt></ruby>く<ruby>注射<rt>ちゅうしゃ</rt></ruby>できるようにしました。",
+            "origin": "国によると、今年は大人だと６６４４万人に注射できるワクチンを用意しています。最初の計画より２８０万人ぐらい多く注射できるようにしました。"
+        }
+    ],
+    "voiceurl": "k10012680631000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201026/../20201026/K10012680631_2010260536_2010260537_01_03.jpg",
+    "newsmovie": "k10012680631_202010260536_202010260537.mp4",
+    "path": "appdata/news/k10012680631000.json"
+}

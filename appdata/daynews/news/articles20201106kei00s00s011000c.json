@@ -1,0 +1,25 @@
+{
+    "id": "articles20201106kei00s00s011000c",
+    "title": "日経平均株価",
+    "ruby": "",
+    "time": "2020年11月6日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20201106/kei/00s/00s/011000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京証券取引所<rt>とうきょうしょうけんとりひきじょ</rt></ruby>の<ruby>第<rt>だい</rt></ruby>１<ruby>部<rt>ぶ</rt></ruby>で<ruby>売<rt>う</rt></ruby>り<ruby>買<rt>か</rt></ruby>いされる<ruby>株式<rt>かぶしき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>日本経済新聞社<rt>にほんけいざいしんぶんしゃ</rt></ruby>が<ruby>選<rt>えら</rt></ruby>んだ２２５<ruby>社<rt>しゃ</rt></ruby>の<ruby>株価<rt>かぶか</rt></ruby>の<ruby>平均<rt>へいきん</rt></ruby>です。<ruby>日本経済<rt>にほんけいざい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す<ruby>代表<rt>だいひょう</rt></ruby><ruby>的<rt>てき</rt></ruby>なものさしになっています。<ruby>日本<rt>にっぽん</rt></ruby>を<ruby>代表<rt>だいひょう</rt></ruby>する<ruby>幅広<rt>はばひろ</rt></ruby>い<ruby>業種<rt>ぎょうしゅ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>選<rt>えら</rt></ruby>ばれ、<ruby>定期的<rt>ていきてき</rt></ruby>に<ruby>入<rt>い</rt></ruby>れ<ruby>替<rt>か</rt></ruby>えられます。<ruby>株価<rt>かぶか</rt></ruby>は、<ruby>株<rt>かぶ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いたい<ruby>人<rt>ひと</rt></ruby>と<ruby>売<rt>う</rt></ruby>りたい<ruby>人<rt>ひと</rt></ruby>の<ruby>価格<rt>かかく</rt></ruby>によって<ruby>決<rt>き</rt></ruby>まるため、<ruby>常<rt>つね</rt></ruby>に<ruby>上<rt>あ</rt></ruby>がったり<ruby>下<rt>さ</rt></ruby>がったりします。<ruby>今<rt>いま</rt></ruby>までの<ruby>最高<rt>さいこう</rt></ruby>は「バブル<ruby>経済<rt>けいざい</rt></ruby>」といわれた１９８９<ruby>年<rt>ねん</rt></ruby><ruby>末<rt>まつ</rt></ruby>の<ruby>取引<rt>とりひき</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>記録<rt>きろく</rt></ruby>した３<ruby>万<rt>まん</rt></ruby>８９５７<ruby>円<rt>えん</rt></ruby>でした。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>株価<rt>かぶか</rt></ruby>の<ruby>値動<rt>ねうご</rt></ruby>きは、アメリカの<ruby>政治<rt>せいじ</rt></ruby>や<ruby>経済<rt>けいざい</rt></ruby>にも<ruby>影響<rt>えいきょう</rt></ruby>されます。",
+            "origin": "東京証券取引所の第１部で売り買いされる株式の中で、日本経済新聞社が選んだ２２５社の株価の平均です。日本経済の状態を示す代表的なものさしになっています。日本を代表する幅広い業種の会社が選ばれ、定期的に入れ替えられます。株価は、株を買いたい人と売りたい人の価格によって決まるため、常に上がったり下がったりします。今までの最高は「バブル経済」といわれた１９８９年末の取引時間中に記録した３万８９５７円でした。日本の株価の値動きは、アメリカの政治や経済にも影響されます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201106kei00s00s011000c.json"
+}

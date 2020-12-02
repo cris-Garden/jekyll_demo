@@ -1,0 +1,55 @@
+{
+    "id": "articles20201025kei00s00s009000c",
+    "title": "経済　東証ストップ　投資家の信用落とす",
+    "ruby": "",
+    "time": "2020年10月25日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/10/25/20201025kei00s00s010000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20201025/kei/00s/00s/009000c",
+    "body": [
+        {
+            "type": "h2",
+            "ruby": "<ruby>柳原美砂子<rt>やなぎはらみさこ</rt></ruby><ruby>毎日新聞<rt>まいにちしんぶん</rt></ruby><ruby>経済部<rt>けいざいぶ</rt></ruby><ruby>副部長<rt>ふくぶちょう</rt></ruby>",
+            "origin": "柳原美砂子毎日新聞経済部副部長"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株式<rt>かぶしき</rt></ruby>が<ruby>売<rt>う</rt></ruby>り<ruby>買<rt>か</rt></ruby>いされる<ruby>東京証券取引所<rt>とうきょうしょうけんとりひきじょ</rt></ruby>（<ruby>東証<rt>とうしょう</rt></ruby>）が１０<ruby>月<rt>がつ</rt></ruby>１<ruby>日<rt>ついたち</rt></ruby>、<ruby>突然<rt>とつぜん</rt></ruby>ストップして<ruby>大騒<rt>おおさわ</rt></ruby>ぎになりました。<ruby>証券取引所<rt>しょうけんとりひきじょ</rt></ruby>が<ruby>一日<rt>いちにち</rt></ruby><ruby>中<rt>じゅう</rt></ruby>、<ruby>止<rt>と</rt></ruby>まってしまうのは、<ruby>先進国<rt>せんしんこく</rt></ruby>では<ruby>異例<rt>いれい</rt></ruby>のことです。<ruby>原因<rt>げんいん</rt></ruby>は<ruby>機械<rt>きかい</rt></ruby>の<ruby>故障<rt>こしょう</rt></ruby>ですが、なぜ<ruby>防<rt>ふせ</rt></ruby>げなかったのでしょうか。また、ストップすると<ruby>何<rt>なに</rt></ruby>が<ruby>問題<rt>もんだい</rt></ruby>なのでしょうか。",
+            "origin": "会社の株式が売り買いされる東京証券取引所（東証）が１０月１日、突然ストップして大騒ぎになりました。証券取引所が一日中、止まってしまうのは、先進国では異例のことです。原因は機械の故障ですが、なぜ防げなかったのでしょうか。また、ストップすると何が問題なのでしょうか。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "まず、<ruby>証券取引<rt>しょうけんとりひき</rt></ruby><ruby>所<rt>じょ</rt></ruby>とは<ruby>何<rt>なに</rt></ruby>かをおさらいしましょう。<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>は<ruby>株式<rt>かぶしき</rt></ruby>を<ruby>発行<rt>はっこう</rt></ruby>し、<ruby>投資家<rt>とうしか</rt></ruby>に<ruby>買<rt>か</rt></ruby>ってもらって<ruby>事業<rt>じぎょう</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>なお<ruby>金<rt>かね</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めます。この<ruby>株式<rt>かぶしき</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>買<rt>か</rt></ruby>いできる<ruby>場所<rt>ばしょ</rt></ruby>が<ruby>証券取引所<rt>しょうけんとりひきじょ</rt></ruby>です。<ruby>会社<rt>かいしゃ</rt></ruby>がもうかってその<ruby>株式<rt>かぶしき</rt></ruby>の<ruby>人気<rt>にんき</rt></ruby>が<ruby>高<rt>たか</rt></ruby>まると、<ruby>株式<rt>かぶしき</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>（<ruby>株価<rt>かぶか</rt></ruby>）は<ruby>上<rt>あ</rt></ruby>がり、<ruby>株式<rt>かぶしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>（<ruby>株主<rt>かぶぬし</rt></ruby>）は<ruby>証券取引所<rt>しょうけんとりひきじょ</rt></ruby>で<ruby>他<rt>ほか</rt></ruby>の<ruby>投資家<rt>とうしか</rt></ruby>に<ruby>高<rt>たか</rt></ruby>く<ruby>売<rt>う</rt></ruby>ってもうけることもできます。",
+            "origin": "まず、証券取引所とは何かをおさらいしましょう。株式会社は株式を発行し、投資家に買ってもらって事業に必要なお金を集めます。この株式を売り買いできる場所が証券取引所です。会社がもうかってその株式の人気が高まると、株式の値段（株価）は上がり、株式を持っている人（株主）は証券取引所で他の投資家に高く売ってもうけることもできます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>停止<rt>ていし</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>となった<ruby>機械<rt>きかい</rt></ruby>は、<ruby>故障<rt>こしょう</rt></ruby>すると<ruby>自動的<rt>じどうてき</rt></ruby>に<ruby>別<rt>べつ</rt></ruby>の<ruby>機械<rt>きかい</rt></ruby>に<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>わるはずでしたが、<ruby>設定<rt>せってい</rt></ruby>にミスがあり、<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>わりませんでした。このため、<ruby>一日<rt>いちにち</rt></ruby><ruby>中<rt>じゅう</rt></ruby><ruby>売<rt>う</rt></ruby>り<ruby>買<rt>か</rt></ruby>いができなくなったのです。<ruby>事前<rt>じぜん</rt></ruby>のテストや<ruby>点検<rt>てんけん</rt></ruby>が<ruby>不十分<rt>ふじゅうぶん</rt></ruby>でした。",
+            "origin": "停止の原因となった機械は、故障すると自動的に別の機械に切り替わるはずでしたが、設定にミスがあり、切り替わりませんでした。このため、一日中売り買いができなくなったのです。事前のテストや点検が不十分でした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東証<rt>とうしょう</rt></ruby>では１<ruby>日<rt>にち</rt></ruby><ruby>当<rt>あ</rt></ruby>たり３<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby>もの<ruby>株式<rt>かぶしき</rt></ruby>が<ruby>取引<rt>とりひき</rt></ruby>されています。<ruby>個人<rt>こじん</rt></ruby>だけでなく、<ruby>銀行<rt>ぎんこう</rt></ruby>や<ruby>保険会社<rt>ほけんがいしゃ</rt></ruby>も<ruby>客<rt>きゃく</rt></ruby>から<ruby>預<rt>あず</rt></ruby>かったお<ruby>金<rt>かね</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やすため<ruby>取引<rt>とりひき</rt></ruby>をしています。<ruby>東証<rt>とうしょう</rt></ruby>が<ruby>突然<rt>とつぜん</rt></ruby>ストップしたことで、こうした<ruby>投資<rt>とうし</rt></ruby><ruby>家<rt>か</rt></ruby>がもうけたり<ruby>損<rt>そん</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らしたりする<ruby>機会<rt>きかい</rt></ruby>が<ruby>失<rt>うしな</rt></ruby>われました。この<ruby>日<rt>ひ</rt></ruby>に<ruby>東証<rt>とうしょう</rt></ruby>で<ruby>株式<rt>かぶしき</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>出<rt>だ</rt></ruby>してお<ruby>金<rt>かね</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めようとしていた<ruby>会社<rt>かいしゃ</rt></ruby>にも<ruby>影響<rt>えいきょう</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました。",
+            "origin": "東証では１日当たり３兆円もの株式が取引されています。個人だけでなく、銀行や保険会社も客から預かったお金を増やすため取引をしています。東証が突然ストップしたことで、こうした投資家がもうけたり損を減らしたりする機会が失われました。この日に東証で株式を売り出してお金を集めようとしていた会社にも影響が出ました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>深刻<rt>しんこく</rt></ruby>なのは、<ruby>東証<rt>とうしょう</rt></ruby>が「<ruby>投資家<rt>とうしか</rt></ruby>が<ruby>安心<rt>あんしん</rt></ruby>して<ruby>取引<rt>とりひき</rt></ruby>できる」という<ruby>信用<rt>しんよう</rt></ruby>を<ruby>落<rt>お</rt></ruby>としてしまったことです。<ruby>日本政府<rt>にっぽんせいふ</rt></ruby>は<ruby>東証<rt>とうしょう</rt></ruby>を<ruby>世界<rt>せかい</rt></ruby><ruby>有数<rt>ゆうすう</rt></ruby>の<ruby>証券取引所<rt>しょうけんとりひきじょ</rt></ruby>にして、<ruby>世界中<rt>せかいじゅう</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めたいと<ruby>考<rt>かんが</rt></ruby>えていますが、<ruby>今回<rt>こんかい</rt></ruby>の<ruby>停止<rt>ていし</rt></ruby>が<ruby>冷<rt>ひ</rt></ruby>や<ruby>水<rt>みず</rt></ruby>をかけました。",
+            "origin": "深刻なのは、東証が「投資家が安心して取引できる」という信用を落としてしまったことです。日本政府は東証を世界有数の証券取引所にして、世界中から日本にお金を集めたいと考えていますが、今回の停止が冷や水をかけました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>金融庁<rt>きんゆうちょう</rt></ruby>は２３<ruby>日<rt>にち</rt></ruby>、<ruby>問題点<rt>もんだいてん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるため、<ruby>東証<rt>とうしょう</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち<ruby>入<rt>い</rt></ruby>り<ruby>検査<rt>けんさ</rt></ruby>をしました。いつでも<ruby>安心<rt>あんしん</rt></ruby>して<ruby>取引<rt>とりひき</rt></ruby>できるよう、<ruby>対策<rt>たいさく</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められます。",
+            "origin": "金融庁は２３日、問題点を調べるため、東証に立ち入り検査をしました。いつでも安心して取引できるよう、対策が求められます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>経済部<rt>けいざいぶ</rt></ruby>で、<ruby>省庁<rt>しょうちょう</rt></ruby>や<ruby>銀行<rt>ぎんこう</rt></ruby>、メーカーなどの<ruby>取材<rt>しゅざい</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>。<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>散歩<rt>さんぽ</rt></ruby>や<ruby>山歩<rt>やまある</rt></ruby>き。<ruby>学生時代<rt>がくせいじだい</rt></ruby>は<ruby>少林寺拳法<rt>しょうりんじけんぽう</rt></ruby>をやっていました。１９７３<ruby>年福岡県生<rt>ねんふくおかけんう</rt></ruby>まれ。<ruby>好物<rt>こうぶつ</rt></ruby>は、<ruby>博多<rt>はかた</rt></ruby>では<ruby>生<rt>なま</rt></ruby>で<ruby>食<rt>た</rt></ruby>べることが<ruby>多<rt>おお</rt></ruby>いサバ。",
+            "origin": "経済部で、省庁や銀行、メーカーなどの取材を担当。趣味は散歩や山歩き。学生時代は少林寺拳法をやっていました。１９７３年福岡県生まれ。好物は、博多では生で食べることが多いサバ。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/10/25/20201025kei00s00s010000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201025kei00s00s009000c.json"
+}

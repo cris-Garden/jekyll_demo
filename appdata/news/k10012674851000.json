@@ -1,0 +1,40 @@
+{
+    "id": "k10012674851000",
+    "title": "実験でわかる　マスクは体に入るコロナウイルスを少なくする",
+    "ruby": "<ruby>実験<rt>じっけん</rt></ruby>でわかる　マスクは<ruby>体<rt>からだ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るコロナウイルスを<ruby>少<rt>すく</rt></ruby>なくする",
+    "time": "2020-10-23",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012674851000/k10012674851000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京大学<rt>とうきょうだいがく</rt></ruby><ruby>医科学研究所<rt>いかがくけんきゅうしょ</rt></ruby>のグループは、<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスを<ruby>使<rt>つか</rt></ruby>って、マスクをすると<ruby>体<rt>からだ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るウイルスをどのくらい<ruby>少<rt>すく</rt></ruby>なくできるか<ruby>実験<rt>じっけん</rt></ruby>しました。",
+            "origin": "東京大学医科学研究所のグループは、本当の新しいコロナウイルスを使って、マスクをすると体に入るウイルスをどのくらい少なくできるか実験しました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>グループは、ウイルスが<ruby>入<rt>はい</rt></ruby>った<ruby>飛<rt>ひ</rt></ruby>まつを<ruby>口<rt>くち</rt></ruby>から<ruby>出<rt>だ</rt></ruby>す<ruby>人形<rt>にんぎょう</rt></ruby>と、<ruby>人<rt>ひと</rt></ruby>のように<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>う<ruby>人形<rt>にんぎょう</rt></ruby>を、<ruby>向<rt>む</rt></ruby>かい<ruby>合<rt>あ</rt></ruby>うように<ruby>置<rt>お</rt></ruby>きました。",
+            "origin": "研究グループは、ウイルスが入った飛まつを口から出す人形と、人のように空気を吸う人形を、向かい合うように置きました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>う<ruby>人形<rt>にんぎょう</rt></ruby>だけに<ruby>布<rt>ぬの</rt></ruby>のマスクをした<ruby>場合<rt>ばあい</rt></ruby>、<ruby>吸<rt>す</rt></ruby>ったウイルスは１７％<ruby>少<rt>すく</rt></ruby>なくなりました。サージカルマスクをした<ruby>場合<rt>ばあい</rt></ruby>は４７％<ruby>少<rt>すく</rt></ruby>なくなりました。<ruby>病院<rt>びょういん</rt></ruby>などで<ruby>使<rt>つか</rt></ruby>う「Ｎ９５」というマスクを、<ruby>顔<rt>かお</rt></ruby>と<ruby>隙間<rt>すきま</rt></ruby>がないようにした<ruby>場合<rt>ばあい</rt></ruby>は７９％<ruby>少<rt>すく</rt></ruby>なくなりました。",
+            "origin": "空気を吸う人形だけに布のマスクをした場合、吸ったウイルスは１７％少なくなりました。サージカルマスクをした場合は４７％少なくなりました。病院などで使う「Ｎ９５」というマスクを、顔と隙間がないようにした場合は７９％少なくなりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "しかし、<ruby>両方<rt>りょうほう</rt></ruby>の<ruby>人形<rt>にんぎょう</rt></ruby>にマスクをしても、ウイルスを<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>吸<rt>す</rt></ruby>わないようにすることはできませんでした。",
+            "origin": "しかし、両方の人形にマスクをしても、ウイルスを全然吸わないようにすることはできませんでした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>研究<rt>けんきゅう</rt></ruby>グループは「マスクをすることが<ruby>大切<rt>たいせつ</rt></ruby>だとわかりました。しかし、ウイルスが<ruby>体<rt>からだ</rt></ruby>に<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>入<rt>はい</rt></ruby>らないようにすることはできないので、マスクだけで<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>わないことも<ruby>大切<rt>たいせつ</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "研究グループは「マスクをすることが大切だとわかりました。しかし、ウイルスが体に全然入らないようにすることはできないので、マスクだけで大丈夫だと思わないことも大切です」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012674851000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201022/../20201022/K10012674851_2010221007_2010221025_01_03.jpg",
+    "newsmovie": "k10012674851_202010221003_202010221005.mp4",
+    "path": "appdata/news/k10012674851000.json"
+}

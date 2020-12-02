@@ -1,0 +1,35 @@
+{
+    "id": "k10012716541000",
+    "title": "札幌市でウイルスが広がる　「できるだけ出かけないで」",
+    "ruby": "<ruby>札幌市<rt>さっぽろし</rt></ruby>でウイルスが<ruby>広<rt>ひろ</rt></ruby>がる　「できるだけ<ruby>出<rt>で</rt></ruby>かけないで」",
+    "time": "2020-11-18",
+    "imgurl": "k10012716541000.jpg",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012716541000/k10012716541000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>では、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がり<ruby>続<rt>つづ</rt></ruby>けています。<ruby>札幌市<rt>さっぽろし</rt></ruby>では、<ruby>毎日<rt>まいにち</rt></ruby>１００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>にウイルスがうつっています。",
+            "origin": "北海道では、新しいコロナウイルスが広がり続けています。札幌市では、毎日１００人以上にウイルスがうつっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>は１７<ruby>日<rt>にち</rt></ruby>、<ruby>札幌市<rt>さっぽろし</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>に、ウイルスがうつる<ruby>危険<rt>きけん</rt></ruby>がある<ruby>場合<rt>ばあい</rt></ruby>は、できるだけ<ruby>出<rt>で</rt></ruby>かけないでくださいと<ruby>言<rt>い</rt></ruby>いました。そして、できるだけ<ruby>市<rt>し</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>行<rt>い</rt></ruby>かないように<ruby>言<rt>い</rt></ruby>いました。<ruby>札幌市<rt>さっぽろし</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>には、できるだけ<ruby>札幌市<rt>さっぽろし</rt></ruby>に<ruby>行<rt>い</rt></ruby>かないように<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "北海道は１７日、札幌市に住んでいる人に、ウイルスがうつる危険がある場合は、できるだけ出かけないでくださいと言いました。そして、できるだけ市の外に行かないように言いました。札幌市の外に住んでいる人には、できるだけ札幌市に行かないように言いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>知事<rt>ちじ</rt></ruby>は「<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでにウイルスを<ruby>止<rt>と</rt></ruby>めるために、みなさんに<ruby>協力<rt>きょうりょく</rt></ruby>してほしいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "北海道の知事は「今月の終わりまでにウイルスを止めるために、みなさんに協力してほしいと思います」と言いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>大勢<rt>おおぜい</rt></ruby>で<ruby>集<rt>あつ</rt></ruby>まって<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>、<ruby>食事<rt>しょくじ</rt></ruby>をしたりお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだりすると、ウイルスがうつる<ruby>危険<rt>きけん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなります。<ruby>札幌市<rt>さっぽろし</rt></ruby>の<ruby>市長<rt>しちょう</rt></ruby>は「<ruby>食事<rt>しょくじ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くときは、４<ruby>人<rt>にん</rt></ruby>までにして、２<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>まないでください」と<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "大勢で集まって長い時間、食事をしたりお酒を飲んだりすると、ウイルスがうつる危険が高くなります。札幌市の市長は「食事に行くときは、４人までにして、２時間以上お酒を飲まないでください」と言いました。"
+        }
+    ],
+    "voiceurl": "k10012716541000.mp4",
+    "movieurl": "''",
+    "newimage": "",
+    "newsmovie": "",
+    "path": "appdata/news/k10012716541000.json"
+}

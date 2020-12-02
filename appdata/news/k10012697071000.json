@@ -1,0 +1,30 @@
+{
+    "id": "k10012697071000",
+    "title": "任天堂　ゲームがよく売れて利益は去年の３．４倍になる",
+    "ruby": "<ruby>任天堂<rt>にんてんどう</rt></ruby>　ゲームがよく<ruby>売<rt>う</rt></ruby>れて<ruby>利益<rt>りえき</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>の３．４<ruby>倍<rt>ばい</rt></ruby>になる",
+    "time": "2020-11-09",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012697071000/k10012697071000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>任天堂<rt>にんてんどう</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から９<ruby>月<rt>がつ</rt></ruby>までの<ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げは７６９５<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>と<ruby>比<rt>くら</rt></ruby>べて７３％<ruby>増<rt>ふ</rt></ruby>えました。<ruby>利益<rt>りえき</rt></ruby>もとても<ruby>増<rt>ふ</rt></ruby>えて、<ruby>去年<rt>きょねん</rt></ruby>の３．４<ruby>倍<rt>ばい</rt></ruby>の２１３１<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>になりました。",
+            "origin": "任天堂によると、今年４月から９月までの売り上げは７６９５億円で、去年と比べて７３％増えました。利益もとても増えて、去年の３．４倍の２１３１億円になりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がって、<ruby>家<rt>いえ</rt></ruby>にいる<ruby>時間<rt>じかん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>くなっています。このため、ゲームの<ruby>機械<rt>きかい</rt></ruby>「ニンテンドースイッチ」と、「あつまれ　どうぶつの<ruby>森<rt>もり</rt></ruby>」というゲームがよく<ruby>売<rt>う</rt></ruby>れました。このゲームの<ruby>中<rt>なか</rt></ruby>では<ruby>自由<rt>じゆう</rt></ruby>な<ruby>生活<rt>せいかつ</rt></ruby>ができるため、とても<ruby>人気<rt>にんき</rt></ruby>があります。６か<ruby>月<rt>げつ</rt></ruby>で１４２７<ruby>万<rt>まん</rt></ruby><ruby>本<rt>ぼん</rt></ruby><ruby>売<rt>う</rt></ruby>れました。",
+            "origin": "新しいコロナウイルスが広がって、家にいる時間が長くなっています。このため、ゲームの機械「ニンテンドースイッチ」と、「あつまれ　どうぶつの森」というゲームがよく売れました。このゲームの中では自由な生活ができるため、とても人気があります。６か月で１４２７万本売れました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>任天堂<rt>にんてんどう</rt></ruby>は、１<ruby>年<rt>ねん</rt></ruby>の<ruby>利益<rt>りえき</rt></ruby>は２０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>になると<ruby>考<rt>かんが</rt></ruby>えていましたが、３０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>になるだろうと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "任天堂は、１年の利益は２０００億円になると考えていましたが、３０００億円になるだろうと考えています。"
+        }
+    ],
+    "voiceurl": "k10012697071000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201105/../20201105/K10012697071_2011051821_2011051843_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012697071000.json"
+}

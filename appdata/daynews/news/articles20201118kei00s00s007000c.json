@@ -1,0 +1,30 @@
+{
+    "id": "articles20201118kei00s00s007000c",
+    "title": "国内総生産（ＧＤＰ）",
+    "ruby": "",
+    "time": "2020年11月18日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20201118/kei/00s/00s/007000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国内<rt>こくない</rt></ruby>で<ruby>新<rt>あら</rt></ruby>たに<ruby>生<rt>う</rt></ruby>み<ruby>出<rt>だ</rt></ruby>されたモノやサービスの<ruby>価値<rt>かち</rt></ruby>の<ruby>合計<rt>ごうけい</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>です。<ruby>例<rt>たと</rt></ruby>えば、パン<ruby>屋<rt>や</rt></ruby>さんが１５０<ruby>円<rt>えん</rt></ruby>で<ruby>仕入<rt>しい</rt></ruby>れた<ruby>材料<rt>ざいりょう</rt></ruby>でパンを<ruby>焼<rt>や</rt></ruby>いて１８０<ruby>円<rt>えん</rt></ruby>で<ruby>売<rt>う</rt></ruby>ると、その<ruby>差<rt>さ</rt></ruby>の３０<ruby>円<rt>えん</rt></ruby>がパン<ruby>屋<rt>や</rt></ruby>さんが<ruby>新<rt>あら</rt></ruby>たに<ruby>生<rt>う</rt></ruby>み<ruby>出<rt>だ</rt></ruby>した<ruby>価値<rt>かち</rt></ruby>です。こうした<ruby>金額<rt>きんがく</rt></ruby>を<ruby>国中<rt>くにじゅう</rt></ruby>で<ruby>足<rt>た</rt></ruby>したものが、その<ruby>国<rt>くに</rt></ruby>のＧＤＰです。",
+            "origin": "国内で新たに生み出されたモノやサービスの価値の合計金額です。例えば、パン屋さんが１５０円で仕入れた材料でパンを焼いて１８０円で売ると、その差の３０円がパン屋さんが新たに生み出した価値です。こうした金額を国中で足したものが、その国のＧＤＰです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ＧＤＰは、<ruby>内閣府<rt>ないかくふ</rt></ruby>が３か<ruby>月<rt>げつ</rt></ruby>ごとに<ruby>計算<rt>けいさん</rt></ruby>し、<ruby>発表<rt>はっぴょう</rt></ruby>します。ＧＤＰがある<ruby>期間<rt>きかん</rt></ruby>にどれぐらい<ruby>変化<rt>へんか</rt></ruby>したかを<ruby>表<rt>あらわ</rt></ruby>したのが<ruby>経済成長<rt>けいざいせいちょう</rt></ruby><ruby>率<rt>りつ</rt></ruby>で、その<ruby>国<rt>くに</rt></ruby>の<ruby>経済力<rt>けいざいりょく</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>指標<rt>しひょう</rt></ruby>です。ただし、<ruby>災害<rt>さいがい</rt></ruby>などで<ruby>大幅<rt>おおはば</rt></ruby>に<ruby>落<rt>お</rt></ruby>ち<ruby>込<rt>こ</rt></ruby>んだ<ruby>後<rt>あと</rt></ruby>は、<ruby>伸<rt>の</rt></ruby>び<ruby>率<rt>りつ</rt></ruby>も<ruby>跳<rt>は</rt></ruby>ね<ruby>上<rt>あ</rt></ruby>がります。その<ruby>場合<rt>ばあい</rt></ruby>、ＧＤＰの<ruby>金額<rt>きんがく</rt></ruby>を<ruby>見<rt>み</rt></ruby>た<ruby>方<rt>ほう</rt></ruby>が、<ruby>経済<rt>けいざい</rt></ruby>の<ruby>実態<rt>じったい</rt></ruby>がつかめます。",
+            "origin": "ＧＤＰは、内閣府が３か月ごとに計算し、発表します。ＧＤＰがある期間にどれぐらい変化したかを表したのが経済成長率で、その国の経済力を表す指標です。ただし、災害などで大幅に落ち込んだ後は、伸び率も跳ね上がります。その場合、ＧＤＰの金額を見た方が、経済の実態がつかめます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201118kei00s00s007000c.json"
+}

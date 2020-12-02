@@ -1,0 +1,30 @@
+{
+    "id": "k10012694741000",
+    "title": "大きな穴があいた道の地下で空洞が見つかった",
+    "ruby": "<ruby>大<rt>おお</rt></ruby>きな<ruby>穴<rt>あな</rt></ruby>があいた<ruby>道<rt>みち</rt></ruby>の<ruby>地下<rt>ちか</rt></ruby>で<ruby>空洞<rt>くうどう</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかった",
+    "time": "2020-11-06",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012694741000/k10012694741000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>調布市<rt>ちょうふし</rt></ruby>で<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>家<rt>いえ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>道<rt>みち</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>穴<rt>あな</rt></ruby>があきました。<ruby>４日<rt>よっか</rt></ruby>、ここの<ruby>地下<rt>ちか</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>でトンネルをつくっている<ruby>東日本高速道路<rt>ひがしにほんこうそくどうろ</rt></ruby>が、<ruby>地下<rt>ちか</rt></ruby>で<ruby>空洞<rt>くうどう</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。",
+            "origin": "東京都調布市で先月、家の前の道に大きな穴があきました。４日、ここの地下の深い所でトンネルをつくっている東日本高速道路が、地下で空洞が見つかったと発表しました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>見<rt>み</rt></ruby>つかった<ruby>空洞<rt>くうどう</rt></ruby>は<ruby>地下<rt>ちか</rt></ruby>５ｍより<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>にあります。<ruby>幅<rt>はば</rt></ruby>が４ｍぐらい、<ruby>高<rt>たか</rt></ruby>さが３mぐらい、<ruby>長<rt>なが</rt></ruby>さが３０ｍぐらいで、<ruby>地面<rt>じめん</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>空間<rt>くうかん</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がっていました。",
+            "origin": "見つかった空洞は地下５ｍより深い所にあります。幅が４ｍぐらい、高さが３mぐらい、長さが３０ｍぐらいで、地面の下に空間が広がっていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東日本高速道路<rt>ひがしにほんこうそくどうろ</rt></ruby>は「<ruby>空洞<rt>くうどう</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>の<ruby>下<rt>した</rt></ruby>にも<ruby>広<rt>ひろ</rt></ruby>がっているようです。すぐに<ruby>地面<rt>じめん</rt></ruby>に<ruby>穴<rt>あな</rt></ruby>があくことなどはありませんが、<ruby>地面<rt>じめん</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>をチェックしています」と<ruby>言<rt>い</rt></ruby>っています。そして「トンネルの<ruby>工事<rt>こうじ</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>かどうかはわかりません。すぐに<ruby>埋<rt>う</rt></ruby>めます」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "東日本高速道路は「空洞は家の下にも広がっているようです。すぐに地面に穴があくことなどはありませんが、地面の様子をチェックしています」と言っています。そして「トンネルの工事が原因かどうかはわかりません。すぐに埋めます」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012694741000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201104/../20201104/K10012694741_2011041942_2011041945_01_03.jpg",
+    "newsmovie": "k10012694741_202011041820_202011041826.mp4",
+    "path": "appdata/news/k10012694741000.json"
+}

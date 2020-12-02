@@ -1,0 +1,25 @@
+{
+    "id": "articles20201105kei00s00s010000c",
+    "title": "クマはこないで　北海道",
+    "ruby": "",
+    "time": "2020年11月5日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/11/05/20201105kei00s00s029000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20201105/kei/00s/00s/010000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "「ウォー」。ヒグマがよく<ruby>出<rt>で</rt></ruby>るようになった<ruby>北海道滝川<rt>ほっかいどうたきかわ</rt></ruby><ruby>市<rt>し</rt></ruby>で、オオカミのすがたをしたロボットがうなりごえを<ruby>上<rt>あ</rt></ruby>げ、<ruby>赤<rt>あか</rt></ruby>い<ruby>目<rt>め</rt></ruby>をひからせています＝<ruby>写真<rt>しゃしん</rt></ruby>。ヒグマが<ruby>人<rt>ひと</rt></ruby>におよぼすひがいをさけようと、<ruby>滝川市<rt>たきかわし</rt></ruby>が９<ruby>月<rt>がつ</rt></ruby>からおきはじめました。",
+            "origin": "「ウォー」。ヒグマがよく出るようになった北海道滝川市で、オオカミのすがたをしたロボットがうなりごえを上げ、赤い目をひからせています＝写真。ヒグマが人におよぼすひがいをさけようと、滝川市が９月からおきはじめました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ロボットは、ちかづいたどうぶつをセンサーがかんじとり、くびをふってうなりごえを<ruby>上<rt>あ</rt></ruby>げておどします。",
+            "origin": "ロボットは、ちかづいたどうぶつをセンサーがかんじとり、くびをふってうなりごえを上げておどします。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/11/05/20201105kei00s00s029000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201105kei00s00s010000c.json"
+}

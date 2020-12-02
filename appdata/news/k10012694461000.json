@@ -1,0 +1,35 @@
+{
+    "id": "k10012694461000",
+    "title": "「頼んでもマスクをしない客はタクシーに乗せなくてもいい」",
+    "ruby": "「<ruby>頼<rt>たの</rt></ruby>んでもマスクをしない<ruby>客<rt>きゃく</rt></ruby>はタクシーに<ruby>乗<rt>の</rt></ruby>せなくてもいい」",
+    "time": "2020-11-05",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012694461000/k10012694461000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "タクシーは、ひどく<ruby>酒<rt>さけ</rt></ruby>に<ruby>酔<rt>よ</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>や<ruby>運転手<rt>うんてんしゅ</rt></ruby>を<ruby>殴<rt>なぐ</rt></ruby>ったりする<ruby>人<rt>ひと</rt></ruby><ruby>以外<rt>いがい</rt></ruby>は、<ruby>乗<rt>の</rt></ruby>せなければならないと<ruby>法律<rt>ほうりつ</rt></ruby>で<ruby>決<rt>き</rt></ruby>まっています。",
+            "origin": "タクシーは、ひどく酒に酔っている人や運転手を殴ったりする人以外は、乗せなければならないと法律で決まっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で、<ruby>東京都<rt>とうきょうと</rt></ruby>のタクシーの<ruby>会社<rt>かいしゃ</rt></ruby>などは、マスクをしない<ruby>客<rt>きゃく</rt></ruby>を<ruby>乗<rt>の</rt></ruby>せなくてもいいという<ruby>新<rt>あたら</rt></ruby>しいルールを<ruby>作<rt>つく</rt></ruby>りたいと<ruby>国<rt>くに</rt></ruby>に<ruby>言<rt>い</rt></ruby>っていました。",
+            "origin": "新しいコロナウイルスの問題で、東京都のタクシーの会社などは、マスクをしない客を乗せなくてもいいという新しいルールを作りたいと国に言っていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国<rt>くに</rt></ruby>は「タクシーの<ruby>運転手<rt>うんてんしゅ</rt></ruby>が<ruby>頼<rt>たの</rt></ruby>んでも<ruby>客<rt>きゃく</rt></ruby>がマスクをしない<ruby>場合<rt>ばあい</rt></ruby>は、その<ruby>客<rt>きゃく</rt></ruby>を<ruby>乗<rt>の</rt></ruby>せなくてもいい」と<ruby>言<rt>い</rt></ruby>いました。<ruby>運転手<rt>うんてんしゅ</rt></ruby>や<ruby>次<rt>つぎ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby>客<rt>きゃく</rt></ruby>にウイルスがうつらないようにするためです。<ruby>病気<rt>びょうき</rt></ruby>などの<ruby>理由<rt>りゆう</rt></ruby>でマスクができない<ruby>人<rt>ひと</rt></ruby>は<ruby>乗<rt>の</rt></ruby>せなければなりません。",
+            "origin": "国は「タクシーの運転手が頼んでも客がマスクをしない場合は、その客を乗せなくてもいい」と言いました。運転手や次に乗る客にウイルスがうつらないようにするためです。病気などの理由でマスクができない人は乗せなければなりません。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>電車<rt>でんしゃ</rt></ruby>やバスなどでも、マスクをしない<ruby>人<rt>ひと</rt></ruby>を<ruby>乗<rt>の</rt></ruby>せないようにする<ruby>新<rt>あたら</rt></ruby>しいルールができるかもしれません。",
+            "origin": "電車やバスなどでも、マスクをしない人を乗せないようにする新しいルールができるかもしれません。"
+        }
+    ],
+    "voiceurl": "k10012694461000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201104/../20201104/K10012694461_2011041159_2011041201_01_03.jpg",
+    "newsmovie": "k10012694461_202011041244_202011041245.mp4",
+    "path": "appdata/news/k10012694461000.json"
+}

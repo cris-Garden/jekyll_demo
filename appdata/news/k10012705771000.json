@@ -1,0 +1,35 @@
+{
+    "id": "k10012705771000",
+    "title": "ホンダ　高速道路が混んでいるとき自動で運転できる車を売る",
+    "ruby": "ホンダ　<ruby>高速道路<rt>こうそくどうろ</rt></ruby>が<ruby>混<rt>こ</rt></ruby>んでいるとき<ruby>自動<rt>じどう</rt></ruby>で<ruby>運転<rt>うんてん</rt></ruby>できる<ruby>車<rt>くるま</rt></ruby>を<ruby>売<rt>う</rt></ruby>る",
+    "time": "2020-11-13",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012705771000/k10012705771000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "ホンダは、<ruby>高速道路<rt>こうそくどうろ</rt></ruby>が<ruby>混<rt>こ</rt></ruby>んでいて<ruby>時速<rt>じそく</rt></ruby>５０ｋｍ<ruby>以下<rt>いか</rt></ruby>で<ruby>走<rt>はし</rt></ruby>っている<ruby>場合<rt>ばあい</rt></ruby>などに、<ruby>人<rt>ひと</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>しなくても<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>ることができる<ruby>車<rt>くるま</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。",
+            "origin": "ホンダは、高速道路が混んでいて時速５０ｋｍ以下で走っている場合などに、人が運転しなくても全部自動で走ることができる車を作りました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby>は、ホンダの<ruby>車<rt>くるま</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>をチェックして、<ruby>国<rt>くに</rt></ruby>が<ruby>決<rt>き</rt></ruby>めた<ruby>基準<rt>きじゅん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>っていると<ruby>言<rt>い</rt></ruby>いました。ホンダは<ruby>来年<rt>らいねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでに<ruby>車<rt>くるま</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めようと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "国土交通省は、ホンダの車の安全をチェックして、国が決めた基準に合っていると言いました。ホンダは来年３月の終わりまでに車を売り始めようと考えています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>の<ruby>技術<rt>ぎじゅつ</rt></ruby>は、どのくらい<ruby>自動<rt>じどう</rt></ruby>で<ruby>運転<rt>うんてん</rt></ruby>できるかで５つのレベルがあります。ホンダの<ruby>車<rt>くるま</rt></ruby>はレベル３です。レベル３の<ruby>車<rt>くるま</rt></ruby>を<ruby>売<rt>う</rt></ruby>るのは<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてです。",
+            "origin": "自動運転の技術は、どのくらい自動で運転できるかで５つのレベルがあります。ホンダの車はレベル３です。レベル３の車を売るのは世界で初めてです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>世界<rt>せかい</rt></ruby>ではＩＴの<ruby>会社<rt>かいしゃ</rt></ruby>なども<ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ろうとしていて、<ruby>激<rt>はげ</rt></ruby>しい<ruby>競争<rt>きょうそう</rt></ruby>になっています。",
+            "origin": "世界ではＩＴの会社なども自動運転の車を作ろうとしていて、激しい競争になっています。"
+        }
+    ],
+    "voiceurl": "k10012705771000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201111/../20201111/K10012705771_2011111108_2011111400_01_02.jpg",
+    "newsmovie": "k10012705771_202011111922_202011111923.mp4",
+    "path": "appdata/news/k10012705771000.json"
+}

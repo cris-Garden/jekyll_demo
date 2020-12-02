@@ -1,0 +1,35 @@
+{
+    "id": "k10012704501000",
+    "title": "自殺した人が去年より増える　女性は８０％以上増えた",
+    "ruby": "<ruby>自殺<rt>じさつ</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>が<ruby>去年<rt>きょねん</rt></ruby>より<ruby>増<rt>ふ</rt></ruby>える　<ruby>女性<rt>じょせい</rt></ruby>は８０％<ruby>以上<rt>いじょう</rt></ruby><ruby>増<rt>ふ</rt></ruby>えた",
+    "time": "2020-11-12",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012704501000/k10012704501000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>警察庁<rt>けいさつちょう</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>に２１５３<ruby>人<rt>にん</rt></ruby>が<ruby>自殺<rt>じさつ</rt></ruby>しました。<ruby>去年<rt>きょねん</rt></ruby>の１０<ruby>月<rt>がつ</rt></ruby>より<ruby>約<rt>やく</rt></ruby>４０％、６１４<ruby>人<rt>にん</rt></ruby><ruby>多<rt>おお</rt></ruby>くなりました。１か<ruby>月<rt>げつ</rt></ruby>に<ruby>自殺<rt>じさつ</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>は<ruby>今<rt>いま</rt></ruby>までの５<ruby>年<rt>ねん</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くなりました。",
+            "origin": "警察庁によると、今年１０月に２１５３人が自殺しました。去年の１０月より約４０％、６１４人多くなりました。１か月に自殺した人は今までの５年で最も多くなりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>自殺<rt>じさつ</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>は<ruby>男性<rt>だんせい</rt></ruby>も<ruby>女性<rt>じょせい</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くなっています。<ruby>特<rt>とく</rt></ruby>に<ruby>女性<rt>じょせい</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の１０<ruby>月<rt>がつ</rt></ruby>より８０％<ruby>以上<rt>いじょう</rt></ruby><ruby>増<rt>ふ</rt></ruby>えました。",
+            "origin": "自殺した人は男性も女性も多くなっています。特に女性は、去年の１０月より８０％以上増えました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>今年<rt>ことし</rt></ruby>７<ruby>月<rt>がつ</rt></ruby>から４か<ruby>月<rt>げつ</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて、<ruby>自殺<rt>じさつ</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>が<ruby>去年<rt>きょねん</rt></ruby>より<ruby>多<rt>おお</rt></ruby>くなっています。<ruby>国<rt>くに</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>などを<ruby>調<rt>しら</rt></ruby>べています。",
+            "origin": "今年７月から４か月続けて、自殺した人が去年より多くなっています。国は、新しいコロナウイルスの問題との関係などを調べています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>は「コロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で、<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>心配<rt>しんぱい</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>います。<ruby>１人<rt>ひとり</rt></ruby>で<ruby>悩<rt>なや</rt></ruby>まないで、<ruby>周<rt>まわ</rt></ruby>りの<ruby>人<rt>ひと</rt></ruby>や<ruby>県<rt>けん</rt></ruby>、<ruby>市<rt>し</rt></ruby>などに<ruby>相談<rt>そうだん</rt></ruby>してください」と<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "厚生労働省は「コロナウイルスの問題で、生活を心配している人が多いと思います。１人で悩まないで、周りの人や県、市などに相談してください」と言っています。"
+        }
+    ],
+    "voiceurl": "k10012704501000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201110/../20201110/K10012704501_2011101613_2011101614_01_02.jpg",
+    "newsmovie": "k10012704501_202011101816_202011101828.mp4",
+    "path": "appdata/news/k10012704501000.json"
+}

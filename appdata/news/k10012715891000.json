@@ -1,0 +1,40 @@
+{
+    "id": "k10012715891000",
+    "title": "モデルナ「ワクチンは９４．５％の効果があった」",
+    "ruby": "モデルナ「ワクチンは９４．５％の<ruby>効果<rt>こうか</rt></ruby>があった」",
+    "time": "2020-11-17",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012715891000/k10012715891000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "アメリカの<ruby>薬<rt>くすり</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のモデルナは、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスのワクチンをつくろうとしています。",
+            "origin": "アメリカの薬の会社のモデルナは、新しいコロナウイルスのワクチンをつくろうとしています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１６<ruby>日<rt>にち</rt></ruby>、モデルナは、３<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>った<ruby>最後<rt>さいご</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>のデータを<ruby>発表<rt>はっぴょう</rt></ruby>しました。この<ruby>中<rt>なか</rt></ruby>で、ワクチンを<ruby>受<rt>う</rt></ruby>けたのに<ruby>病気<rt>びょうき</rt></ruby>になった<ruby>人<rt>ひと</rt></ruby>は５<ruby>人<rt>にん</rt></ruby>だけでした。",
+            "origin": "１６日、モデルナは、３万人以上に行った最後の試験のデータを発表しました。この中で、ワクチンを受けたのに病気になった人は５人だけでした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "モデルナは「ワクチンは９４．５％の<ruby>効果<rt>こうか</rt></ruby>があった」と<ruby>言<rt>い</rt></ruby>っています。ワクチンを<ruby>受<rt>う</rt></ruby>けた<ruby>人<rt>ひと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に、<ruby>体<rt>からだ</rt></ruby>の<ruby>具合<rt>ぐあい</rt></ruby>がとても<ruby>悪<rt>わる</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>はいませんでした。",
+            "origin": "モデルナは「ワクチンは９４．５％の効果があった」と言っています。ワクチンを受けた人の中に、体の具合がとても悪くなった人はいませんでした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "モデルナは「<ruby>試験<rt>しけん</rt></ruby>はまだ<ruby>終<rt>お</rt></ruby>わっていないので、データはこれから<ruby>変<rt>か</rt></ruby>わるかもしれない」と<ruby>言<rt>い</rt></ruby>っています。そして、<ruby>試験<rt>しけん</rt></ruby>のデータを<ruby>科学<rt>かがく</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>に<ruby>出<rt>だ</rt></ruby>して、<ruby>問題<rt>もんだい</rt></ruby>がないかチェックしてもらうことにしています。",
+            "origin": "モデルナは「試験はまだ終わっていないので、データはこれから変わるかもしれない」と言っています。そして、試験のデータを科学の雑誌に出して、問題がないかチェックしてもらうことにしています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "モデルナは、<ruby>早<rt>はや</rt></ruby>くこのワクチンを<ruby>使<rt>つか</rt></ruby>うことができるように、アメリカの<ruby>政府<rt>せいふ</rt></ruby>に<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>むと<ruby>言<rt>い</rt></ruby>っています。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>政府<rt>せいふ</rt></ruby>は、２５００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>受<rt>う</rt></ruby>ける<ruby>量<rt>りょう</rt></ruby>のワクチンをモデルナから<ruby>買<rt>か</rt></ruby>うことにしています。",
+            "origin": "モデルナは、早くこのワクチンを使うことができるように、アメリカの政府に申し込むと言っています。日本の政府は、２５００万人が受ける量のワクチンをモデルナから買うことにしています。"
+        }
+    ],
+    "voiceurl": "k10012715891000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201116/../20201116/K10012715891_2011162331_2011162337_01_02.jpg",
+    "newsmovie": "k10012715891_202011171008_202011171010.mp4",
+    "path": "appdata/news/k10012715891000.json"
+}

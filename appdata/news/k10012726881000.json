@@ -1,0 +1,35 @@
+{
+    "id": "k10012726881000",
+    "title": "ウイルスがうつらないように「家族以外と食事しない」は少ない",
+    "ruby": "ウイルスがうつらないように「<ruby>家族<rt>かぞく</rt></ruby><ruby>以外<rt>いがい</rt></ruby>と<ruby>食事<rt>しょくじ</rt></ruby>しない」は<ruby>少<rt>すく</rt></ruby>ない",
+    "time": "2020-11-24",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012726881000/k10012726881000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本感染症学会<rt>にほんかんせんしょうがっかい</rt></ruby>などは<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>東京都<rt>とうきょうと</rt></ruby>とその<ruby>周<rt>まわ</rt></ruby>りに<ruby>住<rt>す</rt></ruby>む２０<ruby>歳<rt>さい</rt></ruby>から６９<ruby>歳<rt>さい</rt></ruby>の１０００<ruby>人<rt>にん</rt></ruby>にアンケートをしました。",
+            "origin": "日本感染症学会などは先月、東京都とその周りに住む２０歳から６９歳の１０００人にアンケートをしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつらないようにするために、<ruby>気<rt>き</rt></ruby>をつけていることを<ruby>聞<rt>き</rt></ruby>きました。「<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>う」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は８７．７％でした。「マスクをする」は８７．４％で、「<ruby>手<rt>て</rt></ruby>を<ruby>消毒<rt>しょうどく</rt></ruby>する」は６５．９％でした。<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>がマスクをしたり、<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>ったりしていることがわかりました。",
+            "origin": "新しいコロナウイルスがうつらないようにするために、気をつけていることを聞きました。「手を洗う」と答えた人は８７．７％でした。「マスクをする」は８７．４％で、「手を消毒する」は６５．９％でした。多くの人がマスクをしたり、手を洗ったりしていることがわかりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>次<rt>つぎ</rt></ruby>に、ウイルスがうつらないために、どんな<ruby>行動<rt>こうどう</rt></ruby>をしたらいいか<ruby>聞<rt>き</rt></ruby>きました。「<ruby>家族<rt>かぞく</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>食事<rt>しょくじ</rt></ruby>をしないことが<ruby>大切<rt>たいせつ</rt></ruby>だ」と、<ruby>正<rt>ただ</rt></ruby>しく<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は４４％だけでした。",
+            "origin": "次に、ウイルスがうつらないために、どんな行動をしたらいいか聞きました。「家族以外の人と食事をしないことが大切だ」と、正しく答えた人は４４％だけでした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>の<ruby>四柳<rt>よつやなぎ</rt></ruby><ruby>宏<rt>ひろし</rt></ruby><ruby>教授<rt>きょうじゅ</rt></ruby>は「<ruby>危<rt>あぶ</rt></ruby>ない<ruby>行動<rt>こうどう</rt></ruby>をしていないか、みんなが<ruby>気<rt>き</rt></ruby>をつけてほしいです」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "東京大学の四柳宏教授は「危ない行動をしていないか、みんなが気をつけてほしいです」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012726881000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201123/../20201123/K10012726881_2011231506_2011231508_01_03.jpg",
+    "newsmovie": "k10012726881_202011231506_202011231508.mp4",
+    "path": "appdata/news/k10012726881000.json"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "k10012719291000",
+    "title": "インドネシアで問題なかった１７人　関西空港でウイルスがわかる",
+    "ruby": "インドネシアで<ruby>問題<rt>もんだい</rt></ruby>なかった１７<ruby>人<rt>にん</rt></ruby>　<ruby>関西空港<rt>かんさいくうこう</rt></ruby>でウイルスがわかる",
+    "time": "2020-11-19",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012719291000/k10012719291000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "１１<ruby>日<rt>にち</rt></ruby>、インドネシアから<ruby>関西空港<rt>かんさいくうこう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いた１７<ruby>人<rt>にん</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>に、<ruby>空港<rt>くうこう</rt></ruby>の<ruby>検査<rt>けんさ</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつっていることがわかりました。",
+            "origin": "１１日、インドネシアから関西空港に着いた１７人の女性に、空港の検査で新しいコロナウイルスがうつっていることがわかりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１７<ruby>人<rt>にん</rt></ruby>は、インドネシアを<ruby>出<rt>で</rt></ruby>る７２<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>にウイルスの<ruby>検査<rt>けんさ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けて、<ruby>問題<rt>もんだい</rt></ruby>がないことがわかっていました。それを<ruby>証明<rt>しょうめい</rt></ruby>するインドネシアの<ruby>書類<rt>しょるい</rt></ruby>も<ruby>持<rt>も</rt></ruby>っていました。",
+            "origin": "１７人は、インドネシアを出る７２時間以内にウイルスの検査を受けて、問題がないことがわかっていました。それを証明するインドネシアの書類も持っていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１７<ruby>人<rt>にん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>体<rt>からだ</rt></ruby>の<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>はいませんが、<ruby>体<rt>からだ</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるため、みんな<ruby>大阪<rt>おおさか</rt></ruby>のホテルにいます。<ruby>日本<rt>にっぽん</rt></ruby>にしばらくいるビザを<ruby>持<rt>も</rt></ruby>っていて、<ruby>広島県<rt>ひろしまけん</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>でした。",
+            "origin": "１７人の中に体の具合が悪い人はいませんが、体の様子を調べるため、みんな大阪のホテルにいます。日本にしばらくいるビザを持っていて、広島県に行く予定でした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>関西空港<rt>かんさいくうこう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いた<ruby>人<rt>ひと</rt></ruby>を<ruby>検査<rt>けんさ</rt></ruby>して、<ruby>一度<rt>いちど</rt></ruby>に１０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>ウイルスがうつっていることがわかったのは<ruby>初<rt>はじ</rt></ruby>めてです。",
+            "origin": "関西空港に着いた人を検査して、一度に１０人以上ウイルスがうつっていることがわかったのは初めてです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>は、インドネシアで<ruby>検査<rt>けんさ</rt></ruby>をしたあとうつったかもしれないと<ruby>考<rt>かんが</rt></ruby>えています。しかし、<ruby>同<rt>おな</rt></ruby>じことが<ruby>続<rt>つづ</rt></ruby>くなら、<ruby>外国<rt>がいこく</rt></ruby>の<ruby>証明<rt>しょうめい</rt></ruby>の<ruby>書類<rt>しょるい</rt></ruby>が<ruby>正<rt>ただ</rt></ruby>しいかどうか<ruby>調<rt>しら</rt></ruby>べたほうがいいと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "厚生労働省は、インドネシアで検査をしたあとうつったかもしれないと考えています。しかし、同じことが続くなら、外国の証明の書類が正しいかどうか調べたほうがいいと考えています。"
+        }
+    ],
+    "voiceurl": "k10012719291000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201118/../20201118/K10012719291_2011181843_2011181919_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012719291000.json"
+}

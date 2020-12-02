@@ -1,0 +1,35 @@
+{
+    "id": "k10012668881000",
+    "title": "冬に鶴がたくさん来る鹿児島県出水市　今年初めての鶴が来る",
+    "ruby": "<ruby>冬<rt>ふゆ</rt></ruby>に<ruby>鶴<rt>つる</rt></ruby>がたくさん<ruby>来<rt>く</rt></ruby>る<ruby>鹿児島県<rt>かごしまけん</rt></ruby><ruby>出水市<rt>いずみし</rt></ruby>　<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めての<ruby>鶴<rt>つる</rt></ruby>が<ruby>来<rt>く</rt></ruby>る",
+    "time": "2020-10-20",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012668881000/k10012668881000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>鹿児島県<rt>かごしまけん</rt></ruby><ruby>出水市<rt>いずみし</rt></ruby>の<ruby>出水平野<rt>いずみへいや</rt></ruby>では、ロシアのシベリアなどから<ruby>鶴<rt>つる</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んで<ruby>来<rt>き</rt></ruby>て、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>します。<ruby>去年<rt>きょねん</rt></ruby>まで２３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて１<ruby>万<rt>まん</rt></ruby><ruby>羽<rt>ば</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>来<rt>き</rt></ruby>ました。<ruby>出水平野<rt>いずみへいや</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>鶴<rt>つる</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>にするように<ruby>決<rt>き</rt></ruby>めている<ruby>特別<rt>とくべつ</rt></ruby><ruby>天然記念物<rt>てんねんきねんぶつ</rt></ruby>になっています。",
+            "origin": "鹿児島県出水市の出水平野では、ロシアのシベリアなどから鶴が飛んで来て、冬の間生活します。去年まで２３年続けて１万羽以上来ました。出水平野に来る鶴は、国が大切にするように決めている特別天然記念物になっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１７<ruby>日<rt>にち</rt></ruby>、１<ruby>羽<rt>わ</rt></ruby>のマナヅルという<ruby>鶴<rt>つる</rt></ruby>が<ruby>来<rt>き</rt></ruby>ているのを、<ruby>鶴<rt>つる</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby>をしている<ruby>団体<rt>だんたい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めて<ruby>見<rt>み</rt></ruby>つけました。<ruby>鶴<rt>つる</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は「<ruby>楽<rt>たの</rt></ruby>しみに<ruby>待<rt>ま</rt></ruby>っていました。これからどんどん<ruby>飛<rt>と</rt></ruby>んで<ruby>来<rt>く</rt></ruby>るので、うれしくなります」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "１７日、１羽のマナヅルという鶴が来ているのを、鶴の世話をしている団体の人が今年初めて見つけました。鶴を見に来た人は「楽しみに待っていました。これからどんどん飛んで来るので、うれしくなります」と話していました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>鶴<rt>つる</rt></ruby>は１２<ruby>月<rt>がつ</rt></ruby>までたくさん<ruby>飛<rt>と</rt></ruby>んで<ruby>来<rt>き</rt></ruby>て、<ruby>来年<rt>らいねん</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろからシベリアなどに<ruby>帰<rt>かえ</rt></ruby>ります。",
+            "origin": "鶴は１２月までたくさん飛んで来て、来年１月の終わりごろからシベリアなどに帰ります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>出水市<rt>いずみし</rt></ruby>は、<ruby>世界<rt>せかい</rt></ruby>で<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>湿地<rt>しっち</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることを<ruby>約束<rt>やくそく</rt></ruby>する「ラムサール<ruby>条約<rt>じょうやく</rt></ruby>」に<ruby>出水平野<rt>いずみへいや</rt></ruby>を<ruby>入<rt>い</rt></ruby>れてほしいと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "出水市は、世界で大切な湿地を守ることを約束する「ラムサール条約」に出水平野を入れてほしいと考えています。"
+        }
+    ],
+    "voiceurl": "k10012668881000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201018/../20201018/K10012668881_2010172252_2010180102_01_02.jpg",
+    "newsmovie": "k10012668881_202010180617_202010180618.mp4",
+    "path": "appdata/news/k10012668881000.json"
+}

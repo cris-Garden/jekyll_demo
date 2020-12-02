@@ -1,0 +1,120 @@
+{
+    "id": "articles20201104kei00s00s004000c",
+    "title": "経済を動かす　株の仕組み",
+    "ruby": "",
+    "time": "2020年11月4日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20201104/kei/00s/00s/004000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "１０<ruby>月<rt>がつ</rt></ruby>１<ruby>日<rt>ついたち</rt></ruby>、<ruby>東京証券取引所<rt>とうきょうしょうけんとりひきじょ</rt></ruby>で<ruby>株<rt>かぶ</rt></ruby>の<ruby>売<rt>う</rt></ruby>り<ruby>買<rt>か</rt></ruby>いができず<ruby>大騒<rt>おおさわ</rt></ruby>ぎになりました。ニュースでよく「<ruby>株価<rt>かぶか</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がった、<ruby>下<rt>さ</rt></ruby>がった」と<ruby>言<rt>い</rt></ruby>いますが、<ruby>株<rt>かぶ</rt></ruby>が<ruby>注目<rt>ちゅうもく</rt></ruby>されるのはなぜでしょうか。<ruby>経済<rt>けいざい</rt></ruby>の<ruby>大<rt>おお</rt></ruby>もとにある<ruby>株<rt>かぶ</rt></ruby>とは、どのような<ruby>仕組<rt>しく</rt></ruby>みなのでしょうか。【<ruby>黒崎亜弓<rt>くろさきあゆみ</rt></ruby>】",
+            "origin": "１０月１日、東京証券取引所で株の売り買いができず大騒ぎになりました。ニュースでよく「株価が上がった、下がった」と言いますが、株が注目されるのはなぜでしょうか。経済の大もとにある株とは、どのような仕組みなのでしょうか。【黒崎亜弓】"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>株<rt>かぶ</rt></ruby>って<ruby>何<rt>なに</rt></ruby>？",
+            "origin": "株って何？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>事業<rt>じぎょう</rt></ruby>をするためにお<ruby>金<rt>かね</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>める<ruby>方法<rt>ほうほう</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つです。お<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>出<rt>だ</rt></ruby>した<ruby>金額<rt>きんがく</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせた<ruby>数<rt>かず</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>り、その<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>主<rt>ぬし</rt></ruby>（<ruby>株主<rt>かぶぬし</rt></ruby>）になります。<ruby>株主<rt>かぶぬし</rt></ruby>たちは<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>経営<rt>けいえい</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>を<ruby>決<rt>き</rt></ruby>めて、まかせます。<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>事業<rt>じぎょう</rt></ruby>でもうけ（<ruby>利益<rt>りえき</rt></ruby>）が<ruby>出<rt>で</rt></ruby>ると、<ruby>株<rt>かぶ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>によって<ruby>分<rt>わ</rt></ruby>け<ruby>前<rt>まえ</rt></ruby>（<ruby>配当<rt>はいとう</rt></ruby>）を<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>ります。<ruby>事業<rt>じぎょう</rt></ruby>がうまくいかず<ruby>会社<rt>かいしゃ</rt></ruby>がつぶれると、<ruby>株主<rt>かぶぬし</rt></ruby>が<ruby>出<rt>だ</rt></ruby>したお<ruby>金<rt>かね</rt></ruby>は<ruby>戻<rt>もど</rt></ruby>ってきませんが、<ruby>事業<rt>じぎょう</rt></ruby>のために<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>借<rt>か</rt></ruby>りたお<ruby>金<rt>かね</rt></ruby>を<ruby>株主<rt>かぶぬし</rt></ruby>が<ruby>返<rt>かえ</rt></ruby>す<ruby>必要<rt>ひつよう</rt></ruby>はありません。",
+            "origin": "会社が事業をするためにお金を集める方法の一つです。お金を出した人たちは、出した金額に合わせた数の株を受け取り、その会社の持ち主（株主）になります。株主たちは会社を経営する人を決めて、まかせます。会社の事業でもうけ（利益）が出ると、株の数によって分け前（配当）を受け取ります。事業がうまくいかず会社がつぶれると、株主が出したお金は戻ってきませんが、事業のために会社が借りたお金を株主が返す必要はありません。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国税庁<rt>こくぜいちょう</rt></ruby>によると、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby><ruby>約<rt>やく</rt></ruby>２７３<ruby>万<rt>まん</rt></ruby><ruby>社<rt>しゃ</rt></ruby>のうち、９<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>株<rt>かぶ</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みで<ruby>作<rt>つく</rt></ruby>られた<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>です。",
+            "origin": "国税庁によると、日本の会社約２７３万社のうち、９割以上が株の仕組みで作られた株式会社です。"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>証券取引所<rt>しょうけんとりひきじょ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をするところ？",
+            "origin": "証券取引所は何をするところ？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>株<rt>かぶ</rt></ruby>を<ruby>自由<rt>じゆう</rt></ruby>に<ruby>売<rt>う</rt></ruby>り<ruby>買<rt>か</rt></ruby>いする<ruby>場<rt>ば</rt></ruby>です。<ruby>株<rt>かぶ</rt></ruby>、つまり<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>主<rt>ぬし</rt></ruby>の<ruby>権利<rt>けんり</rt></ruby>は、<ruby>誰<rt>だれ</rt></ruby>かに<ruby>渡<rt>わた</rt></ruby>すことができます。<ruby>証券取引所<rt>しょうけんとりひきじょ</rt></ruby>は<ruby>株<rt>かぶ</rt></ruby>を<ruby>売<rt>う</rt></ruby>りたい<ruby>人<rt>ひと</rt></ruby>と<ruby>買<rt>か</rt></ruby>いたい<ruby>人<rt>ひと</rt></ruby>を<ruby>結<rt>むす</rt></ruby>びつけています。<ruby>売買<rt>ばいばい</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>取引所<rt>とりひきじょ</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>次<rt>つ</rt></ruby>ぐのが<ruby>証券会社<rt>しょうけんがいしゃ</rt></ruby>です。",
+            "origin": "株を自由に売り買いする場です。株、つまり株式会社の持ち主の権利は、誰かに渡すことができます。証券取引所は株を売りたい人と買いたい人を結びつけています。売買の注文を取引所に取り次ぐのが証券会社です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>証券取引所<rt>しょうけんとりひきじょ</rt></ruby>で<ruby>売買<rt>ばいばい</rt></ruby>されるのは、<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>のうち、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさや<ruby>情報公開<rt>じょうほうこうかい</rt></ruby>の<ruby>条件<rt>じょうけん</rt></ruby>をクリアして<ruby>上場<rt>じょうじょう</rt></ruby>した<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>です。<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>上場会社<rt>じょうじょうがいしゃ</rt></ruby>は<ruby>約<rt>やく</rt></ruby>３８００<ruby>社<rt>しゃ</rt></ruby>あります。",
+            "origin": "証券取引所で売買されるのは、株式会社のうち、会社の大きさや情報公開の条件をクリアして上場した会社の株です。日本に上場会社は約３８００社あります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>上場<rt>じょうじょう</rt></ruby>していると、<ruby>取引所<rt>とりひきじょ</rt></ruby>で<ruby>株<rt>かぶ</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>出<rt>だ</rt></ruby>してお<ruby>金<rt>かね</rt></ruby>をもっと<ruby>集<rt>あつ</rt></ruby>めることができます。ただ、<ruby>株<rt>かぶ</rt></ruby>を<ruby>買<rt>か</rt></ruby>い<ruby>集<rt>あつ</rt></ruby>めて<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い<ruby>通<rt>どお</rt></ruby>りに<ruby>動<rt>うご</rt></ruby>かそうとする<ruby>人<rt>ひと</rt></ruby>が<ruby>登場<rt>とうじょう</rt></ruby>することもあります。<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>方針<rt>ほうしん</rt></ruby>を<ruby>決<rt>き</rt></ruby>める<ruby>株主総会<rt>かぶぬしそうかい</rt></ruby>の<ruby>投票<rt>とうひょう</rt></ruby>は、「１<ruby>人<rt>ひとり</rt></ruby>１<ruby>票<rt>ぴょう</rt></ruby>」ではなく「１<ruby>株<rt>かぶ</rt></ruby>１<ruby>票<rt>ぴょう</rt></ruby>」だからです。<ruby>株<rt>かぶ</rt></ruby>をたくさん<ruby>持<rt>も</rt></ruby>っていると、<ruby>会社<rt>かいしゃ</rt></ruby>への<ruby>影響力<rt>えいきょうりょく</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きくなります。",
+            "origin": "上場していると、取引所で株を売り出してお金をもっと集めることができます。ただ、株を買い集めて会社を思い通りに動かそうとする人が登場することもあります。会社の方針を決める株主総会の投票は、「１人１票」ではなく「１株１票」だからです。株をたくさん持っていると、会社への影響力が大きくなります。"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>株価<rt>かぶか</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がったり<ruby>下<rt>さ</rt></ruby>がったりするのはなぜ？",
+            "origin": "株価が上がったり下がったりするのはなぜ？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>株<rt>かぶ</rt></ruby>が<ruby>売<rt>う</rt></ruby>り<ruby>買<rt>か</rt></ruby>いされた<ruby>時<rt>とき</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>株価<rt>かぶか</rt></ruby>です。その<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いたい<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いと<ruby>株価<rt>かぶか</rt></ruby>は<ruby>上<rt>あ</rt></ruby>がり、<ruby>売<rt>う</rt></ruby>りたい<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いと<ruby>株価<rt>かぶか</rt></ruby>は<ruby>下<rt>さ</rt></ruby>がります。",
+            "origin": "株が売り買いされた時の値段が株価です。その会社の株を買いたい人が多いと株価は上がり、売りたい人が多いと株価は下がります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>株<rt>かぶ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いたい<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えるのは、たとえばその<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>がヒットした<ruby>時<rt>とき</rt></ruby>です。もうけが<ruby>増<rt>ふ</rt></ruby>えて<ruby>株主<rt>かぶぬし</rt></ruby>の<ruby>分<rt>わ</rt></ruby>け<ruby>前<rt>まえ</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えそうだからです。<ruby>株<rt>かぶ</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>人<rt>ひと</rt></ruby>は、<ruby>買<rt>か</rt></ruby>った<ruby>時<rt>とき</rt></ruby>よりも<ruby>高<rt>たか</rt></ruby>く<ruby>売<rt>う</rt></ruby>ってもうけます。もっと<ruby>高<rt>たか</rt></ruby>く<ruby>売<rt>う</rt></ruby>れるようになると<ruby>思<rt>おも</rt></ruby>って<ruby>株<rt>かぶ</rt></ruby>を<ruby>買<rt>か</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えます。",
+            "origin": "株を買いたい人が増えるのは、たとえばその会社の商品がヒットした時です。もうけが増えて株主の分け前も増えそうだからです。株を持つ人は、買った時よりも高く売ってもうけます。もっと高く売れるようになると思って株を買う人が増えます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>反対<rt>はんたい</rt></ruby>に、<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>売<rt>う</rt></ruby>れ<ruby>行<rt>ゆ</rt></ruby>きが<ruby>悪<rt>わる</rt></ruby>いと、<ruby>株<rt>かぶ</rt></ruby>を<ruby>売<rt>う</rt></ruby>ろうとする<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えます。もうけの<ruby>分<rt>わ</rt></ruby>け<ruby>前<rt>まえ</rt></ruby>がないうえ、<ruby>会社<rt>かいしゃ</rt></ruby>がつぶれれば<ruby>株<rt>かぶ</rt></ruby>の<ruby>価値<rt>かち</rt></ruby>はゼロになるからです。<ruby>安<rt>やす</rt></ruby>い<ruby>株価<rt>かぶか</rt></ruby>で<ruby>買<rt>か</rt></ruby>うのは、いずれ<ruby>株価<rt>かぶか</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がると<ruby>思<rt>おも</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>です。<ruby>株価<rt>かぶか</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がると、<ruby>損<rt>そん</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がらないうちに<ruby>売<rt>う</rt></ruby>ろうとする<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えます。",
+            "origin": "反対に、商品の売れ行きが悪いと、株を売ろうとする人が増えます。もうけの分け前がないうえ、会社がつぶれれば株の価値はゼロになるからです。安い株価で買うのは、いずれ株価が上がると思う人です。株価が下がると、損が広がらないうちに売ろうとする人が増えます。"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>株<rt>かぶ</rt></ruby>が<ruby>注目<rt>ちゅうもく</rt></ruby>されるのはなぜ？",
+            "origin": "株が注目されるのはなぜ？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>株価<rt>かぶか</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きには、<ruby>経済<rt>けいざい</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>が<ruby>映<rt>うつ</rt></ruby>し<ruby>出<rt>だ</rt></ruby>されます。それに、<ruby>株価<rt>かぶか</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きは<ruby>経済<rt>けいざい</rt></ruby>に<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えます。",
+            "origin": "株価の動きには、経済の様子が映し出されます。それに、株価の動きは経済に影響を与えます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>景気<rt>けいき</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くなっていく<ruby>時<rt>とき</rt></ruby>には<ruby>株価<rt>かぶか</rt></ruby>は<ruby>全体的<rt>ぜんたいてき</rt></ruby>に<ruby>上<rt>あ</rt></ruby>がります。<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>売<rt>う</rt></ruby>れ<ruby>行<rt>ゆ</rt></ruby>きが<ruby>良<rt>よ</rt></ruby>くなるうえ、<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>の<ruby>収入<rt>しゅうにゅう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えて<ruby>株<rt>かぶ</rt></ruby>を<ruby>買<rt>か</rt></ruby>おうとする<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えるからです。<ruby>株価<rt>かぶか</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がると、<ruby>株<rt>かぶ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>資産<rt>しさん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えた<ruby>気分<rt>きぶん</rt></ruby>になってお<ruby>金<rt>かね</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うので、<ruby>景気<rt>けいき</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くなります。",
+            "origin": "景気が良くなっていく時には株価は全体的に上がります。商品の売れ行きが良くなるうえ、働く人の収入が増えて株を買おうとする人が増えるからです。株価が上がると、株を持っている人は自分の資産が増えた気分になってお金を使うので、景気が良くなります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>反対<rt>はんたい</rt></ruby>に、<ruby>景気<rt>けいき</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなっていく<ruby>時<rt>とき</rt></ruby>には<ruby>株価<rt>かぶか</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がり、<ruby>株価<rt>かぶか</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がると<ruby>景気<rt>けいき</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなります。",
+            "origin": "反対に、景気が悪くなっていく時には株価が下がり、株価が下がると景気が悪くなります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>株価<rt>かぶか</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きを<ruby>見<rt>み</rt></ruby>るために、それぞれの<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株価<rt>かぶか</rt></ruby>から<ruby>計算<rt>けいさん</rt></ruby>して<ruby>一<rt>ひと</rt></ruby>つの<ruby>数字<rt>すうじ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しているのが<ruby>株価指数<rt>かぶかしすう</rt></ruby>です。よく<ruby>使<rt>つか</rt></ruby>われる<ruby>指数<rt>しすう</rt></ruby>が、<ruby>日本<rt>にっぽん</rt></ruby>を<ruby>代表<rt>だいひょう</rt></ruby>する<ruby>上場会社<rt>じょうじょうがいしゃ</rt></ruby>２２５<ruby>社<rt>しゃ</rt></ruby>の<ruby>株価<rt>かぶか</rt></ruby>から<ruby>計算<rt>けいさん</rt></ruby>した<ruby>日経平均株価<rt>にっけいへいきんかぶか</rt></ruby>です。",
+            "origin": "株価全体の動きを見るために、それぞれの会社の株価から計算して一つの数字を出しているのが株価指数です。よく使われる指数が、日本を代表する上場会社２２５社の株価から計算した日経平均株価です。"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>取引所<rt>とりひきじょ</rt></ruby>が<ruby>止<rt>と</rt></ruby>まると<ruby>何<rt>なに</rt></ruby>が<ruby>問題<rt>もんだい</rt></ruby>なの？",
+            "origin": "取引所が止まると何が問題なの？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１０<ruby>月<rt>がつ</rt></ruby>１<ruby>日<rt>ついたち</rt></ruby>、<ruby>東京証券取引所<rt>とうきょうしょうけんとりひきじょ</rt></ruby>（<ruby>東証<rt>とうしょう</rt></ruby>）でコンピューターシステムが<ruby>故障<rt>こしょう</rt></ruby>し、<ruby>株<rt>かぶ</rt></ruby>の<ruby>売買<rt>ばいばい</rt></ruby>が<ruby>丸<rt>まる</rt></ruby>１<ruby>日<rt>にち</rt></ruby><ruby>止<rt>と</rt></ruby>まりました。<ruby>東証<rt>とうしょう</rt></ruby>には３７００<ruby>社<rt>しゃ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>上場<rt>じょうじょう</rt></ruby>し、１<ruby>日<rt>にち</rt></ruby>に<ruby>平均<rt>へいきん</rt></ruby>３<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby>もの<ruby>取引<rt>とりひき</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>われています。<ruby>人々<rt>ひとびと</rt></ruby>はその<ruby>日<rt>ひ</rt></ruby>のニュースや<ruby>世<rt>よ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きをもとに<ruby>株<rt>かぶ</rt></ruby>を<ruby>売買<rt>ばいばい</rt></ruby>しますが、１０<ruby>月<rt>がつ</rt></ruby>１<ruby>日<rt>ついたち</rt></ruby>は<ruby>買<rt>か</rt></ruby>うはずだったのに<ruby>買<rt>か</rt></ruby>えず、<ruby>売<rt>う</rt></ruby>るつもりが<ruby>売<rt>う</rt></ruby>れなかったのです。<ruby>株<rt>かぶ</rt></ruby>を<ruby>売<rt>う</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>をこの<ruby>日<rt>ひ</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>としていた<ruby>人<rt>ひと</rt></ruby>もいるでしょう。",
+            "origin": "１０月１日、東京証券取引所（東証）でコンピューターシステムが故障し、株の売買が丸１日止まりました。東証には３７００社以上が上場し、１日に平均３兆円もの取引が行われています。人々はその日のニュースや世の中の動きをもとに株を売買しますが、１０月１日は買うはずだったのに買えず、売るつもりが売れなかったのです。株を売ったお金をこの日に必要としていた人もいるでしょう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "「<ruby>取引所<rt>とりひきじょ</rt></ruby>が<ruby>突然<rt>とつぜん</rt></ruby><ruby>止<rt>と</rt></ruby>まるようでは<ruby>信用<rt>しんよう</rt></ruby>できない」と<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>上場会社<rt>じょうじょうがいしゃ</rt></ruby>の<ruby>株<rt>かぶ</rt></ruby>を<ruby>売買<rt>ばいばい</rt></ruby>するのをやめる<ruby>人<rt>ひと</rt></ruby>が<ruby>出<rt>で</rt></ruby>てくれば、<ruby>株<rt>かぶ</rt></ruby>が<ruby>売<rt>う</rt></ruby>られます。＜え・内山大助＞",
+            "origin": "「取引所が突然止まるようでは信用できない」と日本の上場会社の株を売買するのをやめる人が出てくれば、株が売られます。＜え・内山大助＞"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201104kei00s00s004000c.json"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "k10012694901000",
+    "title": "埼玉県　所沢駅の前に「となりのトトロ」の像",
+    "ruby": "<ruby>埼玉県<rt>さいたまけん</rt></ruby>　<ruby>所沢駅<rt>ところざわえき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に「となりのトトロ」の<ruby>像<rt>ぞう</rt></ruby>",
+    "time": "2020-11-06",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012694901000/k10012694901000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>埼玉県<rt>さいたまけん</rt></ruby>にある<ruby>所沢駅<rt>ところざわえき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、<ruby>宮崎駿<rt>みやざきはやお</rt></ruby><ruby>監督<rt>かんとく</rt></ruby>のアニメーション<ruby>映画<rt>えいが</rt></ruby>「となりのトトロ」の<ruby>像<rt>ぞう</rt></ruby>ができました。<ruby>宮崎<rt>みやざき</rt></ruby><ruby>監督<rt>かんとく</rt></ruby>は<ruby>所沢市<rt>ところざわし</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいて、<ruby>近<rt>ちか</rt></ruby>くにある<ruby>森<rt>もり</rt></ruby>で「となりのトトロ」の<ruby>話<rt>はなし</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えました。",
+            "origin": "埼玉県にある所沢駅の前に、宮崎駿監督のアニメーション映画「となりのトトロ」の像ができました。宮崎監督は所沢市に住んでいて、近くにある森で「となりのトトロ」の話を考えました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>４日<rt>よっか</rt></ruby>、<ruby>近<rt>ちか</rt></ruby>くの<ruby>幼稚園<rt>ようちえん</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>う<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>像<rt>ぞう</rt></ruby>にかけてある<ruby>布<rt>ぬの</rt></ruby>を<ruby>取<rt>と</rt></ruby>って、みんなに<ruby>見<rt>み</rt></ruby>せました。",
+            "origin": "４日、近くの幼稚園に通う子どもたちが像にかけてある布を取って、みんなに見せました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>像<rt>ぞう</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさは、<ruby>高<rt>たか</rt></ruby>さが１７０ｃｍ、<ruby>横<rt>よこ</rt></ruby>が１３０ｃｍぐらいです。<ruby>大<rt>おお</rt></ruby>きな<ruby>葉<rt>は</rt></ruby>を<ruby>持<rt>も</rt></ruby>ったトトロと、サツキとメイが<ruby>乗<rt>の</rt></ruby>ったネコバスの<ruby>像<rt>ぞう</rt></ruby>です。",
+            "origin": "像の大きさは、高さが１７０ｃｍ、横が１３０ｃｍぐらいです。大きな葉を持ったトトロと、サツキとメイが乗ったネコバスの像です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>所沢市<rt>ところざわし</rt></ruby>の<ruby>職員<rt>しょくいん</rt></ruby>は「トトロは<ruby>世界中<rt>せかいじゅう</rt></ruby>にファンがいるので、たくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>愛<rt>あい</rt></ruby>される<ruby>像<rt>ぞう</rt></ruby>になってほしいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "所沢市の職員は「トトロは世界中にファンがいるので、たくさんの人に愛される像になってほしいと思います」と話していました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>所沢駅<rt>ところざわえき</rt></ruby>では<ruby>３日<rt>みっか</rt></ruby>から、<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>出発<rt>しゅっぱつ</rt></ruby>するときの<ruby>音楽<rt>おんがく</rt></ruby>にこの<ruby>映画<rt>えいが</rt></ruby>の<ruby>曲<rt>きょく</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っています。",
+            "origin": "所沢駅では３日から、電車が出発するときの音楽にこの映画の曲を使っています。"
+        }
+    ],
+    "voiceurl": "k10012694901000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201104/../20201104/K10012694901_2011041622_2011041646_01_02.jpg",
+    "newsmovie": "k10012694901_202011041657_202011041657.mp4",
+    "path": "appdata/news/k10012694901000.json"
+}

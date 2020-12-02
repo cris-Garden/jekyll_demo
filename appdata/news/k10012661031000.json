@@ -1,0 +1,30 @@
+{
+    "id": "k10012661031000",
+    "title": "ベトナムのホーチミンに日本で作った地下鉄の車両が着く",
+    "ruby": "ベトナムのホーチミンに<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>った<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>車両<rt>しゃりょう</rt></ruby>が<ruby>着<rt>つ</rt></ruby>く",
+    "time": "2020-10-14",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012661031000/k10012661031000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "ベトナムのホーチミンは<ruby>道<rt>みち</rt></ruby>がとても<ruby>混<rt>こ</rt></ruby>んでいるため、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>協力<rt>きょうりょく</rt></ruby>で<ruby>地下鉄<rt>ちかてつ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っています。この<ruby>地下鉄<rt>ちかてつ</rt></ruby>は<ruby>町<rt>まち</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>から<ruby>郊外<rt>こうがい</rt></ruby>まで<ruby>約<rt>やく</rt></ruby>２０ｋmあります。",
+            "origin": "ベトナムのホーチミンは道がとても混んでいるため、日本の協力で地下鉄を作っています。この地下鉄は町の中心から郊外まで約２０ｋmあります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１３<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>った<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>車両<rt>しゃりょう</rt></ruby>がホーチミンに<ruby>着<rt>つ</rt></ruby>いたことを<ruby>記念<rt>きねん</rt></ruby>する<ruby>式<rt>しき</rt></ruby>がありました。ベトナムの<ruby>人<rt>ひと</rt></ruby>は「この<ruby>地下鉄<rt>ちかてつ</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>とベトナムの<ruby>関係<rt>かんけい</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>くします」と<ruby>話<rt>はな</rt></ruby>しました。",
+            "origin": "１３日、日本で作った地下鉄の車両がホーチミンに着いたことを記念する式がありました。ベトナムの人は「この地下鉄は、日本とベトナムの関係を強くします」と話しました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "この<ruby>車両<rt>しゃりょう</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>にホーチミンに<ruby>着<rt>つ</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>でしたが、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で６か<ruby>月<rt>げつ</rt></ruby><ruby>遅<rt>おく</rt></ruby>れました。この<ruby>地下鉄<rt>ちかてつ</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろにできる<ruby>予定<rt>よてい</rt></ruby>です。",
+            "origin": "この車両は今年４月にホーチミンに着く予定でしたが、新しいコロナウイルスの問題で６か月遅れました。この地下鉄は来年の終わりごろにできる予定です。"
+        }
+    ],
+    "voiceurl": "k10012661031000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201013/../20201013/K10012661031_2010131501_2010131510_01_02.jpg?utm_int=nsearch_contents_search-items_002",
+    "newsmovie": "",
+    "path": "appdata/news/k10012661031000.json"
+}

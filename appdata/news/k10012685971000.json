@@ -1,0 +1,40 @@
+{
+    "id": "k10012685971000",
+    "title": "コロナウイルス　フランス「できるだけ家の外に出ないで」",
+    "ruby": "コロナウイルス　フランス「できるだけ<ruby>家<rt>いえ</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>ないで」",
+    "time": "2020-10-30",
+    "imgurl": "k10012685971000.jpg",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012685971000/k10012685971000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "ヨーロッパでは、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが<ruby>急<rt>きゅう</rt></ruby>にまた<ruby>広<rt>ひろ</rt></ruby>がっています。<ruby>病院<rt>びょういん</rt></ruby>で<ruby>治療<rt>ちりょう</rt></ruby>することも<ruby>大変<rt>たいへん</rt></ruby>になってきています。",
+            "origin": "ヨーロッパでは、新しいコロナウイルスが急にまた広がっています。病院で治療することも大変になってきています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "フランスのマクロン<ruby>大統領<rt>だいとうりょう</rt></ruby>は２８<ruby>日<rt>にち</rt></ruby>、１０<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>から１２<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>までフランスの<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で、できるだけ<ruby>家<rt>いえ</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>ないでほしいと<ruby>言<rt>い</rt></ruby>いました。<ruby>生活<rt>せいかつ</rt></ruby>で<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>物<rt>もの</rt></ruby>を<ruby>売<rt>う</rt></ruby>る<ruby>店<rt>みせ</rt></ruby><ruby>以外<rt>いがい</rt></ruby>、<ruby>店<rt>みせ</rt></ruby>やレストランなどを<ruby>閉<rt>し</rt></ruby>めます。<ruby>学校<rt>がっこう</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みません。",
+            "origin": "フランスのマクロン大統領は２８日、１０月３０日から１２月１日までフランスの全部の場所で、できるだけ家の外に出ないでほしいと言いました。生活で必要な物を売る店以外、店やレストランなどを閉めます。学校は休みません。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ドイツのメルケル<ruby>首相<rt>しゅしょう</rt></ruby>も２８<ruby>日<rt>にち</rt></ruby>「１１<ruby>月<rt>がつ</rt></ruby><ruby>２日<rt>ふつか</rt></ruby>から３０<ruby>日<rt>にち</rt></ruby>まで、レストランや<ruby>映画館<rt>えいがかん</rt></ruby>などを<ruby>閉<rt>し</rt></ruby>める」と<ruby>言<rt>い</rt></ruby>いました。ドイツでは、ウイルスがうつらないように<ruby>気<rt>き</rt></ruby>をつけているなら、<ruby>店<rt>みせ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>くことができます。<ruby>学校<rt>がっこう</rt></ruby>も<ruby>休<rt>やす</rt></ruby>みません。",
+            "origin": "ドイツのメルケル首相も２８日「１１月２日から３０日まで、レストランや映画館などを閉める」と言いました。ドイツでは、ウイルスがうつらないように気をつけているなら、店を開くことができます。学校も休みません。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "フランスもドイツも、<ruby>閉<rt>し</rt></ruby>めた<ruby>店<rt>みせ</rt></ruby>にはお<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すと<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "フランスもドイツも、閉めた店にはお金を出すと言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ヨーロッパの<ruby>国<rt>くに</rt></ruby>は、コロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がった<ruby>春<rt>はる</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>厳<rt>きび</rt></ruby>しい<ruby>対策<rt>たいさく</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めています。",
+            "origin": "ヨーロッパの国は、コロナウイルスが広がった春と同じように厳しい対策を始めています。"
+        }
+    ],
+    "voiceurl": "k10012685971000.mp4",
+    "movieurl": "''",
+    "newimage": "",
+    "newsmovie": "",
+    "path": "appdata/news/k10012685971000.json"
+}

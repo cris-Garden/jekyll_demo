@@ -1,0 +1,30 @@
+{
+    "id": "k10012732521000",
+    "title": "長崎県の動植物園でカピバラが温かい風呂を楽しむ",
+    "ruby": "<ruby>長崎県<rt>ながさきけん</rt></ruby>の<ruby>動植物<rt>どうしょくぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>でカピバラが<ruby>温<rt>あたた</rt></ruby>かい<ruby>風呂<rt>ふろ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ",
+    "time": "2020-11-27",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012732521000/k10012732521000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>長崎県<rt>ながさきけん</rt></ruby><ruby>西海市<rt>さいかいし</rt></ruby>にある<ruby>動植物<rt>どうしょくぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>の「<ruby>長崎<rt>ながさき</rt></ruby>バイオパーク」には、カピバラが２０<ruby>匹<rt>ぴき</rt></ruby>います。カピバラは<ruby>南<rt>みなみ</rt></ruby>アメリカにいる<ruby>動物<rt>どうぶつ</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>大<rt>おお</rt></ruby>きいねずみの<ruby>仲間<rt>なかま</rt></ruby>です。カピバラは<ruby>寒<rt>さむ</rt></ruby>さに<ruby>弱<rt>よわ</rt></ruby>くて、<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>水<rt>みず</rt></ruby>の<ruby>中<rt>なか</rt></ruby>になかなか<ruby>入<rt>はい</rt></ruby>らないため、<ruby>皮膚<rt>ひふ</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>いてしまいます。",
+            "origin": "長崎県西海市にある動植物園の「長崎バイオパーク」には、カピバラが２０匹います。カピバラは南アメリカにいる動物で、世界で最も大きいねずみの仲間です。カピバラは寒さに弱くて、冬は水の中になかなか入らないため、皮膚が乾いてしまいます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>長崎<rt>ながさき</rt></ruby>バイオパークでは、１１<ruby>月<rt>がつ</rt></ruby>２６<ruby>日<rt>にち</rt></ruby>、カピバラのために<ruby>温<rt>あたた</rt></ruby>かい<ruby>風呂<rt>ふろ</rt></ruby>を<ruby>外<rt>そと</rt></ruby>に<ruby>用意<rt>ようい</rt></ruby>しました。この<ruby>日<rt>ひ</rt></ruby>は「いい<ruby>風呂<rt>ふろ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>」です。１１は「いい」２６は「ふろ」と<ruby>読<rt>よ</rt></ruby>むことができるためです。",
+            "origin": "長崎バイオパークでは、１１月２６日、カピバラのために温かい風呂を外に用意しました。この日は「いい風呂の日」です。１１は「いい」２６は「ふろ」と読むことができるためです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったカピバラたちは、<ruby>気持<rt>きも</rt></ruby>ちよさそうに<ruby>楽<rt>たの</rt></ruby>しんでいました。５<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っているカピバラはかわいかったです。カピバラに<ruby>触<rt>さわ</rt></ruby>ることができてよかったです」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "風呂に入ったカピバラたちは、気持ちよさそうに楽しんでいました。５歳の男の子は「風呂に入っているカピバラはかわいかったです。カピバラに触ることができてよかったです」と話していました。"
+        }
+    ],
+    "voiceurl": "k10012732521000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201126/../20201126/K10012732521_2011261730_2011261731_01_03.jpg",
+    "newsmovie": "k10012732521_202011261728_202011261729.mp4",
+    "path": "appdata/news/k10012732521000.json"
+}

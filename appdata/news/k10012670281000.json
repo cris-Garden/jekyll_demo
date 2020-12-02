@@ -1,0 +1,40 @@
+{
+    "id": "k10012670281000",
+    "title": "「日本とベトナムの間を行ったり来たりできるようにする」",
+    "ruby": "「<ruby>日本<rt>にっぽん</rt></ruby>とベトナムの<ruby>間<rt>あいだ</rt></ruby>を<ruby>行<rt>い</rt></ruby>ったり<ruby>来<rt>き</rt></ruby>たりできるようにする」",
+    "time": "2020-10-20",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012670281000/k10012670281000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>菅<rt>すが</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>は１９<ruby>日<rt>にち</rt></ruby>、ベトナムでフック<ruby>首相<rt>しゅしょう</rt></ruby>と<ruby>会<rt>あ</rt></ruby>って<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いました。",
+            "origin": "菅総理大臣は１９日、ベトナムでフック首相と会って話し合いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>２人<rt>ふたり</rt></ruby>は、<ruby>中国<rt>ちゅうごく</rt></ruby>や<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>などについて<ruby>意見<rt>いけん</rt></ruby>を<ruby>言<rt>い</rt></ruby>って、インド<ruby>洋<rt>よう</rt></ruby>や<ruby>太平洋<rt>たいへいよう</rt></ruby>の<ruby>地域<rt>ちいき</rt></ruby>を<ruby>自由<rt>じゆう</rt></ruby>で<ruby>安全<rt>あんぜん</rt></ruby>にするために<ruby>協力<rt>きょうりょく</rt></ruby>することを<ruby>確認<rt>かくにん</rt></ruby>しました。",
+            "origin": "２人は、中国や北朝鮮などについて意見を言って、インド洋や太平洋の地域を自由で安全にするために協力することを確認しました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていますが、２つの<ruby>国<rt>くに</rt></ruby>が<ruby>経済<rt>けいざい</rt></ruby>の<ruby>協力<rt>きょうりょく</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めることも<ruby>確認<rt>かくにん</rt></ruby>しました。ベトナムはマスクなどの<ruby>輸出<rt>ゆしゅつ</rt></ruby>が<ruby>止<rt>と</rt></ruby>まらないようにします。<ruby>日本<rt>にっぽん</rt></ruby>はみかんを<ruby>輸出<rt>ゆしゅつ</rt></ruby>したり、<ruby>投資<rt>とうし</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やしたりします。",
+            "origin": "新しいコロナウイルスの問題が続いていますが、２つの国が経済の協力を進めることも確認しました。ベトナムはマスクなどの輸出が止まらないようにします。日本はみかんを輸出したり、投資を増やしたりします。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>出張<rt>しゅっちょう</rt></ruby>などで<ruby>短<rt>みじか</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby>だけいる<ruby>人<rt>ひと</rt></ruby>が、<ruby>日本<rt>にっぽん</rt></ruby>とベトナムの<ruby>間<rt>あいだ</rt></ruby>を<ruby>行<rt>い</rt></ruby>ったり<ruby>来<rt>き</rt></ruby>たりできるようにします。<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っている<ruby>留学生<rt>りゅうがくせい</rt></ruby>や<ruby>技能実習生<rt>ぎのうじっしゅうせい</rt></ruby>などを<ruby>助<rt>たす</rt></ruby>けることも<ruby>決<rt>き</rt></ruby>めました。",
+            "origin": "出張などで短い間だけいる人が、日本とベトナムの間を行ったり来たりできるようにします。日本で生活に困っている留学生や技能実習生などを助けることも決めました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>菅<rt>すが</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>は「ベトナムは<ruby>大切<rt>たいせつ</rt></ruby>なパートナーです。<ruby>日本<rt>にっぽん</rt></ruby>はこれからもインド<ruby>洋<rt>よう</rt></ruby>や<ruby>太平洋<rt>たいへいよう</rt></ruby>の<ruby>地域<rt>ちいき</rt></ruby>の<ruby>平和<rt>へいわ</rt></ruby>と<ruby>発展<rt>はってん</rt></ruby>に<ruby>協力<rt>きょうりょく</rt></ruby>します」と<ruby>話<rt>はな</rt></ruby>しました。",
+            "origin": "菅総理大臣は「ベトナムは大切なパートナーです。日本はこれからもインド洋や太平洋の地域の平和と発展に協力します」と話しました。"
+        }
+    ],
+    "voiceurl": "k10012670281000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201019/../20201019/K10012670281_2010191144_2010191147_01_02.jpg",
+    "newsmovie": "k10012670281_202010191305_202010191306.mp4",
+    "path": "appdata/news/k10012670281000.json"
+}

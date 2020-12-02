@@ -1,0 +1,35 @@
+{
+    "id": "k10012709041000",
+    "title": "正月に大勢の人が集まらないように　神社や寺が準備する",
+    "ruby": "<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まらないように　<ruby>神社<rt>じんじゃ</rt></ruby>や<ruby>寺<rt>てら</rt></ruby>が<ruby>準備<rt>じゅんび</rt></ruby>する",
+    "time": "2020-11-16",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012709041000/k10012709041000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>毎年<rt>まいとし</rt></ruby><ruby>正月<rt>しょうがつ</rt></ruby>に、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>の<ruby>幸<rt>しあわ</rt></ruby>せを<ruby>祈<rt>いの</rt></ruby>りに<ruby>神社<rt>じんじゃ</rt></ruby>や<ruby>寺<rt>てら</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。<ruby>神社<rt>じんじゃ</rt></ruby>などは<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がらないようにするために、<ruby>今年<rt>ことし</rt></ruby>はいつもと<ruby>違<rt>ちが</rt></ruby>う<ruby>準備<rt>じゅんび</rt></ruby>をしています。",
+            "origin": "日本では毎年正月に、たくさんの人が新しい年の幸せを祈りに神社や寺に行きます。神社などは新しいコロナウイルスが広がらないようにするために、今年はいつもと違う準備をしています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "さいたま<ruby>市<rt>し</rt></ruby>にある<ruby>武蔵一宮氷川神社<rt>むさしいちのみやひかわじんじゃ</rt></ruby>は、<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>配<rt>くば</rt></ruby>るお<ruby>守<rt>まも</rt></ruby>りやお<ruby>札<rt>ふだ</rt></ruby>などを、１２<ruby>月<rt>がつ</rt></ruby>から<ruby>渡<rt>わた</rt></ruby>すことができるようにします。<ruby>祈<rt>いの</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>う<ruby>場所<rt>ばしょ</rt></ruby>は、<ruby>使<rt>つか</rt></ruby>うことができないようにします。お<ruby>守<rt>まも</rt></ruby>りなどを<ruby>渡<rt>わた</rt></ruby>す<ruby>場所<rt>ばしょ</rt></ruby>には、<ruby>透明<rt>とうめい</rt></ruby>な<ruby>板<rt>いた</rt></ruby>をつけました。<ruby>神社<rt>じんじゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>道<rt>みち</rt></ruby>で<ruby>人<rt>ひと</rt></ruby>とぶつからないように、<ruby>歩<rt>ある</rt></ruby>く<ruby>向<rt>む</rt></ruby>きを<ruby>決<rt>き</rt></ruby>めます。",
+            "origin": "さいたま市にある武蔵一宮氷川神社は、正月に配るお守りやお札などを、１２月から渡すことができるようにします。祈る前に手を洗う場所は、使うことができないようにします。お守りなどを渡す場所には、透明な板をつけました。神社の中の道で人とぶつからないように、歩く向きを決めます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>鎌倉市<rt>かまくらし</rt></ruby>にある<ruby>鶴岡八幡宮<rt>つるがおかはちまんぐう</rt></ruby>は、<ruby>神社<rt>じんじゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にカメラを<ruby>置<rt>お</rt></ruby>いて、どのくらい<ruby>人<rt>ひと</rt></ruby>がいるかインターネットで<ruby>見<rt>み</rt></ruby>ることができるようにします。",
+            "origin": "鎌倉市にある鶴岡八幡宮は、神社の中にカメラを置いて、どのくらい人がいるかインターネットで見ることができるようにします。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>にある<ruby>神田明神<rt>かんだみょうじん</rt></ruby>は、<ruby>来<rt>く</rt></ruby>ることができない<ruby>人<rt>ひと</rt></ruby>のために、インターネットでお<ruby>守<rt>まも</rt></ruby>りなどを<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>むことができるようにしています。",
+            "origin": "東京にある神田明神は、来ることができない人のために、インターネットでお守りなどを申し込むことができるようにしています。"
+        }
+    ],
+    "voiceurl": "k10012709041000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201112/../20201112/K10012709041_2011122058_2011122105_01_02.jpg",
+    "newsmovie": "k10012709041_202011122230_202011122231.mp4",
+    "path": "appdata/news/k10012709041000.json"
+}

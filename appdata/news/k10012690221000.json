@@ -1,0 +1,35 @@
+{
+    "id": "k10012690221000",
+    "title": "首里城が火事で焼けてから１年",
+    "ruby": "<ruby>首里城<rt>しゅりじょう</rt></ruby>が<ruby>火事<rt>かじ</rt></ruby>で<ruby>焼<rt>や</rt></ruby>けてから１<ruby>年<rt>ねん</rt></ruby>",
+    "time": "2020-11-04",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012690221000/k10012690221000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "１０<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>、<ruby>沖縄県<rt>おきなわけん</rt></ruby><ruby>那覇市<rt>なはし</rt></ruby>の<ruby>首里城<rt>しゅりじょう</rt></ruby>で<ruby>火事<rt>かじ</rt></ruby>があってから１<ruby>年<rt>ねん</rt></ruby>になりました。<ruby>首里城<rt>しゅりじょう</rt></ruby>では<ruby>朝<rt>あさ</rt></ruby><ruby>早<rt>はや</rt></ruby>く、<ruby>消防署<rt>しょうぼうしょ</rt></ruby>や<ruby>警備<rt>けいび</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<ruby>火<rt>ひ</rt></ruby>を<ruby>消<rt>け</rt></ruby>す<ruby>練習<rt>れんしゅう</rt></ruby>をしました。",
+            "origin": "１０月３１日、沖縄県那覇市の首里城で火事があってから１年になりました。首里城では朝早く、消防署や警備の人たちが火を消す練習をしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "３１<ruby>日<rt>にち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まった「<ruby>首里城祭<rt>しゅりじょうさい</rt></ruby>」では、<ruby>昔<rt>むかし</rt></ruby>の<ruby>国王<rt>こくおう</rt></ruby>と<ruby>王妃<rt>おうひ</rt></ruby>の<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<ruby>出<rt>で</rt></ruby>てきて、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>っていました。",
+            "origin": "３１日から始まった「首里城祭」では、昔の国王と王妃の着物を着た人が出てきて、大勢の人が写真を撮っていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>首里城<rt>しゅりじょう</rt></ruby>は<ruby>火事<rt>かじ</rt></ruby>で「<ruby>正殿<rt>せいでん</rt></ruby>」などの<ruby>建物<rt>たてもの</rt></ruby>が<ruby>焼<rt>や</rt></ruby>けました。<ruby>国<rt>くに</rt></ruby>は２０２６<ruby>年<rt>ねん</rt></ruby>までに<ruby>新<rt>あたら</rt></ruby>しい「<ruby>正殿<rt>せいでん</rt></ruby>」を<ruby>建<rt>た</rt></ruby>てる<ruby>予定<rt>よてい</rt></ruby>です。<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が、<ruby>建物<rt>たてもの</rt></ruby>を<ruby>直<rt>なお</rt></ruby>している<ruby>様子<rt>ようす</rt></ruby>を<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>見<rt>み</rt></ruby>ていました。",
+            "origin": "首里城は火事で「正殿」などの建物が焼けました。国は２０２６年までに新しい「正殿」を建てる予定です。大勢の人が、建物を直している様子を熱心に見ていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は「あったはずの<ruby>建物<rt>たてもの</rt></ruby>がなくなって<ruby>寂<rt>さび</rt></ruby>しいです。<ruby>早<rt>はや</rt></ruby>くまた<ruby>首里城<rt>しゅりじょう</rt></ruby>を<ruby>見<rt>み</rt></ruby>たいです」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "来た人は「あったはずの建物がなくなって寂しいです。早くまた首里城を見たいです」と話していました。"
+        }
+    ],
+    "voiceurl": "k10012690221000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201031/../20201031/K10012690221_2010311905_2010311909_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012690221000.json"
+}

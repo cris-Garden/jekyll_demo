@@ -1,0 +1,365 @@
+{
+    "id": "articles20201117kei00s00s004000c",
+    "title": "のりのりプログラミング／８　今月のテーマ　数を数えてみよう（変数）",
+    "ruby": "",
+    "time": "2020年11月17日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20201117/kei/00s/00s/004000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "みなさんはプログラミングをやったことがあるかな？",
+            "origin": "みなさんはプログラミングをやったことがあるかな？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はじめてでも<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。",
+            "origin": "はじめてでも大丈夫。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>一緒<rt>いっしょ</rt></ruby>にプログラミングの<ruby>世界<rt>せかい</rt></ruby>にふれてみよう！",
+            "origin": "一緒にプログラミングの世界にふれてみよう！"
+        },
+        {
+            "type": "h2",
+            "ruby": "のりのりプログラミングとは？",
+            "origin": "のりのりプログラミングとは？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ファイトキッズクラブのキャラクターがプログラミングを<ruby>紹介<rt>しょうかい</rt></ruby>するよ！",
+            "origin": "ファイトキッズクラブのキャラクターがプログラミングを紹介するよ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "パソコンやタブレットを<ruby>使<rt>つか</rt></ruby>ってプログラミングしてみよう！",
+            "origin": "パソコンやタブレットを使ってプログラミングしてみよう！"
+        },
+        {
+            "type": "h2",
+            "ruby": "Ｆ＠ＩＴＫｉｄｓＣｌｕｂ",
+            "origin": "Ｆ＠ＩＴＫｉｄｓＣｌｕｂ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "オンライン<ruby>校<rt>こう</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby><ruby>開校<rt>かいこう</rt></ruby>！",
+            "origin": "オンライン校１１月開校！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>詳<rt>くわ</rt></ruby>しくはコチラ",
+            "origin": "詳しくはコチラ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／",
+            "origin": "ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／"
+        },
+        {
+            "type": "ruby",
+            "ruby": "でじっとＬＩＮＥスタンプも<ruby>販売中<rt>はんばいちゅう</rt></ruby>！せひ<ruby>使<rt>つか</rt></ruby>ってね！",
+            "origin": "でじっとＬＩＮＥスタンプも販売中！せひ使ってね！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆今月のテーマ",
+            "origin": "◆今月のテーマ"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>数<rt>かず</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えてみよう（<ruby>変数<rt>へんすう</rt></ruby>）",
+            "origin": "数を数えてみよう（変数）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "プログラムの<ruby>中<rt>なか</rt></ruby>で、<ruby>数<rt>かず</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えるときには、<ruby>変数<rt>へんすう</rt></ruby>というものを<ruby>使<rt>つか</rt></ruby>うよ。<ruby>例<rt>たと</rt></ruby>えば、<ruby>野球<rt>やきゅう</rt></ruby>やサッカーでは、チームごとの<ruby>点数<rt>てんすう</rt></ruby>をスコアボードに<ruby>書<rt>か</rt></ruby>きながら<ruby>試合<rt>しあい</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めていくよね。プログラミングでは、<ruby>変数<rt>へんすう</rt></ruby>というものを<ruby>使<rt>つか</rt></ruby>って<ruby>途中<rt>とちゅう</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えておくことで、<ruby>数<rt>かず</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えることができるよ。",
+            "origin": "プログラムの中で、数を数えるときには、変数というものを使うよ。例えば、野球やサッカーでは、チームごとの点数をスコアボードに書きながら試合を進めていくよね。プログラミングでは、変数というものを使って途中の数を覚えておくことで、数を数えることができるよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆<ruby>今月<rt>こんげつ</rt></ruby><ruby>作<rt>つく</rt></ruby>るものは？",
+            "origin": "◆今月作るものは？"
+        },
+        {
+            "type": "h2",
+            "ruby": "はらぺこユニコーンを<ruby>助<rt>たす</rt></ruby>けよう！",
+            "origin": "はらぺこユニコーンを助けよう！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "りんごをユニコーンまでドラッグしたら<ruby>変数<rt>へんすう</rt></ruby>の<ruby>数<rt>かず</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える",
+            "origin": "りんごをユニコーンまでドラッグしたら変数の数が増える"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>今回<rt>こんかい</rt></ruby>は、ユニコーンにりんごを３<ruby>個<rt>こ</rt></ruby>あげたら、ユニコーンが<ruby>大<rt>おお</rt></ruby>きくなるプログラムを<ruby>作<rt>つく</rt></ruby>るよ。まずはドリルをやってみよう",
+            "origin": "今回は、ユニコーンにりんごを３個あげたら、ユニコーンが大きくなるプログラムを作るよ。まずはドリルをやってみよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ドリル",
+            "origin": "◆ドリル"
+        },
+        {
+            "type": "ruby",
+            "ruby": "でじっととぴよかんがりんご<ruby>狩<rt>が</rt></ruby>りに<ruby>出<rt>で</rt></ruby>かけました。<ruby>収穫<rt>しゅうかく</rt></ruby>したりんごを<ruby>箱<rt>はこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れようとしています。",
+            "origin": "でじっととぴよかんがりんご狩りに出かけました。収穫したりんごを箱に入れようとしています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "りんごをユニコーンまでドラッグしたら<ruby>変数<rt>へんすう</rt></ruby>の<ruby>数<rt>かず</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える",
+            "origin": "りんごをユニコーンまでドラッグしたら変数の数が増える"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>問題<rt>もんだい</rt></ruby>",
+            "origin": "問題"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ぴよかんが<ruby>箱<rt>はこ</rt></ruby>にりんごを１<ruby>個<rt>こ</rt></ruby><ruby>入<rt>い</rt></ruby>れました。その<ruby>後<rt>ご</rt></ruby>、でじっとがりんごを１<ruby>個<rt>こ</rt></ruby><ruby>入<rt>い</rt></ruby>れました。さらにその<ruby>後<rt>ご</rt></ruby>、ぴよかんがりんごを１<ruby>個<rt>こ</rt></ruby><ruby>入<rt>い</rt></ruby>れたら、<ruby>箱<rt>はこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>何<rt>なん</rt></ruby><ruby>個<rt>こ</rt></ruby>のりんごが<ruby>入<rt>はい</rt></ruby>っているでしょうか。",
+            "origin": "ぴよかんが箱にりんごを１個入れました。その後、でじっとがりんごを１個入れました。さらにその後、ぴよかんがりんごを１個入れたら、箱の中には全部で何個のりんごが入っているでしょうか。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "りんごの<ruby>個数<rt>こすう</rt></ruby>は（）<ruby>個<rt>こ</rt></ruby>",
+            "origin": "りんごの個数は（）個"
+        },
+        {
+            "type": "h2",
+            "ruby": "ここがポイント！",
+            "origin": "ここがポイント！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>何度<rt>なんど</rt></ruby>もりんごを<ruby>出<rt>だ</rt></ruby>し<ruby>入<rt>い</rt></ruby>れしても、<ruby>箱<rt>はこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>見<rt>み</rt></ruby>れば、<ruby>今<rt>いま</rt></ruby>のりんごの<ruby>数<rt>かず</rt></ruby>がわかるよね。この<ruby>箱<rt>はこ</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>をするのが「<ruby>変数<rt>へんすう</rt></ruby>」！<ruby>変数<rt>へんすう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うと、<ruby>数<rt>かず</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えたり<ruby>数<rt>かぞ</rt></ruby>えたりできるよ。",
+            "origin": "何度もりんごを出し入れしても、箱の中を見れば、今のりんごの数がわかるよね。この箱の役割をするのが「変数」！変数を使うと、数を覚えたり数えたりできるよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆プログラミングしよう！",
+            "origin": "◆プログラミングしよう！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※スクラッチがはじめての<ruby>人<rt>ひと</rt></ruby>はこちらへアクセスしてね。<ruby>基本<rt>きほん</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>が<ruby>学<rt>まな</rt></ruby>べるよ。ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／ｍａｉｎｉｃｈｉ",
+            "origin": "※スクラッチがはじめての人はこちらへアクセスしてね。基本の操作が学べるよ。ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／ｍａｉｎｉｃｈｉ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ステップ１",
+            "origin": "◆ステップ１"
+        },
+        {
+            "type": "h2",
+            "ruby": "はじめる<ruby>前<rt>まえ</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>",
+            "origin": "はじめる前の準備"
+        },
+        {
+            "type": "ruby",
+            "ruby": "パソコンとマウス、またはタブレットを<ruby>用意<rt>ようい</rt></ruby>",
+            "origin": "パソコンとマウス、またはタブレットを用意"
+        },
+        {
+            "type": "ruby",
+            "ruby": "インターネットでスクラッチ（Ｓｃｒａｔｃｈ）のサイトにアクセスして「<ruby>作<rt>つく</rt></ruby>ってみよう」をクリック！ｈｔｔｐｓ：／／ｓｃｒａｔｃｈ．ｍｉｔ．ｅｄｕ／",
+            "origin": "インターネットでスクラッチ（Ｓｃｒａｔｃｈ）のサイトにアクセスして「作ってみよう」をクリック！ｈｔｔｐｓ：／／ｓｃｒａｔｃｈ．ｍｉｔ．ｅｄｕ／"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ステップ２",
+            "origin": "◆ステップ２"
+        },
+        {
+            "type": "h2",
+            "ruby": "レッツトライ！",
+            "origin": "レッツトライ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（１）<ruby>背景<rt>はいけい</rt></ruby>とスプライトをえらぶ",
+            "origin": "（１）背景とスプライトをえらぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "をクリックして、<ruby>走<rt>はし</rt></ruby>っているユニコーンとりんごを<ruby>選<rt>えら</rt></ruby>ぶ",
+            "origin": "をクリックして、走っているユニコーンとりんごを選ぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "をクリックして<ruby>左<rt>ひだり</rt></ruby>の<ruby>森<rt>もり</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ",
+            "origin": "をクリックして左の森の背景を選ぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ねこは×で<ruby>消<rt>け</rt></ruby>しておこう",
+            "origin": "ねこは×で消しておこう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（２）スプライトの<ruby>大<rt>おお</rt></ruby>きさを<ruby>調整<rt>ちょうせい</rt></ruby>する",
+            "origin": "（２）スプライトの大きさを調整する"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>右下<rt>みぎした</rt></ruby>のスプライトのエリアから、りんごの<ruby>大<rt>おお</rt></ruby>きさを８０に<ruby>調整<rt>ちょうせい</rt></ruby>しよう",
+            "origin": "右下のスプライトのエリアから、りんごの大きさを８０に調整しよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※<ruby>大<rt>おお</rt></ruby>きさの<ruby>調整<rt>ちょうせい</rt></ruby>ができたら、ユニコーンは<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>あたりに、りんごは<ruby>木<rt>き</rt></ruby>の<ruby>枝<rt>えだ</rt></ruby>の<ruby>先<rt>さき</rt></ruby>あたりに<ruby>配置<rt>はいち</rt></ruby>しよう",
+            "origin": "※大きさの調整ができたら、ユニコーンは真ん中あたりに、りんごは木の枝の先あたりに配置しよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（３）ユニコーンの<ruby>動<rt>うご</rt></ruby>きをつくる",
+            "origin": "（３）ユニコーンの動きをつくる"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はから、",
+            "origin": "はから、"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はからさがそう",
+            "origin": "はからさがそう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>一<rt>ひと</rt></ruby>つ<ruby>目<rt>め</rt></ruby>のは<ruby>数字<rt>すうじ</rt></ruby>の<ruby>部分<rt>ぶぶん</rt></ruby>をクリックして、「１００」を「５０」に<ruby>変<rt>か</rt></ruby>えよう",
+            "origin": "一つ目のは数字の部分をクリックして、「１００」を「５０」に変えよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "をクリックして、",
+            "origin": "をクリックして、"
+        },
+        {
+            "type": "ruby",
+            "ruby": "の□をクリックしてチェックマークを<ruby>入<rt>い</rt></ruby>れよう",
+            "origin": "の□をクリックしてチェックマークを入れよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ユニコーンの<ruby>動<rt>うご</rt></ruby>きにブロックを<ruby>追加<rt>ついか</rt></ruby>しよう。",
+            "origin": "ユニコーンの動きにブロックを追加しよう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "とはからさがそう",
+            "origin": "とはからさがそう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はからさがして、「５０」を「３」に<ruby>変<rt>か</rt></ruby>えよう",
+            "origin": "はからさがして、「５０」を「３」に変えよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "これで「<ruby>変数<rt>へんすう</rt></ruby>の<ruby>中身<rt>なかみ</rt></ruby>が３になるまで<ruby>待<rt>ま</rt></ruby>つ」という<ruby>命令<rt>めいれい</rt></ruby>になったよ",
+            "origin": "これで「変数の中身が３になるまで待つ」という命令になったよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（４）りんごの動きをつくる",
+            "origin": "（４）りんごの動きをつくる"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ユニコーンに<ruby>触<rt>ふ</rt></ruby>れたら、りんごが<ruby>見<rt>み</rt></ruby>えなくなるようにしよう。",
+            "origin": "ユニコーンに触れたら、りんごが見えなくなるようにしよう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はからさがそう",
+            "origin": "はからさがそう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "は<ruby>変数<rt>へんすう</rt></ruby>の<ruby>中身<rt>なかみ</rt></ruby>に<ruby>一<rt>ひと</rt></ruby>つ<ruby>数<rt>かず</rt></ruby>を<ruby>足<rt>た</rt></ruby>すブロックだよ",
+            "origin": "は変数の中身に一つ数を足すブロックだよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（５）りんごを<ruby>増<rt>ふ</rt></ruby>やす",
+            "origin": "（５）りんごを増やす"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>右下<rt>みぎした</rt></ruby>のスプライトのエリアから、りんごを<ruby>右<rt>みぎ</rt></ruby>クリックして「<ruby>複製<rt>ふくせい</rt></ruby>」をえらぼう",
+            "origin": "右下のスプライトのエリアから、りんごを右クリックして「複製」をえらぼう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>複製<rt>ふくせい</rt></ruby>は、スプライトとそのプログラムをセットでコピーして<ruby>増<rt>ふ</rt></ruby>やすことができる<ruby>便利<rt>べんり</rt></ruby>な<ruby>機能<rt>きのう</rt></ruby>だよ！",
+            "origin": "複製は、スプライトとそのプログラムをセットでコピーして増やすことができる便利な機能だよ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>全部<rt>ぜんぶ</rt></ruby>でりんごが３<ruby>個<rt>こ</rt></ruby>になるよう、２<ruby>回<rt>かい</rt></ruby><ruby>複製<rt>ふくせい</rt></ruby>をしよう",
+            "origin": "全部でりんごが３個になるよう、２回複製をしよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "りんごの<ruby>場所<rt>ばしょ</rt></ruby>はどこでもＯＫ！",
+            "origin": "りんごの場所はどこでもＯＫ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（６）をクリックする",
+            "origin": "（６）をクリックする"
+        },
+        {
+            "type": "ruby",
+            "ruby": "りんごをドラッグしてユニコーンまで<ruby>持<rt>も</rt></ruby>っていくと、<ruby>左上<rt>ひだりうえ</rt></ruby>の<ruby>変数<rt>へんすう</rt></ruby>の<ruby>数字<rt>すうじ</rt></ruby>が<ruby>一<rt>ひと</rt></ruby>つずつ<ruby>変<rt>か</rt></ruby>わった！",
+            "origin": "りんごをドラッグしてユニコーンまで持っていくと、左上の変数の数字が一つずつ変わった！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "りんごを３<ruby>個<rt>こ</rt></ruby>ユニコーンにあげたら、<ruby>変数<rt>へんすう</rt></ruby>は「３」になって、ユニコーンが<ruby>大<rt>おお</rt></ruby>きくなった！",
+            "origin": "りんごを３個ユニコーンにあげたら、変数は「３」になって、ユニコーンが大きくなった！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "これで<ruby>完成<rt>かんせい</rt></ruby>！",
+            "origin": "これで完成！"
+        },
+        {
+            "type": "h2",
+            "ruby": "エアコンのリモコン<ruby>暮<rt>く</rt></ruby>らしの<ruby>中<rt>なか</rt></ruby>のプログラミング",
+            "origin": "エアコンのリモコン暮らしの中のプログラミング"
+        },
+        {
+            "type": "ruby",
+            "ruby": "エアコンのリモコンにもプログラミングが<ruby>使<rt>つか</rt></ruby>われているよ。<ruby>今<rt>いま</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>を<ruby>変数<rt>へんすう</rt></ruby>で<ruby>記憶<rt>きおく</rt></ruby>しておいて、<ruby>例<rt>たと</rt></ruby>えば<ruby>温度<rt>おんど</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げるボタンが<ruby>押<rt>お</rt></ruby>されたら、<ruby>変数<rt>へんすう</rt></ruby>の<ruby>中身<rt>なかみ</rt></ruby>に<ruby>足<rt>た</rt></ruby>し<ruby>算<rt>ざん</rt></ruby>をして、<ruby>何度<rt>なんど</rt></ruby>にするか<ruby>計算<rt>けいさん</rt></ruby>しているよ。",
+            "origin": "エアコンのリモコンにもプログラミングが使われているよ。今の温度を変数で記憶しておいて、例えば温度を上げるボタンが押されたら、変数の中身に足し算をして、何度にするか計算しているよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>今回<rt>こんかい</rt></ruby>は<ruby>練習問題<rt>れんしゅうもんだい</rt></ruby>がないけど、りんごをオレンジに<ruby>変<rt>か</rt></ruby>えたり、<ruby>個数<rt>こすう</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やしたりと<ruby>自由<rt>じゆう</rt></ruby>にやってみよう。スクラッチのサイトで<ruby>試<rt>ため</rt></ruby>してみてね。",
+            "origin": "今回は練習問題がないけど、りんごをオレンジに変えたり、個数を増やしたりと自由にやってみよう。スクラッチのサイトで試してみてね。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ドリルの<ruby>答<rt>こた</rt></ruby>え",
+            "origin": "◆ドリルの答え"
+        },
+        {
+            "type": "ruby",
+            "ruby": "りんごの<ruby>個数<rt>こすう</rt></ruby>は（３）<ruby>個<rt>こ</rt></ruby>",
+            "origin": "りんごの個数は（３）個"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201117kei00s00s004000c.json"
+}

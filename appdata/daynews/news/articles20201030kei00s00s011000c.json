@@ -1,0 +1,30 @@
+{
+    "id": "articles20201030kei00s00s011000c",
+    "title": "７月の九州豪雨",
+    "ruby": "",
+    "time": "2020年10月30日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20201030/kei/00s/00s/011000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "７<ruby>月<rt>がつ</rt></ruby>３<ruby>日<rt>みっか</rt></ruby>から８<ruby>日<rt>ようか</rt></ruby>にかけて、<ruby>梅雨前線<rt>ばいうぜんせん</rt></ruby>が<ruby>九州<rt>きゅうしゅう</rt></ruby><ruby>付近<rt>ふきん</rt></ruby>にとどまって<ruby>記録<rt>きろく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>大雨<rt>おおあめ</rt></ruby>を<ruby>降<rt>ふ</rt></ruby>らせました。２４<ruby>時間<rt>じかん</rt></ruby>の<ruby>降水量<rt>こうすいりょう</rt></ruby>は、<ruby>気象庁<rt>きしょうちょう</rt></ruby>が<ruby>観測<rt>かんそく</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから<ruby>最大<rt>さいだい</rt></ruby>となった<ruby>地点<rt>ちてん</rt></ruby>が<ruby>九州<rt>きゅうしゅう</rt></ruby>で<ruby>数多<rt>かずおお</rt></ruby>くありました。",
+            "origin": "７月３日から８日にかけて、梅雨前線が九州付近にとどまって記録的な大雨を降らせました。２４時間の降水量は、気象庁が観測を始めてから最大となった地点が九州で数多くありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>全国<rt>ぜんこく</rt></ruby>で８４<ruby>人<rt>にん</rt></ruby>、このうち<ruby>九州地方<rt>きゅうしゅうちほう</rt></ruby>では７７<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。なかでも<ruby>熊本県<rt>くまもとけん</rt></ruby>では<ruby>県内<rt>けんない</rt></ruby>を<ruby>流<rt>なが</rt></ruby>れる<ruby>球磨川<rt>くまがわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>市街地<rt>しがいち</rt></ruby>にあふれて＝<ruby>写真<rt>しゃしん</rt></ruby>、６５<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる<ruby>被害<rt>ひがい</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました。",
+            "origin": "全国で８４人、このうち九州地方では７７人が亡くなりました。なかでも熊本県では県内を流れる球磨川の水が市街地にあふれて＝写真、６５人が亡くなる被害が出ました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201030kei00s00s011000c.json"
+}

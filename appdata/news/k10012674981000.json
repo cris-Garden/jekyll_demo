@@ -1,0 +1,45 @@
+{
+    "id": "k10012674981000",
+    "title": "コロナウイルス　ヨーロッパではうつった人が春より増えている",
+    "ruby": "コロナウイルス　ヨーロッパではうつった<ruby>人<rt>ひと</rt></ruby>が<ruby>春<rt>はる</rt></ruby>より<ruby>増<rt>ふ</rt></ruby>えている",
+    "time": "2020-10-23",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012674981000/k10012674981000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "ヨーロッパでは、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつった<ruby>人<rt>ひと</rt></ruby>が９<ruby>月<rt>がつ</rt></ruby>から<ruby>増<rt>ふ</rt></ruby>えていて、<ruby>春<rt>はる</rt></ruby>より<ruby>多<rt>おお</rt></ruby>くなっています。",
+            "origin": "ヨーロッパでは、新しいコロナウイルスがうつった人が９月から増えていて、春より多くなっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "スペインは、うつった<ruby>人<rt>ひと</rt></ruby>が１００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になって、ヨーロッパでいちばん<ruby>多<rt>おお</rt></ruby>くなりました。",
+            "origin": "スペインは、うつった人が１００万人以上になって、ヨーロッパでいちばん多くなりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "フランスでは、うつった<ruby>人<rt>ひと</rt></ruby>が１<ruby>日<rt>にち</rt></ruby>に３<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になった<ruby>日<rt>ひ</rt></ruby>がありました。<ruby>病気<rt>びょうき</rt></ruby>がひどくなる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えて、<ruby>病院<rt>びょういん</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby>になってきているため、パリなどでは１７<ruby>日<rt>にち</rt></ruby>から<ruby>夜<rt>よる</rt></ruby>、<ruby>家<rt>いえ</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>ることを<ruby>禁止<rt>きんし</rt></ruby>しました。",
+            "origin": "フランスでは、うつった人が１日に３万人以上になった日がありました。病気がひどくなる人が増えて、病院が大変になってきているため、パリなどでは１７日から夜、家の外に出ることを禁止しました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "イタリアでは２１<ruby>日<rt>にち</rt></ruby>、うつった<ruby>人<rt>ひと</rt></ruby>が１<ruby>日<rt>にち</rt></ruby>に１<ruby>万<rt>まん</rt></ruby>５０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。ミラノなどでは<ruby>夜<rt>よる</rt></ruby>、<ruby>家<rt>いえ</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>ることを<ruby>禁止<rt>きんし</rt></ruby>していて、<ruby>出<rt>で</rt></ruby>ると５<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいの<ruby>罰金<rt>ばっきん</rt></ruby>になります。",
+            "origin": "イタリアでは２１日、うつった人が１日に１万５０００人以上になりました。ミラノなどでは夜、家の外に出ることを禁止していて、出ると５万円ぐらいの罰金になります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "イギリスでは２１<ruby>日<rt>にち</rt></ruby>、うつった<ruby>人<rt>ひと</rt></ruby>が１<ruby>日<rt>にち</rt></ruby>に２<ruby>万<rt>まん</rt></ruby>６０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。ロンドンなどでは、お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>む<ruby>店<rt>みせ</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まっています。",
+            "origin": "イギリスでは２１日、うつった人が１日に２万６０００人以上になりました。ロンドンなどでは、お酒を飲む店が閉まっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ヨーロッパの<ruby>国<rt>くに</rt></ruby>はウイルスが<ruby>広<rt>ひろ</rt></ruby>がらないように<ruby>厳<rt>きび</rt></ruby>しい<ruby>対策<rt>たいさく</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めています。",
+            "origin": "ヨーロッパの国はウイルスが広がらないように厳しい対策を始めています。"
+        }
+    ],
+    "voiceurl": "k10012674981000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201022/../20201022/K10012674981_2010220444_2010220449_01_02.jpg",
+    "newsmovie": "k10012674981_202010221016_202010221039.mp4",
+    "path": "appdata/news/k10012674981000.json"
+}

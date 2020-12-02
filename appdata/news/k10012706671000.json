@@ -1,0 +1,35 @@
+{
+    "id": "k10012706671000",
+    "title": "コロナウイルスが広がる　ベッドが足りなくなることが心配",
+    "ruby": "コロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がる　ベッドが<ruby>足<rt>た</rt></ruby>りなくなることが<ruby>心配<rt>しんぱい</rt></ruby>",
+    "time": "2020-11-13",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012706671000/k10012706671000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつった<ruby>人<rt>ひと</rt></ruby>は１１<ruby>日<rt>にち</rt></ruby>、１５４６<ruby>人<rt>にん</rt></ruby>いました。<ruby>日本医師会<rt>にほんいしかい</rt></ruby>は、コロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がっていて、<ruby>今<rt>いま</rt></ruby>は３<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>波<rt>なみ</rt></ruby>かもしれないと<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "新しいコロナウイルスがうつった人は１１日、１５４６人いました。日本医師会は、コロナウイルスが広がっていて、今は３回目の大きな波かもしれないと言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>によると、６つの<ruby>都<rt>と</rt></ruby><ruby>府<rt>ふ</rt></ruby><ruby>県<rt>けん</rt></ruby>で、コロナウイルスで<ruby>病気<rt>びょうき</rt></ruby>になった<ruby>人<rt>ひと</rt></ruby>のために<ruby>用意<rt>ようい</rt></ruby>した<ruby>病院<rt>びょういん</rt></ruby>のベッドの２５％<ruby>以上<rt>いじょう</rt></ruby>が<ruby>使<rt>つか</rt></ruby>われています。<ruby>青森県<rt>あおもりけん</rt></ruby>と<ruby>宮城県<rt>みやぎけん</rt></ruby>、<ruby>東京都<rt>とうきょうと</rt></ruby>、<ruby>大阪府<rt>おおさかふ</rt></ruby>、<ruby>岡山県<rt>おかやまけん</rt></ruby>、<ruby>沖縄県<rt>おきなわけん</rt></ruby>です。",
+            "origin": "厚生労働省によると、６つの都府県で、コロナウイルスで病気になった人のために用意した病院のベッドの２５％以上が使われています。青森県と宮城県、東京都、大阪府、岡山県、沖縄県です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>での<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>広<rt>ひろ</rt></ruby>がり<ruby>方<rt>かた</rt></ruby>を、４つに<ruby>分<rt>わ</rt></ruby>けています。<ruby>使<rt>つか</rt></ruby>っているベッドが２５％<ruby>以上<rt>いじょう</rt></ruby>になることは、２<ruby>番目<rt>ばんめ</rt></ruby>にひどい<ruby>広<rt>ひろ</rt></ruby>がり<ruby>方<rt>かた</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っています。",
+            "origin": "政府は、日本での新しいコロナウイルスの広がり方を、４つに分けています。使っているベッドが２５％以上になることは、２番目にひどい広がり方に入っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>政府<rt>せいふ</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>尾身<rt>おみ</rt></ruby><ruby>茂<rt>しげる</rt></ruby><ruby>会長<rt>かいちょう</rt></ruby>は「このままではコロナウイルスが<ruby>大<rt>おお</rt></ruby>きく<ruby>広<rt>ひろ</rt></ruby>がって、<ruby>病院<rt>びょういん</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby>になるかもしれない」と<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "政府の専門家の会議の尾身茂会長は「このままではコロナウイルスが大きく広がって、病院が大変になるかもしれない」と言いました。"
+        }
+    ],
+    "voiceurl": "k10012706671000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201111/../20201111/K10012706671_2011111928_2011111932_01_04.jpg",
+    "newsmovie": "k10012706671_202011111917_202011111919.mp4",
+    "path": "appdata/news/k10012706671000.json"
+}

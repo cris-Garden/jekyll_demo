@@ -1,0 +1,365 @@
+{
+    "id": "articles20201020kei00s00s004000c",
+    "title": "／７　今月のテーマ　キャラクターの場所を決めよう（座標）",
+    "ruby": "",
+    "time": "2020年10月20日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20201020/kei/00s/00s/004000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "みなさんはプログラミングをやったことがあるかな？",
+            "origin": "みなさんはプログラミングをやったことがあるかな？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "はじめてでも<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。",
+            "origin": "はじめてでも大丈夫。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>一緒<rt>いっしょ</rt></ruby>にプログラミングの<ruby>世界<rt>せかい</rt></ruby>にふれてみよう！",
+            "origin": "一緒にプログラミングの世界にふれてみよう！"
+        },
+        {
+            "type": "h2",
+            "ruby": "のりのりプログラミングとは？",
+            "origin": "のりのりプログラミングとは？"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ファイトキッズクラブのキャラクターがプログラミングを<ruby>紹介<rt>しょうかい</rt></ruby>するよ！",
+            "origin": "ファイトキッズクラブのキャラクターがプログラミングを紹介するよ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "パソコンやタブレットを<ruby>使<rt>つか</rt></ruby>ってプログラミングしてみよう！",
+            "origin": "パソコンやタブレットを使ってプログラミングしてみよう！"
+        },
+        {
+            "type": "h2",
+            "ruby": "Ｆ＠ＩＴＫｉｄｓＣｌｕｂ",
+            "origin": "Ｆ＠ＩＴＫｉｄｓＣｌｕｂ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "生徒募集中オンライン<ruby>校<rt>こう</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby><ruby>開校<rt>かいこう</rt></ruby>！",
+            "origin": "生徒募集中オンライン校１１月開校！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>詳<rt>くわ</rt></ruby>しくはコチラ",
+            "origin": "詳しくはコチラ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／",
+            "origin": "ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆今月のテーマ",
+            "origin": "◆今月のテーマ"
+        },
+        {
+            "type": "h2",
+            "ruby": "キャラクターの<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めよう（<ruby>座標<rt>ざひょう</rt></ruby>）",
+            "origin": "キャラクターの場所を決めよう（座標）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "キャラクターの<ruby>場所<rt>ばしょ</rt></ruby>は<ruby>座標<rt>ざひょう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>表<rt>あらわ</rt></ruby>すよ。<ruby>例<rt>たと</rt></ruby>えば、ゲームによってキャラクターやアイテムが<ruby>出現<rt>しゅつげん</rt></ruby>する<ruby>場所<rt>ばしょ</rt></ruby>が<ruby>決<rt>き</rt></ruby>まっていたりするよね。このように<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めたい<ruby>時<rt>とき</rt></ruby>には<ruby>座標<rt>ざひょう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うよ。",
+            "origin": "キャラクターの場所は座標を使って表すよ。例えば、ゲームによってキャラクターやアイテムが出現する場所が決まっていたりするよね。このように場所を決めたい時には座標を使うよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆<ruby>今月<rt>こんげつ</rt></ruby><ruby>作<rt>つく</rt></ruby>るものは？",
+            "origin": "◆今月作るものは？"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>私<rt>わたし</rt></ruby>を<ruby>連<rt>つ</rt></ruby>れ<ruby>出<rt>だ</rt></ruby>して！",
+            "origin": "私を連れ出して！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>王子<rt>おうじ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>まで<ruby>移動<rt>いどう</rt></ruby>する",
+            "origin": "王子の場所まで移動する"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>姫<rt>ひめ</rt></ruby>を<ruby>待<rt>ま</rt></ruby>っている",
+            "origin": "姫を待っている"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>座標<rt>ざひょう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってキャラクターの<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めたり、その<ruby>座標<rt>ざひょう</rt></ruby>まで<ruby>動<rt>うご</rt></ruby>かしたりしてみよう！<ruby>座標<rt>ざひょう</rt></ruby>はどのように<ruby>表<rt>あらわ</rt></ruby>すんだろう？まずはドリルをやってみよう！",
+            "origin": "座標を使ってキャラクターの場所を決めたり、その座標まで動かしたりしてみよう！座標はどのように表すんだろう？まずはドリルをやってみよう！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ドリル",
+            "origin": "◆ドリル"
+        },
+        {
+            "type": "ruby",
+            "ruby": "【<ruby>座標<rt>ざひょう</rt></ruby>の<ruby>表<rt>あらわ</rt></ruby>し<ruby>方<rt>かた</rt></ruby>】",
+            "origin": "【座標の表し方】"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>座標<rt>ざひょう</rt></ruby>は<ruby>二<rt>ふた</rt></ruby>つの<ruby>数字<rt>すうじ</rt></ruby>で<ruby>表<rt>あらわ</rt></ruby>します。<ruby>横<rt>よこ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>をｘ<ruby>座標<rt>ざひょう</rt></ruby>、<ruby>縦<rt>たて</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>をｙ<ruby>座標<rt>ざひょう</rt></ruby>と<ruby>呼<rt>よ</rt></ruby>びます。<ruby>座標<rt>ざひょう</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>は★の<ruby>場所<rt>ばしょ</rt></ruby>で、「ｘ<ruby>座標<rt>ざひょう</rt></ruby>：０、ｙ<ruby>座標<rt>ざひょう</rt></ruby>：０」です。",
+            "origin": "座標は二つの数字で表します。横の場所をｘ座標、縦の場所をｙ座標と呼びます。座標の中心は★の場所で、「ｘ座標：０、ｙ座標：０」です。"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>問題<rt>もんだい</rt></ruby>",
+            "origin": "問題"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>中心<rt>ちゅうしん</rt></ruby>から<ruby>右<rt>みぎ</rt></ruby>に１００、<ruby>下<rt>した</rt></ruby>に１００<ruby>進<rt>すす</rt></ruby>んだところにでじっとがいます。これを<ruby>座標<rt>ざひょう</rt></ruby>で<ruby>表<rt>あらわ</rt></ruby>すと「ｘ<ruby>座標<rt>ざひょう</rt></ruby>：１００、ｙ<ruby>座標<rt>ざひょう</rt></ruby>：－１００」です。ぴよかんは、どの<ruby>場所<rt>ばしょ</rt></ruby>にいるでしょうか。",
+            "origin": "中心から右に１００、下に１００進んだところにでじっとがいます。これを座標で表すと「ｘ座標：１００、ｙ座標：－１００」です。ぴよかんは、どの場所にいるでしょうか。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ｘ<ruby>座標<rt>ざひょう</rt></ruby>（）",
+            "origin": "ｘ座標（）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ｙ<ruby>座標<rt>ざひょう</rt></ruby>（）",
+            "origin": "ｙ座標（）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆プログラミングしよう！",
+            "origin": "◆プログラミングしよう！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※スクラッチがはじめての<ruby>人<rt>ひと</rt></ruby>はこちらへアクセスしてね。<ruby>基本<rt>きほん</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>が<ruby>学<rt>まな</rt></ruby>べるよ。ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／ｍａｉｎｉｃｈｉ",
+            "origin": "※スクラッチがはじめての人はこちらへアクセスしてね。基本の操作が学べるよ。ｈｔｔｐｓ：／／ｗｗｗ．ｋｎｏｗｌｅｄｇｅｗｉｎｇ．ｃｏｍ／ｏｃ／ｆｋｉｄｓ／ｍａｉｎｉｃｈｉ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ステップ１",
+            "origin": "◆ステップ１"
+        },
+        {
+            "type": "h2",
+            "ruby": "はじめる<ruby>前<rt>まえ</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>",
+            "origin": "はじめる前の準備"
+        },
+        {
+            "type": "ruby",
+            "ruby": "パソコンとマウス、またはタブレットを<ruby>用意<rt>ようい</rt></ruby>",
+            "origin": "パソコンとマウス、またはタブレットを用意"
+        },
+        {
+            "type": "ruby",
+            "ruby": "インターネットでスクラッチ（Ｓｃｒａｔｃｈ）のサイトにアクセスして「<ruby>作<rt>つく</rt></ruby>ってみよう」をクリック！ｈｔｔｐｓ：／／ｓｃｒａｔｃｈ．ｍｉｔ．ｅｄｕ／",
+            "origin": "インターネットでスクラッチ（Ｓｃｒａｔｃｈ）のサイトにアクセスして「作ってみよう」をクリック！ｈｔｔｐｓ：／／ｓｃｒａｔｃｈ．ｍｉｔ．ｅｄｕ／"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ステップ２",
+            "origin": "◆ステップ２"
+        },
+        {
+            "type": "h2",
+            "ruby": "レッツトライ！",
+            "origin": "レッツトライ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（１）<ruby>背景<rt>はいけい</rt></ruby>とスプライトをえらぶ（※スクラッチではキャラクターのことをスプライトとよびます）",
+            "origin": "（１）背景とスプライトをえらぶ（※スクラッチではキャラクターのことをスプライトとよびます）"
+        },
+        {
+            "type": "ruby",
+            "ruby": "をクリックしてお<ruby>城<rt>しろ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ",
+            "origin": "をクリックしてお城の中の背景を選ぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "をクリックして<ruby>姫<rt>ひめ</rt></ruby>と<ruby>王子<rt>おうじ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ",
+            "origin": "をクリックして姫と王子を選ぶ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ねこは×で<ruby>消<rt>け</rt></ruby>しておこう",
+            "origin": "ねこは×で消しておこう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（２）スプライトの<ruby>大<rt>おお</rt></ruby>きさを<ruby>調整<rt>ちょうせい</rt></ruby>する",
+            "origin": "（２）スプライトの大きさを調整する"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（３）<ruby>姫<rt>ひめ</rt></ruby>のはじめの<ruby>座標<rt>ざひょう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる",
+            "origin": "（３）姫のはじめの座標を調べる"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>右下<rt>みぎした</rt></ruby>のスプライトのエリアから、<ruby>姫<rt>ひめ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさ：３０、<ruby>王子<rt>おうじ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさ：６０に<ruby>調整<rt>ちょうせい</rt></ruby>しよう",
+            "origin": "右下のスプライトのエリアから、姫の大きさ：３０、王子の大きさ：６０に調整しよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※<ruby>大<rt>おお</rt></ruby>きさの<ruby>調整<rt>ちょうせい</rt></ruby>ができたら、<ruby>姫<rt>ひめ</rt></ruby>は<ruby>階段<rt>かいだん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、<ruby>王子<rt>おうじ</rt></ruby>は<ruby>階段<rt>かいだん</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>配置<rt>はいち</rt></ruby>しよう",
+            "origin": "※大きさの調整ができたら、姫は階段の上、王子は階段の下に配置しよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>右下<rt>みぎした</rt></ruby>に、<ruby>姫<rt>ひめ</rt></ruby>の<ruby>今<rt>いま</rt></ruby>いる<ruby>場所<rt>ばしょ</rt></ruby>が<ruby>座標<rt>ざひょう</rt></ruby>として<ruby>表示<rt>ひょうじ</rt></ruby>されているよ。",
+            "origin": "右下に、姫の今いる場所が座標として表示されているよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "の",
+            "origin": "の"
+        },
+        {
+            "type": "ruby",
+            "ruby": "を",
+            "origin": "を"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>見<rt>み</rt></ruby>てみよう。<ruby>今<rt>いま</rt></ruby>の<ruby>座標<rt>ざひょう</rt></ruby>の<ruby>数字<rt>すうじ</rt></ruby>が<ruby>値<rt>あたい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っているので、そのままドラッグしてプログラムを<ruby>作<rt>つく</rt></ruby>ろう",
+            "origin": "見てみよう。今の座標の数字が値に入っているので、そのままドラッグしてプログラムを作ろう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "は",
+            "origin": "は"
+        },
+        {
+            "type": "ruby",
+            "ruby": "スプライトの<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>座標<rt>ざひょう</rt></ruby>で<ruby>指定<rt>してい</rt></ruby>できるよ",
+            "origin": "スプライトの場所を座標で指定できるよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※<ruby>場所<rt>ばしょ</rt></ruby>によって<ruby>数字<rt>すうじ</rt></ruby>は<ruby>異<rt>こと</rt></ruby>なるよ。←のプログラムと<ruby>同<rt>おな</rt></ruby>じ<ruby>数字<rt>すうじ</rt></ruby>でなくてもそのままでＯＫ！",
+            "origin": "※場所によって数字は異なるよ。←のプログラムと同じ数字でなくてもそのままでＯＫ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（４）<ruby>姫<rt>ひめ</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きをつくる",
+            "origin": "（４）姫の動きをつくる"
+        },
+        {
+            "type": "ruby",
+            "ruby": "★の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>姫<rt>ひめ</rt></ruby>をドラッグで<ruby>動<rt>うご</rt></ruby>かして、<ruby>座標<rt>ざひょう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べよう",
+            "origin": "★の場所に姫をドラッグで動かして、座標を調べよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>調<rt>しら</rt></ruby>べられたらそのままの",
+            "origin": "調べられたらそのままの"
+        },
+        {
+            "type": "ruby",
+            "ruby": "をつなげよう",
+            "origin": "をつなげよう"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>同<rt>おな</rt></ruby>じように◆の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>姫<rt>ひめ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かして、<ruby>座標<rt>ざひょう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて、ブロックをつなげよう。",
+            "origin": "同じように◆の場所に姫を動かして、座標を調べて、ブロックをつなげよう。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "は",
+            "origin": "は"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１<ruby>秒<rt>びょう</rt></ruby>かけてスプライトを<ruby>指定<rt>してい</rt></ruby>した<ruby>座標<rt>ざひょう</rt></ruby>まで<ruby>動<rt>うご</rt></ruby>かすことができるよ",
+            "origin": "１秒かけてスプライトを指定した座標まで動かすことができるよ"
+        },
+        {
+            "type": "ruby",
+            "ruby": "（５）をクリックする",
+            "origin": "（５）をクリックする"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>姫<rt>ひめ</rt></ruby>が<ruby>王子<rt>おうじ</rt></ruby>まで<ruby>移動<rt>いどう</rt></ruby>した！",
+            "origin": "姫が王子まで移動した！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "これで<ruby>完成<rt>かんせい</rt></ruby>！",
+            "origin": "これで完成！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "※ドラッグした<ruby>場所<rt>ばしょ</rt></ruby>によって<ruby>数字<rt>すうじ</rt></ruby>は<ruby>異<rt>こと</rt></ruby>なるよ。",
+            "origin": "※ドラッグした場所によって数字は異なるよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "↑のプログラムと<ruby>同<rt>おな</rt></ruby>じ<ruby>数字<rt>すうじ</rt></ruby>でなくても、そのままでＯＫ！",
+            "origin": "↑のプログラムと同じ数字でなくても、そのままでＯＫ！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "◆ステップ３",
+            "origin": "◆ステップ３"
+        },
+        {
+            "type": "h2",
+            "ruby": "練習問題",
+            "origin": "練習問題"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>王子<rt>おうじ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>城<rt>しろ</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>け<ruby>出<rt>だ</rt></ruby>そう！",
+            "origin": "王子と一緒に城を抜け出そう！"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>最後<rt>さいご</rt></ruby>に１<ruby>秒<rt>びょう</rt></ruby>かけて▲まで<ruby>移動<rt>いどう</rt></ruby>するようにプログラムを<ruby>追加<rt>ついか</rt></ruby>しよう",
+            "origin": "最後に１秒かけて▲まで移動するようにプログラムを追加しよう"
+        },
+        {
+            "type": "h2",
+            "ruby": "ルール",
+            "origin": "ルール"
+        },
+        {
+            "type": "ruby",
+            "ruby": "・<ruby>座標<rt>ざひょう</rt></ruby>のブロックを<ruby>使<rt>つか</rt></ruby>おう・<ruby>王子<rt>おうじ</rt></ruby>にもプログラムを<ruby>作<rt>つく</rt></ruby>ろう",
+            "origin": "・座標のブロックを使おう・王子にもプログラムを作ろう"
+        },
+        {
+            "type": "h2",
+            "ruby": "“<ruby>交通系<rt>こうつうけい</rt></ruby>ＩＣカード”",
+            "origin": "“交通系ＩＣカード”"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>駅<rt>えき</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>るときに<ruby>使<rt>つか</rt></ruby>う<ruby>交通系<rt>こうつうけい</rt></ruby>ＩＣカードにもプログラミングが<ruby>使<rt>つか</rt></ruby>われているよ。カードをかざすと<ruby>自動<rt>じどう</rt></ruby>で<ruby>決済<rt>けっさい</rt></ruby>がされて、<ruby>改札<rt>かいさつ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>った<ruby>時間<rt>じかん</rt></ruby>や<ruby>駅<rt>えき</rt></ruby>のデータなども<ruby>蓄積<rt>ちくせき</rt></ruby>されるようになっているよ。",
+            "origin": "駅の改札を通るときに使う交通系ＩＣカードにもプログラミングが使われているよ。カードをかざすと自動で決済がされて、改札を通った時間や駅のデータなども蓄積されるようになっているよ。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "●ドリルの<ruby>解答<rt>かいとう</rt></ruby>▶ｘ<ruby>座標<rt>ざひょう</rt></ruby>：－２００／ｙ<ruby>座標<rt>ざひょう</rt></ruby>：１００",
+            "origin": "●ドリルの解答▶ｘ座標：－２００／ｙ座標：１００"
+        },
+        {
+            "type": "ruby",
+            "ruby": "●<ruby>練習問題<rt>れんしゅうもんだい</rt></ruby>の<ruby>解答<rt>かいとう</rt></ruby>（<ruby>解答<rt>かいとう</rt></ruby><ruby>例<rt>れい</rt></ruby>）▼",
+            "origin": "●練習問題の解答（解答例）▼"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201020kei00s00s004000c.json"
+}

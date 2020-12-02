@@ -1,0 +1,30 @@
+{
+    "id": "k10012720291000",
+    "title": "新しいコロナウイルスの危険レベル　東京都は最も高くなる",
+    "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>危険<rt>きけん</rt></ruby>レベル　<ruby>東京都<rt>とうきょうと</rt></ruby>は<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>くなる",
+    "time": "2020-11-20",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012720291000/k10012720291000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>では、１８<ruby>日<rt>にち</rt></ruby>までの１<ruby>週間<rt>しゅうかん</rt></ruby>で、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつった<ruby>人<rt>ひと</rt></ruby>の<ruby>平均<rt>へいきん</rt></ruby>が１<ruby>日<rt>にち</rt></ruby>に３２６<ruby>人<rt>にん</rt></ruby>でした。<ruby>前<rt>まえ</rt></ruby>の<ruby>週<rt>しゅう</rt></ruby>の<ruby>平均<rt>へいきん</rt></ruby>は２４４<ruby>人<rt>にん</rt></ruby>だったので、とても<ruby>増<rt>ふ</rt></ruby>えました。<ruby>東京都<rt>とうきょうと</rt></ruby>は１９<ruby>日<rt>にち</rt></ruby>、ウイルスが<ruby>広<rt>ひろ</rt></ruby>がる<ruby>危険<rt>きけん</rt></ruby>のレベルがいちばん<ruby>高<rt>たか</rt></ruby>くなったと<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "東京都では、１８日までの１週間で、新しいコロナウイルスがうつった人の平均が１日に３２６人でした。前の週の平均は２４４人だったので、とても増えました。東京都は１９日、ウイルスが広がる危険のレベルがいちばん高くなったと言いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>小池<rt>こいけ</rt></ruby><ruby>知事<rt>ちじ</rt></ruby>は「<ruby>友達<rt>ともだち</rt></ruby>などと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>食事<rt>しょくじ</rt></ruby>をしたときにウイルスがうつって、<ruby>家族<rt>かぞく</rt></ruby>にうつす<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<ruby>１人<rt>ひとり</rt></ruby>にウイルスがうつると、ほかの<ruby>家族<rt>かぞく</rt></ruby>にうつさないようにするのはとても<ruby>難<rt>むずか</rt></ruby>しいです。お<ruby>年寄<rt>としよ</rt></ruby>りと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>は、<ruby>外<rt>そと</rt></ruby>でウイルスにうつらないようによく<ruby>気<rt>き</rt></ruby>をつけてください」と<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "東京都の小池知事は「友達などと一緒に食事をしたときにウイルスがうつって、家族にうつす人が増えています。１人にウイルスがうつると、ほかの家族にうつさないようにするのはとても難しいです。お年寄りと一緒に住んでいる人は、外でウイルスにうつらないようによく気をつけてください」と言いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "そして、<ruby>食事<rt>しょくじ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くときは、<ruby>次<rt>つぎ</rt></ruby>のことに<ruby>気<rt>き</rt></ruby>をつけるように<ruby>言<rt>い</rt></ruby>いました。<ruby>少<rt>すく</rt></ruby>ない<ruby>人数<rt>にんずう</rt></ruby>で、１<ruby>時間<rt>じかん</rt></ruby>ぐらいの<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>にしてください。<ruby>小<rt>ちい</rt></ruby>さい<ruby>声<rt>こえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>してください。<ruby>料理<rt>りょうり</rt></ruby>は<ruby>１人<rt>ひとり</rt></ruby>ずつ<ruby>皿<rt>さら</rt></ruby>に<ruby>入<rt>い</rt></ruby>れてください。<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>に<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>ったり<ruby>消毒<rt>しょうどく</rt></ruby>したりしてください。",
+            "origin": "そして、食事に行くときは、次のことに気をつけるように言いました。少ない人数で、１時間ぐらいの短い時間にしてください。小さい声で話してください。料理は１人ずつ皿に入れてください。短い時間に何度も手を洗ったり消毒したりしてください。"
+        }
+    ],
+    "voiceurl": "k10012720291000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201119/../20201119/K10012720291_2011200000_2011200000_01_03.jpg",
+    "newsmovie": "k10012720291_202011191923_202011191926.mp4",
+    "path": "appdata/news/k10012720291000.json"
+}

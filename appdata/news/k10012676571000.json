@@ -1,0 +1,35 @@
+{
+    "id": "k10012676571000",
+    "title": "自殺した子ども　２年続けて３００人以上になる",
+    "ruby": "<ruby>自殺<rt>じさつ</rt></ruby>した<ruby>子<rt>こ</rt></ruby>ども　２<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて３００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる",
+    "time": "2020-10-26",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012676571000/k10012676571000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までの１<ruby>年<rt>ねん</rt></ruby>に<ruby>自殺<rt>じさつ</rt></ruby>した<ruby>小学生<rt>しょうがくせい</rt></ruby>、<ruby>中学生<rt>ちゅうがくせい</rt></ruby>、<ruby>高校生<rt>こうこうせい</rt></ruby>は３１７<ruby>人<rt>にん</rt></ruby>いました。<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>かった<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>より１５<ruby>人<rt>にん</rt></ruby><ruby>少<rt>すく</rt></ruby>なくなりましたが、２<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>多<rt>おお</rt></ruby>くて、２<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて３００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。",
+            "origin": "文部科学省によると、今年３月までの１年に自殺した小学生、中学生、高校生は３１７人いました。今まででいちばん多かった前の年より１５人少なくなりましたが、２番目に多くて、２年続けて３００人以上になりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>小学生<rt>しょうがくせい</rt></ruby>は４<ruby>人<rt>にん</rt></ruby>、<ruby>中学生<rt>ちゅうがくせい</rt></ruby>は９１<ruby>人<rt>にん</rt></ruby>、<ruby>高校生<rt>こうこうせい</rt></ruby>は２２２<ruby>人<rt>にん</rt></ruby>いました。<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は２０６<ruby>人<rt>にん</rt></ruby>、<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は１１１<ruby>人<rt>にん</rt></ruby>いました。",
+            "origin": "小学生は４人、中学生は９１人、高校生は２２２人いました。男の子は２０６人、女の子は１１１人いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>自殺<rt>じさつ</rt></ruby>した<ruby>理由<rt>りゆう</rt></ruby>は「わからない」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>が１８８<ruby>人<rt>にん</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>くて、６０％になりました。<ruby>次<rt>つぎ</rt></ruby>に「<ruby>家庭<rt>かてい</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>」、「<ruby>卒業<rt>そつぎょう</rt></ruby>したあとのことについての<ruby>問題<rt>もんだい</rt></ruby>」、「<ruby>両親<rt>りょうしん</rt></ruby>などに<ruby>激<rt>はげ</rt></ruby>しく<ruby>叱<rt>しか</rt></ruby>られた」が<ruby>約<rt>やく</rt></ruby>３０<ruby>人<rt>にん</rt></ruby>ずついました。",
+            "origin": "自殺した理由は「わからない」と答えた人が１８８人でいちばん多くて、６０％になりました。次に「家庭の問題」、「卒業したあとのことについての問題」、「両親などに激しく叱られた」が約３０人ずついました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>理由<rt>りゆう</rt></ruby>がよくわからないと<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いですが、<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>調<rt>しら</rt></ruby>べて、これから<ruby>子<rt>こ</rt></ruby>どもが<ruby>自殺<rt>じさつ</rt></ruby>しないようにどうしたらいいかしっかり<ruby>考<rt>かんが</rt></ruby>えることが<ruby>必要<rt>ひつよう</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "専門家は「理由がよくわからないと答えた人が多いですが、十分に調べて、これから子どもが自殺しないようにどうしたらいいかしっかり考えることが必要です」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012676571000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201023/../20201023/K10012676571_2010230535_2010230538_01_03.jpg",
+    "newsmovie": "k10012676571_202010230535_202010230537.mp4",
+    "path": "appdata/news/k10012676571000.json"
+}

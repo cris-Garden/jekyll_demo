@@ -1,0 +1,35 @@
+{
+    "id": "k10012681041000",
+    "title": "「熊が出た」という連絡が１万３０００以上　５年で最も多い",
+    "ruby": "「<ruby>熊<rt>くま</rt></ruby>が<ruby>出<rt>で</rt></ruby>た」という<ruby>連絡<rt>れんらく</rt></ruby>が１<ruby>万<rt>まん</rt></ruby>３０００<ruby>以上<rt>いじょう</rt></ruby>　５<ruby>年<rt>ねん</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い",
+    "time": "2020-10-28",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012681041000/k10012681041000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>今年<rt>ことし</rt></ruby>は<ruby>熊<rt>くま</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。２６<ruby>日<rt>にち</rt></ruby>、<ruby>政府<rt>せいふ</rt></ruby>は<ruby>特別<rt>とくべつ</rt></ruby>に<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きました。",
+            "origin": "今年は熊の被害が多くなっています。２６日、政府は特別に会議を開きました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>会議<rt>かいぎ</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から９<ruby>月<rt>がつ</rt></ruby>までに、「<ruby>熊<rt>くま</rt></ruby>が<ruby>出<rt>で</rt></ruby>た」という<ruby>連絡<rt>れんらく</rt></ruby>が１<ruby>万<rt>まん</rt></ruby>３６７０ありました。<ruby>今<rt>いま</rt></ruby>までの５<ruby>年<rt>ねん</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くなりました。<ruby>会議<rt>かいぎ</rt></ruby>では、<ruby>山<rt>やま</rt></ruby>で<ruby>熊<rt>くま</rt></ruby>が<ruby>食<rt>た</rt></ruby>べる<ruby>木<rt>き</rt></ruby>の<ruby>実<rt>み</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなっているという<ruby>話<rt>はなし</rt></ruby>もありました。",
+            "origin": "会議によると、今年４月から９月までに、「熊が出た」という連絡が１万３６７０ありました。今までの５年で最も多くなりました。会議では、山で熊が食べる木の実が少なくなっているという話もありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ＮＨＫが<ruby>調<rt>しら</rt></ruby>べると、<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から<ruby>今<rt>いま</rt></ruby>までに１２３<ruby>人<rt>にん</rt></ruby>が<ruby>熊<rt>くま</rt></ruby>に<ruby>襲<rt>おそ</rt></ruby>われてけがをしました。９<ruby>月<rt>がつ</rt></ruby>から１０<ruby>月<rt>がつ</rt></ruby>には<ruby>２人<rt>ふたり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。",
+            "origin": "ＮＨＫが調べると、今年４月から今までに１２３人が熊に襲われてけがをしました。９月から１０月には２人が亡くなりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>環境省<rt>かんきょうしょう</rt></ruby>は「みんなが<ruby>心配<rt>しんぱい</rt></ruby>しています。<ruby>役所<rt>やくしょ</rt></ruby>が<ruby>協力<rt>きょうりょく</rt></ruby>して、<ruby>熊<rt>くま</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>がないようにしましょう」と<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "会議で環境省は「みんなが心配しています。役所が協力して、熊の被害がないようにしましょう」と言いました。"
+        }
+    ],
+    "voiceurl": "k10012681041000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201026/../20201026/K10012681041_2010261131_2010261142_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012681041000.json"
+}

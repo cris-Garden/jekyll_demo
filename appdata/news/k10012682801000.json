@@ -1,0 +1,30 @@
+{
+    "id": "k10012682801000",
+    "title": "妊娠してから子宮頸がんが見つかった人　１年で２００人以上",
+    "ruby": "<ruby>妊娠<rt>にんしん</rt></ruby>してから<ruby>子宮頸<rt>しきゅうけい</rt></ruby>がんが<ruby>見<rt>み</rt></ruby>つかった<ruby>人<rt>ひと</rt></ruby>　１<ruby>年<rt>ねん</rt></ruby>で２００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>",
+    "time": "2020-10-28",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012682801000/k10012682801000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>子宮頸<rt>しきゅうけい</rt></ruby>がんは、<ruby>子宮<rt>しきゅう</rt></ruby>の<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにできるがんです。<ruby>若<rt>わか</rt></ruby>い<ruby>女性<rt>じょせい</rt></ruby>に<ruby>多<rt>おお</rt></ruby>いがんで、<ruby>日本<rt>にっぽん</rt></ruby>では１<ruby>年<rt>ねん</rt></ruby>に２８００<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなっています。",
+            "origin": "子宮頸がんは、子宮の入り口の近くにできるがんです。若い女性に多いがんで、日本では１年に２８００人が亡くなっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本<rt>にほん</rt></ruby><ruby>対<rt>たい</rt></ruby>がん<ruby>協会<rt>きょうかい</rt></ruby>などは、<ruby>妊娠<rt>にんしん</rt></ruby>した<ruby>女性<rt>じょせい</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べている<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>などにアンケートを<ruby>行<rt>おこな</rt></ruby>って、３８％が<ruby>答<rt>こた</rt></ruby>えました。２０１７<ruby>年度<rt>ねんど</rt></ruby>は、<ruby>妊娠<rt>にんしん</rt></ruby>した<ruby>女性<rt>じょせい</rt></ruby>が<ruby>健康<rt>けんこう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるときに<ruby>子宮頸<rt>しきゅうけい</rt></ruby>がんの<ruby>検査<rt>けんさ</rt></ruby>をした<ruby>人<rt>ひと</rt></ruby>が、４２<ruby>万<rt>まん</rt></ruby>７０００<ruby>人<rt>にん</rt></ruby>いました。そのあとがんが<ruby>見<rt>み</rt></ruby>つかった<ruby>人<rt>ひと</rt></ruby>は２３４<ruby>人<rt>にん</rt></ruby>いました。",
+            "origin": "日本対がん協会などは、妊娠した女性の健康を調べている市や町などにアンケートを行って、３８％が答えました。２０１７年度は、妊娠した女性が健康を調べるときに子宮頸がんの検査をした人が、４２万７０００人いました。そのあとがんが見つかった人は２３４人いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>妊娠<rt>にんしん</rt></ruby>している<ruby>間<rt>あいだ</rt></ruby>に<ruby>子宮頸<rt>しきゅうけい</rt></ruby>がんが<ruby>見<rt>み</rt></ruby>つかると、<ruby>女性<rt>じょせい</rt></ruby>を<ruby>助<rt>たす</rt></ruby>けるために、<ruby>妊娠<rt>にんしん</rt></ruby>を<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>止<rt>と</rt></ruby>めたり<ruby>子宮<rt>しきゅう</rt></ruby>を<ruby>取<rt>と</rt></ruby>ったりしなければならないことがあります。<ruby>日本<rt>にほん</rt></ruby><ruby>対<rt>たい</rt></ruby>がん<ruby>協会<rt>きょうかい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>子<rt>こ</rt></ruby>どもがほしい<ruby>人<rt>ひと</rt></ruby>は、<ruby>妊娠<rt>にんしん</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ず<ruby>子宮頸<rt>しきゅうけい</rt></ruby>がんの<ruby>検査<rt>けんさ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けてください」と<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "妊娠している間に子宮頸がんが見つかると、女性を助けるために、妊娠を途中で止めたり子宮を取ったりしなければならないことがあります。日本対がん協会の人は「子どもがほしい人は、妊娠する前に必ず子宮頸がんの検査を受けてください」と言っています。"
+        }
+    ],
+    "voiceurl": "k10012682801000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201027/../20201027/K10012682801_2010271205_2010271515_01_02.jpg",
+    "newsmovie": "k10012682801_202010271711_202010271734.mp4",
+    "path": "appdata/news/k10012682801000.json"
+}

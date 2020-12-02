@@ -1,0 +1,35 @@
+{
+    "id": "articles20201021kei00s00s007000c",
+    "title": "クマ",
+    "ruby": "",
+    "time": "2020年10月21日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "fromUrl": "https://mainichi.jp/articles/20201021/kei/00s/00s/007000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>には、ヒグマとツキノワグマの２<ruby>種類<rt>しゅるい</rt></ruby>のクマがいます。ヒグマは<ruby>北海道<rt>ほっかいどう</rt></ruby>、ツキノワグマは<ruby>本州<rt>ほんしゅう</rt></ruby><ruby>以南<rt>いなん</rt></ruby>にいますが、<ruby>九州<rt>きゅうしゅう</rt></ruby>では<ruby>絶滅<rt>ぜつめつ</rt></ruby>したとみられています。",
+            "origin": "日本には、ヒグマとツキノワグマの２種類のクマがいます。ヒグマは北海道、ツキノワグマは本州以南にいますが、九州では絶滅したとみられています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "クマは<ruby>行動<rt>こうどう</rt></ruby><ruby>範囲<rt>はんい</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>く、においをかぐ<ruby>感覚<rt>かんかく</rt></ruby>が<ruby>鋭<rt>するど</rt></ruby>いため、<ruby>放置<rt>ほうち</rt></ruby>された<ruby>野菜<rt>やさい</rt></ruby>や<ruby>果物<rt>くだもの</rt></ruby>、<ruby>残飯<rt>ざんぱん</rt></ruby>があると、<ruby>遠<rt>とお</rt></ruby>く<ruby>離<rt>はな</rt></ruby>れた<ruby>山中<rt>さんちゅう</rt></ruby>から<ruby>人里<rt>ひとざと</rt></ruby>へ<ruby>来<rt>く</rt></ruby>ることがあります。<ruby>今年<rt>ことし</rt></ruby>は、エサとなるドングリなどが<ruby>不作<rt>ふさく</rt></ruby>の<ruby>地域<rt>ちいき</rt></ruby>が<ruby>多<rt>おお</rt></ruby>く、<ruby>人里<rt>ひとざと</rt></ruby>に<ruby>現<rt>あらわ</rt></ruby>れて<ruby>人<rt>ひと</rt></ruby>に<ruby>危害<rt>きがい</rt></ruby>を<ruby>及<rt>およ</rt></ruby>ぼすケースが<ruby>出<rt>で</rt></ruby>ています。",
+            "origin": "クマは行動範囲が広く、においをかぐ感覚が鋭いため、放置された野菜や果物、残飯があると、遠く離れた山中から人里へ来ることがあります。今年は、エサとなるドングリなどが不作の地域が多く、人里に現れて人に危害を及ぼすケースが出ています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>秋田県<rt>あきたけん</rt></ruby>では<ruby>住宅街<rt>じゅうたくがい</rt></ruby>で７<ruby>日<rt>なのか</rt></ruby>、クマに<ruby>襲<rt>おそ</rt></ruby>われた<ruby>重傷<rt>じゅうしょう</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>（８３）が１４<ruby>日<rt>か</rt></ruby>に<ruby>死亡<rt>しぼう</rt></ruby>。<ruby>新潟県<rt>にいがたけん</rt></ruby>でも、<ruby>襲<rt>おそ</rt></ruby>われた<ruby>女性<rt>じょせい</rt></ruby>（７３）が１１<ruby>日<rt>にち</rt></ruby>に<ruby>亡<rt>な</rt></ruby>くなっています。",
+            "origin": "秋田県では住宅街で７日、クマに襲われた重傷の女性（８３）が１４日に死亡。新潟県でも、襲われた女性（７３）が１１日に亡くなっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "",
+            "origin": ""
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201021kei00s00s007000c.json"
+}

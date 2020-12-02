@@ -1,0 +1,35 @@
+{
+    "id": "k10012730451000",
+    "title": "病院の経営が悪くなって４０％以上で冬のボーナスが少なくなる",
+    "ruby": "<ruby>病院<rt>びょういん</rt></ruby>の<ruby>経営<rt>けいえい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなって４０％<ruby>以上<rt>いじょう</rt></ruby>で<ruby>冬<rt>ふゆ</rt></ruby>のボーナスが<ruby>少<rt>すく</rt></ruby>なくなる",
+    "time": "2020-11-27",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012730451000/k10012730451000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>看護師<rt>かんごし</rt></ruby>などの<ruby>労働組合<rt>ろうどうくみあい</rt></ruby>の<ruby>団体<rt>だんたい</rt></ruby>は、<ruby>病院<rt>びょういん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>たちが<ruby>冬<rt>ふゆ</rt></ruby>にもらうボーナスについて<ruby>調<rt>しら</rt></ruby>べました。<ruby>２４日<rt>にじゅうよっか</rt></ruby>までに２９８の<ruby>労働組合<rt>ろうどうくみあい</rt></ruby>が<ruby>答<rt>こた</rt></ruby>えました。",
+            "origin": "看護師などの労働組合の団体は、病院で働く人たちが冬にもらうボーナスについて調べました。２４日までに２９８の労働組合が答えました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "その<ruby>結果<rt>けっか</rt></ruby>、４４％の<ruby>病院<rt>びょういん</rt></ruby>でボーナスが<ruby>去年<rt>きょねん</rt></ruby>より<ruby>少<rt>すく</rt></ruby>なくなっていました。",
+            "origin": "その結果、４４％の病院でボーナスが去年より少なくなっていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>去年<rt>きょねん</rt></ruby>より<ruby>１人<rt>ひとり</rt></ruby>１０<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>少<rt>すく</rt></ruby>ない<ruby>病院<rt>びょういん</rt></ruby>は１０％あって、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなっています。<ruby>去年<rt>きょねん</rt></ruby>より３５<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>少<rt>すく</rt></ruby>ない<ruby>病院<rt>びょういん</rt></ruby>もありました。",
+            "origin": "去年より１人１０万円以上少ない病院は１０％あって、今まででいちばん多くなっています。去年より３５万円少ない病院もありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>団体<rt>だんたい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がって、<ruby>病院<rt>びょういん</rt></ruby>の<ruby>経営<rt>けいえい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなっています。<ruby>病院<rt>びょういん</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の<ruby>春<rt>はる</rt></ruby>からずっと<ruby>大変<rt>たいへん</rt></ruby>なのに、ボーナスは<ruby>少<rt>すく</rt></ruby>なくなっています。みんなのために<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>働<rt>はたら</rt></ruby>こうという<ruby>気持<rt>きも</rt></ruby>ちだけでは、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることが<ruby>難<rt>むずか</rt></ruby>しくなっています。<ruby>国<rt>くに</rt></ruby>の<ruby>助<rt>たす</rt></ruby>けが<ruby>必要<rt>ひつよう</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "団体の人は「新しいコロナウイルスが広がって、病院の経営が悪くなっています。病院の仕事は今年の春からずっと大変なのに、ボーナスは少なくなっています。みんなのために一生懸命働こうという気持ちだけでは、仕事を続けることが難しくなっています。国の助けが必要です」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012730451000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201125/../20201125/K10012730451_2011251646_2011251701_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012730451000.json"
+}

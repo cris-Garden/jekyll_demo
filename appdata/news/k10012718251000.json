@@ -1,0 +1,40 @@
+{
+    "id": "k10012718251000",
+    "title": "千葉県の海岸にたくさんのハマグリ「持っていかないで」",
+    "ruby": "<ruby>千葉県<rt>ちばけん</rt></ruby>の<ruby>海岸<rt>かいがん</rt></ruby>にたくさんのハマグリ「<ruby>持<rt>も</rt></ruby>っていかないで」",
+    "time": "2020-11-20",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012718251000/k10012718251000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>今月<rt>こんげつ</rt></ruby><ruby>中旬<rt>ちゅうじゅん</rt></ruby>から<ruby>千葉県<rt>ちばけん</rt></ruby>の<ruby>九十九里浜<rt>くじゅうくりはま</rt></ruby>の<ruby>海岸<rt>かいがん</rt></ruby>で、ハマグリがとてもたくさん<ruby>見<rt>み</rt></ruby>つかっています。ハマグリが<ruby>見<rt>み</rt></ruby>つかった<ruby>海岸<rt>かいがん</rt></ruby>は１０ｋｍ<ruby>以上<rt>いじょう</rt></ruby>に<ruby>広<rt>ひろ</rt></ruby>がっています。",
+            "origin": "今月中旬から千葉県の九十九里浜の海岸で、ハマグリがとてもたくさん見つかっています。ハマグリが見つかった海岸は１０ｋｍ以上に広がっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１８<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>も、たくさんのハマグリが<ruby>見<rt>み</rt></ruby>つかって、<ruby>漁<rt>りょう</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>たちが<ruby>海岸<rt>かいがん</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>を<ruby>見<rt>み</rt></ruby>ていました。",
+            "origin": "１８日の朝も、たくさんのハマグリが見つかって、漁をする人たちが海岸の様子を見ていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>九十九里浜<rt>くじゅうくりはま</rt></ruby>で<ruby>貝<rt>かい</rt></ruby>などをとるときは、<ruby>許可<rt>きょか</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。ハマグリも<ruby>許可<rt>きょか</rt></ruby>がない<ruby>人<rt>ひと</rt></ruby>はとってはいけませんが、<ruby>持<rt>も</rt></ruby>って<ruby>帰<rt>かえ</rt></ruby>ってしまう<ruby>人<rt>ひと</rt></ruby>がいます。このため、<ruby>漁協<rt>ぎょきょう</rt></ruby>は<ruby>海岸<rt>かいがん</rt></ruby>をまわって「ハマグリをとらないでください」と<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "九十九里浜で貝などをとるときは、許可が必要です。ハマグリも許可がない人はとってはいけませんが、持って帰ってしまう人がいます。このため、漁協は海岸をまわって「ハマグリをとらないでください」と言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>漁協<rt>ぎょきょう</rt></ruby>はハマグリをとって<ruby>海<rt>うみ</rt></ruby>に<ruby>返<rt>かえ</rt></ruby>すことにしています。",
+            "origin": "漁協はハマグリをとって海に返すことにしています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>千葉県<rt>ちばけん</rt></ruby><ruby>水産<rt>すいさん</rt></ruby><ruby>総合<rt>そうごう</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>センターは「<ruby>原因<rt>げんいん</rt></ruby>はわかっていません」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "千葉県水産総合研究センターは「原因はわかっていません」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012718251000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201118/../20201118/K10012718251_2011181150_2011181228_01_02.jpg",
+    "newsmovie": "k10012718251_202011181344_202011181346.mp4",
+    "path": "appdata/news/k10012718251000.json"
+}

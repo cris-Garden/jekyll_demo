@@ -1,0 +1,30 @@
+{
+    "id": "articles20201102kei00s00s011000c",
+    "title": "スポーツ　プロ野球　セ・リーグは巨人が優勝",
+    "ruby": "",
+    "time": "2020年11月2日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/11/02/20201102kei00s00s023000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20201102/kei/00s/00s/011000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "プロ<ruby>野球<rt>やきゅう</rt></ruby>のセ・リーグで１０<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>、<ruby>巨人<rt>きょじん</rt></ruby>が２<ruby>年<rt>ねん</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>３８<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>（１リーグ<ruby>時代<rt>じだい</rt></ruby>の９<ruby>回<rt>かい</rt></ruby>を<ruby>含<rt>ふく</rt></ruby>め４７<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>）の<ruby>優勝<rt>ゆうしょう</rt></ruby>を<ruby>果<rt>は</rt></ruby>たしました。",
+            "origin": "プロ野球のセ・リーグで１０月３０日、巨人が２年連続３８回目（１リーグ時代の９回を含め４７回目）の優勝を果たしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "この<ruby>日<rt>ひ</rt></ruby>、<ruby>巨人<rt>きょじん</rt></ruby>はヤクルトと３－３で<ruby>引<rt>ひ</rt></ruby>き<ruby>分<rt>わ</rt></ruby>けましたが、２<ruby>位<rt>い</rt></ruby>の<ruby>阪神<rt>はんしん</rt></ruby>もＤｅＮＡと<ruby>引<rt>ひ</rt></ruby>き<ruby>分<rt>わ</rt></ruby>け、<ruby>巨人<rt>きょじん</rt></ruby>を<ruby>追<rt>お</rt></ruby>い<ruby>抜<rt>ぬ</rt></ruby>けないため、<ruby>巨人<rt>きょじん</rt></ruby>の<ruby>優勝<rt>ゆうしょう</rt></ruby>が<ruby>決<rt>き</rt></ruby>まりました。",
+            "origin": "この日、巨人はヤクルトと３－３で引き分けましたが、２位の阪神もＤｅＮＡと引き分け、巨人を追い抜けないため、巨人の優勝が決まりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "セ・リーグは<ruby>今季<rt>こんき</rt></ruby>、クライマックスシリーズ（ＣＳ）をしないため、<ruby>日本<rt>にっぽん</rt></ruby>シリーズには<ruby>巨人<rt>きょじん</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます。パ・リーグは、<ruby>優勝<rt>ゆうしょう</rt></ruby>のソフトバンクと２<ruby>位<rt>い</rt></ruby><ruby>球団<rt>きゅうだん</rt></ruby>によるＣＳを<ruby>勝<rt>か</rt></ruby>ち<ruby>抜<rt>ぬ</rt></ruby>いたチームが<ruby>進出<rt>しんしゅつ</rt></ruby>します。",
+            "origin": "セ・リーグは今季、クライマックスシリーズ（ＣＳ）をしないため、日本シリーズには巨人が出ます。パ・リーグは、優勝のソフトバンクと２位球団によるＣＳを勝ち抜いたチームが進出します。"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/11/02/20201102kei00s00s023000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201102kei00s00s011000c.json"
+}

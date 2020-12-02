@@ -1,0 +1,35 @@
+{
+    "id": "k10012727781000",
+    "title": "「Go Toトラベル」札幌市と大阪市への旅行では使えない",
+    "ruby": "「Go Toトラベル」<ruby>札幌市<rt>さっぽろし</rt></ruby>と<ruby>大阪市<rt>おおさかし</rt></ruby>への<ruby>旅行<rt>りょこう</rt></ruby>では<ruby>使<rt>つか</rt></ruby>えない",
+    "time": "2020-11-24",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012727781000/k10012727781000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスで<ruby>悪<rt>わる</rt></ruby>くなった<ruby>経済<rt>けいざい</rt></ruby>をよくするため、<ruby>国<rt>くに</rt></ruby>は、<ruby>旅行<rt>りょこう</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す「Go Toトラベル」を<ruby>行<rt>おこな</rt></ruby>っています。",
+            "origin": "新しいコロナウイルスで悪くなった経済をよくするため、国は、旅行のお金の一部を出す「Go Toトラベル」を行っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "しかし、ウイルスがうつった<ruby>人<rt>ひと</rt></ruby>が<ruby>急<rt>きゅう</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>えているため、<ruby>国<rt>くに</rt></ruby>は<ruby>都道府県<rt>とどうふけん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて、ウイルスが<ruby>広<rt>ひろ</rt></ruby>がっている<ruby>所<rt>ところ</rt></ruby>では「Go Toトラベル」を<ruby>止<rt>と</rt></ruby>めることになりました。",
+            "origin": "しかし、ウイルスがうつった人が急に増えているため、国は都道府県の意見を聞いて、ウイルスが広がっている所では「Go Toトラベル」を止めることになりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>と<ruby>大阪府<rt>おおさかふ</rt></ruby>の<ruby>知事<rt>ちじ</rt></ruby>は「Go Toトラベル」をしばらく<ruby>止<rt>と</rt></ruby>めたいと<ruby>言<rt>い</rt></ruby>いました。このため<ruby>国<rt>くに</rt></ruby>は、<ruby>札幌市<rt>さっぽろし</rt></ruby>と<ruby>大阪市<rt>おおさかし</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>旅行<rt>りょこう</rt></ruby>では「Go Toトラベル」を<ruby>使<rt>つか</rt></ruby>うことができないようにします。<ruby>旅行<rt>りょこう</rt></ruby>をキャンセルした<ruby>場合<rt>ばあい</rt></ruby>にかかるお<ruby>金<rt>かね</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>が<ruby>払<rt>はら</rt></ruby>います。",
+            "origin": "北海道と大阪府の知事は「Go Toトラベル」をしばらく止めたいと言いました。このため国は、札幌市と大阪市へ行く旅行では「Go Toトラベル」を使うことができないようにします。旅行をキャンセルした場合にかかるお金は、国が払います。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国<rt>くに</rt></ruby>は、<ruby>専門家<rt>せんもんか</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>も<ruby>聞<rt>き</rt></ruby>いて、<ruby>東京都<rt>とうきょうと</rt></ruby>や<ruby>愛知県<rt>あいちけん</rt></ruby>も「Go Toトラベル」を<ruby>止<rt>と</rt></ruby>めるかどうか<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "国は、専門家の意見も聞いて、東京都や愛知県も「Go Toトラベル」を止めるかどうか考えています。"
+        }
+    ],
+    "voiceurl": "k10012727781000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201124/../20201124/K10012727781_2011240137_2011240500_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012727781000.json"
+}

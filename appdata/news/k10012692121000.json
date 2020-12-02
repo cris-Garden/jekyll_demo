@@ -1,0 +1,30 @@
+{
+    "id": "k10012692121000",
+    "title": "ＪＲ「ワイヤレスイヤホンを線路に落とさないで」",
+    "ruby": "ＪＲ「ワイヤレスイヤホンを<ruby>線路<rt>せんろ</rt></ruby>に<ruby>落<rt>お</rt></ruby>とさないで」",
+    "time": "2020-11-04",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012692121000/k10012692121000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "ワイヤレスイヤホンは、ケーブルがなくて<ruby>便利<rt>べんり</rt></ruby>なので、<ruby>使<rt>つか</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>によると、９<ruby>月<rt>がつ</rt></ruby>までの３か<ruby>月<rt>げつ</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>にある７８の<ruby>駅<rt>えき</rt></ruby>で、ワイヤレスイヤホンを<ruby>線路<rt>せんろ</rt></ruby>に<ruby>落<rt>お</rt></ruby>とすことが９５０<ruby>件<rt>けん</rt></ruby>ぐらいありました。",
+            "origin": "ワイヤレスイヤホンは、ケーブルがなくて便利なので、使う人が増えています。ＪＲ東日本によると、９月までの３か月に東京にある７８の駅で、ワイヤレスイヤホンを線路に落とすことが９５０件ぐらいありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ＪＲは、<ruby>駅員<rt>えきいん</rt></ruby>が<ruby>線路<rt>せんろ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちたワイヤレスイヤホンをどうやって<ruby>拾<rt>ひろ</rt></ruby>っているか、<ruby>記者<rt>きしゃ</rt></ruby>たちに<ruby>見<rt>み</rt></ruby>せました。<ruby>駅員<rt>えきいん</rt></ruby>は、<ruby>長<rt>なが</rt></ruby>い<ruby>棒<rt>ぼう</rt></ruby>のようなマジックハンドを<ruby>使<rt>つか</rt></ruby>ってイヤホンを<ruby>取<rt>と</rt></ruby>ろうとしますが、<ruby>石<rt>いし</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<ruby>取<rt>と</rt></ruby>ることができません。テープをつけた<ruby>長<rt>なが</rt></ruby>い<ruby>棒<rt>ぼう</rt></ruby>や、<ruby>掃除機<rt>そうじき</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う<ruby>方法<rt>ほうほう</rt></ruby>も<ruby>紹介<rt>しょうかい</rt></ruby>しました。イヤホンをさがすために、<ruby>駅員<rt>えきいん</rt></ruby>が<ruby>夜<rt>よる</rt></ruby>、<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったあと、<ruby>線路<rt>せんろ</rt></ruby>に<ruby>下<rt>お</rt></ruby>りてさがすこともあります。",
+            "origin": "ＪＲは、駅員が線路に落ちたワイヤレスイヤホンをどうやって拾っているか、記者たちに見せました。駅員は、長い棒のようなマジックハンドを使ってイヤホンを取ろうとしますが、石の間に入って取ることができません。テープをつけた長い棒や、掃除機を使う方法も紹介しました。イヤホンをさがすために、駅員が夜、電車が終わったあと、線路に下りてさがすこともあります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ＪＲは「<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったり<ruby>降<rt>お</rt></ruby>りたりするときに<ruby>落<rt>お</rt></ruby>としやすいので<ruby>気<rt>き</rt></ruby>をつけてください。<ruby>自分<rt>じぶん</rt></ruby>でさがすのは<ruby>危険<rt>きけん</rt></ruby>なのでやめてください」と<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "ＪＲは「電車に乗ったり降りたりするときに落としやすいので気をつけてください。自分でさがすのは危険なのでやめてください」と言っています。"
+        }
+    ],
+    "voiceurl": "k10012692121000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201102/../20201102/K10012692121_2011021422_2011021447_01_02.jpg",
+    "newsmovie": "k10012692121_202011022019_202011022019.mp4",
+    "path": "appdata/news/k10012692121000.json"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "k10012684131000",
+    "title": "携帯電話　２０ＧＢで５０００円より安い料金プラン",
+    "ruby": "<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>　２０ＧＢで５０００<ruby>円<rt>えん</rt></ruby>より<ruby>安<rt>やす</rt></ruby>い<ruby>料金<rt>りょうきん</rt></ruby>プラン",
+    "time": "2020-10-28",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012684131000/k10012684131000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>菅<rt>すが</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>料金<rt>りょうきん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>すぎるので<ruby>安<rt>やす</rt></ruby>くするように<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "菅総理大臣は、日本は携帯電話の料金が高すぎるので安くするように言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のＫＤＤＩは「ＵＱモバイル」というブランドで、<ruby>新<rt>あたら</rt></ruby>しい<ruby>料金<rt>りょうきん</rt></ruby>プランを<ruby>発表<rt>はっぴょう</rt></ruby>しました。１か<ruby>月<rt>げつ</rt></ruby>３９８０<ruby>円<rt>えん</rt></ruby>で２０ＧＢのデータを<ruby>使<rt>つか</rt></ruby>うことができます。<ruby>来年<rt>らいねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>か、それよりあとに<ruby>始<rt>はじ</rt></ruby>めます。",
+            "origin": "携帯電話の会社のＫＤＤＩは「ＵＱモバイル」というブランドで、新しい料金プランを発表しました。１か月３９８０円で２０ＧＢのデータを使うことができます。来年２月か、それよりあとに始めます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ソフトバンクは「ワイモバイル」というブランドで、２０ＧＢで１か<ruby>月<rt>げつ</rt></ruby>４４８０<ruby>円<rt>えん</rt></ruby>のプランを<ruby>発表<rt>はっぴょう</rt></ruby>しました。１<ruby>回<rt>かい</rt></ruby>１０<ruby>分<rt>ぷん</rt></ruby><ruby>以内<rt>いない</rt></ruby>の<ruby>国内<rt>こくない</rt></ruby>の<ruby>電話<rt>でんわ</rt></ruby>はお<ruby>金<rt>かね</rt></ruby>がかかりません。<ruby>今年<rt>ことし</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろ<ruby>始<rt>はじ</rt></ruby>めます。ソフトバンクから<ruby>別<rt>べつ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>に<ruby>変<rt>か</rt></ruby>える<ruby>場合<rt>ばあい</rt></ruby>、<ruby>同<rt>おな</rt></ruby>じ<ruby>電話<rt>でんわ</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うためには３０００<ruby>円<rt>えん</rt></ruby>かかります。しかし、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>ごろからお<ruby>金<rt>かね</rt></ruby>がかからないようにします。",
+            "origin": "ソフトバンクは「ワイモバイル」というブランドで、２０ＧＢで１か月４４８０円のプランを発表しました。１回１０分以内の国内の電話はお金がかかりません。今年１２月の終わりごろ始めます。ソフトバンクから別の会社の携帯電話に変える場合、同じ電話番号を使うためには３０００円かかります。しかし、来年の春ごろからお金がかからないようにします。"
+        }
+    ],
+    "voiceurl": "k10012684131000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201028/../20201028/K10012684131_2010280951_2010280955_01_02.jpg",
+    "newsmovie": "k10012684131_202010281206_202010281216.mp4",
+    "path": "appdata/news/k10012684131000.json"
+}

@@ -1,0 +1,35 @@
+{
+    "id": "k10012659821000",
+    "title": "「お札に付いたコロナウイルスは２８日の間うつる力がある」",
+    "ruby": "「お<ruby>札<rt>さつ</rt></ruby>に<ruby>付<rt>つ</rt></ruby>いたコロナウイルスは２８<ruby>日<rt>にち</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>うつる<ruby>力<rt>ちから</rt></ruby>がある」",
+    "time": "2020-10-13",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012659821000/k10012659821000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "オーストラリアの<ruby>研究所<rt>けんきゅうじょ</rt></ruby>は、<ruby>物<rt>もの</rt></ruby>に<ruby>付<rt>つ</rt></ruby>いた<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが、<ruby>湿度<rt>しつど</rt></ruby>５０％の<ruby>暗<rt>くら</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>で、どのくらいの<ruby>間<rt>あいだ</rt></ruby>うつる<ruby>力<rt>ちから</rt></ruby>があるか<ruby>調<rt>しら</rt></ruby>べました。",
+            "origin": "オーストラリアの研究所は、物に付いた新しいコロナウイルスが、湿度５０％の暗い所で、どのくらいの間うつる力があるか調べました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>温度<rt>おんど</rt></ruby>が２０℃の<ruby>場合<rt>ばあい</rt></ruby>、お<ruby>札<rt>さつ</rt></ruby>やガラスではいちばん<ruby>短<rt>みじか</rt></ruby>くて２８<ruby>日<rt>にち</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>、うつる<ruby>力<rt>ちから</rt></ruby>がありました。<ruby>温度<rt>おんど</rt></ruby>を３０℃にすると、お<ruby>札<rt>さつ</rt></ruby>では２１<ruby>日<rt>にち</rt></ruby>、ステンレスやガラスでは<ruby>７日<rt>なのか</rt></ruby>、<ruby>綿<rt>めん</rt></ruby>では<ruby>３日<rt>みっか</rt></ruby>になりました。<ruby>温度<rt>おんど</rt></ruby>を４０℃にすると、お<ruby>札<rt>さつ</rt></ruby>やガラスなどでは２４<ruby>時間<rt>じかん</rt></ruby>、<ruby>綿<rt>めん</rt></ruby>では１６<ruby>時間<rt>じかん</rt></ruby>になりました。",
+            "origin": "温度が２０℃の場合、お札やガラスではいちばん短くて２８日の間、うつる力がありました。温度を３０℃にすると、お札では２１日、ステンレスやガラスでは７日、綿では３日になりました。温度を４０℃にすると、お札やガラスなどでは２４時間、綿では１６時間になりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>研究所<rt>けんきゅうじょ</rt></ruby>は「<ruby>紫外線<rt>しがいせん</rt></ruby>や<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>をなくして、<ruby>温度<rt>おんど</rt></ruby>を<ruby>変<rt>か</rt></ruby>えて<ruby>調<rt>しら</rt></ruby>べました。<ruby>温度<rt>おんど</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>いほうが、ウイルスがうつる<ruby>力<rt>ちから</rt></ruby>は<ruby>長<rt>なが</rt></ruby>く<ruby>続<rt>つづ</rt></ruby>くことがわかりました」と<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "研究所は「紫外線や太陽の光をなくして、温度を変えて調べました。温度が低いほうが、ウイルスがうつる力は長く続くことがわかりました」と言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>研究所<rt>けんきゅうじょ</rt></ruby>は、ウイルスがうつらないようにするためには、<ruby>手<rt>て</rt></ruby>をよく<ruby>洗<rt>あら</rt></ruby>うことなどが<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "研究所は、ウイルスがうつらないようにするためには、手をよく洗うことなどが大切だと言っています。"
+        }
+    ],
+    "voiceurl": "k10012659821000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201012/../20201012/K10012659821_2010121719_2010121728_01_02.jpg",
+    "newsmovie": "k10012659821_202010121746_202010121751.mp4",
+    "path": "appdata/news/k10012659821000.json"
+}

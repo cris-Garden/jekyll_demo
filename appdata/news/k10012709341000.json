@@ -1,0 +1,35 @@
+{
+    "id": "k10012709341000",
+    "title": "新しいコロナウイルス　「変化したウイルスはうつりやすい」",
+    "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルス　「<ruby>変化<rt>へんか</rt></ruby>したウイルスはうつりやすい」",
+    "time": "2020-11-13",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012709341000/k10012709341000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつった<ruby>人<rt>ひと</rt></ruby>は１２<ruby>日<rt>にち</rt></ruby>、１６６１<ruby>人<rt>にん</rt></ruby>いました。<ruby>今<rt>いま</rt></ruby>までで、いちばん<ruby>多<rt>おお</rt></ruby>くなりました。",
+            "origin": "新しいコロナウイルスがうつった人は１２日、１６６１人いました。今までで、いちばん多くなりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>などのグループは、<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>武漢<rt>ぶかん</rt></ruby>で<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>見<rt>み</rt></ruby>つかった<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスと、たんぱく<ruby>質<rt>しつ</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>変化<rt>へんか</rt></ruby>したウイルスを<ruby>比<rt>くら</rt></ruby>べる<ruby>実験<rt>じっけん</rt></ruby>をしました。<ruby>今<rt>いま</rt></ruby><ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>広<rt>ひろ</rt></ruby>がっているのは、<ruby>変化<rt>へんか</rt></ruby>したウイルスです。",
+            "origin": "東京大学などのグループは、中国の武漢で最初に見つかった新しいコロナウイルスと、たんぱく質が少し変化したウイルスを比べる実験をしました。今世界中で広がっているのは、変化したウイルスです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "グループは、２つのウイルスが、<ruby>隣<rt>となり</rt></ruby>のおりにいるハムスターにどのくらいうつるか<ruby>調<rt>しら</rt></ruby>べました。<ruby>２日<rt>ふつか</rt></ruby>あとにチェックすると、<ruby>最初<rt>さいしょ</rt></ruby>のウイルスは<ruby>隣<rt>となり</rt></ruby>のおりにいるハムスターにうつりませんでした。<ruby>変化<rt>へんか</rt></ruby>したウイルスは、８<ruby>匹<rt>ぴき</rt></ruby>のうち５<ruby>匹<rt>ひき</rt></ruby>にうつりました。グループは、<ruby>変化<rt>へんか</rt></ruby>したウイルスのほうが、うつりやすいと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "グループは、２つのウイルスが、隣のおりにいるハムスターにどのくらいうつるか調べました。２日あとにチェックすると、最初のウイルスは隣のおりにいるハムスターにうつりませんでした。変化したウイルスは、８匹のうち５匹にうつりました。グループは、変化したウイルスのほうが、うつりやすいと考えています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "グループは、<ruby>変化<rt>へんか</rt></ruby>したウイルスが<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で<ruby>広<rt>ひろ</rt></ruby>がった<ruby>理由<rt>りゆう</rt></ruby>がわかったと<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "グループは、変化したウイルスが短い時間で広がった理由がわかったと言っています。"
+        }
+    ],
+    "voiceurl": "k10012709341000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201113/../20201113/K10012709341_2011130107_2011130454_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012709341000.json"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "k10012737421000",
+    "title": "ウイルスが広がったあと２２％が「よく眠ることができない」",
+    "ruby": "ウイルスが<ruby>広<rt>ひろ</rt></ruby>がったあと２２％が「よく<ruby>眠<rt>ねむ</rt></ruby>ることができない」",
+    "time": "2020-12-01",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012737421000/k10012737421000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>医者<rt>いしゃ</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>などで<ruby>作<rt>つく</rt></ruby>るグループが７<ruby>月<rt>がつ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>とその<ruby>周<rt>まわ</rt></ruby>りの<ruby>県<rt>けん</rt></ruby>に<ruby>住<rt>す</rt></ruby>む８８２<ruby>人<rt>にん</rt></ruby>に、よく<ruby>眠<rt>ねむ</rt></ruby>ることができているか<ruby>質問<rt>しつもん</rt></ruby>しました。",
+            "origin": "医者や会社などで作るグループが７月、東京とその周りの県に住む８８２人に、よく眠ることができているか質問しました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がったあと「よく<ruby>眠<rt>ねむ</rt></ruby>ることができなくなった」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>が２２％ぐらいいました。<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が「<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby>も<ruby>起<rt>お</rt></ruby>きる」「<ruby>寝<rt>ね</rt></ruby>ても<ruby>疲<rt>つか</rt></ruby>れている」と<ruby>答<rt>こた</rt></ruby>えました。「ウイルスが<ruby>広<rt>ひろ</rt></ruby>がる<ruby>前<rt>まえ</rt></ruby>からよく<ruby>眠<rt>ねむ</rt></ruby>ることができない」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>も<ruby>足<rt>た</rt></ruby>すと、よく<ruby>眠<rt>ねむ</rt></ruby>ることができない<ruby>人<rt>ひと</rt></ruby>は６０％<ruby>以上<rt>いじょう</rt></ruby>になりました。<ruby>原因<rt>げんいん</rt></ruby>について「<ruby>心配<rt>しんぱい</rt></ruby>なことやストレスがあってずっと<ruby>考<rt>かんが</rt></ruby>えている」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>がいちばん<ruby>多<rt>おお</rt></ruby>くなりました。",
+            "origin": "新しいコロナウイルスが広がったあと「よく眠ることができなくなった」と答えた人が２２％ぐらいいました。多くの人が「途中で何回も起きる」「寝ても疲れている」と答えました。「ウイルスが広がる前からよく眠ることができない」と答えた人も足すと、よく眠ることができない人は６０％以上になりました。原因について「心配なことやストレスがあってずっと考えている」と答えた人がいちばん多くなりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>調<rt>しら</rt></ruby>べたグループの<ruby>人<rt>ひと</rt></ruby>は「いつも<ruby>同<rt>おな</rt></ruby>じ<ruby>時間<rt>じかん</rt></ruby>に<ruby>起<rt>お</rt></ruby>きて、<ruby>時間<rt>じかん</rt></ruby>をしっかり<ruby>決<rt>き</rt></ruby>めて<ruby>生活<rt>せいかつ</rt></ruby>することが<ruby>大切<rt>たいせつ</rt></ruby>です。<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>静<rt>しず</rt></ruby>かな<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いたりしてリラックスするといいです」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "調べたグループの人は「いつも同じ時間に起きて、時間をしっかり決めて生活することが大切です。寝る前に静かな音楽を聞いたりしてリラックスするといいです」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012737421000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201130/../20201130/K10012737421_2011292107_2011292117_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012737421000.json"
+}

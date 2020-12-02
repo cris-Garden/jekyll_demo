@@ -1,0 +1,35 @@
+{
+    "id": "k10012716391000",
+    "title": "就職する会社が決まっている大学生の割合　今年は低い",
+    "ruby": "<ruby>就職<rt>しゅうしょく</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>決<rt>き</rt></ruby>まっている<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>　<ruby>今年<rt>ことし</rt></ruby>は<ruby>低<rt>ひく</rt></ruby>い",
+    "time": "2020-11-19",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012716391000/k10012716391000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国<rt>くに</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby><ruby>卒業<rt>そつぎょう</rt></ruby>したあと<ruby>働<rt>はたら</rt></ruby>こうと<ruby>考<rt>かんが</rt></ruby>えている<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>就職<rt>しゅうしょく</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>決<rt>き</rt></ruby>まっている<ruby>人<rt>ひと</rt></ruby>がどのくらいいるか<ruby>調<rt>しら</rt></ruby>べました。",
+            "origin": "国は、来年卒業したあと働こうと考えている大学生の中で、就職する会社が決まっている人がどのくらいいるか調べました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "６２の<ruby>大学<rt>だいがく</rt></ruby>の４７７０<ruby>人<rt>にん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べると、<ruby>就職<rt>しゅうしょく</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>決<rt>き</rt></ruby>まっている<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>は、１０<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>には６９．８％でした。<ruby>去年<rt>きょねん</rt></ruby>より７ポイント<ruby>減<rt>へ</rt></ruby>りました。<ruby>今<rt>いま</rt></ruby>までの２５<ruby>年<rt>ねん</rt></ruby>ぐらいの<ruby>間<rt>あいだ</rt></ruby>で２<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>減<rt>へ</rt></ruby>り<ruby>方<rt>かた</rt></ruby>です。",
+            "origin": "６２の大学の４７７０人を調べると、就職する会社が決まっている大学生の割合は、１０月１日には６９．８％でした。去年より７ポイント減りました。今までの２５年ぐらいの間で２番目に大きな減り方です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>去年<rt>きょねん</rt></ruby>まで４<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて、１０<ruby>月<rt>がつ</rt></ruby>には７０％<ruby>以上<rt>いじょう</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>の<ruby>就職<rt>しゅうしょく</rt></ruby>が<ruby>決<rt>き</rt></ruby>まっていました。<ruby>今年<rt>ことし</rt></ruby>７０％<ruby>以上<rt>いじょう</rt></ruby>の<ruby>所<rt>ところ</rt></ruby>は「<ruby>関東<rt>かんとう</rt></ruby>」と「<ruby>近畿<rt>きんき</rt></ruby>」だけです。「<ruby>中国地方<rt>ちゅうごくちほう</rt></ruby>と<ruby>四国<rt>しこく</rt></ruby>」はいちばん<ruby>低<rt>ひく</rt></ruby>くて、６０％ぐらいになっています。",
+            "origin": "去年まで４年続けて、１０月には７０％以上の学生の就職が決まっていました。今年７０％以上の所は「関東」と「近畿」だけです。「中国地方と四国」はいちばん低くて、６０％ぐらいになっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国<rt>くに</rt></ruby>は「<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で、<ruby>卒業<rt>そつぎょう</rt></ruby>する<ruby>学生<rt>がくせい</rt></ruby>を<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れることをやめたり、<ruby>少<rt>すく</rt></ruby>なくしたりする<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えました。<ruby>学生<rt>がくせい</rt></ruby>が<ruby>就職<rt>しゅうしょく</rt></ruby>できるように<ruby>応援<rt>おうえん</rt></ruby>したいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "国は「新しいコロナウイルスの問題で、卒業する学生を会社に入れることをやめたり、少なくしたりする会社が増えました。学生が就職できるように応援したいと思います」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012716391000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201117/../20201117/K10012716391_2011171350_2011171403_01_02.jpg",
+    "newsmovie": "k10012716391_202011171929_202011171930.mp4",
+    "path": "appdata/news/k10012716391000.json"
+}

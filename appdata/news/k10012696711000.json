@@ -1,0 +1,30 @@
+{
+    "id": "k10012696711000",
+    "title": "５Ｇを使った運転手がいないタクシー　安全かどうか実験を行う",
+    "ruby": "５Ｇを<ruby>使<rt>つか</rt></ruby>った<ruby>運転手<rt>うんてんしゅ</rt></ruby>がいないタクシー　<ruby>安全<rt>あんぜん</rt></ruby>かどうか<ruby>実験<rt>じっけん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う",
+    "time": "2020-11-06",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012696711000/k10012696711000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "ＫＤＤＩなど５つの<ruby>会社<rt>かいしゃ</rt></ruby>は、「５Ｇ」を<ruby>使<rt>つか</rt></ruby>った<ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>のタクシーが<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>走<rt>はし</rt></ruby>ることができるか<ruby>実験<rt>じっけん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>いました。<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>副<rt>ふく</rt></ruby><ruby>知事<rt>ちじ</rt></ruby>たちが<ruby>乗<rt>の</rt></ruby>ったタクシーが、<ruby>運転手<rt>うんてんしゅ</rt></ruby>がいないまま<ruby>新宿<rt>しんじゅく</rt></ruby>の<ruby>道<rt>みち</rt></ruby>を２００ｍぐらい<ruby>走<rt>はし</rt></ruby>りました。",
+            "origin": "ＫＤＤＩなど５つの会社は、「５Ｇ」を使った自動運転のタクシーが安全に走ることができるか実験を行いました。東京都の副知事たちが乗ったタクシーが、運転手がいないまま新宿の道を２００ｍぐらい走りました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "５Ｇは、<ruby>今<rt>いま</rt></ruby>までよりたくさんのデータをとても<ruby>速<rt>はや</rt></ruby>く、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>送<rt>おく</rt></ruby>ることができる<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>です。５Ｇで、タクシーの<ruby>周<rt>まわ</rt></ruby>りの<ruby>映像<rt>えいぞう</rt></ruby>を<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>見<rt>み</rt></ruby>ながら、<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>走<rt>はし</rt></ruby>っているかチェックができます。このため、<ruby>車<rt>くるま</rt></ruby>や<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い<ruby>道<rt>みち</rt></ruby>でも<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>ができます。",
+            "origin": "５Ｇは、今までよりたくさんのデータをとても速く、大勢の人に送ることができる新しい技術です。５Ｇで、タクシーの周りの映像を別の場所で見ながら、安全に走っているかチェックができます。このため、車や人が多い道でも安全に自動運転ができます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>会社<rt>かいしゃ</rt></ruby>はこれからいろいろな<ruby>所<rt>ところ</rt></ruby>で<ruby>実験<rt>じっけん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>って、<ruby>早<rt>はや</rt></ruby>くこのようなタクシーを<ruby>使<rt>つか</rt></ruby>うことができるようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "会社はこれからいろいろな所で実験を行って、早くこのようなタクシーを使うことができるようにしたいと考えています。"
+        }
+    ],
+    "voiceurl": "k10012696711000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201105/../20201105/K10012696711_2011051718_2011051719_01_03.jpg",
+    "newsmovie": "k10012696711_202011051718_202011051719.mp4",
+    "path": "appdata/news/k10012696711000.json"
+}

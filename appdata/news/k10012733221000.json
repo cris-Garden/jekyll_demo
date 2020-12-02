@@ -1,0 +1,30 @@
+{
+    "id": "k10012733221000",
+    "title": "東京都　新しいコロナウイルス専門の２つ目の病院",
+    "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>　<ruby>新<rt>あたら</rt></ruby>しいコロナウイルス<ruby>専門<rt>せんもん</rt></ruby>の２つ<ruby>目<rt>め</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>",
+    "time": "2020-11-30",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012733221000/k10012733221000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>は<ruby>府中市<rt>ふちゅうし</rt></ruby>に、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルス<ruby>専門<rt>せんもん</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しています。１２<ruby>月<rt>がつ</rt></ruby>１６<ruby>日<rt>にち</rt></ruby>から、あまり<ruby>病気<rt>びょうき</rt></ruby>がひどくなっていない<ruby>人<rt>ひと</rt></ruby>が<ruby>入院<rt>にゅういん</rt></ruby>します。",
+            "origin": "東京都は府中市に、新しいコロナウイルス専門の病院を準備しています。１２月１６日から、あまり病気がひどくなっていない人が入院します。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>特<rt>とく</rt></ruby>に、<ruby>食事<rt>しょくじ</rt></ruby>や<ruby>歩<rt>ある</rt></ruby>くときなどに<ruby>世話<rt>せわ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>なお<ruby>年寄<rt>としよ</rt></ruby>りや、<ruby>日本語<rt>にほんご</rt></ruby>や<ruby>英語<rt>えいご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>すことができない<ruby>外国人<rt>がいこくじん</rt></ruby>などが、<ruby>入院<rt>にゅういん</rt></ruby>できるようにします。<ruby>病院<rt>びょういん</rt></ruby>にはベッドを１００<ruby>用意<rt>ようい</rt></ruby>する<ruby>予定<rt>よてい</rt></ruby>です。",
+            "origin": "特に、食事や歩くときなどに世話が必要なお年寄りや、日本語や英語を話すことができない外国人などが、入院できるようにします。病院にはベッドを１００用意する予定です。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルス<ruby>専門<rt>せんもん</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>は<ruby>渋谷区<rt>しぶやく</rt></ruby>にもあって、<ruby>府中市<rt>ふちゅうし</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>は<ruby>東京都<rt>とうきょうと</rt></ruby>で２つ<ruby>目<rt>め</rt></ruby>です。",
+            "origin": "新しいコロナウイルス専門の病院は渋谷区にもあって、府中市の病院は東京都で２つ目です。"
+        }
+    ],
+    "voiceurl": "k10012733221000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201127/../20201127/K10012733221_2011270754_2011270800_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012733221000.json"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "k10012662971000",
+    "title": "子どもを産んだ母親の「うつ」が増える",
+    "ruby": "<ruby>子<rt>こ</rt></ruby>どもを<ruby>産<rt>う</rt></ruby>んだ<ruby>母親<rt>ははおや</rt></ruby>の「うつ」が<ruby>増<rt>ふ</rt></ruby>える",
+    "time": "2020-10-15",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012662971000/k10012662971000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>筑波大学<rt>つくばだいがく</rt></ruby>の<ruby>松島<rt>まつしま</rt></ruby>みどり<ruby>先生<rt>せんせい</rt></ruby>のグループは、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で、<ruby>子<rt>こ</rt></ruby>どもを<ruby>産<rt>う</rt></ruby>んだ<ruby>母親<rt>ははおや</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>がどうなっているか、アプリの<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>調<rt>しら</rt></ruby>べました。",
+            "origin": "筑波大学の松島みどり先生のグループは、新しいコロナウイルスの問題で、子どもを産んだ母親の心の状態がどうなっているか、アプリの会社と一緒に調べました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>子<rt>こ</rt></ruby>どもを<ruby>産<rt>う</rt></ruby>んで１<ruby>年<rt>ねん</rt></ruby>になっていない<ruby>母親<rt>ははおや</rt></ruby>２１３２<ruby>人<rt>にん</rt></ruby>のうち、２４％が「うつ」の<ruby>状態<rt>じょうたい</rt></ruby>になっているかもしれないことがわかりました。",
+            "origin": "子どもを産んで１年になっていない母親２１３２人のうち、２４％が「うつ」の状態になっているかもしれないことがわかりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "グループは、コロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>で、ほかの<ruby>人<rt>ひと</rt></ruby>と<ruby>話<rt>はな</rt></ruby>したり、<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>かけたりすることが<ruby>少<rt>すく</rt></ruby>なくなったからだと<ruby>考<rt>かんが</rt></ruby>えています。<ruby>収入<rt>しゅうにゅう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなって、お<ruby>金<rt>かね</rt></ruby>の<ruby>心配<rt>しんぱい</rt></ruby>があることも<ruby>原因<rt>げんいん</rt></ruby>だと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "グループは、コロナウイルスの問題で、ほかの人と話したり、外に出かけたりすることが少なくなったからだと考えています。収入が少なくなって、お金の心配があることも原因だと考えています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "グループによると、「うつ」かもしれない<ruby>母親<rt>ははおや</rt></ruby>の６０％<ruby>以上<rt>いじょう</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>が<ruby>危険<rt>きけん</rt></ruby>な<ruby>状態<rt>じょうたい</rt></ruby>だとわかっていませんでした。",
+            "origin": "グループによると、「うつ」かもしれない母親の６０％以上は、自分の心が危険な状態だとわかっていませんでした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>子<rt>こ</rt></ruby>どもを<ruby>育<rt>そだ</rt></ruby>てていて<ruby>心配<rt>しんぱい</rt></ruby>なことがあるときや、<ruby>疲<rt>つか</rt></ruby>れたり<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなったりしたときは、すぐに<ruby>周<rt>まわ</rt></ruby>りの<ruby>人<rt>ひと</rt></ruby>や<ruby>保健所<rt>ほけんじょ</rt></ruby>などに<ruby>相談<rt>そうだん</rt></ruby>してください。",
+            "origin": "子どもを育てていて心配なことがあるときや、疲れたり具合が悪くなったりしたときは、すぐに周りの人や保健所などに相談してください。"
+        }
+    ],
+    "voiceurl": "k10012662971000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201014/../20201014/K10012662971_2010141602_2010141608_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012662971000.json"
+}

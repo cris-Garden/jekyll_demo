@@ -1,0 +1,35 @@
+{
+    "id": "k10012695031000",
+    "title": "今年の「ナマハゲ」は家の中に入らない",
+    "ruby": "<ruby>今年<rt>ことし</rt></ruby>の「ナマハゲ」は<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>らない",
+    "time": "2020-11-06",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012695031000/k10012695031000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "「ナマハゲ」は、<ruby>秋田県<rt>あきたけん</rt></ruby><ruby>男鹿市<rt>おがし</rt></ruby>の<ruby>昔<rt>むかし</rt></ruby>からの<ruby>行事<rt>ぎょうじ</rt></ruby>です。<ruby>毎年<rt>まいとし</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>に、<ruby>鬼<rt>おに</rt></ruby>のようなお<ruby>面<rt>めん</rt></ruby>をかぶった<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>家<rt>いえ</rt></ruby>をまわって「<ruby>悪<rt>わる</rt></ruby>い<ruby>子<rt>こ</rt></ruby>はいねぇが」などと<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で<ruby>言<rt>い</rt></ruby>います。２<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>にユネスコの<ruby>無形<rt>むけい</rt></ruby><ruby>文化遺産<rt>ぶんかいさん</rt></ruby>になりました。",
+            "origin": "「ナマハゲ」は、秋田県男鹿市の昔からの行事です。毎年１２月３１日の夜に、鬼のようなお面をかぶった男の人が家をまわって「悪い子はいねぇが」などと大きな声で言います。２年前にユネスコの無形文化遺産になりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>去年<rt>きょねん</rt></ruby>は８９の<ruby>地区<rt>ちく</rt></ruby>でナマハゲをしました。<ruby>今年<rt>ことし</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>があるため、<ruby>地区<rt>ちく</rt></ruby>の１つは、ウイルスがうつらないようにしてナマハゲをすることにしました。",
+            "origin": "去年は８９の地区でナマハゲをしました。今年は新しいコロナウイルスの問題があるため、地区の１つは、ウイルスがうつらないようにしてナマハゲをすることにしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>今年<rt>ことし</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りません。<ruby>家<rt>いえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>出<rt>だ</rt></ruby>してもらったお<ruby>酒<rt>さけ</rt></ruby>も<ruby>飲<rt>の</rt></ruby>まないし、<ruby>料理<rt>りょうり</rt></ruby>も<ruby>食<rt>た</rt></ruby>べません。<ruby>低<rt>ひく</rt></ruby>い<ruby>声<rt>こえ</rt></ruby>だけ<ruby>出<rt>だ</rt></ruby>して、いつもの「<ruby>悪<rt>わる</rt></ruby>い<ruby>子<rt>こ</rt></ruby>はいねぇが」という<ruby>言葉<rt>ことば</rt></ruby>は、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>がマスクをしたまま<ruby>言<rt>い</rt></ruby>います。",
+            "origin": "今年は家の中に入りません。家の人に出してもらったお酒も飲まないし、料理も食べません。低い声だけ出して、いつもの「悪い子はいねぇが」という言葉は、一緒に歩いている人がマスクをしたまま言います。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ナマハゲをする<ruby>会<rt>かい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>歴史<rt>れきし</rt></ruby>がある<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しい<ruby>形<rt>かたち</rt></ruby>で<ruby>続<rt>つづ</rt></ruby>けていきたいです」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "ナマハゲをする会の人は「歴史がある文化を新しい形で続けていきたいです」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012695031000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201104/../20201104/K10012695031_2011041754_2011041754_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012695031000.json"
+}

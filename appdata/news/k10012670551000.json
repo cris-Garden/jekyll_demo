@@ -1,0 +1,35 @@
+{
+    "id": "k10012670551000",
+    "title": "「皮膚に付いたコロナウイルスはうつる力が９時間続く」",
+    "ruby": "「<ruby>皮膚<rt>ひふ</rt></ruby>に<ruby>付<rt>つ</rt></ruby>いたコロナウイルスはうつる<ruby>力<rt>ちから</rt></ruby>が９<ruby>時間<rt>じかん</rt></ruby><ruby>続<rt>つづ</rt></ruby>く」",
+    "time": "2020-10-21",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012670551000/k10012670551000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>京都府立医科大学<rt>きょうとふりついかだいがく</rt></ruby>の<ruby>廣瀬<rt>ひろせ</rt></ruby><ruby>亮平<rt>りょうへい</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>たちのグループは、<ruby>人<rt>ひと</rt></ruby>の<ruby>手<rt>て</rt></ruby>などに<ruby>付<rt>つ</rt></ruby>いた<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが、どのくらいの<ruby>間<rt>あいだ</rt></ruby>うつる<ruby>力<rt>ちから</rt></ruby>を<ruby>持<rt>も</rt></ruby>っているか<ruby>調<rt>しら</rt></ruby>べました。",
+            "origin": "京都府立医科大学の廣瀬亮平先生たちのグループは、人の手などに付いた新しいコロナウイルスが、どのくらいの間うつる力を持っているか調べました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>の<ruby>皮膚<rt>ひふ</rt></ruby>に、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスとインフルエンザウイルスを１０<ruby>万<rt>まん</rt></ruby><ruby>個<rt>こ</rt></ruby>ぐらい<ruby>付<rt>つ</rt></ruby>けて<ruby>比<rt>くら</rt></ruby>べました。<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスは、うつる<ruby>力<rt>ちから</rt></ruby>が９<ruby>時間<rt>じかん</rt></ruby><ruby>続<rt>つづ</rt></ruby>きました。インフルエンザウイルスの５<ruby>倍<rt>ばい</rt></ruby><ruby>長<rt>なが</rt></ruby>く、うつる<ruby>力<rt>ちから</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていました。",
+            "origin": "亡くなった人の皮膚に、新しいコロナウイルスとインフルエンザウイルスを１０万個ぐらい付けて比べました。新しいコロナウイルスは、うつる力が９時間続きました。インフルエンザウイルスの５倍長く、うつる力を持っていました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "コロナウイルスを<ruby>付<rt>つ</rt></ruby>けた<ruby>皮膚<rt>ひふ</rt></ruby>を<ruby>消毒<rt>しょうどく</rt></ruby><ruby>用<rt>よう</rt></ruby>のアルコールの<ruby>中<rt>なか</rt></ruby>に１５<ruby>秒<rt>びょう</rt></ruby><ruby>入<rt>い</rt></ruby>れると、ウイルスはほとんどなくなりました。",
+            "origin": "コロナウイルスを付けた皮膚を消毒用のアルコールの中に１５秒入れると、ウイルスはほとんどなくなりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>廣瀬<rt>ひろせ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>は「コロナウイルスがうつらないようにするためには、<ruby>手<rt>て</rt></ruby>をアルコールで<ruby>消毒<rt>しょうどく</rt></ruby>することが<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>実験<rt>じっけん</rt></ruby>でもわかりました」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "廣瀬先生は「コロナウイルスがうつらないようにするためには、手をアルコールで消毒することが大切だと実験でもわかりました」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012670551000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201019/../20201019/K10012670551_2010191439_2010191450_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012670551000.json"
+}

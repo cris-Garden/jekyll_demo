@@ -1,0 +1,40 @@
+{
+    "id": "k10012681561000",
+    "title": "今年のハロウィーンは「バーチャル渋谷」で楽しんで",
+    "ruby": "<ruby>今年<rt>ことし</rt></ruby>のハロウィーンは「バーチャル<ruby>渋谷<rt>しぶや</rt></ruby>」で<ruby>楽<rt>たの</rt></ruby>しんで",
+    "time": "2020-10-28",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012681561000/k10012681561000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>には<ruby>毎年<rt>まいとし</rt></ruby>、ハロウィーンを<ruby>楽<rt>たの</rt></ruby>しむために<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まります。<ruby>渋谷区<rt>しぶやく</rt></ruby>などは、<ruby>今年<rt>ことし</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>があるため、<ruby>渋谷<rt>しぶや</rt></ruby>に<ruby>来<rt>こ</rt></ruby>ないでほしいと<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "東京の渋谷には毎年、ハロウィーンを楽しむために大勢の人が集まります。渋谷区などは、今年は新しいコロナウイルスの問題があるため、渋谷に来ないでほしいと言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "その<ruby>代<rt>か</rt></ruby>わりに<ruby>渋谷区<rt>しぶやく</rt></ruby>などは、「バーチャル<ruby>渋谷<rt>しぶや</rt></ruby>」というウェブサイトで、ハロウィーンを<ruby>楽<rt>たの</rt></ruby>しむことができるようにしました。",
+            "origin": "その代わりに渋谷区などは、「バーチャル渋谷」というウェブサイトで、ハロウィーンを楽しむことができるようにしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "「バーチャル<ruby>渋谷<rt>しぶや</rt></ruby>」の<ruby>中<rt>なか</rt></ruby>には、<ruby>渋谷駅<rt>しぶやえき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にある<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>交差点<rt>こうさてん</rt></ruby>やハチ<ruby>公<rt>こう</rt></ruby>の<ruby>像<rt>ぞう</rt></ruby>、<ruby>町<rt>まち</rt></ruby>にあるビルの<ruby>看板<rt>かんばん</rt></ruby>などが<ruby>本物<rt>ほんもの</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>作<rt>つく</rt></ruby>ってあります。３１<ruby>日<rt>にち</rt></ruby>までは、<ruby>道<rt>みち</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にかぼちゃが<ruby>浮<rt>う</rt></ruby>いているなど、ハロウィーンらしくなっています。",
+            "origin": "「バーチャル渋谷」の中には、渋谷駅の前にある有名な交差点やハチ公の像、町にあるビルの看板などが本物と同じように作ってあります。３１日までは、道の上にかぼちゃが浮いているなど、ハロウィーンらしくなっています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ったキャラクターを<ruby>動<rt>うご</rt></ruby>かして、<ruby>渋谷<rt>しぶや</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>したり、<ruby>音楽<rt>おんがく</rt></ruby>や<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんだりすることもできます。",
+            "origin": "自分が作ったキャラクターを動かして、渋谷を散歩したり、音楽や買い物を楽しんだりすることもできます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "「バーチャル<ruby>渋谷<rt>しぶや</rt></ruby>」は、アプリをダウンロードすると、<ruby>無料<rt>むりょう</rt></ruby>で<ruby>楽<rt>たの</rt></ruby>しむことができます。",
+            "origin": "「バーチャル渋谷」は、アプリをダウンロードすると、無料で楽しむことができます。"
+        }
+    ],
+    "voiceurl": "k10012681561000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201026/../20201026/K10012681561_2010261608_2010261619_01_03.jpg",
+    "newsmovie": "k10012681561_202010261825_202010261829.mp4",
+    "path": "appdata/news/k10012681561000.json"
+}

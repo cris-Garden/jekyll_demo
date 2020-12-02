@@ -1,0 +1,35 @@
+{
+    "id": "k10012661241000",
+    "title": "「湿度が低いほうがウイルスがうつりやすい」富岳で計算",
+    "ruby": "「<ruby>湿度<rt>しつど</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>いほうがウイルスがうつりやすい」<ruby>富岳<rt>ふがく</rt></ruby>で<ruby>計算<rt>けいさん</rt></ruby>",
+    "time": "2020-10-14",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012661241000/k10012661241000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>神戸市<rt>こうべし</rt></ruby>にある<ruby>理化学研究所<rt>りかがくけんきゅうしょ</rt></ruby>などのチームが、スーパーコンピューターの「<ruby>富岳<rt>ふがく</rt></ruby>」を<ruby>使<rt>つか</rt></ruby>って、<ruby>口<rt>くち</rt></ruby>から<ruby>出<rt>で</rt></ruby>る<ruby>唾<rt>つば</rt></ruby>の<ruby>広<rt>ひろ</rt></ruby>がり<ruby>方<rt>かた</rt></ruby>を<ruby>計算<rt>けいさん</rt></ruby>しました。<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスは<ruby>唾<rt>つば</rt></ruby>でうつります。",
+            "origin": "神戸市にある理化学研究所などのチームが、スーパーコンピューターの「富岳」を使って、口から出る唾の広がり方を計算しました。新しいコロナウイルスは唾でうつります。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>部屋<rt>へや</rt></ruby>で<ruby>話<rt>はなし</rt></ruby>をするとき、<ruby>湿度<rt>しつど</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>いと、<ruby>唾<rt>つば</rt></ruby>が<ruby>霧<rt>きり</rt></ruby>のように<ruby>広<rt>ひろ</rt></ruby>がりやすくなることがわかりました。<ruby>湿度<rt>しつど</rt></ruby>が９０％のときと<ruby>比<rt>くら</rt></ruby>べて、３０％のときは、１．８ｍ<ruby>前<rt>まえ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>に、<ruby>唾<rt>つば</rt></ruby>が３<ruby>倍<rt>ばい</rt></ruby><ruby>多<rt>おお</rt></ruby>くかかりました。",
+            "origin": "仕事をする部屋で話をするとき、湿度が低いと、唾が霧のように広がりやすくなることがわかりました。湿度が９０％のときと比べて、３０％のときは、１．８ｍ前の席に座っている人に、唾が３倍多くかかりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "チームの<ruby>人<rt>ひと</rt></ruby>は、<ruby>部屋<rt>へや</rt></ruby>の<ruby>湿度<rt>しつど</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くすると<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつりにくくなることを<ruby>確<rt>たし</rt></ruby>かめることができたと<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "チームの人は、部屋の湿度を高くすると新しいコロナウイルスがうつりにくくなることを確かめることができたと言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "グループで<ruby>食事<rt>しょくじ</rt></ruby>をするときの<ruby>唾<rt>つば</rt></ruby>の<ruby>広<rt>ひろ</rt></ruby>がり<ruby>方<rt>かた</rt></ruby>も<ruby>調<rt>しら</rt></ruby>べました。<ruby>前<rt>まえ</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>より<ruby>隣<rt>となり</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>に<ruby>唾<rt>つば</rt></ruby>が５<ruby>倍<rt>ばい</rt></ruby><ruby>多<rt>おお</rt></ruby>くかかりました。チームの<ruby>人<rt>ひと</rt></ruby>は、<ruby>隣<rt>となり</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ると、ウイルスがうつる<ruby>危険<rt>きけん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなると<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "グループで食事をするときの唾の広がり方も調べました。前に座った人より隣に座った人に唾が５倍多くかかりました。チームの人は、隣に座ると、ウイルスがうつる危険が高くなると言っています。"
+        }
+    ],
+    "voiceurl": "k10012661241000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201013/../20201013/K10012661241_2010131803_2010131927_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012661241000.json"
+}

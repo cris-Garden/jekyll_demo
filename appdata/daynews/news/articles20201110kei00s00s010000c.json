@@ -1,0 +1,65 @@
+{
+    "id": "articles20201110kei00s00s010000c",
+    "title": "体温計の中身が気になります。体温計の中をくわしく教えてほしい",
+    "ruby": "",
+    "time": "2020年11月10日",
+    "imgurl": "https://cdn.mainichi.jp/vol1/2020/11/10/20201110kei00s00s016000p/0c6.jpg?1",
+    "fromUrl": "https://mainichi.jp/articles/20201110/kei/00s/00s/010000c",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "Ｑ<ruby>体温計<rt>たいおんけい</rt></ruby>の<ruby>中身<rt>なかみ</rt></ruby>が<ruby>気<rt>き</rt></ruby>になります。<ruby>体温計<rt>たいおんけい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>をくわしく<ruby>教<rt>おし</rt></ruby>えてほしい。（<ruby>静岡県富士宮市<rt>しずおかけんふじのみやし</rt></ruby>、<ruby>小<rt>しょう</rt></ruby>３、<ruby>宮川隆<rt>みやかわりゅう</rt></ruby><ruby>李<rt>り</rt></ruby>さん）",
+            "origin": "Ｑ体温計の中身が気になります。体温計の中をくわしく教えてほしい。（静岡県富士宮市、小３、宮川隆李さん）"
+        },
+        {
+            "type": "h2",
+            "ruby": "<ruby>温度<rt>おんど</rt></ruby>を<ruby>知<rt>し</rt></ruby>る<ruby>部品<rt>ぶひん</rt></ruby>や<ruby>体温<rt>たいおん</rt></ruby><ruby>計算<rt>けいさん</rt></ruby>する<ruby>基板<rt>きばん</rt></ruby>",
+            "origin": "温度を知る部品や体温計算する基板"
+        },
+        {
+            "type": "ruby",
+            "ruby": "Ａ<ruby>新型<rt>しんがた</rt></ruby>コロナウイルスの<ruby>感染<rt>かんせん</rt></ruby>の<ruby>広<rt>ひろ</rt></ruby>がりで、<ruby>発熱<rt>はつねつ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるため、<ruby>体温<rt>たいおん</rt></ruby>を<ruby>測<rt>はか</rt></ruby>る<ruby>機会<rt>きかい</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたと<ruby>思<rt>おも</rt></ruby>います。<ruby>家庭<rt>かてい</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われるのが、わきの<ruby>下<rt>した</rt></ruby>に<ruby>挟<rt>はさ</rt></ruby>むペンシル<ruby>型<rt>がた</rt></ruby>の<ruby>電子<rt>でんし</rt></ruby><ruby>体温計<rt>たいおんけい</rt></ruby>です。<ruby>健康<rt>けんこう</rt></ruby><ruby>機器<rt>きき</rt></ruby>メーカーのオムロンヘルスケアで、<ruby>体温計<rt>たいおんけい</rt></ruby>の<ruby>商品開発<rt>しょうひんかいはつ</rt></ruby>のリーダーをしている<ruby>佐藤<rt>さとう</rt></ruby><ruby>泰雅<rt>たいが</rt></ruby>さんに<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。",
+            "origin": "Ａ新型コロナウイルスの感染の広がりで、発熱を調べるため、体温を測る機会が増えたと思います。家庭でよく使われるのが、わきの下に挟むペンシル型の電子体温計です。健康機器メーカーのオムロンヘルスケアで、体温計の商品開発のリーダーをしている佐藤泰雅さんに話を聞きました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>体温<rt>たいおん</rt></ruby>といっても<ruby>体<rt>からだ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>によって<ruby>温度<rt>おんど</rt></ruby>が<ruby>異<rt>こと</rt></ruby>なります。<ruby>手先<rt>てさき</rt></ruby>や<ruby>皮膚<rt>ひふ</rt></ruby>など<ruby>表面<rt>ひょうめん</rt></ruby>の<ruby>部分<rt>ぶぶん</rt></ruby>は<ruby>外<rt>そと</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>を<ruby>受<rt>う</rt></ruby>けやすいため、<ruby>体温計<rt>たいおんけい</rt></ruby>は、<ruby>核心<rt>かくしん</rt></ruby><ruby>部<rt>ぶ</rt></ruby>と<ruby>呼<rt>よ</rt></ruby>ばれる<ruby>体<rt>からだ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>を<ruby>測<rt>はか</rt></ruby>る<ruby>温度計<rt>おんどけい</rt></ruby>のことをいいます。",
+            "origin": "体温といっても体の場所によって温度が異なります。手先や皮膚など表面の部分は外の温度の変化を受けやすいため、体温計は、核心部と呼ばれる体の中の温度を測る温度計のことをいいます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ペンシル<ruby>型<rt>がた</rt></ruby>の<ruby>電子<rt>でんし</rt></ruby><ruby>体温計<rt>たいおんけい</rt></ruby>は、<ruby>先端<rt>せんたん</rt></ruby><ruby>部分<rt>ぶぶん</rt></ruby>をわきの<ruby>下<rt>した</rt></ruby>に<ruby>挟<rt>はさ</rt></ruby>んでしばらくすると、ピピッと<ruby>音<rt>おと</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>って<ruby>液晶<rt>えきしょう</rt></ruby><ruby>盤<rt>ばん</rt></ruby>に<ruby>体温<rt>たいおん</rt></ruby>が<ruby>表示<rt>ひょうじ</rt></ruby>されます。その<ruby>先端<rt>せんたん</rt></ruby><ruby>部<rt>ぶ</rt></ruby>はステンレス<ruby>製<rt>せい</rt></ruby>で、「プローブ」と<ruby>呼<rt>よ</rt></ruby>ばれます。その<ruby>中<rt>なか</rt></ruby>には「サーミスタ」と<ruby>呼<rt>よ</rt></ruby>ばれる<ruby>電子部品<rt>でんしぶひん</rt></ruby>（<ruby>温度<rt>おんど</rt></ruby>センサー）があって、<ruby>本体<rt>ほんたい</rt></ruby>につながっています。サーミスタでは、<ruby>温度<rt>おんど</rt></ruby>が<ruby>変<rt>か</rt></ruby>わると<ruby>電気<rt>でんき</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れにくさが<ruby>変化<rt>へんか</rt></ruby>する<ruby>性質<rt>せいしつ</rt></ruby>があり、それを<ruby>利用<rt>りよう</rt></ruby>して<ruby>体温<rt>たいおん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>知<rt>し</rt></ruby>ることができます。",
+            "origin": "ペンシル型の電子体温計は、先端部分をわきの下に挟んでしばらくすると、ピピッと音が鳴って液晶盤に体温が表示されます。その先端部はステンレス製で、「プローブ」と呼ばれます。その中には「サーミスタ」と呼ばれる電子部品（温度センサー）があって、本体につながっています。サーミスタでは、温度が変わると電気の流れにくさが変化する性質があり、それを利用して体温の情報を知ることができます。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "その<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>える<ruby>本体<rt>ほんたい</rt></ruby>には、<ruby>音<rt>おと</rt></ruby>を<ruby>鳴<rt>な</rt></ruby>らすブザーと<ruby>電池<rt>でんち</rt></ruby>と「チップオンボード（ＣＯＢ）」と<ruby>呼<rt>よ</rt></ruby>ばれる<ruby>基板<rt>きばん</rt></ruby>があります。<ruby>基板<rt>きばん</rt></ruby>には、<ruby>温度<rt>おんど</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>体温<rt>たいおん</rt></ruby>に<ruby>変<rt>か</rt></ruby>えて<ruby>計算<rt>けいさん</rt></ruby>するためのＩＣ（<ruby>集積回路<rt>しゅうせきかいろ</rt></ruby>）チップが<ruby>取<rt>と</rt></ruby>り<ruby>付<rt>つ</rt></ruby>けられています。",
+            "origin": "その情報を伝える本体には、音を鳴らすブザーと電池と「チップオンボード（ＣＯＢ）」と呼ばれる基板があります。基板には、温度の情報を体温に変えて計算するためのＩＣ（集積回路）チップが取り付けられています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>体<rt>からだ</rt></ruby>の<ruby>内部<rt>ないぶ</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>を<ruby>実際<rt>じっさい</rt></ruby>に<ruby>測<rt>はか</rt></ruby>るためには、わきの<ruby>下<rt>した</rt></ruby>で１０<ruby>分<rt>ぷん</rt></ruby>ほど<ruby>時間<rt>じかん</rt></ruby>がかかります。<ruby>一方<rt>いっぽう</rt></ruby>で、わきの<ruby>下<rt>した</rt></ruby>に<ruby>挟<rt>はさ</rt></ruby>むと、わずか<ruby>数<rt>すう</rt></ruby><ruby>秒<rt>びょう</rt></ruby>でピピッと<ruby>鳴<rt>な</rt></ruby>って<ruby>体温<rt>たいおん</rt></ruby>を<ruby>測<rt>はか</rt></ruby>ることができる<ruby>電子<rt>でんし</rt></ruby><ruby>体温計<rt>たいおんけい</rt></ruby>もあります。どうやって<ruby>測<rt>はか</rt></ruby>るのでしょうか。",
+            "origin": "体の内部の温度を実際に測るためには、わきの下で１０分ほど時間がかかります。一方で、わきの下に挟むと、わずか数秒でピピッと鳴って体温を測ることができる電子体温計もあります。どうやって測るのでしょうか。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "これは、<ruby>実際<rt>じっさい</rt></ruby>に<ruby>測定<rt>そくてい</rt></ruby>したものではなく、<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>数<rt>すう</rt></ruby><ruby>秒<rt>びょう</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>を<ruby>測<rt>はか</rt></ruby>ることで、１０<ruby>分<rt>ぷん</rt></ruby><ruby>後<rt>ご</rt></ruby>の<ruby>体温<rt>たいおん</rt></ruby>を<ruby>予測<rt>よそく</rt></ruby>する<ruby>機能<rt>きのう</rt></ruby>が<ruby>付<rt>つ</rt></ruby>いたものです。そのために、<ruby>体温計<rt>たいおんけい</rt></ruby>をつくる<ruby>会社<rt>かいしゃ</rt></ruby>では、たくさんの<ruby>人<rt>ひと</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べていて、そのデータを<ruby>基<rt>もと</rt></ruby>に<ruby>推測<rt>すいそく</rt></ruby>する<ruby>仕組<rt>しく</rt></ruby>みです。",
+            "origin": "これは、実際に測定したものではなく、最初の数秒の温度の変化を測ることで、１０分後の体温を予測する機能が付いたものです。そのために、体温計をつくる会社では、たくさんの人の温度の変化を調べていて、そのデータを基に推測する仕組みです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "グラフのように<ruby>体温<rt>たいおん</rt></ruby>は１<ruby>日<rt>にち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にリズムがあります。<ruby>朝方<rt>あさがた</rt></ruby>は<ruby>低<rt>ひく</rt></ruby>く、<ruby>夕方<rt>ゆうがた</rt></ruby>から<ruby>夜<rt>よる</rt></ruby>にかけてピークになります。その<ruby>差<rt>さ</rt></ruby>は１<ruby>度<rt>ど</rt></ruby>くらいあります。<ruby>発熱<rt>はつねつ</rt></ruby>をしたときも<ruby>同<rt>おな</rt></ruby>じリズムなので、<ruby>朝<rt>あさ</rt></ruby>は<ruby>楽<rt>らく</rt></ruby>だったとしても、<ruby>夜<rt>よる</rt></ruby>になると<ruby>熱<rt>ねつ</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がって<ruby>体<rt>からだ</rt></ruby>がつらくなるのは、<ruby>体温<rt>たいおん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる<ruby>時<rt>とき</rt></ruby>と<ruby>重<rt>かさ</rt></ruby>なるからです。",
+            "origin": "グラフのように体温は１日の中にリズムがあります。朝方は低く、夕方から夜にかけてピークになります。その差は１度くらいあります。発熱をしたときも同じリズムなので、朝は楽だったとしても、夜になると熱が上がって体がつらくなるのは、体温が上がる時と重なるからです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>体温<rt>たいおん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>を<ruby>知<rt>し</rt></ruby>るには、<ruby>測<rt>はか</rt></ruby>る<ruby>時間<rt>じかん</rt></ruby>を<ruby>同<rt>おな</rt></ruby>じ<ruby>時間帯<rt>じかんたい</rt></ruby>にして<ruby>比<rt>くら</rt></ruby>べることが<ruby>大切<rt>たいせつ</rt></ruby>になります。【<ruby>石塚<rt>いしづか</rt></ruby><ruby>孝志<rt>たかし</rt></ruby>】",
+            "origin": "自分の体温の変化を知るには、測る時間を同じ時間帯にして比べることが大切になります。【石塚孝志】"
+        }
+    ],
+    "voiceurl": "",
+    "movieurl": "",
+    "newimage": "https://cdn.mainichi.jp/vol1/2020/11/10/20201110kei00s00s016000p/0c6.jpg?1",
+    "newsmovie": "",
+    "path": "appdata/daynews/articles20201110kei00s00s010000c.json"
+}

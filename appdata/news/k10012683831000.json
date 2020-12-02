@@ -1,0 +1,35 @@
+{
+    "id": "k10012683831000",
+    "title": "たばこを吸う人の割合がいちばん低くなる",
+    "ruby": "たばこを<ruby>吸<rt>す</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>がいちばん<ruby>低<rt>ひく</rt></ruby>くなる",
+    "time": "2020-10-29",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012683831000/k10012683831000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>、２０<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の５７００<ruby>人<rt>にん</rt></ruby>ぐらいに<ruby>生活<rt>せいかつ</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby>について<ruby>聞<rt>き</rt></ruby>きました。",
+            "origin": "厚生労働省は去年１１月、２０歳以上の５７００人ぐらいに生活の習慣について聞きました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "たばこを<ruby>吸<rt>す</rt></ruby>う<ruby>習慣<rt>しゅうかん</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>は１６．７％でした。<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>より１．１ポイント<ruby>低<rt>ひく</rt></ruby>くなりました。１９８６<ruby>年<rt>ねん</rt></ruby>から<ruby>調<rt>しら</rt></ruby>べ<ruby>始<rt>はじ</rt></ruby>めて、いちばん<ruby>低<rt>ひく</rt></ruby>くなりました。",
+            "origin": "たばこを吸う習慣がある人の割合は１６．７％でした。前の年より１．１ポイント低くなりました。１９８６年から調べ始めて、いちばん低くなりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>男性<rt>だんせい</rt></ruby>は２７．１％、<ruby>女性<rt>じょせい</rt></ruby>は７．６％でした。１０<ruby>年<rt>ねん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に、<ruby>男性<rt>だんせい</rt></ruby>は１１．１ポイント、<ruby>女性<rt>じょせい</rt></ruby>は３．３ポイント<ruby>低<rt>ひく</rt></ruby>くなりました。",
+            "origin": "男性は２７．１％、女性は７．６％でした。１０年の間に、男性は１１．１ポイント、女性は３．３ポイント低くなりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>は、２０２３<ruby>年<rt>ねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までに、たばこを<ruby>吸<rt>す</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>を１２％にしたいと<ruby>考<rt>かんが</rt></ruby>えています。たばこをやめたい<ruby>人<rt>ひと</rt></ruby>が<ruby>電話<rt>でんわ</rt></ruby>で<ruby>相談<rt>そうだん</rt></ruby>できる<ruby>病院<rt>びょういん</rt></ruby>もあります。<ruby>相談<rt>そうだん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>はかかりません。",
+            "origin": "厚生労働省は、２０２３年３月までに、たばこを吸う人の割合を１２％にしたいと考えています。たばこをやめたい人が電話で相談できる病院もあります。相談のお金はかかりません。"
+        }
+    ],
+    "voiceurl": "k10012683831000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201028/../20201028/K10012683831_2010272019_2010280451_01_02.jpg",
+    "newsmovie": "k10012683831_202010280540_202010280541.mp4",
+    "path": "appdata/news/k10012683831000.json"
+}

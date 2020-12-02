@@ -1,0 +1,35 @@
+{
+    "id": "k10012721711000",
+    "title": "外国から成田空港に着いた人　電車やバスを使う人がいる",
+    "ruby": "<ruby>外国<rt>がいこく</rt></ruby>から<ruby>成田空港<rt>なりたくうこう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いた<ruby>人<rt>ひと</rt></ruby>　<ruby>電車<rt>でんしゃ</rt></ruby>やバスを<ruby>使<rt>つか</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>がいる",
+    "time": "2020-11-20",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012721711000/k10012721711000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスの<ruby>問題<rt>もんだい</rt></ruby>のため、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いた<ruby>人<rt>ひと</rt></ruby>に<ruby>空港<rt>くうこう</rt></ruby>からみんなが<ruby>使<rt>つか</rt></ruby>う<ruby>電車<rt>でんしゃ</rt></ruby>やバスに<ruby>乗<rt>の</rt></ruby>らないでほしいと<ruby>言<rt>い</rt></ruby>っています。タクシーの<ruby>会社<rt>かいしゃ</rt></ruby>などが<ruby>用意<rt>ようい</rt></ruby>している<ruby>車<rt>くるま</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>むように<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "政府は、新しいコロナウイルスの問題のため、外国から日本に着いた人に空港からみんなが使う電車やバスに乗らないでほしいと言っています。タクシーの会社などが用意している車を頼むように言っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "しかし、<ruby>成田空港<rt>なりたくうこう</rt></ruby>の<ruby>検疫<rt>けんえき</rt></ruby><ruby>所<rt>しょ</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べると、<ruby>空港<rt>くうこう</rt></ruby>から<ruby>電車<rt>でんしゃ</rt></ruby>やバスに<ruby>乗<rt>の</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>が<ruby>何<rt>なん</rt></ruby><ruby>人<rt>にん</rt></ruby>かいました。",
+            "origin": "しかし、成田空港の検疫所が調べると、空港から電車やバスに乗った人が何人かいました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ヨーロッパから<ruby>帰<rt>かえ</rt></ruby>って<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は、<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>帰<rt>かえ</rt></ruby>ると<ruby>話<rt>はな</rt></ruby>していました。そして「<ruby>家<rt>いえ</rt></ruby>が<ruby>東北地方<rt>とうほくちほう</rt></ruby>で<ruby>遠<rt>とお</rt></ruby>いので、<ruby>車<rt>くるま</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>むのは<ruby>難<rt>むずか</rt></ruby>しいです。<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ったときの<ruby>検査<rt>けんさ</rt></ruby>で<ruby>問題<rt>もんだい</rt></ruby>がなかったのに、<ruby>電車<rt>でんしゃ</rt></ruby>やバスに<ruby>乗<rt>の</rt></ruby>ることができないのは<ruby>不便<rt>ふべん</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "ヨーロッパから帰って来た女性は、電車で帰ると話していました。そして「家が東北地方で遠いので、車を頼むのは難しいです。日本に帰ったときの検査で問題がなかったのに、電車やバスに乗ることができないのは不便です」と話していました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>成田空港<rt>なりたくうこう</rt></ruby>の<ruby>検疫<rt>けんえき</rt></ruby><ruby>所<rt>しょ</rt></ruby>は<ruby>今月<rt>こんげつ</rt></ruby>から、<ruby>空港<rt>くうこう</rt></ruby>の<ruby>放送<rt>ほうそう</rt></ruby>で、<ruby>電車<rt>でんしゃ</rt></ruby>やバスに<ruby>乗<rt>の</rt></ruby>らないようにいろいろな<ruby>国<rt>くに</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>で<ruby>伝<rt>つた</rt></ruby>えています。",
+            "origin": "成田空港の検疫所は今月から、空港の放送で、電車やバスに乗らないようにいろいろな国の言葉で伝えています。"
+        }
+    ],
+    "voiceurl": "k10012721711000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201120/../20201120/K10012721711_2011200044_2011200046_01_02.jpg",
+    "newsmovie": "k10012721711_202011200515_202011200519.mp4",
+    "path": "appdata/news/k10012721711000.json"
+}

@@ -1,0 +1,45 @@
+{
+    "id": "k10012736451000",
+    "title": "新しいコロナウイルス　子どもからの相談が増えている",
+    "ruby": "<ruby>新<rt>あたら</rt></ruby>しいコロナウイルス　<ruby>子<rt>こ</rt></ruby>どもからの<ruby>相談<rt>そうだん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている",
+    "time": "2020-12-01",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012736451000/k10012736451000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "１８<ruby>歳<rt>さい</rt></ruby><ruby>以下<rt>いか</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが<ruby>悩<rt>なや</rt></ruby>んでいることを<ruby>電話<rt>でんわ</rt></ruby>などで<ruby>相談<rt>そうだん</rt></ruby>できる「チャイルドライン」には、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスについての<ruby>相談<rt>そうだん</rt></ruby>が<ruby>来<rt>き</rt></ruby>ています。<ruby>今年<rt>ことし</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>から１０<ruby>月<rt>がつ</rt></ruby>までに１０１８<ruby>件<rt>けん</rt></ruby>ありました。",
+            "origin": "１８歳以下の子どもが悩んでいることを電話などで相談できる「チャイルドライン」には、新しいコロナウイルスについての相談が来ています。今年２月から１０月までに１０１８件ありました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>相談<rt>そうだん</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>いのは、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>や<ruby>体<rt>からだ</rt></ruby>の<ruby>心配<rt>しんぱい</rt></ruby>で６５％でした。「<ruby>友<rt>とも</rt></ruby>だちと<ruby>会<rt>あ</rt></ruby>わないから<ruby>気分<rt>きぶん</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>くなる」とか「ウイルスがうつるのが<ruby>心配<rt>しんぱい</rt></ruby>だ」などです。",
+            "origin": "相談でいちばん多いのは、自分の心や体の心配で６５％でした。「友だちと会わないから気分が暗くなる」とか「ウイルスがうつるのが心配だ」などです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>家庭<rt>かてい</rt></ruby>や<ruby>学校<rt>がっこう</rt></ruby>についての<ruby>相談<rt>そうだん</rt></ruby>もありました。<ruby>家<rt>いえ</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をするようになった<ruby>親<rt>おや</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>に<ruby>困<rt>こま</rt></ruby>ったり、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>がわからなくなったりしています。",
+            "origin": "家庭や学校についての相談もありました。家で仕事をするようになった親との関係に困ったり、学校の勉強がわからなくなったりしています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "８<ruby>月<rt>がつ</rt></ruby>からは、<ruby>死<rt>し</rt></ruby>にたいぐらい<ruby>悩<rt>なや</rt></ruby>んでいる<ruby>相談<rt>そうだん</rt></ruby>が<ruby>去年<rt>きょねん</rt></ruby>の３<ruby>倍<rt>ばい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>えています。",
+            "origin": "８月からは、死にたいぐらい悩んでいる相談が去年の３倍以上に増えています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "チャイルドラインでは「<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>自由<rt>じゆう</rt></ruby>ではなくなって、<ruby>子<rt>こ</rt></ruby>どもも<ruby>大変<rt>たいへん</rt></ruby>です。<ruby>周<rt>まわ</rt></ruby>りの<ruby>大人<rt>おとな</rt></ruby>が<ruby>子<rt>こ</rt></ruby>どもの<ruby>話<rt>はなし</rt></ruby>をしっかり<ruby>聞<rt>き</rt></ruby>いてください」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "チャイルドラインでは「生活が自由ではなくなって、子どもも大変です。周りの大人が子どもの話をしっかり聞いてください」と話しています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "チャイルドラインの<ruby>電話<rt>でんわ</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>は０１２０−９９−７７７７です。<ruby>毎日<rt>まいにち</rt></ruby><ruby>午後<rt>ごご</rt></ruby>４<ruby>時<rt>じ</rt></ruby>から<ruby>午後<rt>ごご</rt></ruby>９<ruby>時<rt>じ</rt></ruby>まで<ruby>相談<rt>そうだん</rt></ruby>できます。",
+            "origin": "チャイルドラインの電話番号は０１２０−９９−７７７７です。毎日午後４時から午後９時まで相談できます。"
+        }
+    ],
+    "voiceurl": "k10012736451000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201129/../20201129/K10012736451_2011290714_2011290735_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012736451000.json"
+}

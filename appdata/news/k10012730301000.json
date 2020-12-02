@@ -1,0 +1,30 @@
+{
+    "id": "k10012730301000",
+    "title": "東京都「お酒を飲む店などは午後１０時までに閉めてほしい」",
+    "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>「お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>む<ruby>店<rt>みせ</rt></ruby>などは<ruby>午後<rt>ごご</rt></ruby>１０<ruby>時<rt>じ</rt></ruby>までに<ruby>閉<rt>し</rt></ruby>めてほしい」",
+    "time": "2020-11-26",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012730301000/k10012730301000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>では、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつった<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<ruby>病気<rt>びょうき</rt></ruby>が<ruby>重<rt>おも</rt></ruby>くなっている<ruby>人<rt>ひと</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えていて、<ruby>病院<rt>びょういん</rt></ruby>のベッドが<ruby>足<rt>た</rt></ruby>りなくなるかもしれません。<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>小池<rt>こいけ</rt></ruby><ruby>知事<rt>ちじ</rt></ruby>は「このままでは<ruby>病院<rt>びょういん</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby>になります」と<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "東京都では、新しいコロナウイルスがうつった人が増えています。病気が重くなっている人も増えていて、病院のベッドが足りなくなるかもしれません。東京都の小池知事は「このままでは病院が大変になります」と言いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "このため、<ruby>東京都<rt>とうきょうと</rt></ruby>は「２３の<ruby>区<rt>く</rt></ruby>と<ruby>多摩<rt>たま</rt></ruby>では、お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだり<ruby>食事<rt>しょくじ</rt></ruby>をしたりする<ruby>店<rt>みせ</rt></ruby>とカラオケの<ruby>店<rt>みせ</rt></ruby>は、<ruby>午後<rt>ごご</rt></ruby>１０<ruby>時<rt>じ</rt></ruby>までに<ruby>閉<rt>し</rt></ruby>めてほしい」と<ruby>言<rt>い</rt></ruby>うことになりました。<ruby>期間<rt>きかん</rt></ruby>は<ruby>今月<rt>こんげつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>から<ruby>来月<rt>らいげつ</rt></ruby>１７<ruby>日<rt>にち</rt></ruby>までです。<ruby>午後<rt>ごご</rt></ruby>１０<ruby>時<rt>じ</rt></ruby>までに<ruby>閉<rt>し</rt></ruby>めた<ruby>店<rt>みせ</rt></ruby>には、<ruby>東京都<rt>とうきょうと</rt></ruby>が４０<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>します。",
+            "origin": "このため、東京都は「２３の区と多摩では、お酒を飲んだり食事をしたりする店とカラオケの店は、午後１０時までに閉めてほしい」と言うことになりました。期間は今月２８日から来月１７日までです。午後１０時までに閉めた店には、東京都が４０万円を出します。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "コロナウイルスは<ruby>日本中<rt>にほんじゅう</rt></ruby>で<ruby>広<rt>ひろ</rt></ruby>がっています。<ruby>政府<rt>せいふ</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>は、ウイルスが<ruby>広<rt>ひろ</rt></ruby>がっている<ruby>所<rt>ところ</rt></ruby>では、お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>む<ruby>店<rt>みせ</rt></ruby>は<ruby>開<rt>あ</rt></ruby>けている<ruby>時間<rt>じかん</rt></ruby>を<ruby>短<rt>みじか</rt></ruby>くしてほしいと<ruby>言<rt>い</rt></ruby>っています。<ruby>札幌市<rt>さっぽろし</rt></ruby>、<ruby>大阪市<rt>おおさかし</rt></ruby>、<ruby>名古屋市<rt>なごやし</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>にある<ruby>店<rt>みせ</rt></ruby>も、これから３<ruby>週間<rt>しゅうかん</rt></ruby>くらい、<ruby>店<rt>みせ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けている<ruby>時間<rt>じかん</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>くなります。",
+            "origin": "コロナウイルスは日本中で広がっています。政府の専門家の会議は、ウイルスが広がっている所では、お酒を飲む店は開けている時間を短くしてほしいと言っています。札幌市、大阪市、名古屋市の中心にある店も、これから３週間くらい、店を開けている時間が短くなります。"
+        }
+    ],
+    "voiceurl": "k10012730301000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201125/../20201125/K10012730301_2011251603_2011251608_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012730301000.json"
+}

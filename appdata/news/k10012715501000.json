@@ -1,0 +1,35 @@
+{
+    "id": "k10012715501000",
+    "title": "家にいる時間が増えた　夫と妻の関係がどうなったか調べてみた",
+    "ruby": "<ruby>家<rt>いえ</rt></ruby>にいる<ruby>時間<rt>じかん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えた　<ruby>夫<rt>おっと</rt></ruby>と<ruby>妻<rt>つま</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>がどうなったか<ruby>調<rt>しら</rt></ruby>べてみた",
+    "time": "2020-11-18",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012715501000/k10012715501000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>保険<rt>ほけん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>明治安田生命<rt>めいじやすだせいめい</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスが<ruby>広<rt>ひろ</rt></ruby>がって、<ruby>夫<rt>おっと</rt></ruby>と<ruby>妻<rt>つま</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>がどうなったかインターネットで<ruby>聞<rt>き</rt></ruby>きました。１０８０<ruby>人<rt>にん</rt></ruby>が<ruby>答<rt>こた</rt></ruby>えました。",
+            "origin": "保険の会社の明治安田生命は、新しいコロナウイルスが広がって、夫と妻の関係がどうなったかインターネットで聞きました。１０８０人が答えました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>関係<rt>かんけい</rt></ruby>が「よくなった」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は１９％いました。「<ruby>悪<rt>わる</rt></ruby>くなった」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は６％で、よくなった<ruby>人<rt>ひと</rt></ruby>のほうがずっと<ruby>多<rt>おお</rt></ruby>くなりました。「<ruby>変<rt>か</rt></ruby>わらない」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は７４％でした。",
+            "origin": "関係が「よくなった」と答えた人は１９％いました。「悪くなった」と答えた人は６％で、よくなった人のほうがずっと多くなりました。「変わらない」と答えた人は７４％でした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>関係<rt>かんけい</rt></ruby>がよくなった<ruby>理由<rt>りゆう</rt></ruby>は「コミュニケーションが<ruby>増<rt>ふ</rt></ruby>えたから」が６２％で、いちばん<ruby>多<rt>おお</rt></ruby>くなりました。「<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>食事<rt>しょくじ</rt></ruby>をすることが<ruby>増<rt>ふ</rt></ruby>えたから」が３７％、「<ruby>支<rt>ささ</rt></ruby>えてくれる<ruby>人<rt>ひと</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>くにいて<ruby>安心<rt>あんしん</rt></ruby>できるから」が２１％でした。",
+            "origin": "関係がよくなった理由は「コミュニケーションが増えたから」が６２％で、いちばん多くなりました。「一緒に食事をすることが増えたから」が３７％、「支えてくれる人が近くにいて安心できるから」が２１％でした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>調<rt>しら</rt></ruby>べた<ruby>人<rt>ひと</rt></ruby>は「<ruby>家<rt>いえ</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>時間<rt>じかん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えて、<ruby>家族<rt>かぞく</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にいる<ruby>時間<rt>じかん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたことがよかったようです」と<ruby>話<rt>はな</rt></ruby>しています。",
+            "origin": "調べた人は「家で仕事をする時間が増えて、家族と一緒にいる時間が増えたことがよかったようです」と話しています。"
+        }
+    ],
+    "voiceurl": "k10012715501000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201117/../20201117/K10012715501_2011161927_2011170708_01_02.jpg",
+    "newsmovie": "",
+    "path": "appdata/news/k10012715501000.json"
+}

@@ -1,0 +1,35 @@
+{
+    "id": "k10012674601000",
+    "title": "保育園で子どもたちがベニズワイガニの食べ方を習う",
+    "ruby": "<ruby>保育園<rt>ほいくえん</rt></ruby>で<ruby>子<rt>こ</rt></ruby>どもたちがベニズワイガニの<ruby>食<rt>た</rt></ruby>べ<ruby>方<rt>かた</rt></ruby>を<ruby>習<rt>なら</rt></ruby>う",
+    "time": "2020-10-23",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012674601000/k10012674601000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>鳥取県<rt>とっとりけん</rt></ruby><ruby>境港市<rt>さかいみなとし</rt></ruby>は、ベニズワイガニが<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>町<rt>まち</rt></ruby>です。カニの<ruby>漁<rt>りょう</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>や<ruby>店<rt>みせ</rt></ruby>のグループは<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>市<rt>し</rt></ruby>の<ruby>保育園<rt>ほいくえん</rt></ruby>や<ruby>幼稚園<rt>ようちえん</rt></ruby>で<ruby>子<rt>こ</rt></ruby>どもたちにベニズワイガニについて<ruby>教<rt>おし</rt></ruby>えています。",
+            "origin": "鳥取県境港市は、ベニズワイガニが有名な町です。カニの漁をしている人や店のグループは毎年、市の保育園や幼稚園で子どもたちにベニズワイガニについて教えています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "２１<ruby>日<rt>にち</rt></ruby>、グループの<ruby>人<rt>ひと</rt></ruby>が<ruby>保育園<rt>ほいくえん</rt></ruby>に<ruby>行<rt>い</rt></ruby>って、９０<ruby>人<rt>にん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもたちに、カニをどうやってとるか<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せながら<ruby>説明<rt>せつめい</rt></ruby>しました。",
+            "origin": "２１日、グループの人が保育園に行って、９０人の子どもたちに、カニをどうやってとるか写真を見せながら説明しました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>子<rt>こ</rt></ruby>どもたちはカニをゆでるところを<ruby>見<rt>み</rt></ruby>てから、カニの<ruby>食<rt>た</rt></ruby>べ<ruby>方<rt>かた</rt></ruby>を<ruby>習<rt>なら</rt></ruby>いました。カニを<ruby>食<rt>た</rt></ruby>べた<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「<ruby>殻<rt>から</rt></ruby>がかたいけれど、おいしかったです」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "子どもたちはカニをゆでるところを見てから、カニの食べ方を習いました。カニを食べた男の子は「殻がかたいけれど、おいしかったです」と話していました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "グループの<ruby>人<rt>ひと</rt></ruby>は「カニのおいしさを<ruby>知<rt>し</rt></ruby>って、ずっと<ruby>食<rt>た</rt></ruby>べ<ruby>続<rt>つづ</rt></ruby>けてもらいたいです」と<ruby>話<rt>はな</rt></ruby>していました。",
+            "origin": "グループの人は「カニのおいしさを知って、ずっと食べ続けてもらいたいです」と話していました。"
+        }
+    ],
+    "voiceurl": "k10012674601000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201022/../20201022/K10012674601_2010212008_2010220411_01_03.jpg",
+    "newsmovie": "k10012674601_202010212009_202010212009.mp4",
+    "path": "appdata/news/k10012674601000.json"
+}

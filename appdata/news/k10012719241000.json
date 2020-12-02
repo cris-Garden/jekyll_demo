@@ -1,0 +1,35 @@
+{
+    "id": "k10012719241000",
+    "title": "コロナウイルス　うつった人が１日に２０００人以上になる",
+    "ruby": "コロナウイルス　うつった<ruby>人<rt>ひと</rt></ruby>が１<ruby>日<rt>にち</rt></ruby>に２０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる",
+    "time": "2020-11-19",
+    "imgurl": "k10012719241000.jpg",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012719241000/k10012719241000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "１８<ruby>日<rt>にち</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しいコロナウイルスがうつったことがわかった<ruby>人<rt>ひと</rt></ruby>が２２０１<ruby>人<rt>にん</rt></ruby>いました。１<ruby>日<rt>にち</rt></ruby>に２０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になったのは<ruby>初<rt>はじ</rt></ruby>めてです。",
+            "origin": "１８日、新しいコロナウイルスがうつったことがわかった人が２２０１人いました。１日に２０００人以上になったのは初めてです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>でも１９<ruby>日<rt>にち</rt></ruby>、うつったことがわかった<ruby>人<rt>ひと</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて５００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。どうしてウイルスがうつったかわからない<ruby>人<rt>ひと</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えています。<ruby>東京都<rt>とうきょうと</rt></ruby>はウイルスの<ruby>広<rt>ひろ</rt></ruby>がり<ruby>方<rt>かた</rt></ruby>を４つのレベルで<ruby>考<rt>かんが</rt></ruby>えていて、１９<ruby>日<rt>にち</rt></ruby>、いちばん<ruby>危険<rt>きけん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いレベルになったと<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "東京都でも１９日、うつったことがわかった人が初めて５００人以上になりました。どうしてウイルスがうつったかわからない人も増えています。東京都はウイルスの広がり方を４つのレベルで考えていて、１９日、いちばん危険が高いレベルになったと言いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>政府<rt>せいふ</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>尾身<rt>おみ</rt></ruby><ruby>茂<rt>しげる</rt></ruby><ruby>会長<rt>かいちょう</rt></ruby>は、<ruby>国会<rt>こっかい</rt></ruby>で「このままでは、ウイルスが<ruby>広<rt>ひろ</rt></ruby>がらないようにすることが<ruby>難<rt>むずか</rt></ruby>しくなります」と<ruby>話<rt>はな</rt></ruby>しました。そして、<ruby>気持<rt>きも</rt></ruby>ちを<ruby>新<rt>あたら</rt></ruby>しくして、みんなでしっかり<ruby>気<rt>き</rt></ruby>をつけようと<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "政府の専門家の会議の尾身茂会長は、国会で「このままでは、ウイルスが広がらないようにすることが難しくなります」と話しました。そして、気持ちを新しくして、みんなでしっかり気をつけようと言いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>菅<rt>すが</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>も、<ruby>今<rt>いま</rt></ruby>はいちばん<ruby>気<rt>き</rt></ruby>をつけなければならないときだと<ruby>言<rt>い</rt></ruby>っています。そして「マスクをすることや<ruby>大勢<rt>おおぜい</rt></ruby>で<ruby>集<rt>あつ</rt></ruby>まらないことなど、<ruby>大切<rt>たいせつ</rt></ruby>なことをしっかり<ruby>行<rt>おこな</rt></ruby>ってください」と<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "菅総理大臣も、今はいちばん気をつけなければならないときだと言っています。そして「マスクをすることや大勢で集まらないことなど、大切なことをしっかり行ってください」と言いました。"
+        }
+    ],
+    "voiceurl": "k10012719241000.mp4",
+    "movieurl": "''",
+    "newimage": "",
+    "newsmovie": "",
+    "path": "appdata/news/k10012719241000.json"
+}

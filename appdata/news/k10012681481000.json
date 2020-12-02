@@ -1,0 +1,35 @@
+{
+    "id": "k10012681481000",
+    "title": "菅総理大臣「２０５０年までに温暖化の原因のガスをゼロにする」",
+    "ruby": "<ruby>菅<rt>すが</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>「２０５０<ruby>年<rt>ねん</rt></ruby>までに<ruby>温暖化<rt>おんだんか</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>のガスをゼロにする」",
+    "time": "2020-10-27",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012681481000/k10012681481000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "２６<ruby>日<rt>にち</rt></ruby>から<ruby>国会<rt>こっかい</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>菅<rt>すが</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>は<ruby>総理大臣<rt>そうりだいじん</rt></ruby>になってから<ruby>初<rt>はじ</rt></ruby>めて、<ruby>国会<rt>こっかい</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>えを<ruby>話<rt>はな</rt></ruby>しました。",
+            "origin": "２６日から国会が始まりました。菅総理大臣は総理大臣になってから初めて、国会で自分の考えを話しました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "この<ruby>中<rt>なか</rt></ruby>で、<ruby>菅<rt>すが</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>は「２０５０<ruby>年<rt>ねん</rt></ruby>までに、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>温暖化<rt>おんだんか</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>のガスをゼロにする」と<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "この中で、菅総理大臣は「２０５０年までに、日本は温暖化の原因のガスをゼロにする」と言いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>菅<rt>すが</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>は、<ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げないようにしていくことで、<ruby>社会<rt>しゃかい</rt></ruby>が<ruby>変<rt>か</rt></ruby>わって<ruby>経済<rt>けいざい</rt></ruby>をよくすることができるという<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>言<rt>い</rt></ruby>いました。そして、<ruby>気温<rt>きおん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げないためにどうしたらいいか、<ruby>国<rt>くに</rt></ruby>と<ruby>地方<rt>ちほう</rt></ruby>が<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>うと<ruby>言<rt>い</rt></ruby>いました。<ruby>石炭<rt>せきたん</rt></ruby>を<ruby>燃<rt>も</rt></ruby>やして<ruby>電気<rt>でんき</rt></ruby>をつくることについても、<ruby>政府<rt>せいふ</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>を<ruby>変<rt>か</rt></ruby>えると<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "菅総理大臣は、地球の気温を上げないようにしていくことで、社会が変わって経済をよくすることができるという考え方が大切だと言いました。そして、気温を上げないためにどうしたらいいか、国と地方が話し合うと言いました。石炭を燃やして電気をつくることについても、政府の考え方を変えると言いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国連<rt>こくれん</rt></ruby>のグテーレス<ruby>事務総長<rt>じむそうちょう</rt></ruby>は「<ruby>勇気<rt>ゆうき</rt></ruby>をもらいました。<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>温暖化<rt>おんだんか</rt></ruby>を<ruby>止<rt>と</rt></ruby>めるための<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>とお<ruby>金<rt>かね</rt></ruby>があります。<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>発展途上国<rt>はってんとじょうこく</rt></ruby>を<ruby>応援<rt>おうえん</rt></ruby>すると<ruby>信<rt>しん</rt></ruby>じています」と<ruby>言<rt>い</rt></ruby>いました。",
+            "origin": "国連のグテーレス事務総長は「勇気をもらいました。日本は温暖化を止めるための新しい技術とお金があります。日本が発展途上国を応援すると信じています」と言いました。"
+        }
+    ],
+    "voiceurl": "k10012681481000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201026/../20201026/K10012681481_2010261449_2010261502_01_02.jpg",
+    "newsmovie": "k10012681481_202010261705_202010261708.mp4",
+    "path": "appdata/news/k10012681481000.json"
+}

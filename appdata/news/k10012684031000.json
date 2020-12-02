@@ -1,0 +1,35 @@
+{
+    "id": "k10012684031000",
+    "title": "新しい新幹線のテスト　時速３８０ｋｍで走る",
+    "ruby": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>新幹線<rt>しんかんせん</rt></ruby>のテスト　<ruby>時速<rt>じそく</rt></ruby>３８０ｋｍで<ruby>走<rt>はし</rt></ruby>る",
+    "time": "2020-10-29",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012684031000/k10012684031000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は、２０３１<ruby>年<rt>ねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までに、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>札幌<rt>さっぽろ</rt></ruby>まで<ruby>新幹線<rt>しんかんせん</rt></ruby>を<ruby>走<rt>はし</rt></ruby>らせる<ruby>計画<rt>けいかく</rt></ruby>です。２７<ruby>日<rt>にち</rt></ruby><ruby>夜<rt>よる</rt></ruby>、<ruby>仙台駅<rt>せんだいえき</rt></ruby>と<ruby>盛岡駅<rt>もりおかえき</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で、<ruby>新<rt>あたら</rt></ruby>しく<ruby>作<rt>つく</rt></ruby>っている<ruby>新幹線<rt>しんかんせん</rt></ruby>のテストがありました。テレビや<ruby>新聞<rt>しんぶん</rt></ruby>の<ruby>記者<rt>きしゃ</rt></ruby>が<ruby>乗<rt>の</rt></ruby>りました。",
+            "origin": "ＪＲ東日本は、２０３１年３月までに、北海道の札幌まで新幹線を走らせる計画です。２７日夜、仙台駅と盛岡駅の間で、新しく作っている新幹線のテストがありました。テレビや新聞の記者が乗りました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "この<ruby>新幹線<rt>しんかんせん</rt></ruby>は、<ruby>速<rt>はや</rt></ruby>いスピードが<ruby>出<rt>で</rt></ruby>るように<ruby>前<rt>まえ</rt></ruby>の<ruby>部分<rt>ぶぶん</rt></ruby>がとても<ruby>長<rt>なが</rt></ruby>くなっています。この<ruby>日<rt>ひ</rt></ruby>は、<ruby>時速<rt>じそく</rt></ruby>３８０ｋｍのスピードが<ruby>出<rt>で</rt></ruby>ました。<ruby>今<rt>いま</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>のいちばん<ruby>速<rt>はや</rt></ruby>いスピードは<ruby>時速<rt>じそく</rt></ruby>３２０ｋｍです。",
+            "origin": "この新幹線は、速いスピードが出るように前の部分がとても長くなっています。この日は、時速３８０ｋｍのスピードが出ました。今の新幹線のいちばん速いスピードは時速３２０ｋｍです。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "この<ruby>新幹線<rt>しんかんせん</rt></ruby>には<ruby>揺<rt>ゆ</rt></ruby>れを<ruby>小<rt>ちい</rt></ruby>さくする<ruby>機械<rt>きかい</rt></ruby>がついています。テストで<ruby>走<rt>はし</rt></ruby>っている<ruby>間<rt>あいだ</rt></ruby>にペットボトルをテーブルの<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いても、あまり<ruby>揺<rt>ゆ</rt></ruby>れませんでした。",
+            "origin": "この新幹線には揺れを小さくする機械がついています。テストで走っている間にペットボトルをテーブルの上に置いても、あまり揺れませんでした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>札幌<rt>さっぽろ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>をいちばん<ruby>速<rt>はや</rt></ruby>いときは<ruby>時速<rt>じそく</rt></ruby>３６０ｋｍで<ruby>走<rt>はし</rt></ruby>らせて、できるだけ<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で<ruby>行<rt>い</rt></ruby>くことができるようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。",
+            "origin": "ＪＲ東日本は、東京と札幌の間をいちばん速いときは時速３６０ｋｍで走らせて、できるだけ短い時間で行くことができるようにしたいと考えています。"
+        }
+    ],
+    "voiceurl": "k10012684031000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201028/../20201028/K10012684031_2010280510_2010280523_01_03.jpg",
+    "newsmovie": "k10012684031_202010280512_202010280513.mp4",
+    "path": "appdata/news/k10012684031000.json"
+}

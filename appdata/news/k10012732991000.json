@@ -1,0 +1,35 @@
+{
+    "id": "k10012732991000",
+    "title": "タクシーのエアコンで中の空気が新しくなるまで４５秒",
+    "ruby": "タクシーのエアコンで<ruby>中<rt>なか</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しくなるまで４５<ruby>秒<rt>びょう</rt></ruby>",
+    "time": "2020-11-30",
+    "imgurl": "''",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012732991000/k10012732991000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>神戸市<rt>こうべし</rt></ruby>にある<ruby>理化学研究所<rt>りかがくけんきゅうしょ</rt></ruby>では、タクシーのエアコンが<ruby>中<rt>なか</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しくするのにどのくらい<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つか<ruby>調<rt>しら</rt></ruby>べました。スーパーコンピューター「<ruby>富岳<rt>ふがく</rt></ruby>」を<ruby>使<rt>つか</rt></ruby>いました。",
+            "origin": "神戸市にある理化学研究所では、タクシーのエアコンが中の空気を新しくするのにどのくらい役に立つか調べました。スーパーコンピューター「富岳」を使いました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>運転手<rt>うんてんしゅ</rt></ruby>と<ruby>２人<rt>ふたり</rt></ruby>の<ruby>客<rt>きゃく</rt></ruby>が<ruby>乗<rt>の</rt></ruby>っていて、<ruby>前<rt>まえ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>と<ruby>後<rt>うし</rt></ruby>ろの<ruby>席<rt>せき</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>分<rt>わ</rt></ruby>けるための<ruby>仕切<rt>しき</rt></ruby>りがあって、<ruby>窓<rt>まど</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まっている<ruby>場合<rt>ばあい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。",
+            "origin": "運転手と２人の客が乗っていて、前の席と後ろの席の間を分けるための仕切りがあって、窓が閉まっている場合を調べました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "エアコンで<ruby>外<rt>そと</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>車<rt>くるま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>い</rt></ruby>れると、１<ruby>分<rt>ぷん</rt></ruby><ruby>半<rt>はん</rt></ruby>ぐらいで<ruby>中<rt>なか</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>空気<rt>くうき</rt></ruby>に<ruby>変<rt>か</rt></ruby>わりました。エアコンをいちばん<ruby>強<rt>つよ</rt></ruby>くして<ruby>外<rt>そと</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>入<rt>い</rt></ruby>れると、<ruby>新<rt>あたら</rt></ruby>しい<ruby>空気<rt>くうき</rt></ruby>に<ruby>変<rt>か</rt></ruby>わるまでの<ruby>時間<rt>じかん</rt></ruby>は、<ruby>半分<rt>はんぶん</rt></ruby>の４５<ruby>秒<rt>びょう</rt></ruby>ぐらいになりました。",
+            "origin": "エアコンで外の空気を車の中に入れると、１分半ぐらいで中の空気が新しい空気に変わりました。エアコンをいちばん強くして外の空気を入れると、新しい空気に変わるまでの時間は、半分の４５秒ぐらいになりました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "このため<ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby>は、<ruby>寒<rt>さむ</rt></ruby>くて<ruby>車<rt>くるま</rt></ruby>の<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けることが<ruby>難<rt>むずか</rt></ruby>しいときは、エアコンを<ruby>使<rt>つか</rt></ruby>ってほしいと<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "このため国土交通省は、寒くて車の窓を開けることが難しいときは、エアコンを使ってほしいと言っています。"
+        }
+    ],
+    "voiceurl": "k10012732991000.mp4",
+    "movieurl": "''",
+    "newimage": "https://www3.nhk.or.jp/news/html/20201127/../20201127/K10012732991_2011270540_2011270556_01_03.jpg",
+    "newsmovie": "k10012732991_202011270533_202011270544.mp4",
+    "path": "appdata/news/k10012732991000.json"
+}

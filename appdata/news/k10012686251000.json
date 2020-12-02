@@ -1,0 +1,35 @@
+{
+    "id": "k10012686251000",
+    "title": "日本でコロナウイルスがうつった人　１０万人以上になる",
+    "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>でコロナウイルスがうつった<ruby>人<rt>ひと</rt></ruby>　１０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる",
+    "time": "2020-10-30",
+    "imgurl": "k10012686251000.jpg",
+    "fromUrl": "https://www3.nhk.or.jp/news/easy/k10012686251000/k10012686251000.html",
+    "body": [
+        {
+            "type": "ruby",
+            "ruby": "<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>最初<rt>さいしょ</rt></ruby>にコロナウイルスがうつった<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかったのは、１<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>でした。このころは、ほとんどが<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>武漢<rt>ぶかん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちでした。",
+            "origin": "日本で最初にコロナウイルスがうつった人が見つかったのは、１月１５日でした。このころは、ほとんどが中国の武漢から来た人たちでした。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "４<ruby>月<rt>がつ</rt></ruby>になると、ウイルスがうつった<ruby>人<rt>ひと</rt></ruby>が１か<ruby>月<rt>げつ</rt></ruby>で１<ruby>万<rt>まん</rt></ruby>２１９０<ruby>人<rt>にん</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>えました。８<ruby>月<rt>がつ</rt></ruby>になると３<ruby>万<rt>まん</rt></ruby>２１１２<ruby>人<rt>にん</rt></ruby>になって、<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くなりました。そのあと、うつった<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は<ruby>減<rt>へ</rt></ruby>ったり<ruby>増<rt>ふ</rt></ruby>えたりしました。",
+            "origin": "４月になると、ウイルスがうつった人が１か月で１万２１９０人に増えました。８月になると３万２１１２人になって、最も多くなりました。そのあと、うつった人の数は減ったり増えたりしました。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "１０<ruby>月<rt>がつ</rt></ruby>２９<ruby>日<rt>にち</rt></ruby>には、<ruby>日本<rt>にっぽん</rt></ruby>でうつった<ruby>人<rt>ひと</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>足<rt>た</rt></ruby>した<ruby>数<rt>かず</rt></ruby>が１０<ruby>万<rt>まん</rt></ruby>５１６<ruby>人<rt>にん</rt></ruby>になって、１０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。この<ruby>中<rt>なか</rt></ruby>には、<ruby>横浜港<rt>よこはまこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>船<rt>ふね</rt></ruby>でうつった<ruby>人<rt>ひと</rt></ruby>も<ruby>入<rt>はい</rt></ruby>っています。",
+            "origin": "１０月２９日には、日本でうつった人を全部足した数が１０万５１６人になって、１０万人以上になりました。この中には、横浜港に来た船でうつった人も入っています。"
+        },
+        {
+            "type": "ruby",
+            "ruby": "<ruby>国<rt>くに</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>検査<rt>けんさ</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やして、ウイルスがうつる<ruby>人<rt>ひと</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がり<ruby>続<rt>つづ</rt></ruby>けないようにしなければなりません。これからの<ruby>季節<rt>きせつ</rt></ruby>は、グループでお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだり<ruby>食事<rt>しょくじ</rt></ruby>をしたりすることが<ruby>増<rt>ふ</rt></ruby>えます。<ruby>国<rt>くに</rt></ruby>や<ruby>県<rt>けん</rt></ruby>などは、ウイルスが<ruby>広<rt>ひろ</rt></ruby>がらない<ruby>方法<rt>ほうほう</rt></ruby>をみんなに<ruby>伝<rt>つた</rt></ruby>える<ruby>必要<rt>ひつよう</rt></ruby>があります」と<ruby>言<rt>い</rt></ruby>っています。",
+            "origin": "国の専門家は「検査を増やして、ウイルスがうつる人が広がり続けないようにしなければなりません。これからの季節は、グループでお酒を飲んだり食事をしたりすることが増えます。国や県などは、ウイルスが広がらない方法をみんなに伝える必要があります」と言っています。"
+        }
+    ],
+    "voiceurl": "k10012686251000.mp4",
+    "movieurl": "''",
+    "newimage": "",
+    "newsmovie": "",
+    "path": "appdata/news/k10012686251000.json"
+}
