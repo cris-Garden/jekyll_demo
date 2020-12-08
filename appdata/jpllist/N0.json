@@ -1,0 +1,234 @@
+[
+    {
+        "id": 0,
+        "level": "N0",
+        "title": "・〜すぎです",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 非常に〜だ。 程度が水準を超えていることを表す。",
+                "examples": [],
+                "format": "[接続] V（ます形）ます + すぎです。",
+                "tips": "[備考] 自分自身には使わない。話し手が聞き手に対して使う。 助言や警告する時に使うことが多い。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/09/01/jlptn0-grammar-sugidesu/"
+    },
+    {
+        "id": 1,
+        "level": "N0",
+        "title": "・〜でも",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] ～か、何か/いくつかある選択肢の中から、１つ例を取り上げていう言い方。",
+                "examples": [],
+                "format": "[接続] N + でも",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2018/12/09/jlptn0-grammar-demo/"
+    },
+    {
+        "id": 2,
+        "level": "N0",
+        "title": "・〜づらい",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 〜するのが難しい/「〜にくい」と似た意味を持つが、「～辛い」という漢字から来ていることから「精神的、肉体的に負担に思う」という時に使う。よって、以下のように自然現象と関連する動詞を使うことはできない。/例：この紙袋、丈夫で破れづらいよ。",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・このハンバーガー、大きすぎるし、形が崩れやすいし、食べづらいね。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・１２月で会社を辞めようと思っているんだけど、何だか言いづらいなぁ。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・昨日買った靴、デザインは気に入ってるんだけど、ちょっと歩きづらいのがね・・・。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・最近のスマホって、いろんな機能がついていて、僕には使いづらいなぁ。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・新聞の文字って小さいから読みづらいよ。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・さっき始まったセールの影響で、ウェブサイトにアクセスしづらくなってる。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V（ます形）+ づらい",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/02/18/jlptn0-grammar-durai/"
+    },
+    {
+        "id": 3,
+        "level": "N0",
+        "title": "・とても〜ない",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 〜できない / 絶対に無理だ",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・彼女がせっかく作ってくれた料理をまずいだなんて、とても言えない。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・たくさんあって、とても食べきれない。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本語の文字がびっしり詰まった本なんで、私にはとても読めません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・明日までに、１０ページ分の漢字を全部覚えるなんてとてもできない。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今の気持ちはとても言葉では言い表せません。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] とても + V（ナイ形）",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/05/30/jlptn0-grammar-totemo-nai/"
+    },
+    {
+        "id": 4,
+        "level": "N0",
+        "title": "・〜並み",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 〜程度 / 〜と同じぐらい/程度が同じぐらいであることを表す。",
+                "examples": [],
+                "format": "[接続] N + 並み",
+                "tips": "[備考] 慣用表現としても使われることが多い。/月並み：あふれていて新鮮味がないこと。平凡なこと 軒並み：多くの家が並んでいること お手並み：腕前や力量"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/12/17/jlptn0-grammar-nami/"
+    },
+    {
+        "id": 5,
+        "level": "N0",
+        "title": "・〜にかけても",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] \"〜にかかわるとしても\" 「もし失敗したら〜を失う覚悟ができている」という話し手の強い態度を表す。",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・命にかけても、彼女を守ります。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・我が社の名誉にかけても、このプロジェクトは成功させる必要がある。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・我がチームの誇りにかけて、今日の試合には絶対に負けられない。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・警視庁の威信にかけても、必ず犯人を逮捕してみせる。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・我が社の信用にかけて、責任をもって対応させていただきます。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] N + にかけても Nには「命、名誉、誇り」など価値の高いものが来る。",
+                "tips": "[備考] ①「賭ける」という言葉から来ている ②「〜かけても」の「も」は省略することができる。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/11/06/jlptn0-grammar-nikaketemo/"
+    },
+    {
+        "id": 6,
+        "level": "N0",
+        "title": "・〜まくる",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] とてもたくさん～する/動作をたくさん繰り返したり、継続する様子。",
+                "examples": [],
+                "format": "[接続] V（ます形） + まくる",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/05/23/jlptn0-grammar-makuru/"
+    },
+    {
+        "id": 7,
+        "level": "N0",
+        "title": "・〜やつ",
+        "means": [],
+        "url": "https://nihongokyoshi-net.com/2020/01/02/jlptn0-grammar-yatsu/"
+    }
+]

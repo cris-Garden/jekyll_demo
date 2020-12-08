@@ -1,0 +1,2577 @@
+[
+    {
+        "id": 0,
+        "level": "N5",
+        "title": "・〜あとで",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 〜してから 前件の事柄が後件の事柄より先に起こること表す。",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・図書館で宿題をしたあとで、帰ります。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今から、少し練習したあとで、前で発表してもらいます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・電車に乗ったあとで、学校に忘れ物をしたことに気がつきました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・アニメを見たあとで、お風呂に入ります。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・スマホで写真を撮ったあとで、少し色を変えたり、サイズを変えたりします。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・授業のあとで、カラオケ行かない？",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ご飯のあとで、シャワーを浴びます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・仕事のあとで、飲みに行きませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・映画のあとで、ちょっとカフェでもどう？",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・飲み会のあとで、同僚とラーメン屋に行った。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V（タ形) + あとで N + のあとで",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/12/18/jlptn5-grammar-atode/"
+    },
+    {
+        "id": 1,
+        "level": "N5",
+        "title": "・あまり〜ない ",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 程度が高くないことを表す文型",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・あまりFacebookは使いません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・すみません。あまりテレビは見ないので、その話はわかりません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ホラー映画は苦手ですから、あまり見ません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・昨日はあまり勉強しませんでした。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・休みの日はあまり外に出ません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・この映画はあまり面白くないです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ここの料理はあまり美味しくないですが、とても安いです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ひらがなはあまり難しくないですが、カタカナは難しいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "A：テストはどうでしたか？ B：あまりよくなかったです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・私の国の電車はあまり便利じゃありません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・お酒はあまり好きじゃありません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・このあたりはあまり静かじゃありませんね。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本語があまり上手じゃありませんから、英語で話してもいいですか。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] あまり + V（否定形） あまり + イA（否定形） あまり + ナA（否定形） /※必ず否定の形をとる",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/12/12/jlptn5-grammar-amari-nai/"
+    },
+    {
+        "id": 2,
+        "level": "N5",
+        "title": "・〜がいちばん",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  比較する全てのもの（３つ以上）の中で、最も程度が高いことを表す。 ",
+                "examples": [],
+                "format": "[接続] N + がいちばん",
+                "tips": "[備考] 比較するものが２つだけの時は「AはBより〜です」の文型を使う。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/02/26/jlptn5-grammar-gaichiban/"
+    },
+    {
+        "id": 3,
+        "level": "N5",
+        "title": "・〜方",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 〜をする方法",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・泳ぎ方を教えていただけませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ATMの使い方を教えていただけませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・この漢字の読み方を教えてください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・おいしい料理の作り方を母に習いました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・あの先生の教え方はとてもわかりやすいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・箸の使い方が上手ですね。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・AAAデパートへの行き方を教えていただけませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ケーゼルさんの走り方はとてもかわいいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・切符の買い方がわかりません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・肉じゃがの作り方が知りたいです。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] Vマス + 方",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2018/04/12/jlptn5-grammar-kata/"
+    },
+    {
+        "id": 4,
+        "level": "N5",
+        "title": "・〜が欲しい",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  話し手の願望や希望などを表す文型。 ",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・もっとお金が欲しいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・彼女が欲しいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・Mac Book Proが欲しいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・もっと休みが欲しいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・先生、あと５分欲しいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・あ〜、どこでもドアが欲しい。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・誕生日に何が欲しいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今、何が欲しいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ジェームスさんはどれが欲しいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・トムさんはどんな車が欲しいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・子供の時、何が欲しかったですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・時間とお金とどちらが欲しいですか。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] N + が欲しい",
+                "tips": "[備考] 第三人称（彼、彼女など）の願望・希望は、表せない。 目上の人に「〜欲しいですか」は使えない（使うと失礼）。 "
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/02/12/jlptn5-grammar-gahoshii/"
+    },
+    {
+        "id": 5,
+        "level": "N5",
+        "title": "・〜から",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 理由・原因を言う時に使う。",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今日は息子の誕生日ですから、早く帰ります。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本の会社で働きたいですから、日本語を勉強しています。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・明日はテストがあるから、遊べません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・コーヒーを飲んだから、今は全然眠くないです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・昨日、彼女のプレゼントを買ったから、もうお金がありません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・この問題は難しいですから、私にはわかりません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・牛乳がありませんから、コンビニへ買いに行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・野菜が嫌いですから、食べたくないです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・映画が好きですから、よくパソコンで見ています。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・この本、面白いから、ぜひ読んでみて。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "A：どうして昨日、来なかったの？ B：ごめん、忙しかったから。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] 文１ + から + 文２",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/06/10/jlptn5-grammar-kara/"
+    },
+    {
+        "id": 6,
+        "level": "N5",
+        "title": "・ぜひ",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  依頼や願望を強調して言う表現。 ",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ぜひ、今度うちへ遊びにきてください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・東京に来るときは、ぜひ連絡ください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・週末、パーティーを来るので、ぜひ来てください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・彼女は結婚しても仕事を続けたいと言っているので、ぜひ続けてほしい。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "A：今度、一緒に京都へ行きませんか。色々な場所を案内しますよ。 B：はい、ぜひ行きたいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "A：一緒に映画を見に行きませんか。トムさんとジェームスさんも行きます。 B：はい、ぜひ一緒に見に行きたいです。",
+                        "other": ""
+                    }
+                ],
+                "format": "",
+                "tips": "[備考] ① 否定文と一緒には基本的に使わない。 例：ぜひ来ないでください。/② 人の行為に対して使うため、自然現象には使えない。 例：明日は嫌いな運動会だから、ぜひ雨が降って欲しい。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/09/23/jlptn5-grammar-zehi/"
+    },
+    {
+        "id": 7,
+        "level": "N5",
+        "title": "・〜だけ",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  限定を表す ",
+                "examples": [],
+                "format": "[接続] N + だけ 数字 + 助数詞 + だけ",
+                "tips": "[備考] 英語の場合、onlyが名詞より先に来て「only N」と表現するが、日本語の場合は名詞が先に来て「Nだけ」となる点に注意。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/02/19/jlptn5-grammar-dake/"
+    },
+    {
+        "id": 8,
+        "level": "N5",
+        "title": "・〜で（手段・方法）",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 手段・方法を表す。",
+                "examples": [],
+                "format": "",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/08/13/jlptn5-grammar-de/"
+    },
+    {
+        "id": 9,
+        "level": "N5",
+        "title": "・〜てから",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  XてからY：Xを先に行い、それが終わったらYを行う。 ",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・手を洗ってからご飯を食べます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・洗濯してから、部屋を掃除します。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・靴を脱いでから、入ってください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ご飯を食べてから、薬を飲んでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・歯を磨いてから寝ます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・家に帰ってから、ご飯を食べます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・お金を入れてからボタンを押してください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・手を洗ってから、料理をしましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・宿題をしてから、寝ます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・テレビを見てから、勉強します。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本に来てから、たくさん日本人の友達ができました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・飛行機が止まってから、席を立ってください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・先に食券を買ってから、席に座ってください。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V（て形）+ から",
+                "tips": "[備考] 「後文の事柄が起こる条件として、まず前文の事柄が起こる必要がある」というニュアンスがある。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/08/16/jlptn5-grammar-tekara/"
+    },
+    {
+        "id": 10,
+        "level": "N5",
+        "title": "・〜でしょう（確認・同意",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 相手に確認したり、同意を求める表現",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "A：ねぇ、冷蔵庫にあった私のケーキ食べたでしょう？ B：知らないよ。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "A：今、私の話してたでしょう？何話してたの？ B：何も話てないよ。 A：嘘だー。絶対話してたよ。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "A：トムさんは今夜の飲み会に来るでしょう？ B：うん、行くよ。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "A：あれー、私のスマホどこ？ B：机の上にあるでしょう？",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "A：今、私のこと見てたでしょう？ B：み、見てないよ！",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V（普通形）+ でしょう イA（普通形）+でしょう ナA（普通形）\b+ でしょう 　※ナAな + でしょう N（普通形） + でしょう　※Nだ + でしょう",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/01/29/jlptn5-grammar-deshou/"
+    },
+    {
+        "id": 11,
+        "level": "N5",
+        "title": "・〜てはいけない",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  禁止や規制を表す。 ",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・この川で泳いではいけません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・授業中に携帯電話を使ってはいけません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・図書館でうるさくしてはいけません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・この美術館では絵に触ってはいけません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ここでタバコを吸ってはいけませんよ。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・２０歳未満の人はお酒を飲んだり、タバコを吸ってはいけません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・廊下を走ってはいけませんよ。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・これは笑ってはいけないゲームです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・この学校では髪を染めてはいけません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・この学校ではスカートを短くしてはいけません。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V(て形) + はいけない。",
+                "tips": "[備考] 話し言葉は「ちゃいけない」や「じゃいけない」となる。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/05/07/jlptn5-grammar-tewaikemasen/"
+    },
+    {
+        "id": 12,
+        "level": "N5",
+        "title": "・〜てもいいですか",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  許可を求める時に使う表現 ",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ちょっと寒いので、エアコンを消してもいいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・部屋が少し暗いので、電気をつけてもいいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・先生、すみません。トイレに言ってもいいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・（友達の家で）あ、これトムさんの卒業アルバム？ちょっと、見てもいい？",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・（電話で）先生、熱があるんです。今日、休んでもいいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・先生、テストの時、辞書を使ってもいいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・すみません。消しゴムを忘れてしまったので、ちょっと借りてもいいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今日、妻の誕生日なので早めに帰ってもいいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・このコピー機は学生が使ってもいいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・タバコを吸ってもいいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ここに座ってもいいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・もう帰ってもいいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・この服、試着してみてもいいですか。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V(て形) + てもいいですか/のむ →　のんでもいいですか たべる → たべてもいいですか みる → みてもいいですか",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/02/23/jlptn5-grammar-temoiidesuka/"
+    },
+    {
+        "id": 13,
+        "level": "N5",
+        "title": "・〜どうやって",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  方法を尋ねる表現。",
+                "examples": [],
+                "format": "",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/02/28/jlptn5-grammar-douyatte/"
+    },
+    {
+        "id": 14,
+        "level": "N5",
+        "title": "・〜と思う",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 意見を述べたり、推測したことを述べる表現。",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今日は午後から雨が降ると思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・トムさんはあとで来ると思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・たぶん、キムさんは納豆が嫌いだと思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ジェシカさんには彼氏がいると思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・来年は海外留学していると思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・１０年後は結婚して、幸せに暮らしていると思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・この問題、テストに出ると思いますか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・先生、それは昨日やったと思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・もう先生は帰ったと思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今夜の飲み会には行かないと思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・食べ過ぎは体によくないと思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・まだ熱いと思うから、気をつけて食べて。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・この人は若いと思いますか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ひらがなよりカタカナのほうが難しいと思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・Androidよりi-phoneのほうがいいと思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本の物価は高いと思いますか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・このキャラクタ〜は有名だと思っていたんですが、知らないんですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本のコンビニは私の国のコンビニより便利だと思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ジェームさんは彼女ができて、幸せだと思います。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・この人は何歳だと思いますか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・僕の彼女はどんな人だと思いますか、",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V（普通形） + と思う イA（普通形） + と思う ナA（普通形） + と思う N（普通形） + と思う ",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/02/02/jlptn5-grammar-toomou/"
+    },
+    {
+        "id": 15,
+        "level": "N5",
+        "title": "・とても",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  程度が大きいことを表す。 ",
+                "examples": [],
+                "format": "",
+                "tips": "[備考] 強調した言い方やカジュアルな言い方として「とっても」も使われる。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/02/13/jlptn5-grammar-toteomo/"
+    },
+    {
+        "id": 16,
+        "level": "N5",
+        "title": "・どんな",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  人や物、場所の特徴について尋ねる文型 ",
+                "examples": [],
+                "format": "[接続] どんな + N",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/02/20/jlptn5-grammar-donna/"
+    },
+    {
+        "id": 17,
+        "level": "N5",
+        "title": "・〜たい",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  行為の欲求や希望などを表す文型。 ",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・夏休みは海に行きたいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今夜はラーメンが食べたいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本語をもっと勉強したいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・週末は映画をみたいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・早く結婚したい。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・あ〜、早く家に帰りたい。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・国の家族に会いたいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・韓国語も勉強したいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今日は家で休みたいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・将来は日本の会社で働きたいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今日はどこへも行きたくないです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ホラー映画は苦手ですから、見たくないです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・お金がたくさんあったら、何をしたいですか。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V(ます形)ます + たい",
+                "tips": "[備考] 第三人称（彼、彼女など）のしたいことを言う時は、この文型は使えない。 目上の人に「〜たいですか」は使えない（使うと失礼）。 い形容詞と同じように活用する。 → 行きたいです / 行きたくないです / 行きたかったです / 行きたくなかったです"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/02/12/jlptn5-grammar-tai/"
+    },
+    {
+        "id": 18,
+        "level": "N5",
+        "title": "・〜たり〜たり",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 複数ある事柄の中から代表的なものを２、３挙げて言う表現。",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・土曜日は買い物したり、映画を見たりしました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・休みの日は、たいてい家でYouTubeを見たり、音楽を聞いたりしています。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今度の夏休みは、花火を見たり、海へ泳ぎにいったりするつもりです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・学校生活は遠足があったり、体育祭があったりして、楽しかった。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・留学中に現地の料理を食べたり、旅行したりしました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今日は宿題をしたり、部屋の掃除をしたり、忙しいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・カフェには勉強する人がいたり、仕事をする人がいたり、色々な人がいます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・私は外国人の人と交流したり、外国語を学ぶのが好きです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・宿題をしたり、手紙を書いたり、今日はとても忙しかった。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・見たり、聞いたりして感じたことを話してください。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V1（タ形）+ り +  V2 （タ形）+ り",
+                "tips": "[備考] 「たり」１つでも使うことができる。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/06/18/jlptn5-grammar-taritari/"
+    },
+    {
+        "id": 19,
+        "level": "N5",
+        "title": "・〜とき",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 「AときB」Bの状態、動作の時間をAで表す時に使われる。/「AときB」のAの動詞（V1）の時制は、主文の時制つまり「AときB」のBの動詞の時制（V2）とは関係がない。そのため、英語から日本語訳を考えると、使い方を間違える学生がいるので要注意である。/V1の時制の考え方はV2がV1より先に行われるか、後に行われるかで決まる。V1がV2より先に行われる場合、V1は過去形（タ形）、V2より後に行われる場合は、V1は現在形（辞書形）になる。/(例) When I leave the classroom, I turn off the light 教室を出るとき、電気を消します。/When I enter the classroom, I turn on the light. 教室に入った時、電気をつけます。",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ご飯を食べるとき、「いただきます」といいます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・寝るとき、私は電気を消しません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・コーヒーを飲むとき、砂糖を入れますか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・学校に来るとき、友達に会いました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・学校に行くとき、何で行きますか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・外国へ行くとき、パスポートが必要です。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・図書館で本を借りるとき、図書カードが要ります。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・道を渡るとき、車に気をつけてください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・わらかないときは、早く先生にききましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・時間がないときは、朝ごはんを食べません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・来られないときは、連絡してくださいね。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ご飯を食べたとき、「ごちそうさま」といいます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・地震が起きたとき、まずは机の下に隠れましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・風邪を引いたとき、薬を飲んで早く寝ます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・若いとき、友達とよくカラオケに行きました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・眠いとき、いつもコーヒーを飲みます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・寂しいとき、Skypeで家族と話します。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・暇なとき、たいていゲームをします。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・子供のとき、私は野菜が大嫌いでした。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・中学生のとき、よく家族と旅行しました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・風邪のときは、早く寝たほうがいいですよ。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・私は３０歳のとき、結婚しました。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V（普） + とき イAい + とき ナAな + とき N + のとき",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2018/06/09/jlptn5-grammar-toki/"
+    },
+    {
+        "id": 20,
+        "level": "N5",
+        "title": "・〜ないで",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  Aをしない状態でBをする。 ",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今朝、朝ごはんを食べないで学校に来ました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・私は毎日、電気を消さないで寝ます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・最近、涼しいので、エアコンをつけないで寝ます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・傘を持たないで出かけます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・コーヒーに砂糖を入れないで飲みます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・宿題をしないで学校に行ったら怒られました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・昨日、お風呂に入らないで寝てしまった。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・友達にもらった本を読まないで売ってしまった。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・明日は試験なので、今晩は寝ないで勉強します。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・熱があったので、お風呂に入らないで寝ました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・体調が悪いときは、無理しないで休んでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・わからないことがあったら、遠慮しないで聞いてください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・財布を持たないで来てしまった。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・辞書を使わないで、一人でやりました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・朝寝坊して急いでいたので、歯磨きをしないで学校に来ちゃった。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今日は学校に行かないで、どこに行っていたの？",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V(ない形) + ないで/のむ →　のまないで たべる → たべないで みる → みないで",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2018/04/20/jlptn5-grammar-naide/"
+    },
+    {
+        "id": 21,
+        "level": "N5",
+        "title": "・〜ないでください",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  何かをしないように指示する表現。 ",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・そちらの絵に触らないでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・それは売り物ですから、座らないでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・映画館の中で写真を撮らないでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・後で使いますから、コンピューターの電源は切らないでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ここではタバコを吸わないでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・動物にエサを与えないでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ここにゴミを捨てないでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ここに自転車をとめないでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・授業中に寝ないでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・すみません、窓を開けないでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今日はお風呂に入らないでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ちょっと、押さないでくださいよ。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・そこには入らないでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・図書館では食べたり、飲んだりしないでください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・図書館では、うるさくしないでください。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V(ない形) + ないでください/のむ →　のまないでください たべる → たべないでください みる → みないでください",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/02/23/jlptn5-grammar-naidekudasai/"
+    },
+    {
+        "id": 22,
+        "level": "N5",
+        "title": "・〜ながら",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  同じ人が、AとBの２つのことを同時にする。",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本語の勉強をしながらテレビを見ます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・電話しながら車を運転してはいけません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・新聞を読みながら朝ごはんを食べます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・テレビを見ながら朝ごはんを食べます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・歌いながら掃除します。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・音楽を聞きながら散歩します。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ギターを弾きながら歌えますか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・携帯をしながらトイレをします。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・友達とお酒を飲みながら話します。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ポップコーンを食べながら映画を見ます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・本を見ながら料理します。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・話を聞きながらメモします。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・アルバイトをしながら大学で勉強しています。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・絵を見ながら質問を聞いてください。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ちょっとスタバでコーヒーでも飲みながら、話しませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・よそ見しながら、運転してはいけません。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] Vマス + ながら Vには原則、瞬間動詞が使えない。",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2018/04/11/jlptn5-grammar-nagara/"
+    },
+    {
+        "id": 23,
+        "level": "N5",
+        "title": "・〜なくてもいい",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  〜する必要がない。 ",
+                "examples": [],
+                "format": "[接続] V（ナイ形）ない + くてもいい",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/09/04/jlptn5-grammar-nakutemoii/"
+    },
+    {
+        "id": 24,
+        "level": "N5",
+        "title": "・〜なければならない",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 〜する義務がある / 〜する必要がある",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今日中に本を返さなければなりません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・飛行機に乗る時はパスポートを見せなければなりません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・明日は学校でイベントがありますから、８時までに学校に行かなければなりません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・もうすぐテストですから、勉強しなければなりません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今日の５時までにレポートを出さなければなりません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・先生、明日までにこの課の漢字を全部覚えなければなりませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本では家に入る時、靴を脱がなければなりません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・車に乗る時はシートベルトをしなければなりません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・明日の会議では私が発表しなければなりません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・仕事がまだ終わらないので、残業しなければなりません。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・この薬を毎日飲まなければならない。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V（ナイ形)ない + ければならない ",
+                "tips": "[備考] 質問文「〜なければなりませんか」に対して、「いいえ」で答える場合「〜なくてもいいです」の文型が使われる。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/02/06/jlptn5-grammar-nakerebanaranai/"
+    },
+    {
+        "id": 25,
+        "level": "N5",
+        "title": "・〜なる",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 状態の変化を表す。Aという状態が変わり、Bという状態に変化する。",
+                "examples": [],
+                "format": "[接続] イAく ＋ なる ナAに + なる Nに + なる",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/03/13/jlptn5-grammar-naru/"
+    },
+    {
+        "id": 26,
+        "level": "N5",
+        "title": "・（目的）に行く / 来る / 帰る",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  その場所へ行く目的を表す。 ",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・コンビニへ水を買いに行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・昨日、デパートへ服を買いに行きました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・モールへ映画を見に行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・図書館へ本を借りに行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・家へ忘れ物を取りに帰ります。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・郵便局へ手紙を出しに行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・京都へ友達に会いに行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・動物園へパンダを見に行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・食堂へ昼ご飯を食べに行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・美容院へ髪を切りに行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・山へ写真を撮りに行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・海へ泳ぎに行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本へ何をしに来ましたか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・昨日誰とご飯を食べに行ったの？",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・昨日、デパートへ買い物に行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・レストランへ食事に行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・川へ釣りに行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・公園へ花見に行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・アメリカへ出張に行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本へ日本語の勉強に来ました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・公園へ散歩に行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・京都へ旅行に行きます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・よくどこへ買い物に行きますか。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] N（場所）へ +  V（ます形）ます　+ に行きます / 来ます / 帰ります N1（場所）へ +  N2　+ に行きます / 来ます / 帰ります  ※N2はする動詞のN",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/12/10/jlptn5-grammar-niikimasu/"
+    },
+    {
+        "id": 27,
+        "level": "N5",
+        "title": "・〜はどうですか",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] 相手に意見や印象、感想など聞く時に使う。",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本料理はどうですか。美味しいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・映画はどうでしたか。面白かったですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・旅行はどうでしたか。楽しかったですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本の生活はどうですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・仕事はどうですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・最近どう？",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・調子はどうですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本語の勉強はどうですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本のトイレはどうですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・学校はどうですか。楽しいですか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・僕の日本語はどう？ 間違ってない？",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・日本の電車はどうですか。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] N + はどうですか",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/12/13/jlptn5-grammar-wadoudesuka/"
+    },
+    {
+        "id": 28,
+        "level": "N5",
+        "title": "・〜は〜より",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] ２つの物を比較する表現。",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・富士山はエベレスト山より高いです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・トムさんはジェームスさんより背が高いです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・中国は日本より大きいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・豚肉は牛肉より安いです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・このかばんはそのかばんより重いです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・台湾はシンガポールよりも近いです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・田中さんは木村さんより歌が上手です。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・電車はバスより速いです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・漢字はカタカナより難しいです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・休日は平日より人が多いです。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今日は昨日より忙しいです。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] N1は　N2より　Adjectiveです",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/08/14/jlptn5-grammar-yori/"
+    },
+    {
+        "id": 29,
+        "level": "N5",
+        "title": "・〜前に",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味] ２つの行為のうち、どちらを先に行うかを表す時に使う表現。",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・旅行する前に、観光地やオススメのレストランなどを調べておきます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・バスに乗る前に、薬を飲んでおきます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・寝る前に、少し日本語を勉強します。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・先生に聞く前に、自分で調べてみます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・デートの前に、シャワーを浴びます。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・食事の前に、手を洗いなさい。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・３年前に、日本に来ました。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・５年前に、彼女と出会いました。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V（辞書形）+ 前に N + の前に N（期間） + 前に",
+                "tips": "[備考] 昨日、今日、去年、今年、先月などの数字を伴わない時間表現には使えない。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/04/15/jlptn5-grammar-maeni/"
+    },
+    {
+        "id": 30,
+        "level": "N5",
+        "title": "・〜ましょう",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・一緒に、帰りましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・これから飲みに行きましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・図書館で一緒に勉強しましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・もうこんな時間ですね。帰りましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・新しいDVDを買いましたから、一緒に見みましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・疲れましたね。ちょっと休みましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・人がいっぱいですから、次のバスに乗りましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・お腹が空きましたね。あそこの店で、何か食べましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・みんなで一緒に掃除しましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今晩、暇ですか。じゃあ、一緒に映画でもみましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・明日の朝は早いですから、今日は早く寝ましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ちょっと暑いですね。エアコンをつけましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ちょっと部屋が暗いですね。電気をつけましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・さぁ、授業を始めましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今日は、たくさん漢字を勉強しましょう。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ちょっと疲れたから、タクシーで行きましょう。",
+                        "other": ""
+                    }
+                ],
+                "format": "",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2017/12/05/jlptn5-grammar-masho/"
+    },
+    {
+        "id": 31,
+        "level": "N5",
+        "title": "・〜ましょうか",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  手伝いを申し出る表現。 ",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・荷物を持ちましょうか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・傘を貸しましょうか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・タクシーを呼びましょうか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・エアコンを消しましょうか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・エアコンをつけましょうか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・写真を撮りましょうか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・塩を取りましょうか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・ドアを開けましょうか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・コピーしましょうか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・駅まで迎えに行きましょうか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・手伝いましょうか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・私が教えましょうか。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V(ます形)ます + しょうか",
+                "tips": "[備考] 話し言葉は「ちゃいけない」や「じゃいけない」となる。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/08/07/jlptn5-grammar-mashouka/"
+    },
+    {
+        "id": 32,
+        "level": "N5",
+        "title": "・〜ませんか",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  相手を誘う表現 ",
+                "examples": [
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・週末、一緒に映画を見ませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今晩、一緒に食事しませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・一緒に帰りませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・一緒に図書館で勉強しませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・これから、一緒にカフェに行きませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・夏休み、みんなで海に行きませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・コンサートのチケットをもらったんですが、一緒に見ませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・一緒に花火大会に行きませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・今度の日曜日、交流会に参加しませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "・私と一緒に躍りませんか。",
+                        "other": ""
+                    },
+                    {
+                        "id": "",
+                        "ruby": "",
+                        "explain": "A：もうお昼ご飯を食べましたか。 B：いいえ、まだです。 A：じゃあ、一緒に食べませんか。 B：いいですね。食べましょう。",
+                        "other": ""
+                    }
+                ],
+                "format": "[接続] V(ます形)ます + せんか",
+                "tips": "[備考] 「一緒に」とセットで使うことが多い。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2019/12/14/jlptn5-grammar-masenka/"
+    },
+    {
+        "id": 33,
+        "level": "N5",
+        "title": "・もう〜した",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  動作や出来事の完了を表す。 ",
+                "examples": [],
+                "format": "[接続] V（肯定形 + 過去形）",
+                "tips": "[備考] 「もう〜ましたか？」の質問にまだ完了していないことを述べる場合は「いいえ、まだです」や「いいえ、まだ〜ていません」の形で答える。"
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/02/21/jlptn5-grammar-mou-mashita/"
+    },
+    {
+        "id": 34,
+        "level": "N5",
+        "title": "・〜をください",
+        "means": [
+            {
+                "id": "id",
+                "title": "title",
+                "level": "level",
+                "grammar_id": "gid",
+                "mean": "[意味]  依頼表現。 レストランで注文する時や、お店で商品する時などに使う。",
+                "examples": [],
+                "format": "[接続] N + をください",
+                "tips": ""
+            }
+        ],
+        "url": "https://nihongokyoshi-net.com/2020/02/27/jlptn5-grammar-wokudasai/"
+    }
+]
